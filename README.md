@@ -1,4 +1,5 @@
 # Repair vs. Replacement
+
 ## Period
  - 1995.1. ~ 2020.6. total 688
 ## Inclusion
@@ -17,3 +18,7 @@ Active IE
 - lab Op. 한달전~퇴원일
 - Echo data Op. 한달전 ~ 현재까지
 - 사망정보
+
+***
+# 다음할일
+inclusion_list ? 차트 확인하기
