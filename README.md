@@ -6,9 +6,9 @@
  - MV lesion
 ## Exclusion
  - Replacement other than MV
-  - 
+   + R 이용하여 수술명, AVR, TVR, Bentall 제외
+   + 수술명 MVR vs. MR repair (전에 작성했던 엑셀 파일 참고)
  
-
 # Method
 Acute IE
 Active IE
