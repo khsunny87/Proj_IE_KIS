@@ -1,10 +1,13 @@
 # Repair vs. Replacement
 ## Period
+ - 1995.1. ~ 2020.6. total 688
 ## Inclusion
- - Adult
+ - Adult : Age >=18
  - MV lesion
 ## Exclusion
  - Replacement other than MV
+  - 
+ 
 
 # Method
 Acute IE
