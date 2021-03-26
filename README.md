@@ -4,11 +4,13 @@
  - 1995.1. ~ 2020.6. total 688
 ## Inclusion
  - Adult : Age >=18
- - MV lesion
+
 ## Exclusion
  - Replacement other than MV
    + R 이용하여 수술명, AVR, TVR, Bentall 제외 ==> inclusion_list
- - MV redo 차트리뷰....필요
+### 차트리뷰 필요
+ - MV lesion
+ - MV redo
  
 # Method
 ## Design
