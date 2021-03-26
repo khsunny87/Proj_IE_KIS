@@ -1,3 +1,9 @@
+# System files
+.DS_Store
+
+# Temporary files
+~$*.xlsx
+
 # History files
 .Rhistory
 .Rapp.history
