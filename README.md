@@ -11,6 +11,8 @@
 ### 차트리뷰 필요
  - MV lesion
  - MV redo
+ - 증상 온셋
+ - 안티 사용
  
 # Method
 ## Design
