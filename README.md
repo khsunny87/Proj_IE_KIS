@@ -9,12 +9,14 @@
  - Replacement other than MV
    + R 이용하여 수술명, AVR, TVR, Bentall 제외
  - MV redo
-## Design
- - 수술명 MVR vs. MR repair (전에 작성했던 엑셀 파일 참고)
  
 # Method
-Acute IE
-Active IE
+## Design
+ - 수술명 MVR vs. MR repair (전에 작성했던 엑셀 파일 참고)
+## Acute IE ?
+ - Symptom onset 2주 이내 수술
+## Active IE ?
+ - Anti 4-6주 사용 이내에 수술
 
 ## 확보변수
 - lab Op. 입원일-30일 ~ 퇴원일+30일
