@@ -9,9 +9,7 @@
  - Replacement other than MV
    + R 이용하여 수술명, AVR, TVR, Bentall 제외 ==> inclusion_list
 
-<h3 style="color:#ff0000">Danger</h3>
-
-### <span style="color:red"> 차트리뷰 필요</span>
+### 차트리뷰 필요
  - MV lesion
  - MV redo
  - 증상 온셋
