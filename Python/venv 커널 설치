@@ -1,0 +1,8 @@
+'virtualenv env --python=python3.7 --system-site-packages'
+'source env/bin/activate'
+'python -m ipykernel install --user --name=env --display-name 'proj_kernel' '
+
+
+이후에 kernel.json 백업
+위치 : (find . -name kernel.json)
+ubuntu: ./.local/share/jupyter/kernels/env/kernel.json

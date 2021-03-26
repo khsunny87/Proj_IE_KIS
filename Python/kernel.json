@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/home/r_hongsun/R_Project/Proj_IE_KIS/env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "proj_kernel",
+ "language": "python"
+}
