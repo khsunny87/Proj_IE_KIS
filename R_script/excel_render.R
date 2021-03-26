@@ -1,0 +1,27 @@
+library(readxl)
+library(dplyr)
+library(stringr)
+fname<-'Input/CRF/CRF_210326.xlsx'
+
+
+#변수설정
+read_excel(fname,n_max=2,col_names=F)%>%t()%>%as.data.frame()->tmp
+var_name<-paste0(tmp[[1]],'_',gsub(" ","_",tmp[[2]]))
+
+tmp_data<-as.data.frame(read_excel(fname,skip=1))
+names(tmp_data)<-var_name
+
+raw_data<-tmp_data%>%
+  head()
+
+raw_data%>%
+  filter(`Info_환자번호`=='40403316')
+
+
+nrow(raw_data)
+View(tmp_data)
+
+read_excel('Input/CRF/inclusion_list.xlsx')%>%
+  filter(Exclusion==0)%>%.$환자번호%>%as.character()%>%str_pad(.,8,'left','0')
+
+?str_pad
