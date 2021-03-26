@@ -1,0 +1,132 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2015-11-11 【접수일】2015-11-11 08:11 【검사일】2015-11-11 09:31 【보고일】2015-11-11 10:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의2】김은경 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+R/O MV vegetation (Maximal size = 1.0*1.6cm)
+LA enlargement
+Concentric LVH
+Small to moderate amount of pericardial effusion without tamponade physiology
+
+
+
+▣ 의견
+
+Rec) TEE
+
+
+
+▣ 검사정보 및 소견
+
+* R/O Infective endocarditis w/u
+* O2 1L/min VNP inhalation 으로 검사함
+* Supine position, BED 채로 검사함
+* Poor echo window(Patient`s poor cooperation)
+* Frequent APC`s
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Thickened AoV with minimal AR
+-- (2) PMV annulus heavy calcification with minimal MR
+       MV mean PG = 3.84mmHg
+-- (3) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion :Small to moderate amount
+--- RV anterior:0.37cm, LV posterior:0.46cm at PLAX
+--- RA side:1.3cm, LV lateral:0.68cm at A4C
+--- RA side:1.15cm, LV posterior:1.64cm at subcostal view
+--- Early diastolic RV collapse (-), Late diastolic RA collapse (-)
+--- Normal IVC size without plethora
+7. Mass, thrombi or vegetation : R/O Vegetation attached to AMV at atrial side  
+                                 (Maximal size = 1.0*1.6cm)
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+                                     (assumed RAP = 5mmHg)
+9. Strain=-13.4% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 128 / 44             Ht: 160cm          Wt: 64kg             BSA: 1.66㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 12mm         E: 1.14m/s        e`: 0.060m/s
+LVIDs: 32mm         LVPWd: 12mm         A: 1.28m/s        a`: 0.050m/s
+                    LA: 47mm            E/A: 0.89         E/e`: 19.00
+LVEF: 59%           Ao: 27mm            DT: 333.0msec     LAVI: 63ml/m2
+                                        A-L ( 28.0 / 28.0 / 6.2 )
+LVMI : 140.81g/㎡
+RWT : 0.48
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2015-11-12 【접수일】2015-11-12 09:26 【검사일】2015-11-12 10:26 【보고일】2015-11-12 14:41
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황지원 【판독의2】이가연 【판독의3】이가연 【청구시행의】이가연 【확인의】이가연
+▣ 결론 및 진단
+
+C/W infective endocarditis with huge mass-like lesion
+ ; R/O vegetation, R/O perforation
+LA enlargement
+Small to moderate amount of pericardial effusion with RA collapse
+(이외 tamponade physiology의 w/u은 제한적임)
+Atherosclerotic plaque in aortic arch and thoracic descending aorta
+
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis w/u
+* Baseline ECG : NSR with 80-90bpm, Frequent APCs
+
+1. Visually normal LV cavity size & systolic function
+2. Visually increased LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size: LA enlargement
+5. Valve:
+-- (1) Thickened AV with minimal AR, Lambl`s excrescence
+-- (2) PMV annulus calcification with minimal MR 
+       (Multiple jet 이고 일부의 color jet은 vegetation을 통과함
+        ; R/O perforation)
+         Mean PG = 2.82mmHg
+-- (3) Minimal TR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Decreased ( 30-40 cm/s) LAA emptying velocity
+7. Mass & vegetation: ( + ) : 
+--- Huge mass-like lesion at LA side on PMV, r/o vegetation
+    주로 P2, P3 부분으로 max 1.6 * 1.0cm sized vegetation이 얹혀진 형태임.
+    Vegetation 사이로 color flow 맺히면서 color flow관찰됨.
+    Vegetation medial side의 tip 부분은 mobile portion이 있음.
+    Tiny perforation 동반되어 있을 가능성 있음.
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( + ), RA collapse
+10. Atherosclerotic plaque ( + ) in aortic arch & thoracic descending aorta
+11. 3D was done
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 160cm          Wt: 64kg             BSA: 1.66㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

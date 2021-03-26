@@ -1,0 +1,219 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2007-09-11 【접수일】2007-11-20 08:15 【검사일】2007-11-20 09:17 【보고일】2007-11-21 10:42
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송봉근 【판독의3】박승우 【확인의】박승우
+환자성명 : MOON KYUNG HWAN                       Patient No. : 18160038
+Height: : 165.0cm                                Weight : 57.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 52mm         IVSd : 9mm          E: 0.86m/s        e`: 0.08m/s
+LVIDs: 28mm         LVPWd: 7mm          A: 1.11m/s        a`: 0.09m/s
+                    LA: 38mm            E/A: 0.77         E/e`: 11.32
+LVEF: 71%           Ao: 34mm            DT: 272msec        LAVI:
+                                                          29.9ml/m2
+LVMI : 89.64g/m2
+RWT : 0.27
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+S/P MVR (ST jude 29mm) - 2006
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV with mean PG = 1.9mmHg
+   Minimal TR with RVSP = 30mmHg
+4. No regional wall motion abnormality
+5. Prosthetic valve 뒤쪽으로 redundant material이 관찰됨 
+   (R/O chordae shadowing)
+
+Conclusion:
+Well functioning prosthetic valve
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-05-30 【접수일】2006-06-01 10:36 【검사일】2006-06-01 10:53 【보고일】2006-06-02 13:21
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】박승우 【확인의】이상철
+Video no:	IA	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	50	mm	IVSd:	8	mm	E:	1.05	m/sec	   	e':	m/sec
+LVIDs:	31	mm	LVPWd:	8	mm	A:	0.74	m/sec	   	E/e':
+  	  	  	LA:	42	mm	E/A:	1.4	   	   	LA volume index:
+LVEF:	62	%	Ao:	39	mm	DT:	305	msec	   	   	45.2	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+S/P MVR (ST. Jude 29mm)
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV with mean PG = 3mmHg
+   Minimal TR with RVSP = 28mmHg
+4. No regional wall motion abnormality
+5. LAE
+  
+Conclusion:
+Good postop state
+LAE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-05-25 【접수일】2006-05-25 15:32 【검사일】2006-05-25 15:47 【보고일】2006-05-26 13:42
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	TEE 299- 1450	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal LV cavity size and systolic function
+2. Visually normal LV wall thickness
+3. Severe MR with MVP
+    PMVL prolapse(P1>>P3)with increase sized  
+         oscillating echogenic mass(about 0.8cm * 0.7cm)
+    AMVL prolapse (A2) with increase sized oscillating
+         echogenic mass(about 1.8cm *0.7cm)
+4. Visually no regional wall motion abnormality
+5. Suspicious inflammatory change at mitral and aortic continuity
+  
+Conclusion:
+C/W infective endocarditis
+Severe MR with MVP
+- aggravated state compared to last study (2006.5.15)
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2006-05-15 【접수일】2006-05-15 09:11 【검사일】2006-05-15 09:21 【보고일】2006-05-16 13:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	TEE297-14537	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal LV cavity size and systolic function
+2. Visually normal LV wall thickness
+3. Severe MR with MVP (ERO = 51mm2, RV = 107ml)
+   PMVL prolapse (P1 >>> P3) with about 0.6 * 0.3cm sized oscillating 
+      echogenic mass 
+   AMVL prolapse (A2) with about 1.2 * 0.6cm sized oscillating echogenic mass 
+   Minimal TR 
+4. Visually no regional wall motion abnormality
+5. No evidence of shunt flow or LAA thrombus
+  
+Conclusion:
+Severe MR with MVP (P1 >> A2)
+R/O infective endocarditis
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-07-11 【접수일】2014-09-12 08:11 【검사일】2014-09-12 10:18 【보고일】2014-09-12 14:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Well functioning mitral prosthetic valve
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (ST jude 29mm) - 2006
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) E/e`=16.61
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+--(1)Well functioning mitral prosthetic valve with physiologic MR(+)
+       mean PG= 1.55mmHg   
+--(2)Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =28mmHg (assumed RAP = 5mmHg)
+9. Strain=-16.1% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 176 / 94             Ht: 163cm          Wt: 57kg             BSA: 1.61㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 8mm          E: 1.02m/s        e`: 0.061m/s
+LVIDs: 28mm         LVPWd: 9mm          A: 1.35m/s        a`: 0.088m/s
+                    LA: 41mm            E/A: 0.76         E/e`: 16.72
+LVEF: 67%           Ao: 36mm            DT: 265.0msec     LAVI: 44.4ml/m2
+                                        A-L ( 21.1 / 21.3 / 5.4 )
+LVMI : 88.14g/㎡
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

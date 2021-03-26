@@ -1,0 +1,107 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2011-04-25 【접수일】2011-04-25 15:01 【검사일】2011-04-25 15:27 【보고일】2011-04-25 16:47
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVR
+Well functioning bioprosthetic MV
+Borderline pulmonary hypertension
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (SJM Epic Mitral 29mm) -2011.4.18
+* Very Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal motion
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Bioprosthetic MV
+          mean PG=3.4mmHg
+-- (3) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = N/A d/t poor window
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 36mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 110 / 70             Ht: 167cm          Wt: 71kg             BSA: 1.79㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 9mm          E: 1.20m/s        e`: 0.038m/s
+LVIDs: 31mm         LVPWd: 10mm         A: 1.25m/s        a`: 0.051m/s
+                    LA: 39mm            E/A: 0.96         E/e`: 31.58
+LVEF: 60%           Ao: 35mm            DT: 340.0msec     LAVI: 38.5ml/m2
+                                        A-L ( 23.1 / 17.1 / 4.9 )
+LVMI : 91.8g/㎡
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2011-04-14 【접수일】2011-04-14 08:08 【검사일】2011-04-14 09:16 【보고일】2011-04-15 09:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+C/W Infective endocarditis on MVL
+Eccentric severe MR
+LA enlargement
+
+
+
+▣ 의견
+
+Rec) High embolic risk로 urgent op가 필요할 것으로 생각됨
+
+
+
+▣ 검사정보 및 소견
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal RV cavity size & systolic function
+3. Visually normal LV wall thickness
+4. Atrium : LA enlargement
+5. Valve
+-- (1) MV : eccentric severe MR due to flailed PMVL (mainly P1)
+            Rt. pulmonary vein systolic reversal flow (+)
+            Large hypermobile beading shape vegetation mass 
+            on post. mitral valve leaflet & suspicious vegetation mass on AMVL
+            (PMVL : 1.7 * 0.9cm, AMVL : 0.72 * 0.2cm)
+-- (2) Minimal TR
+6. No SEC, No thrombus
+   Normal LAA emptying velocity (>40cm/sec)
+7. Vegetation (+) on both MVL
+8. Atherosclerotic plaque on descending aorta
+
+-----------------------------------------------------------------------------
+Ht: 167cm          Wt: 70kg             BSA: 1.79㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

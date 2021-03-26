@@ -1,0 +1,146 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2009-07-21 【접수일】2009-09-15 14:41 【검사일】2009-09-15 15:23 【보고일】2009-09-15 18:04
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVR, TAP
+Well functioning prosthetic MV & repaired TV
+Mild LV systolic dysfunction
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P redo MVR with On-X 27/29mm
+MV annulus repair with bovine pericardium
+TAP with St. Jude Tailor ring 31mm (2008.12.01)
+
+1. LV
+(1) Normal LV cavity size & mild LV systolic dysfunction
+     (LVEF = 45% by visual estimation)
+(2) Normal LV wall thickness
+(3) Paradoxical septal motion (+)
+2. RV
+(1) Normal RV cavity size and systolic function
+(2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+(1) Prosthetic MV with physiologic MR
+     mean PG = 4.1mmHg
+(2) Repaired TV with minimal TR
+     mean PG = 1.7mmHg
+5. Great vessel : Normal
+--- Abdominal aorta size(AP/T) = 16*18 mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. 이전검사에서 보였던 hematoma like lesion은 보이지 않음
+
+-----------------------------------------------------------------------------
+BP: 114 / 72             Ht: 170cm          Wt: 63kg             BSA: 1.73㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 51mm         IVSd : 8mm          E: 1.08m/s        e`: 0.063m/s
+LVIDs: 40mm         LVPWd: 7mm          A: 1.03m/s        a`: 0.063m/s
+                    LA: 39mm            E/A: 1.05         E/e`: 17.14
+LVEF:   %           Ao: 35mm            DT: 283.0msec     LAVI:48.6ml/m2
+                                        A-L ( 23.7 / 23.8 / 5.7 )
+LVMI : 74.82g/㎡
+RWT : 0.27
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2008-12-08 【접수일】2008-12-08 15:45 【검사일】2008-12-08 17:23 【보고일】2008-12-09 10:57
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】이상철 【확인의】이상철
+환자성명 : KO JUM SUK                            Patient No. : 11593879
+Height: 169.0cm              BP: 109 / 64             Weight : 54.0kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 53mm         IVSd : 8mm          E: 1.41m/s        e`: 0.04m/s
+LVIDs: 42mm         LVPWd: 9mm          A: 0.98m/s        a`: 0.04m/s
+                    LA: 35mm            E/A: 1.44         E/e`: 35.25
+LVEF:               Ao: 37mm            DT: 339msec       LAVI: 27.7ml/m2
+
+LVMI : 100.69g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment: * S/P MVR (On-X 27/29mm), MV annulus repair with bovine pericardium, 
+           TAP(SJ ring 31mm)- 2008.12.01
+
+1. Normal LV cavity size & mild LV systolic dysfunction
+  ( LVEF =41% by Simpson`s method)
+2. Normal LV wall thickness
+3. Prosthetic MV : mean PG =3.34mmHg, physiologic MR
+   Repaired TV : mean PG = 1.9mmHg
+   Minimal TR with RVSP =17mmHg, RAP =5mmHg
+4. Paradoxical septal motion
+5. R/O Hematoma behind RA  (size= 1.09cm)
+
+Conclusion:
+S/P MVR, TAP with well functioning prosthetic MV & repaired TV
+Mild LV systolic dysfunction
+R/O Hematoma behind RA
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2008-11-26 【접수일】2008-11-27 11:00 【검사일】2008-11-27 11:22 【보고일】2008-11-28 10:12
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박지한 【판독의3】박승우 【확인의】박승우
+환자성명 : KO JUM SUK                            Patient No. : 11593879
+Height: 169.0cm              BP: 95/66            Weight : 60.0kg
+Previous exam : Yes                  TEE 379-31651
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/m2
+RWT :
+-----------------------------------------------------------------------------
+Comment: * S/P MAP (2002)
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Severe MR
+   PMVL에 linear oscillating mass like lesion (0.7 * 0.9cm) 은
+     rupture된 chordae로 생각되며 valvular MR 이외의 color jet 은 
+     perforation 으로 인한 것으로 생각됨
+   AMVL 도 leaflet thickness 가 증가한 소견임으로 
+     Infective endocarditis가 AMVL 로 침범했을 가능성 높음
+4. No regional wall motion abnormality
+5. Enlarged LA & LAA
+
+
+Conclusion:
+S/P MAP
+C/W infective endocarditis
+Severe MR with PMVL perforation & chordae ruptue
+LAE
+

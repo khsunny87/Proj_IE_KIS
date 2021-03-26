@@ -1,0 +1,297 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2019-09-24 【접수일】2019-09-24 13:49 【검사일】2019-09-24 14:35 【보고일】2019-09-24 17:10
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVP
+Mild to moderate MR d/t r/o dehiscence of repaired MV
+Mild TR
+LA enlargement
+Small amount of pericardial effusion
+
+Increased MR , Pericardial effusion amount compared with previous study (2019.08.27)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP
+ - Wide debridement of A3, P3
+ - Infected secondary chordae resection
+ - Posteromedial commissuroplasty (2019.08.22)
+* Fever (+)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) MV : Repaired MV
+         MV meanPG= 3.9mmHg,
+-- (2) Mild to moderate MR d/t r/o dehiscence(size=0.24cm) of repaired MV 
+       commissure site
+-- (3) Mild TR
+         TV VC width= 0.45cm, TR PISA r= 0.58cm
+5. Great vessel : Normal
+6. Pericardial effusion : Small amount
+-- LV posterior : 0.61cm at PLAX
+-- LV posterior : 0.67cm at PSAX
+-- RV anterior : 0.47cm at A4C
+-- RA side : 0.85cm at subcostal view
+-- Constrictive physiology (-)
+-- Septal bouncing (-)
+-- Abnormal septal motion after open heart surgery (+)
+-- Ventricular interdependence(-)
+-- Flat diastolic motion of LV posterior wall (-)
+-- Pericardial thickening (-)
+-- Adhesion (-)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.112m/sec) Lateral e' ( 0.117 m/sec)
+-- Normal IVC
+-- IVC plethora (-)-- Normal hepatic vein
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 34.8mmHg(assumed RAP= 5mmHg), plethora: (-)
+9. Strain= -16.8% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :141 / 80       HR :107      Ht:161.0cm        Wt:48.45kg        BSA:1.49
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                        MV Doppler
+LVIDd: 39.6mm       IVSd: 6.6mm    E: 1.25m/s          e': 0.112m/s
+LVIDs: 24.0mm       LVPWd: 6.8mm   A: 1.01m/s          a': 0.099m/s
+                    LA: 29.3mm     E/A: 1.24           E/e': 11.2
+LVEF: 63%           Ao: 34.8mm     DT: 203.5msec       LAVI: 34.9ml/m2
+                                   A-L ( 17.18 / 14.62 / 4.10 )
+LVMI : 48.86 g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-08-27 【접수일】2019-08-27 15:25 【검사일】2019-08-27 15:56 【보고일】2019-08-27 17:18
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVP
+Well functioning repaired MV
+Mild TR
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP , Infected secondary chordae resection, Posterolateral commissuroplasty 
+      - 2019.08.22
+* Very poor echo window
+* Tachycardia (HR= 100-110BPM)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+-- (5) Abnormal septal motion d/t open heart surgery
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal
+4. Valve 
+-- (1) Repaired MV
+         MV meanPG= 2.3mmHg
+-- (2) Mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 28.3mmHg (assumed RAP= 5mmHg)
+9. Strain(GL)= -11.3%
+
+-----------------------------------------------------------------------------
+ BP :84 / 54       HR :117       Ht:161.0cm       Wt:48.10kg       BSA:1.48
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 38.3mm       IVSd: 7.6mm           E: 1.09m/s          e': 0.060m/s
+LVIDs: 25.2mm       LVPWd: 8.8mm          A: 1.05m/s          a': 0.068m/s
+                    LA: 29.2mm            E/A: 1.04           E/e': 18.2
+LVEF: 57%           Ao: 33.7mm            DT: 205.8msec       LAVI: 25.4ml/m2
+                                          A-L ( 13.64 / 14.54 / 4.49 )
+LVMI : 60.83 g/m2
+RWT : 0.46
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-08-20 【접수일】2019-08-20 14:09 【검사일】2019-08-20 14:53 【보고일】2019-08-20 18:24
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Mild to moderate MR
+Mild to moderate TR
+LA enlargement
+Minimal amount of pericardial effusion
+Borderline pulmonary hypertension
+
+
+▣ 검사정보 및 소견
+
+* R/O IE, pre-TEE
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Minimal AR
+-- (2) Mild to moderate posteromedial commisure MR
+         MR PISA r= 0.43cm, MV ERO= 9.6mm², MR RV= 14.14ml,
+-- (3) Mild to moderate TR
+5. Great vessel : Normal
+6. Pericardial effusion : Minimal amount
+7. Mass, Thrombi, Vegetation : Poor echo window로 vegetation평가가 어려움
+8. RV systolic pressure by TR Vmax = 39.0mmHg (assumed RAP= 5mmHg)
+9. Strain= -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :99 / 56       HR :79       Ht:161.0cm       Wt:45.60kg       BSA:1.45
+ 과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 40.9mm       IVSd: 8.2mm         E: 1.11m/s          e': 0.090m/s
+LVIDs: 24.0mm       LVPWd: 8.0mm        A: 0.84m/s          a': 0.086m/s
+                    LA: 31.6mm          E/A: 1.32           E/e': 12.3
+LVEF: 66%           Ao: 31.0mm          DT: 194.3msec       LAVI: 37.2ml/m2
+                                        A-L ( 19.27 / 16.12 / 4.90 )
+LVMI : 67.98 g/m2
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2019-09-24 【접수일】2019-09-24 13:49 【검사일】2019-09-24 15:24 【보고일】2019-09-24 17:10
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVP, commissuroplasty d/t infective endocarditis
+Definite vegetation was not seen in this study
+Pinpoint mild MR at posteromedial commissure, R/O perforation
+Multiple echogenic material at PM commissure, R/O remnant suture material, R/O complicated
+LA enlargement
+Mild TR
+
+
+▣ 검사정보 및 소견
+
+* Fever w/u
+* S/P MVP
+- Wide debridement of A3,P3
+- Infected secondary chordae resection
+- Posteromedial commissuroplasty (2019.08.22)
+* Baseline EKG : NSR
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 4mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Trivial AR
+-- (2) Pinpoint mild MR at posteromedial commissure, R/O perforation
+-- (3) Slightly thickened TV with mild TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation
+-- Multiple echogenic material at PM commissure, R/O remnant suture material,
+    R/O complicated
+-- Linear material attached to AV, R/O Lambl's excrescence
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:161.6cm            Wt:48.45kg           BSA:1.49          과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2019-08-20 【접수일】2019-08-20 14:09 【검사일】2019-08-20 15:33 【보고일】2019-08-20 18:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+C/W Infective endocarditis
+Vegetation (+)
+-- Highly mobile echogenic multiple linear materials at PMVL & PMV annulus
+Mild to moderate MR, TR
+
+
+▣ 검사정보 및 소견
+
+* MSSA bacteremia, vegetation w/u
+* Baseline EKG : NSR
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 2mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : normal
+5. Valve
+-- (1) Mild to moderate MR : PISA radius= 0.93cm
+-- (2) Mild to moderate TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+-- Normal (> 40cm/s) LAA emptying velocity
+7. Vegetation (+)
+-- Highly mobile echogenic multiple linear materials (1.8cm, 1.2cm ...) at 
+   PMVL & PMV annulus
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:161.0cm            Wt:45.60kg           BSA:1.45          과거검사 : No
+-----------------------------------------------------------------------------
+

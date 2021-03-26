@@ -1,6 +1,9 @@
 # System files
 .DS_Store
 
+# Jupyter
+.ipynb_checkpoints/
+
 # Temporary files
 ~$*.xlsx
 

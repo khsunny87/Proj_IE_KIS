@@ -1,0 +1,406 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2006-01-17 【접수일】2006-05-16 08:03 【검사일】2006-05-16 08:20 【보고일】2006-05-17 13:18
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】신대희 【판독의3】이상철 【확인의】이상철
+Video no:	AB361-11812	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	47	mm	IVSd:	8	mm	E:	1.34	m/sec	   	e':	0.12	m/sec
+LVIDs:	33	mm	LVPWd:	8	mm	A:	1.54	m/sec	   	E/e':	11.2
+  	  	  	LA:	34	mm	E/A:	0.9	   	   	LA volume index:
+LVEF:	51	%	Ao:	31	mm	DT:	210	msec	   	   	25.2	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+*S/P MV annuloplasty with St jude tailor 31mm, artifical chordae
+  implantation 
+ PDA ligation 
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Repaired MV with minimal to mild MR
+     MV mean PG : 4.5mmHg
+     Thicknend MV
+   Minimal to mild Tr with RVSP = 26mmHg
+4. Paradoxical septal motion
+5. E/A : 0.87, E/e' : 11.1 normal LA volume
+6. No remnant PDA shunt flow
+  
+Conclusion:
+Good post op f/u state
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2005-05-10 【접수일】2005-07-07 13:04 【검사일】2005-07-07 13:17 【보고일】2005-07-09 11:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김성해 【확인의】박승우
+Video no:	AE213-12549	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	51	mm	IVSd:	7	mm	E:	1.29	m/sec	   	e':	0.09	m/sec
+LVIDs:	33	mm	LVPWd:	7	mm	A:	1.04	m/sec	   	E/e':	14.3
+  	  	  	LA:	33	mm	E/A:	1.2	   	   	LA volume index:
+LVEF:	60	%	Ao:	26	mm	DT:	166	msec	   	   	29.0	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P MAP with St. Jude tailor 31mm, artifical chordae implantation 
+            PDA ligation 
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Repaired MV : mean PG = 3.1mmHg 
+                 with mitral leaflet tip thickening & calcification 
+                 maybe artifical chordae               
+                 minimal MR 
+   Minimal TR with RVSP = 29mmHg 
+4. Paradoxical septal motion
+5. Normal LV diastolic function
+6. No remnent PDA shunt flow 
+7. Prominent Q tip in LA
+  
+Conclusion:
+Good post op F/U state 
+Improved LV systolic function compared to last study (2004.11.19)
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2004-11-17 【접수일】2004-11-18 08:59 【검사일】2004-11-18 09:10 【보고일】2004-11-19 10:22
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이일 【확인의】이상철
+Video no:	AA145-3313	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	59	mm	IVSd:	6	mm	E:	1.07	m/sec	   	e':	0.038	m/sec
+LVIDs:	45	mm	LVPWd:	6	mm	A:	1.38	m/sec	   	E/e':	28.2
+  	  	  	LA:	30	mm	E/A:	0.8	   	   	LA volume index:
+LVEF:	  	%	Ao:	32	mm	DT:	220	msec	   	   	35.6	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P MAP with St. jude tailor 31mm 
+            artifical chordae implantation 
+            PDA ligation 
+
+1. Borderline dilated LV cavity size and decreased LV systolic function
+        (LVEF = 45% by Simpson's method)
+2. Normal IVS & LVPW thickness
+3. MV mean PG = 2.78mmHg with mitral leaflet tip thickening and calcification 
+   Minimal TR with RVSP = 28mmHg 
+4. Paradoxical septal motion 
+5. LAE 
+6. No remnent PDA shunt flow 
+7. Prominent Q tip in LA
+  
+Conclusion:
+S/P MAP & PDA ligation 
+Good post op state 
+Post op mild LV systolic dysfunction 
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2007-11-27 【접수일】2008-03-25 07:59 【검사일】2008-03-25 08:19 【보고일】2008-03-26 10:57
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김정혁 【판독의3】최진오 【확인의】최진오
+환자성명 : PARK KYUNG SOOK                       Patient No. : 14573975
+Height: : 157.0cm                                Weight : 49.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 7mm          E: 1.48m/s        e`: 0.08m/s
+LVIDs: 34mm         LVPWd: 8mm          A: 1.00m/s        a`: 0.07m/s
+                    LA: 39mm            E/A: 1.48         E/e`: 18.97
+LVEF: 54%           Ao: 31mm            DT: 267msec       LAVI: 35.5ml/m2
+
+LVMI : 85.09g/m2
+RWT : 0.32
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+  * S/P MV annuloplasty (ST jude tailor 31mm), artifical chordae
+    Implantation, PDA ligation : 2004
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Repaired MV with minimal to mild MR (mPG = 3.3mmHg)
+   Minimal to mild TR with RVSP = 30mmHg
+4. No regional wall motion abnormality
+5. Normal LV diastolic function
+
+Conclusion:
+S/P PDA ligation
+Well functioning repaired mitral valve
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2009-03-03 【접수일】2009-05-19 14:19 【검사일】2009-05-19 14:30 【보고일】2009-05-20 10:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송필상 【판독의2】이상철 【판독의3】이상철 【확인의】이상철
+Patient No : 14573975
+BP: 111/ 62     Height: 155.0cm        Weight: 46.0kg       BSA: 1.42㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 47mm         IVSd : 6mm          E: 1.42m/s        e`: 0.094m/s
+LVIDs: 31mm         LVPWd: 6mm          A: 1.22m/s        a`: 0.068m/s
+                    LA: 33mm            E/A: 1.16         E/e`: 15.11
+LVEF: 56%           Ao: 28mm            DT: 237.0msec     LAVI: 33.1ml/m2
+                                        A-L ( 15.3 / 19.6 / 5.4 )
+LVMI : 59.93g/㎡
+RWT : 0.26
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+* S/P MV annuloplasty (ST jude tailor 31mm), artifical chordae
+  Implantation, PDA ligation =2004
+
+1. Normal LV cavity size & systolic function
+2. Normal LV wall thickness
+3. Repaired MV with minimal to mild MR
+      mean PG=3.5mmHg
+   Minimal to mild TR
+4. No regional wall motion abnormality
+5. Normal LV diastolic function
+* abdominal aorta size (AP/T) = 15 * 14 mm
+
+Conclusion:
+S/P PDA ligation
+Well functioning repaired mitral valve
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-05-18 【접수일】2010-11-09 07:58 【검사일】2010-11-09 08:26 【보고일】2010-11-09 14:36
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MAP, PDA ligation
+Well functioning repaired MV
+Mild MR
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MV annuloplasty (ST jude tailor 31mm), artifical chordae implantation, 
+  PDA ligation (2004)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+        (LVEF = 57% by Simpson`s method)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with mild MR
+         mean PG = 2.3mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = 13 * 14mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 18mmHg (assumed RAP = 5mmHg)
+9. No residual PDA flow
+
+-----------------------------------------------------------------------------
+BP: 106 / 74             Ht: 155cm          Wt: 48kg             BSA: 1.44㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 7mm          E: 0.95m/s        e`: 0.069m/s
+LVIDs: 34mm         LVPWd: 6mm          A: 0.57m/s        a`: 0.063m/s
+                    LA: 36mm            E/A: 1.67         E/e`: 13.77
+LVEF:               Ao: 30mm            DT: 263.0msec     LAVI: 36.7ml/m2                                                         
+                                        A-L ( 20.0 / 15.0 / 4.8 )
+LVMI : 70.14g/㎡
+RWT : 0.24
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2015-04-24 【접수일】2015-09-22 09:05 【검사일】2015-09-22 09:57 【보고일】2015-09-22 12:09
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황진경 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MAP, PDA ligation
+Well functioning repaired MV
+Mild MR
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MV annuloplasty (ST jude tailor 31mm), 
+      artifical chordae implantation(A1, A2), PDA ligation (2004)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with mild MR
+         mean PG = 2.8mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A (assumed RAP = 5mmHg)
+9. No residual PDA flow
+10. Strain=-12.7% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 101 / 66             Ht: 155cm          Wt: 55kg             BSA: 1.53㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 6mm          E: 1.22m/s        e`: 0.103m/s
+LVIDs: 33mm         LVPWd: 7mm          A: 0.87m/s        a`: 0.083m/s
+                    LA: 36mm            E/A: 1.40         E/e`: 11.84
+LVEF: 56%           Ao: 29mm            DT: 288.0msec     LAVI: 44.7ml/m2
+                                        A-L ( 22.3 / 22.1 / 6.1 )
+LVMI : 68.39g/㎡
+RWT : 0.28
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-04-10 【접수일】2018-08-07 09:10 【검사일】2018-08-07 09:47 【보고일】2018-08-07 11:43
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MAP, PDA ligation
+Well functioning repaired MV
+Mild MR
+LA enlargement
+
+-- Sl. increased MR, LAVI compared with last study (2015.9.22).
+
+
+▣ 검사정보 및 소견
+
+* S/P MV annuloplasty (ST jude tailor 31mm), artifical chordae implantation(A1, A2)
+      PDA ligation (2004)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Repaired MV
+         MV meanPG= 3.0mmHg, MVA by PHT= 2.2cm², Mild MR (A3> A1)
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 21.6mmHg(assumed RAP= 5mmHg)
+9. Strain= -5% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 90 / 46       HR : 75       Ht: 154cm       Wt: 55kg         BSA: 1.52㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 49.6mm       IVSd: 6.4mm           E: 1.50m/s          e': 0.158m/s
+LVIDs: 29.8mm       LVPWd: 6.4mm          A: 0.93m/s          a': 0.097m/s
+                    LA: 40.2mm            E/A: 1.61           E/e': 9.5
+LVEF: 64%           Ao: 31.5mm            DT: 351.0msec       LAVI: 57.7ml/m2
+                                          A-L ( 26.40 / 23.90 / 6.12 )
+LVMI : 66.60 g/m2
+RWT : 0.26
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

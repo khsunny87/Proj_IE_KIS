@@ -1,0 +1,153 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2005-10-11 【접수일】2006-01-17 08:03 【검사일】2006-01-17 08:14 【보고일】2006-01-19 10:12
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김성해 【판독의3】이상철 【확인의】이상철
+Video no:	AC366-13634	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	45	mm	IVSd:	5	mm	E:	1.28	m/sec	   	e':	0.08	m/sec
+LVIDs:	24	mm	LVPWd:	5	mm	A:	0.67	m/sec	   	E/e':	16.0
+  	  	  	LA:	28	mm	E/A:	1.9	   	   	LA volume index:
+LVEF:	72	%	Ao:	28	mm	DT:	208	msec	   	   	14.0	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+S/P resection of MV vegetation & MAP
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Repaired MV with minimal MR (mean PG = 3mmHg)
+   Minimal TR with RVSP = 26mmHg
+4. No regional wall motion abnormality
+5. Normal LV diastolic function
+  
+Conclusion:
+Good F/U state
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-07-26 【접수일】2005-07-28 15:07 【검사일】2005-07-28 15:16 【보고일】2005-07-30 09:06
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임성훈 【확인의】박승우
+Video no:	AA268-13940	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	39	mm	IVSd:	7	mm	E:	1.44	m/sec	   	e':	0.07	m/sec
+LVIDs:	22	mm	LVPWd:	8	mm	A:	0.8	m/sec	   	E/e':	20.6
+  	  	  	LA:	25	mm	E/A:	1.8	   	   	LA volume index:
+LVEF:	68	%	Ao:	24	mm	DT:	211	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+S/P resection of MV vegetation & MAP
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Repaired MV mean PG : 1.8mmHg
+       Trivial MR on color Doppler
+   Minimal TR with RVSP = 25mmHg
+4. No regional wall motion abnormality
+5. Normal LV diastolic function
+  
+Conclusion:
+Good post-op state
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-07-08 【접수일】2005-07-13 14:00 【검사일】2005-07-13 14:04 【보고일】2005-07-15 15:00
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이왕수 【확인의】이상철
+Video no:	AA262-10600	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	39	mm	IVSd:	8	mm	E:	1.16	m/sec	   	e':	0.082	m/sec
+LVIDs:	26	mm	LVPWd:	8	mm	A:	0.55	m/sec	   	E/e':	14.1
+  	  	  	LA:	28	mm	E/A:	2.1	   	   	LA volume index:
+LVEF:	60	%	Ao:	25	mm	DT:	199	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P resection of vegetation & MAP 
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Minimal TR with RVSP = 26mmHg
+   S/P MAP : mean PG = 2.1mmHg 
+             trivial MR 
+4. No regional wall motion abnormality
+5. No visible abnormal structure in LV & LA cavity
+  
+Conclusion:
+Good post op status
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2005-07-06 【접수일】2005-07-06 08:00 【검사일】2005-07-06 08:17 【보고일】2005-07-07 11:57
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+Video no:	TEE275-4144	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Irregular-shaped broad-based soft tissue mass 
+       attached to basal LV posterior wall, adjacent to MV annulus (1.9 * 1.2cm)
+       finger-like protrusions (+) with oscillation 
+4. Minimal MR & TR
+  
+Conclusion:
+Intracardiac mass 
+R/O infective endocarditis
+
+

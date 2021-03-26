@@ -1,0 +1,162 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2016-09-22 【접수일】2016-09-22 09:29 【검사일】2016-09-22 12:05 【보고일】2016-09-22 17:22
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Well functioning bioprosthetic mitral valve
+Aortic sclerosis with mild AR
+Mild to moderate TR
+A.fib with LA enlargement
+Dilated pulmonary artery (36mm)
+Localized small amount of pericardial effusion
+
+- Increased AR and TR amount, decreased pericardial effusion compared to last echo 
+  (2016.8.31)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with Carpentier Edward Perimount 25mm,
+      Mitral annular reconstruction with Bovine pericardial patch,
+      Conventional CABG - (2016.9.1)
+* EKG : A.fib (HR=95-103BPM)
+* Supine position
+* Tracheostomy state with O2 inhalation
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size (base= 34.3mm, mid= 24.7mm at A4C) and
+       normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement (RA= 30.3mm at A4C)
+            Redundant IAS
+4. Valve
+-- (1) MV : Well functioning prosthetic mitral valve
+              MV meanPG= 5.3mmHg
+-- (2) AV : Thickened and calcified AoV with mild AR
+              A5C: AV Vmax= 2.9m/s, AV meanPG= 17.9mmHg, LVOTd= 2.01cm,
+                   EOA by CE= 2.4cm², EOAI by CE= 1.8cm²/m², 
+                   LVOT VTI(33.5cm)/AV VTI(43.9cm) = 0.8
+-- (3) TV: Mild to moderate TR
+             TR PISA r= 0.56cm, TV annulus size= 2.9cm
+             Hepatic vein systolic reversal flow: (-)
+5. Great vessel : Dilated pulmonary artery
+--- MPA= 36.0mm (mid-systole시)
+6. Pericardial effusion
+-- Localized small amount of pericardial effusion at RA side (1.11cm)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 30.3mmHg (assumed RAP = 5mmHg)
+-- IVC diameter = 17.8mm , plethora: (-)
+9. Strain= -17.9% by APLAX
+10. Pleural effusion (+)
+11. Abnormal septal motion d/t open heart surgery
+-- Septal bouncing (+)-- Respiratory variation of mitral inflow <25%
+-- Respiratory variation of tricuspid inflow <45%
+
+-----------------------------------------------------------------------------
+ BP: 157 / 92      HR : 96      Ht: 142cm       Wt: 47kg     BSA: 1.34㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 40mm         IVSd : 10mm        E:1.18m/s              e':0.031m/s
+LVIDs: 26mm         LVPWd: 10mm        A: 0.62m/s             a':0.018m/s
+                    LA: 46mm           E/A: 1.90              E/e':38.1
+LVEF: 58%           Ao: 30mm           DT:165.8msec           LAVI: 47.9ml/m2
+                                       A-L ( 20.51 / 18.62 / 5.06 )
+LVMI : 111.34 g/m2
+RWT : 0.50
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2016-08-31 【접수일】2016-08-31 07:57 【검사일】2016-08-31 08:36 【보고일】2016-08-31 16:28
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임아영 【판독의3】최진오 【청구시행의】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+Abscess pocket formation of posterior mitral valve ( r/o perforation of PMVL )
+Eccentric moderate MR
+LA enlargement
+Aortic sclerosis
+Moderate to large amount of pericardial effusion without tamponade phyiology
+
+
+▣ 의견
+
+Aortic valve thickening은 관찰되나, TTE상에서 AoV의 vegetation은 뚜렷하지 않습니다.
+
+
+▣ 검사정보 및 소견
+
+* Poor echo window
+* Supine position, PT`s poor cooperation
+* A.fib with RVR (HR=120~140BPM)
+* Vertical heart
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement (RA= 29.2mm at A4C)
+4. Valve :
+-- AV : Thickened AoV (Vmax=2.3m/sec) with minimal AR
+-- MV : Mitral annulus calcification. 
+        Abscess pocket formation( size =1.0 *1.1xm) of posterior mitral valve 
+        ( r/o perforation of PMVL )
+        Eccentric moderate MR
+          MR PISA r= 0.77cm
+-- Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : Moderate to large amount
+-- LV anterior = 1.59cm, LV post = 1.09cm at PSAX
+-- LV lateral = 1.45cm, LV apex = 0.36cm, RA side = 1.05cm at A4C
+-- RV side = 2.1cm, LV lateral = 2.28cm, RA side = 2.56cm at subcostal view
+-- No significant tamponade physiology
+-- Hyperechogenic RV side visceral pericardium : R/O Pericardial fat
+7. Vegetation : (+)
+-- Round shaped, centrally hypoechoic lesion ( size: 1.0 *1.1cm) attached to PMVL 
+   combined with R/O perforation of PMVL
+8. RV systolic pressure by TR Vmax = N/A
+9. Strain= -12% by APLAX
+10. Pleural effusion (+)
+-----------------------------------------------------------------------------
+ BP: 134 / 105     HR : 125     Ht: 150cm       Wt: 47kg         BSA: 1.39㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 40mm         IVSd : 10mm        E:1.32m/s                e':0.074m/s
+LVIDs: 20mm         LVPWd: 8mm         A:                       a':
+                    LA: 31mm           E/A:                     E/e':17.8
+LVEF: 75%           Ao: 32mm           DT:197.0msec             LAVI: 66.1ml/m2                                     A-L ( 24.51 / 27.33 / 6.20 )
+LVMI : 91.56 g/m2
+RWT : 0.40
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

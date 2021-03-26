@@ -1,0 +1,79 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2007-02-08 【접수일】2007-02-12 15:26 【검사일】2007-02-12 15:56 【보고일】2007-02-13 08:14
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】박승우 【확인의】박승우
+Video no:	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	41	mm	IVSd:	9	mm	E:	0.73	m/sec	   	e':	0.09	m/sec
+LVIDs:	27	mm	LVPWd:	10	mm	A:	0.28	m/sec	   	E/e':	8.1
+  	  	  	LA:	25	mm	E/A:	2.6	   	   	LA volume index:
+LVEF:	57	%	Ao:	33	mm	DT:	200	msec	   	   	12.6	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+* Supine position으로 검사
+* S/P MV vegetation removal, MV repair
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Repaired MV & thickened MV tip with minimal to mild MR
+       mean PG = 0.9mmHg
+   (MV의 post annulus에 echogenic lesion이 관찰되어 
+   이전 vegetation의 removal site로 생각됨)
+   Mild TR with RVSP = 30mmHg
+4. No regional wall motion abnormality
+5. E/A = 2.67, E/e' < 10, normal LA volume
+  
+Conclusion:
+S/P MV repair with vegetation removal
+Mild TR
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2007-02-05 【접수일】2007-02-06 09:09 【검사일】2007-02-06 09:18 【보고일】2007-02-07 10:04
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박명준 【판독의3】박승우 【확인의】박승우
+Video no:	TEE315-5654	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal LV cavity size and systolic function
+2. Visually normal LV wall thickness
+3. Elongated vegetation (0.56 * 2.36cm) attached to lateral annulus in PMVL 
+         (hypermobile vegetation)
+   Visually mild MR, visually minimal TR 
+4. Visually no regional wall motion abnormality
+  
+Conclusion:
+C/W Infective endocarditis (PMVL)
+
+

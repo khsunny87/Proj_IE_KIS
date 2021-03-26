@@ -1,0 +1,447 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2015-10-23 【접수일】2015-10-23 15:01 【검사일】2015-10-23 15:25 【보고일】2015-10-23 16:43
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조성우 【판독의3】최진오 【청구시행의】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+Dilated pulmonary artery (MPA 50.3mm)
+Dilated aortic root (40.8mm)
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (2015.5.22)
+* Poor echo window
+* Supine position
+* HR : 133-140BPM
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Tachycardia로 정확한 평가는 어려움
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Well functioning bio-prosthetic mitral valve
+         meanPG=5.5mmHg, No significant MR
+-- (2) Minimal TR
+5. Great vessel :
+-- Dilated pulmonary artery at mid systole
+     MPA=50.3mm, RPA & LPA=24-26mm
+-- Dilated aortic root at end diastole
+   Sinus of Valsalva 40.8mm, ascending aorta 39.2mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A(assumed RAP = 5mmHg)
+9. Strain=-17.0% by APLAX
+10. Sigmoid septum with color acceleration
+-- VM 시행 못함
+
+-----------------------------------------------------------------------------
+BP: 100 / 80             Ht: 165cm          Wt: 75kg             BSA: 1.82㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 35mm         IVSd : 10mm         E:                e`:
+LVIDs: 23mm         LVPWd: 9mm          A:                a`:
+                    LA: 47mm            E/A:              E/e`:
+LVEF: 57%           Ao: 34mm            DT:               LAVI: 35.5ml/m2
+                                        A-L ( 19.9 / 21.2 / 5.5 )
+LVMI : 52.71g/㎡
+RWT : 0.51
+[RWMA]-----------------------------------------------------------------------
+             Ant       A-S       I-S        Inf       I-L       A-L
+Basal        1         1         1          1         1         1
+Mid          1         1         1          1         1         1
+Apical       1                   1          1                   1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2015-05-27 【접수일】2015-05-27 14:54 【검사일】2015-05-27 15:49 【보고일】2015-05-27 17:28
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】최진오 【청구시행의】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+R/O hematoma at RA posterior side
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+*S/P MVR (2015.5.22)
+ Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Well functioning bio -prosthetic mitral valve : 
+       mean PG=6.3 mmHg, No significant MR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation
+-- RA posterior에 free echogenic 한 space -> R/O hematoma
+8. RV systolic pressure by TR Vmax = N/A(assumed RAP = 5mmHg)
+9. Strain=-10.2% by APLAX
+10. Sigmoid septum with color acceleration
+    -- VM 시행 못함
+
+-----------------------------------------------------------------------------
+BP: 113 / 68             Ht: 164cm          Wt: 78kg             BSA: 1.85㎡
+과거검사 : Yes
+----------------------------------------------------------------------------- 
+M-Mode data                             MV Doppler
+LVIDd: 46mm         IVSd : 8mm          E: 1.20m/s        e`: 0.071m/s
+LVIDs: 28mm         LVPWd: 9mm          A: 1.72m/s        a`: 0.069m/s
+                    LA: 41mm            E/A: 0.70         E/e`: 16.90
+LVEF: 63%           Ao: 38mm            DT: 240.0msec     LAVI: 57.92ml/m2
+                                        A-L ( 29.3 / 28.4 / 6.6 )
+LVMI : 69g/㎡
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2015-05-18 【접수일】2015-05-18 16:45 【검사일】2015-05-18 17:38 【보고일】2015-05-18 18:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김형윤 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Mobile linear masses attached to PMV annulus (LV side)
+ : R/O vegetation
+Diastolic dysfunction grade 1 with LA enlargement
+
+-- No significant interval change compared to last study (2015.5.8)
+
+
+
+▣ 검사정보 및 소견
+
+* Fever w/u
+* Poor echo window
+* Klebsiella bacteremia & linear abscess
+* Child C LC/ HCC
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Diastolic dysfunction grade 1
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Thickened AoV with minimal AR
+-- (2) PMV annulus calcification with trivial MR
+-- (3) Trivial TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation :
+-- Mobile linear masses attached to PMV annulus (LV side: 0.61cm) : 
+   R/O vegetation -> 이전검사 (2015.5.8)에서 LA side에 관찰되던 mass는 
+                     명확히 관찰되지 않음.
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+9. Strain=-16.9% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 116 / 63             Ht: 164cm          Wt: 78kg             BSA: 1.85㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 47mm         IVSd : 11mm         E: 0.75m/s        e`: 0.058m/s
+LVIDs: 28mm         LVPWd: 10mm         A: 1.29m/s        a`: 0.126m/s
+                    LA: 48mm            E/A: 0.58         E/e`: 12.93
+LVEF: 65%           Ao: 38mm            DT: 467.0msec     LAVI: 44.7ml/m2
+                                        A-L ( 19.8 / 23.5 / 4.8 )
+LVMI : 95.04g/㎡
+RWT : 0.43
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2015-05-08 【접수일】2015-05-08 14:07 【검사일】2015-05-08 15:43 【보고일】2015-05-11 15:24
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김형윤 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+Mobile linear masses attached to PMV annulus (LV & LA side) : R/O vegetation
+Diastolic dysfunction grade 1 with LA enlargement
+
+
+
+▣ 의견
+
+Rec) 임상적으로 varix bleeding의 위험을 고려하여 1주 후 TTE f/u을 고려 하시기
+     바랍니다
+
+
+
+▣ 검사정보 및 소견
+
+* Fever w/u
+* Poor echo window
+* Klebsiella bacteremia & liver abscess
+* Child C LC/ HCC
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Diastolic dysfunction grade 1
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Thickened AoV with minimal AR
+-- (2) PMV annulus calcification with trivial MR
+-- (3) Trivial TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation :
+-- Mobile linear masses attached to PMV annulus
+   (LV side: 0.61cm, LA side: 0.6cm): R/O vegetation
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+9. Strain=-16.9% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 152 / 92             Ht: 164cm          Wt: 81kg             BSA: 1.88㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 10mm         E: 0.78m/s        e`: 0.071m/s
+LVIDs: 30mm         LVPWd: 10mm         A: 1.19m/s        a`: 0.128m/s
+                    LA: 43mm            E/A: 0.66         E/e`: 10.99
+LVEF: 63%           Ao: 36mm            DT: 212.0msec     LAVI: 47.9ml/m2
+                                        A-L ( 25.0 / 28.5 / 6.7 )
+LVMI : 93.64g/㎡
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2015-05-08 【접수일】2015-05-08 14:07 【검사일】2015-05-08 15:43 【보고일】2015-05-08 17:05
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】김형윤 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+Mobile linear masses attached to PMV annulus (LV & LA side)
+ : R/O vegetation
+Diastolic dysfunction grade 1 with LA enlargement
+
+
+
+▣ 의견
+
+임상적으로 varix bleeding의 위험을 고려하여 1주 후 TTE f/u을 고려 하시기 바랍니다.
+
+
+
+▣ 검사정보 및 소견
+
+* Fever w/u
+* Poor echo window
+* Klebsiella bacteremia & linear abscess
+* Child C LC/ HCC
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Diastolic dysfunction grade 1
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Thickened AoV with minimal AR
+-- (2) PMV annulus calcification with trivial MR
+-- (3) Trivial TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation :
+-- Mobile linear masses attached to PMV annulus
+    (LV side: 0.61cm, LA side: 0.6cm): R/O vegetation
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+9. Strain=-16.9% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 152 / 92             Ht: 164cm          Wt: 81kg             BSA: 1.88㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 10mm         E: 0.78m/s        e`: 0.071m/s
+LVIDs: 30mm         LVPWd: 10mm         A: 1.19m/s        a`: 0.128m/s
+                    LA: 43mm            E/A: 0.66         E/e`: 10.99
+LVEF: 63%           Ao: 36mm            DT: 212.0msec     LAVI: 47.9ml/m2
+                                        A-L ( 25.0 / 28.5 / 6.7 )
+LVMI : 93.64g/㎡
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2015-11-19 【접수일】2015-11-19 13:03 【검사일】2015-11-19 13:36 【보고일】2015-11-19 16:33
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김형윤 【판독의2】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No evidence of vegetation in this study
+Well functioning prosthetic mitral valve
+Mild TR
+Visually both atrial enlargement with A.fib
+Dilated ascending aorta
+Focal penetrating atherosclerotic ulcer at aortic arch (type IV, size = 1cm)
+
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis (CRGNB)
+* S/P MVR with C-E perimount (M25mm) d/t infective endocarditis
+* Baseline ECG : A.fib with 100bpm
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size: LA enlargement, RA enlargement
+5. Valve:
+-- (1) Well functioning bio-prosthetic MV
+         MeanPG = 7.16mmHg, physiologic (+)
+         Minimal MR
+-- (2) Mild TR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Decreased ( 20-40 cm/s) LAA emptying velocity
+7. Mass & vegetation: ( - )
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( - )
+10. (1) Atherosclerotic plaque ( + ) in aortic arch
+        & thoracic descending aorta
+    (2) Focal penetrating atherosclerotic ulcer (+) at aortic arch 
+        (size = 12*10mm)
+11. 3D was done
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 165cm          Wt: 76kg             BSA: 1.83㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2015-05-19 【접수일】2015-05-19 13:45 【검사일】2015-05-19 15:21 【보고일】2015-05-19 16:58
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김형윤 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+Highly mobile linear shaped masses attached to PMVL
+(P1 portion, size= 2.13 * 0.4cm) : R/O vegetation
+Thickening of mitro-aortic intervalvular fibrosa
+PMV annulus calcification
+LA enlargement
+
+- PMV에서 LV와 LA cavity내로 움직이는 2~3가닥의 긴 vegetation이 관찰됨
+
+
+
+▣ 의견
+
+Rec) OHS, clinical correlation하시기 바랍니다
+
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis w/u
+* Baseline ECG : NSR with 80bpm
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size: LA enlargement
+5. Valve:
+-- (1) PMV annulus calcification with trivial MR
+-- (2) Thickening of mitral - aortic intervalvular fibrosa to LA wall      
+       (thickness= 0.5cm)
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal ( >40cm/s ) LAA emptying velocity
+7. Mass & vegetation: ( + ) :
+-- Highly mobile linear shaped mass (size= 2.13 * 0.4cm) attached to PMVL (P1)
+   : R/O vegetation
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( - )
+10. Atherosclerotic plaque in aortic arch & thoracic descending aorta : N/A
+11. 3D was done
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 164cm          Wt: 78kg             BSA: 1.85㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

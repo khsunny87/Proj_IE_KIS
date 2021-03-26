@@ -1,0 +1,42 @@
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2014-09-11 【접수일】2014-09-11 13:58 【검사일】2014-09-11 15:49 【보고일】2014-09-11 17:59
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김범성 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+-- Thickened ant. and post. MV tip
+-- Multiple round shape oscillating mass in AMVL and PVML
+    --> suspicious vegetation
+-- r/o Non-bacterial thrombotic endocarditis
+
+
+
+▣ 검사정보 및 소견
+
+* W/U for infective endocarditis, known atypical CML, s/p allo BMT, blood cluture (-)
+* Baseline ECG : NSR( + )
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size: Normal
+5. Valve:
+-- (1) Thickened ant and post mitral valve tip with minimal MR
+  Large round shape oscillating mass attached to AMVL tip (0.87 * 0.65cm) and PMVL tip (0.5 * 0.5cm)
+-- (2) Minimal TR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal ( >40cm/s ) LAA emptying velocity
+7. Mass & vegetation: ( + )
+  : 0.87 * 0.65 cm sized round shape oscillating mass in AMVL tip
+  : 0.5 * 0.5 cm sized oval shape oscillating mass in PMVL tip -> R/O vegetation
+8. Intracardiac shunt: ( - ):
+9. Pericardial effusion: ( - )
+10. Atherosclerotic plaque ( - ) in aortic arch & thoracic descending aorta
+11. 3D was done
+
+
+-----------------------------------------------------------------------------
+
+

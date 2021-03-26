@@ -1,0 +1,203 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-05-15 【접수일】2018-05-15 10:03 【검사일】2018-05-15 10:58 【보고일】2018-05-15 16:31
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVR, TAP, Maze op, Aortic valve mass excision, LA thrombectomy
+Well functioning of prosthetic MV
+Lower normal LV systolic function
+Slightly decreased RV systolic function
+LA enlargement
+
+- Improved LV systolic function compared to last study : 2018.05.08
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with ON-X mitral valve 25/33mm
+     Aortic valve mass excision
+     LA thrombectomy, LAA internal obliteration
+     TAP with St. Jude Tailor annuloplasty ring 29mm
+     Modified Cox-Maze III operation with cryoablation(Atricure) : 2018.05.09
+* 검사중 NSR (HR= about 90BPM)
+
+1. LV
+-- (1) Normal LV cavity size and lower normal LV systolic function
+       (LVEF= 53.8% by Simpson's method, LVEDV= 81.30ml, LVESV= 37.60ml)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+   But paradoxical septal motion d/t r/o post-op state
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and slightly decreased RV systolic function
+       (TAPSE= 6.9mm, TV TDI S'= 0.060m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement (RA= 35.6mm at A4C)
+-- LA activity(+), MV a' wave(+), RA activity (+), TV a' wave(+)
+4. Valve 
+-- (1) Prosthetic MV with physiologic MR
+        MV meanPG= 3.6mmHg (HR = 88BPM)
+-- (2) Repaired TV with minimal TR
+        TV meanPG= 1.2mmHg
+-- (3) Minimal AR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27.7mmHg(assumed RAP= 5mmHg)
+9. Strain= -11.8% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 98 / 51     HR : 96     Ht: 158cm        Wt: 44kg      BSA: 1.42㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 44.0mm       IVSd : 9.4mm          E:1.57m/s           e':0.048m/s
+LVIDs: 34.1mm       LVPWd: 8.6mm          A: 0.52m/s          a':0.025m/s
+                    LA: 41.1mm            E/A: 3.02           E/e':32.7
+LVEF:               Ao: 29.7mm            DT:209.8msec        LAVI: 49.3ml/m2
+                                          A-L ( 22.12 / 21.43 / 5.76 )
+LVMI : 106.66 g/m2RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-05-08 【접수일】2018-05-08 08:36 【검사일】2018-05-08 09:07 【보고일】2018-05-08 14:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+R/O Infective endocarditis at AoV
+Severe MS
+Moderate LV systolic dysfunction
+Decreased RV systolic function
+A.fib with LA enlargement
+R/O Thrombus in LA
+Minimal amount of pericardial effusion
+
+
+▣ 검사정보 및 소견
+
+* Pre TEE
+* EKG: A.fib with RVR (HR= 110-125BPM)
+
+1. LV
+-- (1) Normal LV cavity size and moderate LV systolic dysfunction
+       (LVEF= 39.8% by Simpson's method, LVEDV= 88.70ml, LVESV= 53.44ml)
+-- (2) Normal LV wall thickness
+-- (3) Mild global hypokinesia
+2. RV
+-- (1) Normal RV cavity size and decreased RV systolic function
+       (TAPSE= 15.7mm, TV TDI S'= 0.082m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement (RA= 33.5mm at A4C)
+            SEC in LA
+4. Valve :
+-- (1) Thickened AV with oscillating material attached to NCC (1.23*0.32cm at PSAX)
+       Minimal AR
+-- (2) Thickened MV with doming of AMVL & limited motion of PMVL.
+       Severe MS
+         MV meanPG= 11.5mmHg, MVA by 2D= 0.9cm²,
+         EchoScore :10-11points ( M :2-3 , T :3 , S :3 , C :2 )
+-- (3) Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Ascending aorta= 31.9mm
+-- Pulmonary Artery (mid-systole시) : Normal, MPA= 24.5mm
+6. Pericardial effusion : Minimal amount
+-- RV anterior : 0.30cm, LV posterior : 0.46cm at PLAX
+7. Mass, Thrombi, Vegetation : (+)
+-- (1) Mass like lesion attached at IAS (LA side) (size = 1.26*1.94cm at A4C)
+       Thrombus > myxoma
+-- (2) Ocillating material attached to NCC (1.23*0.32cm at PSAX). R/O Vegetation
+8. RV systolic pressure by TR Vmax = 28.1mmHg(assumed RAP= 5mmHg)
+9. Strain= -0.0% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 105/64       HR: 108        Ht: 158cm         Wt: 46kg        BSA: 1.43㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 44.3mm       IVSd : 7.5mm       E:1.86m/s             e':0.061m/sLVIDs: 35.1mm       LVPWd: 6.8mm       A:                    a':
+                    LA: 51.3mm         E/A:                  E/e':30.5
+LVEF: 37%           Ao: 29.2mm         DT:795.7msec          LAVI: 57.4ml/m2
+                                       A-L ( 24.10 / 22.84 / 5.70 )
+LVMI : 77.45 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   2         2         2         2         1         1
+Mid     2         2         2         2         1         1
+Apical  2                   2         2                   2
+Apex    2
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2018-05-08 【접수일】2018-05-08 08:36 【검사일】2018-05-08 10:06 【보고일】2018-05-08 14:20
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임경희 【판독의2】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Multiple huge thrombus at LA and LAA with decreased (< 20cm/s) LAA emptying velocity
+C/W infective endocarditis with AoV vegetation
+Severe MS
+Moderate LV systolic dysfuction
+Decreased RV systolic dysfuction
+A.fib with LA enlargement
+Minimal amount of pericardial effusion
+
+
+▣ 검사정보 및 소견
+
+* LA thrombus, Infective endocarditis W/U
+* Baseline EKG : A.fib c RVR
+* Pethidine 50mg + NS 50cc IV was done
+* Midazolam 3mg IV was done
+
+1. Visually normal LV cavity size and moderate LV systolic dysfunction
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and decreased RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Thickened AV with oscillating material attached to NCC 
+       (0.97*0.46cm at 45 degree view)
+       Trivial AR
+-- (2) Thickened MV with doming of AMVL & limited motion of PMVL.
+       Severe MS (MV meanPG= 9.2mmHg) 
+-- (3) Minimal TR
+6. SEC (+)in LA and LA appendage
+   Decreased (< 20cm/s) LAA emptying velocity
+7. Mass and Vegetation :
+-- (1) Mass like lesion attached at IAS (LA side) 
+       (size=1.82*1.1cm at 45 degree view, 1.59*0.92cm at 90 degree view) :
+        r/o thrombus, r/o myxoma (less likely)
+-- (2) Oscillating material attached to NCC of AV 
+       (0.97*0.46cm at 45 degree view, 0.53cm*0.37cm at 130 degree view) :
+       r/o vegetation
+-- (3) Multiple huge thrombus at LA and LAA 
+       (Largest thrombus size : 2.93*1.74cm at 0 degree view)
+8. Intracardiac shunt : none
+9. Pericardial effusion : Minimal amount
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ BP: 115/73       HR: 142        Ht: 150cm        Wt: 46kg       BSA: 1.38㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+

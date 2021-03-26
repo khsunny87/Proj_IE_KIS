@@ -1,0 +1,346 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-12-04 【접수일】2015-03-12 10:22 【검사일】2015-03-12 10:38 【보고일】2015-03-12 16:16
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박규태 【판독의3】이가연 【청구시행의】이가연 【확인의】이가연
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+C/W Ishchemic heart disease with lower normal LV systolic function
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* Redo-MVR with ON-X 27/29mm,Mitral annular reconstruction with bovine     
+  pericardial patch d/t infective endocarditis-2014.5.12
+* S/P PCI at pRCA (about 15YA, 동아대병원)
+* S/P MVR, Maze, MICS (2011, 부산백병원)
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & lower normal systolic function
+       (LVEF=53%% by Simpson`s method, LVEDV=131.9ml, LVESV=62.0ml)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality(+)
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+           LA activity (-) & mitral a` wave (+) 
+           RA activity (+) & tricuspid a` wave (+)
+4. Valve
+-- (1) Well functioning prosthetic mitral valve :
+         MeanPG= 3.7mmHg, Physiologic MR(+)
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : Hyperechoic round shaped mass like lesion in LV    
+                                 -> R/O calcified chordae(이전검사와 차이 없음)
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+                                     (assumed RAP = 5mmHg)
+9. Strain=-12.3% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 112 / 77             Ht: 178cm          Wt: 86kg             BSA: 2.04㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 56mm         IVSd : 8mm          E: 1.71m/s        e`: 0.092m/s
+LVIDs: 39mm         LVPWd: 9mm          A:                a`: 0.036m/s
+                    LA: 41mm            E/A:              E/e`: 18.59
+LVEF:               Ao: 36mm            DT: 333.0msec     LAVI: 38.8ml/m2
+                                        A-L ( 22.3 / 21.7 / 5.2 )
+                                                          
+LVMI : 87.33g/㎡
+RWT : 0.32
+[RWMA]-----------------------------------------------------------------------
+         Ant      A-S       I-S        Inf       I-L       A-L
+Basal    1        1         2          1.5       1         1
+Mid      1        1         1          1         1         1
+Apical   1                  1          1                   1
+Apex     1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2014-05-19 【접수일】2014-05-20 08:08 【검사일】2014-05-20 09:07 【보고일】2014-05-20 15:03
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조은정 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P redo-MVR,PCI, Maze op
+Well functioning prosthetic mitral valve
+C/W Ischemic heart disease with lower normal LV systolic function
+Both atrial enlargement
+R/O papillary muscle with calcified chordae 
+(round-shape hyperechoic mass fine lesion with mobile fhin material in 
+ anteromedial side)
+
+
+
+▣ 검사정보 및 소견
+
+* Redo-MVR with ON-X 27/29mm,
+  Mitral annular reconstruction with bovinepericardial 
+  patch d/t infective endocarditis-2014.5.12
+* S/P PCI (about 15YA, 동아대병원)
+* S/P MVR, Maze, MICS (2011, 부산백병원)
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & lower normal systolic function
+       (LVEF=50-55% by visual estimation)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal motion
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement, RA enlargement(45.9mm at A4C)
+           LA activity (-) & mitral a` wave (+)
+           RA activity (+) & tricuspid a` wave (+)
+
+4. Valve
+-- (1) Well functioning prosthetic mitral valve 
+       : meanPG= 4.9mmHg, Physiologic MR(+)
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation
+   : Hyperechoic round shaped mass like lesion in LV -> R/O calcified chordae
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+   (assumed RAP = 5mmHg)
+9. Strain=-14.3% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 129 / 80             Ht: 180cm          Wt: 88kg             BSA: 2.08㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 56mm         IVSd : 10mm         E: 1.78m/s        e`: 0.109m/s
+LVIDs: 37mm         LVPWd: 10mm         A:                a`:
+                    LA: 46mm            E/A:              E/e`: 16.33
+LVEF:   %           Ao: 31mm            DT: 323.0msec     LAVI: 49ml/m2
+                                        A-L ( 27.0 / 25.0 / 6.5 )
+LVMI : 105.63g/㎡
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1.5       2          1.5       1         1
+Mid     1         1         1          2         1         1
+Apical  1                   1          1.5                 1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2014-05-08 【접수일】2014-05-08 07:57 【검사일】2014-05-08 08:17 【보고일】2014-05-08 15:31
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박택규 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P PCI, S/P MVR, Maze OP
+Well functioning prosthetic mitral valve
+C/W Ischemic heart disease with lower normal LV systolic function
+LA enlargement
+Round-shape mass-like lesion with mobile thin material in anteromedial side of LV R/O papillary m. with calcified chordae
+
+
+
+▣ 의견
+
+Rec) TEE
+
+
+
+▣ 검사정보 및 소견
+
+* S/P PCI (about 15YA, 동아대병원)
+* S/P MVR, Maze, MICS (2011, 부산백병원)
+* R/O infective endocarditis w/u 
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & lower normal systolic function
+       (LVEF=50% by visual estimation)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) LA activity (-) & mitral a` wave (+)
+       RA activity (+) & tricuspid a` wave (+)
+-- (5) Hyperechoic round shaped mass like lesion with mobile thin material in
+       anteromedial side of LV 
+       ; R/O papilary m. with calcified chordae, more likely
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Prosthetic mitral valve : meanPG= 5.72mmHg, Physiologic MR(+)
+-- (2) Minimal TR
+5. Great vessel
+-- Atherosclerotic change at abdominal aorta
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation
+-- Hyperechoic round shaped mass like lesion in LV
+   ; R/O calcified chordae or R/O suture material or R/O thrombus
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+9. Strain=-6.9% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 93 / 66              Ht: 180cm          Wt: 88kg             BSA: 2.08㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 56mm         IVSd : 9mm          E: 1.75m/s        e`: 0.050m/s
+LVIDs: 39mm         LVPWd: 10mm         A:                a`: 0.056m/s
+                    LA: 47mm            E/A:              E/e`: 34.90
+LVEF:   %           Ao: 34mm            DT: 341.0msec     LAVI: 51.7ml/m2
+                                        A-L ( 25.8 / 27.0 / 5.6 )
+LVMI : 98.79g/㎡
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+             Ant       A-S       I-S        Inf       I-L       A-L
+Basal        1         1.5        2         1.5        1         1
+Mid          1          1         1         2          1         1
+Apical       1                    1         1.5                  1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2014-05-08 【접수일】2014-05-08 07:57 【검사일】2014-05-08 08:17 【보고일】2014-05-08 12:02
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】박택규 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P PCI, S/P MVR, Maze OP
+Well functioning prosthetic mitral valve
+C/W Ischemic heart disease with lower normal LV systolic function
+LA enlargement
+Round-shape mass-like lesion with mobile thin material in anteromedial side of LV R/O papillary m. with calcified chordae
+
+
+
+▣ 의견
+
+Rec) TEE
+
+
+
+▣ 검사정보 및 소견
+
+* S/P PCI (about 15YA, 동아대병원)
+* S/P MVR, Maze, MICS (2011, 부산백병원)
+* R/O infective endocarditis w/u, MSSA bacteremia
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & lower normal systolic function
+       (LVEF=50% by visual estimation)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) LA activity (-) & mitral a` wave (+)
+       RA activity (+) & tricuspid a` wave (+)
+-- (5) Hyperechoic round shaped mass like lesion with mobile thin material in
+       anteromedial side of LV 
+       ; R/O papilary m. with calcified chordae, more likely
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Prosthetic mitral valve : meanPG= 5.72mmHg, Physiologic MR(+)
+-- (2) Minimal TR
+5. Great vessel
+-- Atherosclerotic change at abdominal aorta
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation
+-- Hyperechoic round shaped mass like lesion in LV
+   ; R/O calcified chordae or R/O suture material or R/O thrombus
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+9. Strain=-6.9% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 93 / 66              Ht: 180cm          Wt: 88kg             BSA: 2.08㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 56mm         IVSd : 9mm          E: 1.75m/s        e`: 0.050m/s
+LVIDs: 39mm         LVPWd: 10mm         A:                a`: 0.056m/s
+                    LA: 47mm            E/A:              E/e`: 34.90
+LVEF:   %           Ao: 34mm            DT: 341.0msec     LAVI: 51.7ml/m2
+                                        A-L ( 25.8 / 27.0 / 5.6 )
+LVMI : 98.79g/㎡
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+             Ant       A-S       I-S        Inf       I-L       A-L
+Basal        1         1.5        2         1.5        1         1
+Mid          1          1         1         2          1         1
+Apical       1                    1         1.5                  1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2014-05-08 【접수일】2014-05-08 07:57 【검사일】2014-05-08 09:38 【보고일】2014-05-08 16:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박택규 【판독의2】이가연 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR, MAZE, S/P PCI
+C/W infective endocarditis
+Vegetation attached to AM annulus of prosthetic MV (0.6 * 0.5cm)
+C/W IHD with lower normal LV systolic function
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* Osteomyelitis of spine, R/O infective endocarditis
+* Baseline ECG : NSR with 80-90
+
+1. Visually normal LV cavity size & Lower normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size: LA enlargement
+5. Valve
+-- (1) Well-functioning prosthetic mitral valve
+--- MeanPG 5.8mmHg, physiologic MR(+)
+--- Anteromedial side의 annulus에 0.6 * 0.5cm mobile material이 관찰되고
+    주변으로 fine linear material이 붙어있음
+--- Aorto mitral continuity는 intact함
+-- (2) Minimal TR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal ( >40cm/s ) LAA emptying velocity
+7. Mass & vegetation: ( + ) : Described above
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( - )
+10. Atherosclerotic plaque ( - ) in aorta
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 180cm          Wt: 88kg             BSA: 2.08㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

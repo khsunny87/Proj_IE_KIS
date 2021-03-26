@@ -1,0 +1,479 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2016-01-26 【접수일】2016-07-12 07:38 【검사일】2016-07-12 08:04 【보고일】2016-07-12 09:26
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임아영 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVP, MAP
+Well functioning repaired MV
+Borderline concentric LVH
+Dilated aortic root (42.3mm)
+
+- No significant interval change compared to last study (2015.4.14)
+
+
+▣ 검사정보 및 소견
+
+* S/P MV vegitation removal (P3)
+      MVP with P3 plication
+      MAP with Bovine pericardial strip (2014.12.5)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV with minimal to mild MR
+         mean PG = 1.80mmHg
+-- (2) Minimal TR
+5. Great vessel : Dilated aortic root
+-- (1) Aorta (모든 aorta측정은 leading edge to leading edge로 한다.)
+--- Aortic root at end-diastole: Annulus= 21mm, ST junction= 36.8mm
+--- Sinus of Valsalva at end-diastole (leading to leading)=42.3mm
+--- Ascending aorta at end-diastole= 36.5mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 24mmHg (assumed RAP = 5mmHg)
+9. Sigmoid septum & chordae SAM without significant LV cavity obstruction
+-- at Valsalva maneuver : Vmax = 2.45m/s, peak PG = 23.9mmHg
+9. Strain=-15.1% by APLAX, AFI was done
+
+-----------------------------------------------------------------------------
+ BP: 155 / 105        HR : 67    Ht: 173cm     Wt: 81kg        BSA: 1.95㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 51mm         IVSd : 13mm        E:1.19m/s              e':0.057m/s
+LVIDs: 31mm         LVPWd: 12mm        A: 0.86m/s             a':0.065m/s
+                    LA: 41mm           E/A: 1.38              E/e':20.9
+LVEF: 63%           Ao: 42mm           DT:333.4msec           LAVI: 44.5ml/m2
+                                       A-L ( 23.98 / 23.47 / 5.51 )
+LVMI : 161.37 g/m2
+RWT : 0.47
+[RWMA]-----------------------------------------------------------------------          Ant     A-S     I-S    Inf     I-L     A-L
+Basal     1       1       1      1       1       1
+Mid       1       1       1      1       1       1
+Apical    1               1      1               1
+Apex      1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】외래
+【처방일】2016-01-26 【접수일】2016-07-12 07:38 【검사일】2016-07-12 08:04 【보고일】2016-07-12 09:08
+ 중간보고입니다. 최종판독내용을 확인하세요.
+=================================================================================
+**** 【중간보고】 ▶수정前◀****
+※중간보고 입니다. 최종보고에 따라 검사결과가 변경 될 수 있습니다.
+【판독의1】조성우 【청구시행의】이상철 【확인의】이상철
+▣ 검사정보 및 소견
+
+* S/P MV vegitation removal (P3)
+      MVP with P3 plication
+      MAP with Bovine pericardial strip (2014.12.5)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV with minimal to mild MR
+        mean PG = 1.80mmHg
+-- (2) Minimal TR
+5. Great vessel : Dilated aortic root
+-- (1) Aorta(모든 aorta측정은 leading edge to leading edge로 한다.)
+--- Aortic root at end-diastole: Annulus= 21mm, ST junction= 36.8mm
+--- sinus of Valsalva at end-diastole (leading to leading)=42.3mm
+--- Ascending aorta at end-diastole= 36.5mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 24mmHg (assumed RAP = 5mmHg)
+9. Sigmoid septum & chordae SAM without significant LV cavity obstruction
+-- at Valsalva maneuver : Vmax = 2.45m/s, peak PG = 23.9mmHg
+9. Strain=-15.1% by APLAX, AFI was done
+-----------------------------------------------------------------------------
+ BP: 155 / 105 HR : 67                     Ht: 173cm Wt: 81kg                   BSA: 1.95㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 51mm         IVSd : 13mm        E:1.19m/s              e':0.057m/s
+LVIDs: 31mm         LVPWd: 12mm        A: 0.86m/s             a':0.065m/s
+                    LA: 41mm           E/A: 1.38              E/e':20.9
+LVEF: 63%           Ao: 42mm           DT:333.4msec           LAVI: 44.5ml/m2
+                                       A-L ( 23.98 / 23.47 / 5.51 )
+LVMI : 161.37 g/m2
+RWT : 0.47
+[RWMA]-----------------------------------------------------------------------
+          Ant     A-S     I-S    Inf     I-L     A-L
+Basal     1       1       1      1       1       1
+Mid       1       1       1      1       1       1
+Apical    1               1      1               1
+Apex      1
+
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+▣ 결론 및 진단
+
+S/P MVP, MAP
+Well functioning repaired MV
+Borderline concentric LVH
+Dilated aortic root (42.3mm)
+
+-- No significant interval change compared to last study (2015.4.14)
+
+▣ 의견
+
+ 
+
+------------------------------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2015-02-10 【접수일】2015-04-14 07:39 【검사일】2015-04-14 08:08 【보고일】2015-04-14 16:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVP, MAP
+Well functioning repaired MV
+Borderline concentric LVH
+Dilated aortic root (42.5mm)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MV vegitation removal (P3)
+      MVP with P3 plication
+      MAP with Bovine pericardial strip (2014.12.5)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Borderline increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV : Mean PG= 1.80mmHg
+-- (2) Minimal TR
+5. Great vessel : Dilated aortic root
+-- (1) Aorta (모든 aorta측정은 leading edge to leading edge로 한다)
+--- Aortic root at end-diastole: Annulus= 23.0mm, ST junction= 32.5mm
+--- Sinus of Valsalva at end-diastole (leading to leading)= 42.5mm
+--- Ascending aorta at end-diastole= 37.9mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 20mmHg (assumed RAP = 5mmHg)
+9. Sigmoid septum & chordae SAM without significant LV cavity obstruction
+-- At Valsalva maneuver : Vmax = 2.23m/s, peak PG = 19.9mmHg
+9. Strain=-15.2% by APLAX, AFI was done
+
+-----------------------------------------------------------------------------
+BP: 120 / 82             Ht: 173cm          Wt: 81kg             BSA: 1.95㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 12mm         E: 0.90m/s        e`: 0.036m/s
+LVIDs: 31mm         LVPWd: 11mm         A: 0.73m/s        a`: 0.060m/s
+                    LA: 35mm            E/A: 1.23         E/e`: 25.00
+LVEF: 62%           Ao: 40mm            DT: 326.0msec     LAVI: 27.5ml/m2
+                                        A-L ( 18.2 / 17.0 / 4.9 )
+LVMI : 112.95g/㎡
+RWT : 0.44
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2014-12-10 【접수일】2014-12-10 08:36 【검사일】2014-12-10 09:53 【보고일】2014-12-10 15:52
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】박승우 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+S/P MVP, MAP
+LA enlargement
+Dilated aortic root (42.0mm)
+Borderline concentric LVH
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MV vegitation removal (P3)
+      MVP with P3 plication
+      MAP with Bovine pericardial strip (2014.12.5)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+-- (1) Repaired MV (Mean PG = 1.8mmHg)
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- (1) Aorta (모든 aorta측정은 leading edge to leading edge로 한다)
+--- Aortic root at end-diastole: Annulus= 22.7mm, ST junction=26.9mm
+--- Sinus of Valsalva at end-diastole (leading to leading)=42.0mm
+--- Ascending aorta at end-diastole= 37.0mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A (cannot aproach to subcostal view)
+9. Strain=-11.9% by APLAX
+10. AFI was done
+
+-----------------------------------------------------------------------------
+BP: 130 / 88             Ht: 171cm          Wt: 80kg             BSA: 1.93㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 56mm         IVSd : 12mm         E: 1.04m/s        e`: 0.030m/s
+LVIDs: 28mm         LVPWd: 11mm         A: 0.70m/s        a`: 0.041m/s
+                    LA: 36mm            E/A: 1.49         E/e`: 31.76
+LVEF: 75%           Ao: 42mm            DT: 300.0msec     LAVI: 50ml/m2
+                                        A-L ( 27.3 / 22.7 / 5.5 )
+LVMI : 137.15g/㎡
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2014-12-03 【접수일】2014-12-03 08:18 【검사일】2014-12-03 09:21 【보고일】2014-12-03 15:12
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【판독의3】박승우 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+Eccentric severe MR d/t prolapsed PMVL & chodae rupture
+LV dilatation
+Concentric LVH
+Both atrial enlargement
+Dilated asc.aorta (39.6mm)
+Mild pulmonary hypertension
+
+
+
+▣ 검사정보 및 소견
+
+1. LV
+-- (1) Dilated LV cavity size & normal LV systolic function
+       (LVEF=75.8% by Simpson`s method, LVEDV=168.5 ml, LVESV= 40.9ml)
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement, RA enlargement(41.2mm at A4C)
+4. Valve
+-- (1) Eccentric severe MR d/t prolapsed PMVL & chodae rupture (P2,P3 portion)
+         PISA radius= 1.03cm, ERO= 44mm2, Regurgitation Volume= 68.5ml
+         Pulmonic vein systolic reversal flow (+)
+-- (2) Minimal AR, TR
+5. Great vessel : Normal
+-- (1) Aorta(모든 aorta측정은 leading edge to leading edge로 한다)
+--- Aortic root at end-diastole: Annulus= 23.7mm, ST junction=29 mm
+--- Sinus of Valsalva at end-diastole (leading to leading)=38.9mm
+--- Ascending aorta at end-diastole= 39.6mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 49.4mmHg (assumed RAP = 5mmHg)
+9. Strain=-11.9% by APLAX
+10. AFI was done
+
+-----------------------------------------------------------------------------
+BP: 139 / 93             Ht: 171cm          Wt: 80kg             BSA: 1.93㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 60mm         IVSd : 12mm         E: 1.37m/s        e`: 0.082m/s
+LVIDs: 34mm         LVPWd: 11mm         A: 0.34m/s        a`: 0.061m/s
+                    LA: 47mm            E/A: 4.03         E/e`: 16.71
+LVEF:               Ao: 40mm            DT: 186.0msec     LAVI: 72.5ml/m2
+                                        A-L ( 34.1 / 29.8 / 6.2 )
+LVMI : 153.69g/㎡
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-03-13 【접수일】2018-09-04 07:38 【검사일】2018-09-04 08:07 【보고일】2018-09-04 15:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임경희 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MAP, MVP
+Well functioning repaired MV
+LA enlargement
+Dilated aortic root (40mm)
+
+-- No significant interval change compared to previous study (2016.07.12)
+
+
+▣ 검사정보 및 소견
+
+* S/P MV vegitation removal (P3)
+    MVP with P3 plication
+    MAP with Bovine pericardial strip (2014.12.5)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+-- (5) Slightly chordae SAM (+) without LVOT obstruction
+       at Valsalva maneuver: Vmax= 1.77m/sec, peak PG=12.5mmHg
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Repaired MV with minimal to mild MR
+         MV meanPG= 2.2mmHg
+-- (2) Minimal TR
+5. Great vessel : Borderline dilated aortic root
+     Sinus of Valsalva= 40.0mm
+     Ascending aorta= 38.4mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 24.9mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)=-15.2%
+
+-----------------------------------------------------------------------------
+ BP: 129 / 79         HR : 76       Ht: 173cm       Wt: 81kg      BSA: 1.95㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 51.0mm       IVSd: 9.3mm           E: 1.17m/s          e': 0.069m/s
+LVIDs: 30.3mm       LVPWd: 9.0mm          A: 0.80m/s          a': 0.116m/s
+                    LA: 39.2mm            E/A: 1.46           E/e': 17.0
+LVEF: 65%           Ao: 40.7mm            DT: 265.1msec       LAVI: 46.9ml/m2
+                                          A-L ( 23.87 / 25.49 / 5.65 )
+LVMI : 85.71 g/m2
+RWT : 0.35
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2019-01-04 【접수일】2019-01-04 09:22 【검사일】2019-01-04 10:08 【보고일】2019-01-04 11:32
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MAP, MVP
+Well functioning repaired MV
+LA enlargement
+Dilated aortic root (Ao root =40.3mm)
+
+-- No significant interval change compared to previous study (2018.9.4)
+
+
+▣ 검사정보 및 소견
+
+* S/P MV vegitation removal (P3)
+  MVP with P3 plication
+  MAP with Bovine pericardial strip (2014.12.5)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+-- (5) Chordae SAM (+) with color acceleration in LVOT
+       At Valsalva maneuver : Vmax = 2.6m/s, peak PG = 27mmHg
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve
+-- (1) Minimal AR, TR
+-- (2) Repaired MV, Minimal MR
+    MV meanPG= 1.5mmHg
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Dilated aortic root
+     Sinus of Valsalva= 40.3mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 22.1mmHg (assumed RAP= 5mmHg)
+9. Strain= -10.4% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 118 / 79        HR : 74      Ht: 172cm       Wt: 81kg        BSA: 1.94㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 42.0mm       IVSd: 11.4mm          E: 1.05m/s          e': 0.064m/s
+LVIDs: 24.1mm       LVPWd: 9.1mm          A: 0.87m/s          a': 0.076m/s
+                    LA: 38.5mm            E/A: 1.21           E/e': 16.4
+LVEF: 67%           Ao: 39.6mm            DT: 221.6msec       LAVI: 44.8ml/m2
+                                          A-L ( 24.63 / 20.52 / 4.94 )
+LVMI : 73.24 g/m2
+RWT : 0.43
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

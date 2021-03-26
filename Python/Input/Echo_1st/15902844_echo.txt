@@ -1,0 +1,71 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2017-08-29 【접수일】2017-08-29 10:43 【검사일】2017-08-29 11:13 【보고일】2017-08-29 17:10
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Prosthetic MV stenosis
+Severe TR
+R/O vegetation attached to tissue valve at mitral position
+Dilated RV cavity size and decreased RV systolic function
+Both atrial enlargement
+Dilated pulmonary artery (MPA= 42.7mm)
+Moderate pulmonary hypertension
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR - 2005, 경희대 (Tissue valve)
+* Very poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+       (LVEF = 55% by visual estimation)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+-- (5) D-shaped LV at systole & diastole
+2. RV
+-- (1) Dilated RV cavity size and decreased RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visually LA enlargement, RA enlargement (RA = 50.6mm at A4C)
+4. Valve
+-- (1) Thickned prosthetic MV : Opening이 거의 되지 않음.
+         MV meanPG= 26.5mmHg, Minimal to mild MR
+-- (2) Coaptation failure with severe TR
+         TV VC width= 1.03cm, TR PISA r= 1.01cm,
+         Hepatic vein systolic reversal flow: (+)
+5. Great vessel :
+-- Pulmonary Artery (mid-systole시) : Dilated pulmonary artery
+    MPA= 42.7mm, LPA= 21.9mm, RPA= 24.0mm
+6. Pericardial effusion : None
+7. Vegetation (+) :
+-- Tissue valve (MV) 주변을 heterogenous 한 abnormal mass-like lesion이 
+   둘러싸고 있으며 이로 인해서 MV의 motion limitation이 관찰됨.
+   측정되는 vegetation의 size는 0.95cm 이상임
+8. RV systolic pressure by TR Vmax = 65.3mmHg(assumed RAP= 15mmHg)
+-- IVC diameter =30.1mm, plethora: (+)
+9. Strain= -6% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 106 / 61      HR : 123      Ht: 163cm      Wt: 64kg      BSA: 1.69㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 28.9mm       IVSd : 4.9mm          E:                    e':0.069m/s
+LVIDs: 21.0mm       LVPWd: 8.5mm          A:                    a':0.040m/s
+                    LA: 50.4mm            E/A:                  E/e':
+LVEF:               Ao: 32.2mm            DT:                   LAVI:N/ALVMI : 24.69 g/m2
+RWT : 0.59
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

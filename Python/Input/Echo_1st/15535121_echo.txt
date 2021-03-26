@@ -1,0 +1,125 @@
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2004-09-13 【접수일】2004-09-13 14:41 【검사일】2004-09-13 14:42 【보고일】2004-09-14 09:32
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【확인의】이상철
+Video no:	TEE253-10100	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Well functioning prosthetic MV (mean PG = 1.2mmHg)
+2. No visible thrombus or vegetation 
+3. LV contractility 는 prosthetic MV shadowing 으로 인하여 판단하기 어려움.
+4. Atherosclerotic change of thoracic aorta (+) with protruding atheroma
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2004-09-01 【접수일】2004-09-01 15:05 【검사일】2004-09-01 15:08 【보고일】2004-09-03 09:01
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최유정 【확인의】이상철
+Video no:	TEE253-0000	   	   	   	과거검사 여부:	No
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal LV cavity size and systolic function
+2. Visually normal IVS & LVPW thickness
+3. Thickened MV with diastolic doming 
+         total echo score : 11 points (M3, T2, C3, S3)
+         mean PG = 16mmHg
+         MVA = 1.0cm2 by PHT 
+         oscillating echogenic mass (0.6 * 1.1cm) attached on AMV
+         fluttering hypoechogenic material on LA surface of PMV 
+   Mild MR 
+   Mild ASR : Vmax = 2.8cm/sec, mean PG = 14mmHg
+         AVA =1.2cm2 by C.E 
+         0.6cm * 1cm size 의 echogenic mass 가 NCC 하부에 attach 되어 있음.
+   Mild to moderate TR without visible vegetation  (RVSP = 52mmHg)
+4. No regional wall motion abnormality
+5. No myocardial abscess
+  
+Conclusion:
+C/W infective endocarditis at MV & R/O AV 
+Severe rheumatic MS with mild MR 
+Mild ASR 
+Mild to moderate TR with moderate pulm. HTN
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2004-09-01 【접수일】2004-09-01 15:05 【검사일】2004-09-01 15:08 【보고일】2004-09-02 17:03
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】최유정 【확인의】이상철
+Video no:	TEE253-0000	   	   	   	과거검사 여부:	No
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal LV cavity size and systolic function
+2. Visually normal IVS & LVPW thickness
+3. Thickened MV with diastolic doming 
+         total echo score : 11 points (M3, T2, C3, S3)
+         mean PG = 16mmHg
+         MVA = 1.0cm2 by PHT 
+         oscillating echogenic mass (0.6 * 1.1cm) attached on AMV
+         flutterned hypoechogenic material on LA surface of PMV 
+   Mild MR 
+   Mild ASR : Vmax = 2.8cm/sec, mean PG = 14mmHg
+         AVA =1.2cm2 by C.E 
+         0.6cm * 1cm size 의 echogenic mass 가 NCC 하부에 attach 되어 있음.
+   Mild to moderate TR without visible vegetation  (RVSP = 52mmHg)
+4. No regional wall motion abnormality
+5. No myocardial abscess
+  
+Conclusion:
+C/W infective endocarditis at MV & R/O AV 
+Severe rheumatic MS with mild MR 
+Mild ASR 
+Mild to moderate TR with moderate pulm. HTN
+
+

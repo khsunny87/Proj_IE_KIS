@@ -1,0 +1,160 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2002-08-27 【접수일】2002-10-28 12:41 【검사일】2002-10-28 13:57 【보고일】2002-10-29 12:08
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안석진 【확인의】이상철
+Video no:	AP1336-13529	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	45	mm	IVSd:	8	mm	LA:	34	mm
+LVIDs:	29	mm	LVPWd:	8	mm	Ao:	33	mm
+  
+LVEF:	58	%
+---------------------------------------------------------------------------
+MV
+mPG:	4.95	mmHg	E:	1.6	m/sec	E/A:	1.3333
+DT:	305	msec	A:	1.2	m/sec	IVRT:	75	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.2	m/sec	peakPG:	5.8	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	3	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR
+
+1. Normal LV cavity size and systolic function
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV mean PG = 4.95mmHg
+4. No regional wall motion abnormality
+  
+Conclusion:
+S/P MVR, well functioning prosthetic MV
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2002-03-07 【접수일】2002-03-07 14:41 【검사일】2002-03-07 16:01 【보고일】2002-03-12 10:06
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김병진 【확인의】이상철
+Video no:	A772-2546	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	48	mm	IVSd:	8	mm	LA:	34	mm
+LVIDs:	34	mm	LVPWd:	10	mm	Ao:	32	mm
+  
+LVEF:	50	%
+---------------------------------------------------------------------------
+MV
+mPG:	3.5	mmHg	E:	1.3	m/sec	E/A:	1.1818
+DT:	356	msec	A:	1.1	m/sec	IVRT:	89	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.2	m/sec	peakPG:	5.4	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	2.4	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR
+
+1. Normal LV cavity size and contractility
+   LAE
+2. Normal IVS & LVPW thickness
+3. Minimal TR on C/D
+   Prosthetic MV (mean PG = 3.5mmHg)
+4. No regional wall motion abnormality
+  
+Conclusion:
+S/P MVR, good postop state
+LAE
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2005-08-12 【접수일】2005-12-06 09:26 【검사일】2005-12-06 10:02 【보고일】2005-12-07 13:38
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임성훈 【판독의3】이상철 【확인의】박승우
+Video no:	AA319-3919	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	48	mm	IVSd:	7	mm	E:	1.53	m/sec	   	e':	0.08	m/sec
+LVIDs:	31	mm	LVPWd:	8	mm	A:	1.02	m/sec	   	E/e':	19.1
+  	  	  	LA:	37	mm	E/A:	1.5	   	   	LA volume index:
+LVEF:	58	%	Ao:	30	mm	DT:	377	msec	   	   	22.4	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+S/P MVR
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV with mean PG = 3.3mmHg
+   Minimal TR with RVSP = 23mmHg
+4. No regional wall motion abnormality
+5. Normal LV diastolic function
+  
+Conclusion:
+Good post-op state
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2008-07-01 【접수일】2008-10-28 10:23 【검사일】2008-10-28 11:08 【보고일】2008-10-29 10:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】양지현 【판독의3】최진오 【확인의】최진오
+환자성명 : CHOI SOOK JA              Patient No. : 11266865
+Height: 161.0cm     BP: 113 / 60          Weight : 50.0kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 48mm         IVSd : 6mm          E: 1.64m/s        e`: 0.09m/s
+LVIDs: 29mm         LVPWd: 6mm          A: 0.97m/s        a`: 0.07m/s
+                    LA: 28mm            E/A: 1.69         E/e`: 18.22
+LVEF: 63%           Ao: 27mm            DT: 305msec       LAVI: 17.0ml/m2
+
+LVMI : 58.48g/m2
+RWT : 0.25
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment: S/P MVR (SJ 27mm), annular reconstruction (2002.3.1)
+
+1. Normal LV cavity size & systolic function
+2. Normal LV wall thickness
+3. Mechanical prosthetic MV with physiologic MR : well functioning prosthetic MV
+     mean PG = 3.9mmHg
+   Minimal TR (RVSP = 22mmHg)
+4. No regional wall motion abnormality
+5. E/A = 1.69, DT > 160msec, E/e` > 15
+   normal LA volume
+
+Conclusion:
+S/P MVR with annular reconstruction 
+Well functioning prosthetic MV
+No significant interval change compared to previous study (05.12.5)
+
+

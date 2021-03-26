@@ -1,0 +1,308 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2012-03-30 【접수일】2012-03-30 13:08 【검사일】2012-03-30 13:51 【보고일】2012-04-02 14:37
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+Repaired MV with eccentric mild to moderate MR 
+(Suspicious para-ring regurgitation) => increased mean PG
+Mild TR
+Mild pulmonary hypertension
+C/W Ischemic heart disease with preserved LV systolic function
+Dilated aortic root(41mm) & ascending aorta(44mm)
+Moderate amount of pericardial effusion
+-- 이전검사 (2012.02.20.)와 비교하여 MR과 MV mean PG 및 TR grade가 증가하였고
+   pericardial effusion이 새로이 관찰됩니다.
+
+
+
+▣ 의견
+
+Rec) TEE for repaired MV evaluation
+
+
+
+▣ 검사정보 및 소견
+
+* HR : 90~100bpm
+* S/P MVP, MAP (2012.02.13.)
+* Dyspnea aggravation, 콜라색 소변 (+), heart murmur 증가소견 있어 echo f/u
+
+1. LV
+-- (1) Normal LV cavity size & preserved LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+)
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with eccentric mild to moderate MR 
+       (two jets, with one of the jets suspicious of passing through a small
+        gap between the anterior portion of the annuloplasty ring and true 
+        annulus)
+         mean PG = 6.5mmHg
+         Redundant artificial chordae
+-- (2) Mild TR
+       TV annulus size = 3.1cm
+-- (3) Thickened AoV with minimal AR
+5. Great vessel :
+-- Dilated aortic root & ascending aorta
+     annulus : 23mm, Sinus of Valsalva : 41mm
+     ST junction : 34mm, ascending aorta : 44mm
+-- Abdominal aorta size(AP/T) = N/A
+6. Pericardial effusion : Moderate amount
+-- LV posterior : 1.16cm, RV side : 0.23cm at PLAX
+-- LV posterior : 1.39cm at PSAX
+-- LV lateral : 1.1cm at A4C
+-- LV lateral : 0.71cm, LA side : 1.28cm at subcostal view
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 41mmHg(assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 145 / 65             Ht: 162cm          Wt: 57kg             BSA: 1.60㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 54mm         IVSd : 10mm         E: 1.30m/s        e`: 0.041m/s
+LVIDs: 33mm         LVPWd: 11mm         A: 1.51m/s        a`: 0.074m/s
+                    LA: 43mm            E/A: 0.86         E/e`: 31.71
+LVEF: 63%           Ao: 40mm            DT: 287.0msec     LAVI: 79.5ml/m2
+                                        A-L ( 29.2 / 32.6 / 6.3 )
+LVMI : 137.87g/㎡
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         2          1         1
+Mid          1          1         1         1.5        2         1
+Apical       1                    1         1.5                  1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2012-02-20 【접수일】2012-02-20 15:14 【검사일】2012-02-20 16:46 【보고일】2012-02-21 15:26
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+Well functioning repaired MV
+C/W Ischemic heart disease with mild LV systolic dysfunction
+LA enlargement
+Dilated aortic root(41mm) & ascending aorta(43mm)
+
+
+
+▣ 검사정보 및 소견
+
+* HR : 90~100bpm
+* S/P MVP, MAP (2012.02.13.)
+* Poor echo window with pt`s poor cooperation (호흡조절 안됨)
+
+1. LV
+-- (1) Normal LV cavity size & mild LV systolic dysfunction
+       (LVEF= 44.7% by Simpson`s method, LVEDV= 161.3ml, LVESV= 89.2ml)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+)
+-- (4) E/A summation d/t tachycardia
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV : mean PG = 4.4mmHg
+-- (2) Thickened AoV with minimal AR
+-- (3) Minimal TR
+5. Great vessel :
+-- Dilated aortic root & ascending aorta
+    annulus : 24mm, Sinus of Valsalva : 41mm
+    ST junction : 32mm, ascending aorta : 43mm
+-- Abdominal aorta size(AP/T) = N/A
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+
+-----------------------------------------------------------------------------
+BP: 122 / 80             Ht: 164cm          Wt: 53kg             BSA: 1.57㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 51mm         IVSd : 10mm         E:                e`: 0.043m/s
+LVIDs: 35mm         LVPWd: 10mm         A:                a`: 0.060m/s
+                    LA: 45mm            E/A:              E/e`:
+LVEF: 53%           Ao: 38mm            DT:               LAVI: 47.6ml/m2
+                                        A-L ( 19.4 / 23.4 / 5.2 )
+LVMI : 119.76g/㎡
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          2         2.5       2          1         1
+Mid          1          2         2         1.5        1         1
+Apical       1                    2         1.5                  1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2012-06-26 【접수일】2012-09-14 07:57 【검사일】2012-09-14 08:21 【보고일】2012-09-14 14:20
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지환 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Repaired MV with eccentric mild to moderate MR
+(Suspicious para-ring regurgitation)
+Mild TR
+Borderline pulmonary hypertension
+C/W Ischemic heart disease with preserved LV systolic function
+LA enlargement
+Dilated aortic root(41mm) & ascending aorta(44mm)
+- 이전검사 (2012.4.2)와 비교하여 MR양은 큰 변화없으나 MV mean PG 는 감소하였음
+
+
+
+▣ 의견
+
+TEE for repaired MV evaluation
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP (2012.02.13.)
+* CAG(AP 2V Dz(LAD,LCx))-2012.01.19
+
+1. LV
+-- (1) Normal LV cavity size & preserved LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+)
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with eccentric mild to moderate MR
+       (two jets, with one of the jets suspicious of passing through a small 
+        gap between the anterior portion of the annuloplasty ring and 
+        true annulus)
+          mean PG =1.82mmHg
+       Redundant artificial chordae
+-- (2) Mild TR
+-- (3) Thickened AoV with minimal AR
+5. Great vessel :
+-- Dilated aortic root & ascending aorta
+    annulus : 23.9mm, Sinus of Valsalva : 40.1mm
+    ST junction : 34.2mm, ascending aorta : 44mm
+-- Abdominal aorta size(AP/T) = N/A d/t poor echo window
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 38mmHg (assumed RAP = 5mmHg)
+9. Sigmoid septum
+
+-----------------------------------------------------------------------------
+BP: 110 / 59             Ht: 157cm          Wt: 57kg             BSA: 1.57㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 9mm          E: 0.92m/s        e`: 0.050m/s
+LVIDs: 33mm         LVPWd: 9mm          A: 1.13m/s        a`: 0.070m/s
+                    LA: 46mm            E/A: 0.81         E/e`: 17.77
+LVEF: 56%           Ao: 38mm            DT: 327.0msec     LAVI: 39ml/m2
+                                        A-L ( 19.0 / 20.3 / 5.3 )
+LVMI : 100.77g/㎡
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal    1         1         1          2         1         1
+Mid      1         1         1         1.5        1         1
+Apical   1                   1         1.5                  1
+Apex     1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-11-11 【접수일】2015-03-10 10:43 【검사일】2015-03-10 10:58 【보고일】2015-03-10 17:32
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVR, MAP, PCI
+C/W Ischemic heart disease with preserved LV systolic function
+Repaired MV with eccentric minimal MR
+(Suspicious para-ring regurgitation)
+LA enlargement
+Dilated aortic root (40.2mm) & ascending aorta(44.7mm)
+Borderline pulmonary hypertension
+
+- No significant interval change compared with previous study (2013.07.23)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP (2012.02.13.)
+* CAG(AP 2V Dz(LAD,LCx))-2012.01.19
+
+1. LV
+-- (1) Normal LV cavity size & preserved LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+)
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with eccentric minimal MR
+       (Suspicious jet of passing through a small gap between the anterior    
+        portion of the annuloplasty ring and true annulus)
+         Mean PG =2.4mmHg
+-- (2) Minimal TR
+-- (3) Thickened AoV with minimal AR
+5. Great vessel :
+-- (1) Aorta(모든 aorta측정은 leading edge to leading edge로 한다)
+--- Aortic root at end-diastole: Annulus= 21.6mm, ST junction= 33.7mm
+--- Sinus of Valsalva at end-diastole (leading to leading)=40.2mm
+--- Ascending aorta at end-diastole= 44.7mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 37mmHg (assumed RAP = 5mmHg)
+9. Strain=-16.4% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 107 / 70             Ht: 157cm          Wt: 57kg             BSA: 1.57㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 44mm         IVSd : 9mm          E: 1.04m/s        e`: 0.052m/s
+LVIDs: 28mm         LVPWd: 10mm         A: 1.19m/s        a`: 0.047m/s
+                    LA: 48mm            E/A: 0.87         E/e`: 20.00
+LVEF: 60%           Ao: 39mm            DT: 339.0msec     LAVI: 38.9ml/m2
+                                        A-L ( 19.2 / 20.7 / 5.5 )
+LVMI : 87.75g/㎡
+RWT : 0.45
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          2         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1.5                 1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

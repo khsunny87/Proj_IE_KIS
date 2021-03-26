@@ -1,0 +1,50 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-05-04 【접수일】2009-05-04 14:59 【검사일】2009-05-04 15:57 【보고일】2009-05-06 16:34
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】최진오 【확인의】최진오
+Patient No : 23102573
+BP: 93/ 61      Height: 171.0cm        Weight: 42.0kg       BSA: 1.46㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 45mm         IVSd : 8mm          E:                e`:
+LVIDs: 37mm         LVPWd: 8mm          A:                a`:
+                    LA: 25mm            E/A:              E/e`:
+LVEF:   %           Ao: 33mm            DT:               LAVI: 30.8ml/m2
+                                        A-L ( 18.4 / 11.4 / 3.9 )
+LVMI : 77.83g/㎡
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+* S/P Resection of vegetation
+      MVP : posteromedial commissural fusion : 2009.4.28
+* Poor echo window with pt` incooperation
+
+1. Normal LV cavity size & systolic function
+2. Normal LV wall thickness
+3. Repaired MV with minimal to mild MR
+     MV meanPG = 2.0mmHg
+   Minimal TR with RVSP = 16mmHg, assumed RAP =5mmHg
+4. No regional wall motion abnormality
+5. E/A summation d/t tachycardia (HR >100bpm)
+6. Minimal amount of pericardial effusion
+     RV = 0.17cm at A4C
+* abdominal aorta size (AP/T) = N/A d/t op site
+
+Conclusion:
+* S/P Resection of vegetation
+      MVP : posteromedial commissural fusion
+Minimal to mild MR with good postop status
+Minimal amount of pericardial effusion
+
+
+

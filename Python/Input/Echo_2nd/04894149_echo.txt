@@ -1,0 +1,221 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2010-12-17 【접수일】2010-12-17 15:40 【검사일】2010-12-17 16:58 【보고일】2010-12-19 23:51
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P Redo MVR
+Mild TR
+LA enlargement
+Lower normal LVEF
+- 지난검사(10.12.9)와 큰 차이는 없으나 Prosthetic MV meanPG (3.6 -> 6.4mmHg)가
+  다소 증가하였습니다.
+
+
+
+▣ 의견
+
+rec) 2D상에서 vegetation 관찰되지 않으나 임상적으로 의심된다면 TEE 시행하시기 
+     바랍니다.
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with Duran ring ( 98.02.13 )
+* S/P Redo MVR ( ON-X 25mm)
+  Mitral annular reconstruction with bovine pericardium                          
+  d/t Infective endocarditis (2010.12.1)
+* Short term f/u echo d/t infective endocarditis
+
+1. LV
+-- (1) Normal LV cavity size & lower normal LVEF
+       (LVEF=50-55% by visual estimatiom)
+-- (2) Normal LV wall thickness
+-- (3) Paradoxical septal motion
+-- (4) E/e`=19.86
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Well functioning prosthetic mitral valve
+         meanPG= 6.41mmHg, Physiologic MR(+)
+-- (2) Mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 32mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 110 / 63             Ht: 171cm          Wt: 50kg             BSA: 1.58㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 56mm         IVSd : 8mm          E: 1.39m/s        e`: 0.070m/s
+LVIDs: 40mm         LVPWd: 8mm          A: 1.24m/s        a`: 0.041m/s
+                    LA: 42mm            E/A: 1.12         E/e`: 19.86
+LVEF:    %          Ao: 34mm            DT: 164.0msec     LAVI: 59.2ml/m2
+                                        A-L ( 24.7 / 22.9 / 5.1 )
+LVMI : 104.45g/㎡
+RWT : 0.29
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2010-12-09 【접수일】2010-12-09 16:00 【검사일】2010-12-09 16:50 【보고일】2010-12-09 18:15
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】한혜진 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P Redo MVR
+Well functioning prosthetic mitral valve
+Mild TR
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with Duran ring ( 98.02.13 )
+* S/P Redo MVR ( ON-X 25mm)
+* Mitral annular reconstruction with bovine pericardium 
+  d/t Infective endocarditis (2010.12.1)
+
+1. LV
+-- (1) Normal LV cavity size &lower normal LVEF
+       (LVEF=50-55% by visual estimatiom)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal motion
+-- (4) E/e`= 17.13
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Well functioning prosthetic mitral valve :
+        meanPG= 3.6 mmHg, Physiologic MR (+)
+-- (2) Mild TR
+-- (3) Slightly thickened AV
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 20mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 108 / 66             Ht: 176cm          Wt: 49kg             BSA: 1.59㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 55mm         IVSd : 8mm          E: 1.37m/s        e`: 0.080m/s
+LVIDs: 36mm         LVPWd: 7mm          A: 0.93m/s        a`: 0.080m/s
+                    LA: 37mm            E/A: 1.47         E/e`: 17.13
+LVEF:               Ao: 33mm            DT: 263.0msec     LAVI: 55ml/m2
+                                        A-L ( 25.6 / 22.5 / 5.7 )
+LVMI : 92.8g/㎡
+RWT : 0.25
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2010-12-21 【접수일】2010-12-22 07:57 【검사일】2010-12-22 10:04 【보고일】2010-12-23 16:59
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이미래 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+No evidence of definite vegetation
+Well functioning prosthetic MV (mean PG= 4mmHg)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P redo MVR, w/u for IE
+
+1. Visually normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually enlarged LA
+4. Minimal MR
+   Mild TR on Doppler echo
+5. No thrombus in LA & LAA
+   (LAA emptying velocity >40cm/s)
+6. No vegetation or thrombus
+7. No atherosclerosis in thoracic aorta
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 171cm          Wt: 51kg             BSA: 1.58㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2010-11-30 【접수일】2010-11-30 08:03 【검사일】2010-11-30 11:08 【보고일】2010-12-01 13:10
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+C/W Infective endocarditis
+Vegetation on MV & MV annulus
+Moderate MSR
+Mild TR
+Mild SEC
+No evidence of secundum ASD
+LA enlargement
+Minimal amount of pericardial effusion
+
+
+
+▣ 검사정보 및 소견
+
+1. Visually normal LV cavity size & lower normal systolic function
+2. Visually normal LV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- (1) MV : S/P MAP, moderate MSR, mean PG = 10mmHg, 
+            IAS으로 향하는 eccentric MR flow가 관찰됨.
+            anterior mitral annulus에 부착되어 있는 hypermobile linear material              
+            (size= 1.65 * 0.4cm)이 관찰되며 posterior mitral annulus 및 
+            valve 전반에 걸쳐 multiple vegetative materials 등이 관찰됨 
+            (max. size= 1.8 * 1.15cm), pulmonary vein systolic reversal flow (-)
+-- (2) TV : Mild TR
+5. Mild SEC (+), No thrombus
+   Normal LAA emptying velocity (>40cm/sec)
+6. Interatrial septum의 atrial side에 multiple hyperenhanced bead-like 
+   material이 산재되어 있으며 inflammatory change로 의심됨
+7. No atherosclerotic plaque on descending aorta & arch
+8. 2D 상 관찰되었던 ASD는 TEE 상 관찰되지 않아 artifact로 생각됨
+9. Minimal amount of pericardial effusion
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 0cm            Wt: 0kg              BSA: 0.00㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

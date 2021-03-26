@@ -1,0 +1,135 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2005-06-07 【접수일】2006-01-10 13:51 【검사일】2006-01-10 14:03 【보고일】2006-01-11 10:03
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】권성욱 【판독의3】박승우 【확인의】이상철
+Video no:	AE309-2621	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	51	mm	IVSd:	9	mm	E:	1.28	m/sec	   	e':	0.06	m/sec
+LVIDs:	29	mm	LVPWd:	9	mm	A:	1.42	m/sec	   	E/e':	21.3
+  	  	  	LA:	39	mm	E/A:	0.9	   	   	LA volume index:
+LVEF:	68	%	Ao:	31	mm	DT:	186	msec	   	   	23.7	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * MVP (artificial chordae formation) & MAP 
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Annuloplasty of MV and visible artificial chordae with minimal MR 
+         (mean PG = 3.8mmHg)
+   Minimal TR (RVSP = 26mmHg)
+4. No regional wall motion abnormality
+5. No evidence of pericardial effusion 
+6. Echogenic mass (size : 0.4 * 0.2cm), fixed on AMVL
+  
+Conclusion:
+S/P MVP & MAP 
+Good post op state 
+(2005.3.3 결과와 비교시 BAE & pericardial effusion 보이지 않음)
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-02-23 【접수일】2005-02-23 14:55 【검사일】2005-02-23 14:59 【보고일】2005-03-03 09:29
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】권성욱 【확인의】박승우
+Video no:	AA192-14025	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	54	mm	IVSd:	10	mm	E:	1.76	m/sec	   	e':	m/sec
+LVIDs:	35	mm	LVPWd:	10	mm	A:	0.65	m/sec	   	E/e':
+  	  	  	LA:	45	mm	E/A:	2.7	   	   	LA volume index:
+LVEF:	58	%	Ao:	30	mm	DT:	230	msec	   	   	39.5	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * ECG : complete AV block 
+     S/P MVP (artificial chordae formation)
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Motion limitation of PMVL 
+   MV mean PG = 1.44mmHg with minimal MR 
+   Oscillating mass on AMVL (0.4 * 0.2cm) d/t R/O remnant chordae 
+   Thickened AoV (Vmax = 2.0m/sec, mean PG = 5.29mmHg)
+   Minimal TR with RVSP = 30mmHg 
+4. Paradoxical septal motion 
+5. BAE (RAE : 47mm on A4C)
+6. Minimal pericardial effusion 
+         LVPW : 0.6cm at parasternal view 
+         LV lateral 0.5cm at PSSA 
+7. Redundant IAS 
+8. Indeterminate diastolic dysfunction
+  
+Conclusion:
+S/P MVP & MAP 
+Good post op state 
+BAE
+Small amount pericardial effusion 
+Indeterminate diastolic dysfunction
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2004-12-07 【접수일】2005-01-18 12:14 【검사일】2005-01-18 13:20 【보고일】2005-01-19 08:43
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【확인의】박승우
+Video no:	AB176-2816	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	65	mm	IVSd:	10	mm	E:	1.24	m/sec	   	e':	0.09	m/sec
+LVIDs:	41	mm	LVPWd:	9	mm	A:	1	m/sec	   	E/e':	13.8
+  	  	  	LA:	55	mm	E/A:	1.2	   	   	LA volume index:
+LVEF:	60	%	Ao:	30	mm	DT:	235	msec	   	   	66.3	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Increased LV cavity size and normal LV systolic function
+2. Normal LV wall thickness
+3. Severe MR (ERO = 46m2, MRRV = 70cc), A3 portion 
+   Minimal TR (RVSP = 40mmHg)
+4. No regional wall motion abnormality
+5. LAE, IAS bulging to RA 
+6. Osillating mass on AMVL (0.9 * 0.3cm), PMVL (0.4 * 0.2cm)
+  
+Conclusion:
+Severe MR with AMVL prolapse (A3) and R/O chordal rupture 
+Dilated LV size with LAE (지난번보다 증가됨) 
+Diastolic dysfunction grade 2
+- AMVL 에 붙어있는 oscillating mass 는 vegetation 과 ruptured chordae 사이에
+  감별되지는 않으나 history 를 고려할 때 vegetation 가능성도 있음.
+Rec) MV repair
+
+

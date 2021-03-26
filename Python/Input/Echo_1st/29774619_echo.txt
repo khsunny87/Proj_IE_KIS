@@ -1,0 +1,55 @@
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2012-11-02 【접수일】2012-11-02 15:53 【검사일】2012-11-02 17:25 【보고일】2012-11-05 11:52
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지환 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No definite evidence of vegetation
+Mass like lesion in LA (r/o thrombus)
+Severe MS
+Minimal to mild TR
+
+
+
+▣ 의견
+
+I.E 강력히 의심시 TEE f/u 하십시오. 
+
+
+
+▣ 검사정보 및 소견
+
+* Baseline ECG : A.fib with HR 140-150BPM
+
+1. Visually normal LV cavity size & lower normal systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size : LA enlargement, RA enlargement
+5. Valve:
+-- (1) MV : Severe MS (meanPG=12mmHg)
+            Thickened & calcified MV with doming of ant.MVL
+            & limited motion of post.MVL
+-- (2) TV : minimal to mild TR
+6. Thrombus (+), savere SEC (+) in LA & LA appendage
+   Decreased (<10 cm/s) LAA emptying velocity
+7. Mass (+)
+-- (1) Irregular margin을 가지는 huge mass like lesion 이 post. MV annulus부터 
+       post. wall을 거쳐서 IAS까지 관찰됨.
+-- (2) Mitral valve가 Thickened, calcification & heterogenicity (+) 되어있어       
+       mobile 하거나 flail한 material이 잘 관찰되지는 않으나 본 검사로
+       vegetation 을 완전히 배제하긴 어렵습니다. 
+8. Intracardiac shunt: (-)
+9. Pericardial effusion: (-)
+10. Atherosclerotic plaque (+) in aortic arch & thoracic descending aorta
+
+
+-----------------------------------------------------------------------------
+BP: 123 / 77             Ht: 167cm          Wt: 52kg             BSA: 1.58㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+

@@ -1,0 +1,270 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2002-02-19 【접수일】2002-07-23 13:01 【검사일】2002-07-23 13:19 【보고일】2002-07-24 09:49
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】허준 【확인의】박정연
+소견요약   TAPE NO : S018-12204
+S/P Coronary AV fistula (RCA to LV)
+    MVR (2001.2.21)
+1) Good ventricle function 
+         without abnormal regional wall motion 
+2) No residual fistula
+3) Well funtinoing antificial MV
+   No paravalvalar leakage, no MS
+4) No AR, trivial TR
+5) No pericardial effusion 
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-03-05 【접수일】2001-03-05 11:31 【검사일】2001-03-05 11:31 【보고일】2001-03-06 09:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+Video no:	AP932-0000	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	49	mm	IVSd:	11	mm	LA:	29	mm
+LVIDs:	41	mm	LVPWd:	11	mm	Ao:	36	mm
+  
+LVEF:		%
+---------------------------------------------------------------------------
+MV
+mPG:	6.3	mmHg	E:	2	m/sec	E/A:	1.3333
+DT:	263	msec	A:	1.5	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.3	m/sec	peakPG:	6	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	3	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+	   (S/P MVR with S-J valve, F/U)
+	
+	1. Normal LV cavity size
+           Normal LV function
+	2. Normal LV wall thickness
+	3. Prosthetic MV : MR, minimal to mild at center of coaptation line
+	                   mean PG 6.3mmHg
+	   Minimal - mild TR 
+	4. Paradoxical septal motion
+	5. Anomalously enlarged RCA with exit to LV at posterior
+	    mitral annulus & persistent residual flow (+)
+             - 수술전 보다는 많이 줄어듬
+	6. Thickened chordae with fluttering motion at diastole, 
+	    probably associated with flow from exit of anomalous coronary artery 
+	7. Circumferential pericardial effusion, width at diastole
+	       - anterior  0.7cm
+	       - posterior 1.2cm
+	       - lateral   1.3cm
+	       - apical    1.2cm
+  
+Conclusion:
+	1. S/P MVR, well-functioning prosthetic MV
+	2. Moderate to severe pericardial effusion
+	          without hemodynamic compromise
+	3. Persistent anomalous right coronary artery with opening to LV
+REC : CAG
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-02-26 【접수일】2001-02-26 16:01 【검사일】2001-02-26 16:01 【보고일】2001-02-27 08:59
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】원경헌 【확인의】박승우
+ Video No: ICU232 1617           과거검사 여부:                         
+---------------------------------------------------------------------------
+           
+ IVSd         mm  LVIDd/LVIDs    46/36   mm  
+ LVPWd        mm        EF          40  %    LA/Ao   /  mm
+     
+---------------------------------------------------------------------------
+  MV  meanPG  2.45   mmHg   peak E       m/s   IVRT       m 
+         DT          ms     peak A       m/s   
+
+---------------------------------------------------------------------------
+  AV  Vmax   0.8     m/s   peak PG  4    mmHg   
+      VTI            m     mean PG  2    mmHg   
+
+---------------------------------------------------------------------------
+
+  COMMENTS   1) Normal LV cavity size & decreased LV contractility 
+                (visually estimated EF=40~45%, 2-D =41%,
+                 Simpson's method= 41%)
+             2) IVS & LVPW thickness is WNL
+             3) MVR : good functioning state (mean PG=2.45mmHg)
+             4) Global hypokinesia
+             5) Paradoxical septal motion
+             6) Mild pericardial effusion (apex: 0.8cm, ant. : 0.2cm
+                                           inf. : 0.6cm, lat. : 0.6cm)
+
+             CONC) 1. S/P MVR with good postop state
+                   2. Mild LV systolic dysfunction
+                   3. Mild pericardial effusion
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2004-02-24 【접수일】2005-02-01 13:41 【검사일】2005-02-01 14:00 【보고일】2005-02-03 08:36
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【확인의】박승우
+Video no:	AE151-13634	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	50	mm	IVSd:	8	mm	E:	1.5	m/sec	   	e':	0.1	m/sec
+LVIDs:	31	mm	LVPWd:	9	mm	A:	1.34	m/sec	   	E/e':	15.0
+  	  	  	LA:	33	mm	E/A:	1.1	   	   	LA volume index:
+LVEF:	62	%	Ao:	32	mm	DT:	337	msec	   	   	20.2	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P MV replacement, ligation of coronary artery fistula
+           (baseline HR = 85 bpm)
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Mechanical prosthetic MV : well functioning prosthetic MV 
+        mean PG = 6.4mmHg, minimal physiologic MR 
+   Minimal TR (RVSP = 31mmHg)
+4. No regional wall motion abnormality
+5. LV opening diameter of coronary fistula = 1.01cm 정도로 관찰됨.
+6. No evidence of pericardial effusion 
+7. Chordal attachment to ant. mitral annulus
+  
+Conclusion:
+S/P MV replacement & ligation of coronary artery fistula
+Good post op state
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-02-02 【접수일】2010-05-11 08:38 【검사일】2010-05-11 09:25 【보고일】2010-05-11 11:41
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MV replacement, ligation of coronary artery fistula
+Well functioning prosthetic MV
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MV replacement, ligation of coronary artery fistula-2001년
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valves:
+--(1) Well functioning prosthetic mitral valve
+       mean PG = 5.7mmHg, Physiologic MR(+)
+--(2) Trivial TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = N/A d/t young age
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =N/A d/t poor Doppler signal
+
+-----------------------------------------------------------------------------
+BP: 131 / 87             Ht: 177cm          Wt: 61kg             BSA: 1.76㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 53mm         IVSd : 7mm          E: 1.61m/s        e`: 0.090m/s
+LVIDs: 40mm         LVPWd: 7mm          A: 1.40m/s        a`: 0.060m/s
+                    LA: 41mm            E/A: 1.15         E/e`: 17.89
+LVEF: 43%           Ao: 35mm            DT: 502.0msec     LAVI: 43ml/m2
+                                        A-L ( 20.0 / 20.0 / 4.5 )
+LVMI : 72.14g/㎡
+RWT : 0.26
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2013-12-17 【접수일】2014-04-15 09:18 【검사일】2014-04-15 11:15 【보고일】2014-04-15 13:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MV replacement, ligation of coronary artery fistula
+Well functioning prosthetic MV
+LA enlargement
+Borderline dilated aortic root (39.3mm)
+
+- No significant abnormal change compared with last study (2010.5.11)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MV replacement, ligation of coronary artery fistula-2001년
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valves: Well functioning prosthetic mitral valve
+            mean PG = 5.5mmHg, Physiologic MR(+)
+5. Great vessel : borderline dilated aortic root (39.3mm)
+-- annulus=26.1mm, SV=39.3mm, ST junction=36.7mm, ascending aorta=35mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =N/A d/t poor Doppler signal
+
+-----------------------------------------------------------------------------
+BP: 126 / 91             Ht: 175cm          Wt: 62kg             BSA: 1.76㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 6mm          E: 1.65m/s        e`: 0.120m/s
+LVIDs: 32mm         LVPWd: 8mm          A: 1.82m/s        a`: 0.060m/s
+                    LA: 43mm            E/A: 0.91         E/e`: 13.75
+LVEF: 57%           Ao: 40mm            DT: 318.0msec     LAVI: 40.7ml/m2
+                                        A-L ( 19.8 / 19.6 / 4.6 )
+LVMI : 62.93g/㎡
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

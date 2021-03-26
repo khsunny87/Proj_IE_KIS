@@ -1,0 +1,401 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2020-05-21 【접수일】2020-11-19 08:03 【검사일】2020-11-19 09:14 【보고일】2020-11-19 15:12
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지훈 【판독의3】김지훈 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+S/P AVP, MAP, TAP, PVP, PDA primary closure
+Mild AR
+Mild eccentric MR
+LA enlargement
+
+-- Disappeared pericardial effusion behind RA compared with last study (2019.12.10)
+
+
+▣ 검사정보 및 소견
+
+* S/P AVP, MAP, TAP, PVP, PDA primary closure - 12019.12.3
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Repaired AV with mild AR
+         A5C: AV Vmax= 2.1m/s, AV meanPG= 8.4mmHg,
+         AR PISA r= 0.37cm, AR ERO= 7.5mm², AR RV= 10.49ml
+-- (2) Repaired MV with mild eccentric MR
+         MV meanPG= N/A
+-- (3) Repaired TV with minimal TR
+         TV meanPG= 2.3mmHg
+-- (3) Repaired PV with significant (+) PR
+         PV Vmax= 1.6m/s, PV meanPG= 4.1mmHg,
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Ventricular interdependence (-)
+-- Pericardial thickening (-)
+-- Adhesion (-)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (+)
+-- Septal e'(0.081m/sec) < Lateral e' (0.15 m/sec)
+-- Normal IVC (IVC = 14.2mm), IVC plethora (-)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 25.0mmHg(assumed RAP= 5mmHg)
+    IVC diameter =14.2mm, plethora: (-)
+    Mean PA pressure by PR Vmax = 15.6 mmHg
+9. Strain(GL)= -17.6%
+10. No abnormal shunt flow
+
+-----------------------------------------------------------------------------
+ BP :137 / 60        HR :92       Ht:153.0cm       Wt:44.65kg        BSA:1.38
+ 과거검사 : Yes
+-----------------------------------------------------------------------------M-Mode data                      MV Doppler
+LVIDd: 52.8mm    IVSd: 7.1mm    E: 1.00m/s          e': 0.081m/s
+LVIDs: 35.4mm    LVPWd: 8.8mm   A: 0.78m/s          a': 0.095m/s
+                 LA: 43.1mm     E/A: 1.28           E/e': 12.3
+LVEF: 55%        Ao: 30.0mm     DT: 91.7msec        LAVI: 74.4ml/m2
+                                A-L ( 27.80 / 24.52 / 5.64 )
+LVMI : 107.17 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-12-10 【접수일】2019-12-10 15:18 【검사일】2019-12-10 15:53 【보고일】2019-12-10 17:18
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P AVP, MAP, TAP, PVP, PDA primary closure
+LA enlargement
+R/O hematoma behind RA
+
+
+▣ 검사정보 및 소견
+
+* S/P AVP, MAP, TAP, PVP, PDA primary closure - 12019.12.3
+
+1. LV
+-- (1) Normal LV cavity size and preserved LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+-- (5) Abnormal septal motion d/t open heart surgery
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+-- Redundant IAS
+4. Valve 
+-- AV : Repaired AV
+        Minimal to mild AR
+        AoV Vmax=1.7m/sec, MeanPG=8.9mmHg
+-- MV : Repaired MV
+        MV meanPG= 1.9mmHg,
+        Minimal MR
+-- TV : Repaired TV
+        TV meanPG= 2.0mmHg
+        Minimal TR
+-- PV : Repaired PV with PR (+)
+        PV Vmax= 2.5m/s, PV meanPG= 10.7mmHg,
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Abnormal septal motion after open heart surgery (+)
+-- Ventricular interdependence (-)
+-- Flat diastolic motion of LV posterior wall (-)
+-- Pericardial thickening (-)
+-- Adhesion (-)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.069m/sec) < Lateral e' (0.09m/sec)
+-- Normal IVC
+-- Normal hepatic vein
+7. Mass, Thrombi, Vegetation
+-- Echogenic space behind RA
+  --> R/O hematoma
+8. RV systolic pressure by TR Vmax = 32.9mmHg(assumed RAP= 5mmHg)9. Strain= -14.9% by APLAX
+10. No abnormal shunt flow
+
+-----------------------------------------------------------------------------
+ BP :115 / 69       HR :86       Ht:153.0cm      Wt:40.40kg        BSA:1.33
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 51.0mm       IVSd: 7.9mm           E: 0.99m/s          e': 0.069m/s
+LVIDs: 35.8mm       LVPWd: 9.0mm          A: 0.52m/s          a': 0.070m/s
+                    LA: 39.2mm            E/A: 1.90           E/e': 14.3
+LVEF: 51%           Ao: 32.8mm            DT: 172.9msec       LAVI: 63.8ml/m2
+                                          A-L ( 22.37 / 24.67 / 5.53 )
+LVMI : 113.30 g/m2
+RWT : 0.35
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-11-21 【접수일】2019-11-21 13:28 【검사일】2019-11-21 16:04 【보고일】2019-11-21 17:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Multiple vegetation at AV, PV, and MPA wall
+LV dilatation
+Mild ASR
+Mild TR
+PDA
+Mild pulmonary hypertension
+Dilated pulmonary artery (MPA= 31.9mm)
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* Pre-TEE
+* Infective endocarditis w/u (2019.04 fever developed)
+* Poor apical view
+
+1. LV
+-- (1) Dilated LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Thickened AV with multiple vegetation
+         A5C: AV Vmax= 2.6m/s, AV meanPG= 14.5mmHg, LVOTd= 2.10cm
+              AVA by CE= 1.77cm², LVOT VTI/AV VTI= 0.51
+       Mild AR
+-- (2) Minimal to mild MR
+-- (3) Mild TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Ascending aorta= 34.7mm
+-- Pulmonary Artery (mid-systole시): Dilated pulmonary artery
+     MPA= 31.9mm, LPA= 13.3mm, RPA= 16.0mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- (1) R/O Multiple vegetation at AV with hypermobile portion (1.22*0.54cm, LCC)
+-- (2) Echogenic mass like lesion at PV (1.18*0.81cm) : R/O vegetation
+-- (3) R/O mobile vegetation at MPA wall
+8. RV systolic pressure by TR Vmax = 41.7mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -10.6%
+10. PDA (+), defect size=0.4cm
+-- Vmax= 5.31m/sec, peak PG= 113mmHg
+
+-----------------------------------------------------------------------------
+ BP :114 / 62      HR :103      Ht:153.0cm        Wt:41.25kg        BSA:1.34
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                      MV DopplerLVIDd: 59.1mm    IVSd: 9.3mm     E: 0.89m/s          e': 0.087m/s
+LVIDs: 30.4mm    LVPWd: 10.0mm   A: 0.85m/s          a': 0.157m/s
+                 LA: 42.2mm      E/A: 1.05           E/e': 10.2
+LVEF: 74%        Ao: 32.9mm      DT: 211.0msec       LAVI: 43.1ml/m2
+                                 A-L ( 19.00 / 19.40 / 5.42 )
+LVMI : 171.48 g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2019-11-21 【접수일】2019-11-21 13:28 【검사일】2019-11-21 16:04 【보고일】2019-11-28 16:40
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+C/W Infective endocarditis with multiple vegetation involving AV, MV,PV,LA wall,MPA wall
+Mild AR
+PDA
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* IE w/u
+* Baseline EKG : NSR with HR 90bpm
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 2mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Thickened AV with multiple vegetaion
+-- (2) Thickened MV with vegetation extending to LA wall, minimal MR 
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation
+-- (1) Highly mobile irregular shaped mass like lesion attached to thickened AV 
+       (esp. at LCC), R/O multiple vegetation
+       AV maximal thickness=1.1cm at LCC
+       3개의 leaflet 모두 involve하였고 LCC가 가장 많이 involve 됨
+       Mild AR
+       AR은 leaftlet의 coapation site에서 발생하는 것으로 생각됨
+-- (2) Echogenic mass like lesion involving MV (thickness = 0.2cm at AMVL tip, 0.4cm 
+       at PMVL (P3 portion)
+       extending to LA wall (maximal thickness= 0.54cm), R/O mutiple vegetation
+-- (3) Echogenic mass like lesion (0.9x0.7cm) attached to PV, r/o vegetation
+-- (4) Highly mobile irregular shaped mass like lesion attached to MPA wall 
+       (length 2cm, thickness= 0.6cm, highly mobile portion= 1.3cm), r/o vegetation
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. PDA (+) defect size= 0.5cm, Vmax 4.5 m/sec
+11. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:153.5cm            Wt:41.25kg           BSA:1.34           과거검사 : No
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2019-11-28 【접수일】2019-11-28 10:11 【검사일】2019-11-28 11:52 【보고일】2019-11-28 16:40
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+C/W Infective endocarditis with multiple vegetation involving AV, MV, PV, LA wall
+Mild AR, MR, TR
+PDA
+LA enlargement
+
+
+▣ 의견
+
+이전 검사 (2019.11.21)와 비교 시 main pulmonary artery에 보이던 vegetation은 사라지고 AV, MV의
+thickness가 약간 줄었으나
+여전히 AV의 vegetation이 매우 mobile 합니다.
+
+
+▣ 검사정보 및 소견
+
+* IE f/u
+* Baseline EKG : NSR with HR 85bpm
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 2mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Thickened AV with multiple vegetaion
+       Mild AR
+       AR은 leaftlet의 coapation site에서 발생하는 것으로 생각됨
+-- (2) Thickened MV with vegetation extending to LA wall
+       Mild MR
+-- (3) Mild TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+  Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : vegetation
+-- (1) Highly mobile irregular shaped mass like lesion attached to thickened AV
+      (esp. at LCC), R/O multiple vegetation
+      0.96cm oscillating mass like lesion attached to LCC
+      AV maximal thickness=0.6cm at LCC
+      3개의 leaflet 모두 involve하였고 LCC가 가장 많이 involve 됨
+-- (2) Echogenic mass like lesion involving MV (thickness = 0.2cm at AMVL tip, 0.22cm
+      at PMVL (P3 portion)
+      extending to LA wall (maximal thickness= 0.43cm), R/O mutiple vegetation
+-- (3) Echogenic mass like lesion (1.1x0.7cm) attached to PV, r/o vegetation
+-- (4) No evidence of vegetation at pulmonary artery wall
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. PDA (+) defect size= 0.45cm, Vmax 4.3 m/sec
+11. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:153.0cm          Wt:40.90kg            BSA:1.33n          과거검사 : Yes
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2019-11-21 【접수일】2019-11-21 13:28 【검사일】2019-11-21 16:04 【보고일】2019-11-21 17:55
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】김소리 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+C/W Infective endocarditis with multiple vegetation involving AV, MV,PV,LA wall,MPA wall
+Mild AR
+PDA
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* IE w/u
+* Baseline EKG : NSR with HR 90bpm
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 2mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Thickened AV with multiple vegetaion
+-- (2) Thickened MV with vegetation extending to LA wall, minimal MR 
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation
+-- (1) Highly mobile irregular shaped mass like lesion attached to thickened AV 
+       (esp. at NCC), R/O multiple vegetation
+       AV maximal thickness=1.1cm at LCC
+       3개의 leaflet 모두 involve하였고 LCC가 가장 많이 involve 됨
+       Mild AR
+       AR은 leaftlet의 coapation site에서 발생하는 것으로 생각됨
+-- (2) Echogenic mass like lesion involving MV (thickness = 0.2cm at AMVL tip, 0.4cm 
+       at PMVL (P3 portion)
+       extending to LA wall (maximal thickness= 0.54cm), R/O mutiple vegetation
+-- (3) Echogenic mass like lesion (0.9x0.7cm) attached to PV, r/o vegetation
+-- (4) Highly mobile irregular shaped mass like lesion 
+       (length 2cm, thickness= 0.6cm, highly mobile portion= 1.3cm), r/o vegetation
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. PDA (+) defect size= 0.5cm, Vmax 4.5 m/sec
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:153.5cm            Wt:41.25kg           BSA:1.34           과거검사 : No
+-----------------------------------------------------------------------------
+

@@ -1,0 +1,212 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2010-05-17 【접수일】2010-05-17 13:43 【검사일】2010-05-17 16:58 【보고일】2010-05-17 17:16
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이성호 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVP, MAP (10.04.11)
+Well functioning repaired MV
+LA enlargement
+Loculated small to moderate amount of pericardial effusion at LV lateral side
+Pleural effusion
+
+
+
+▣ 의견
+
+LA side쪽으로 PMV에 echogenic이 관찰되나 post op valve surgery 후로 정확한 평가는 어려움
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP with commissuroplasty, MAP with bovine pericardium strip (2010.4.11)
+* Rt. MCA cortical infarction, Multifocal SAH
+* Vertically oriented heart
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Slightly paradoxical septal motion
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with minimal MR
+        meanPG = 2.7mmHg
+-- (2) Minimal TR
+5. Great vessel :
+-- Abdominal aorta size(AP/T) = 22*21 mm
+6. Pericardial effusion :
+-- Loculated small to moderate amount of pericardial effusion at LV lateral side
+    LV post. = 0.6cm at PLAX, 1.05cm at PSAX
+    LV lat. = 1cm at A4C view
+    RV ant. = 0.37cm at PSAX
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler image
+9. Redundant IAS
+10. Pleural effusion
+11. Visible catheter tip in RA
+
+-----------------------------------------------------------------------------
+BP: 112 / 71             Ht: 168cm          Wt: 57kg             BSA: 1.64㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 46mm         IVSd : 9mm          E: 0.82m/s        e`: 0.050m/s
+LVIDs: 31mm         LVPWd: 10mm         A: 1.39m/s        a`: 0.109m/s
+                    LA: 48mm            E/A: 0.59         E/e`: 16.40
+LVEF: 55%           Ao: 35mm            DT: 254.0msec     LAVI: 54.2ml/m2
+                                        A-L ( 23.4 / 25.9 / 5.8 )
+LVMI : 90.31g/㎡
+RWT : 0.43
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2010-04-19 【접수일】2010-04-19 13:09 【검사일】2010-04-19 13:51 【보고일】2010-04-19 16:30
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MAP, MVP
+Well functioning repaired MV
+Lower normal LV systolic function
+Minimal to small amount of pericardial effusion
+LA enlargement
+Inferior wall의 regional wall motion abnormality가 관찰되나 paradoximal septal
+motion으로 인한 finding 으로 사료됨
+
+
+
+▣ 검사정보 및 소견
+
+* Stroke, Infective endocarditis with severe MR로 transfer
+* S/P MVP with commissuroplasty, MAP with bovine pericardium strip -2010.4.11
+
+1. LV
+-- (1) Normal LV cavity size & lower normal systolic function
+       (LVEF=50% by A-L method)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+) with paradoxical septal motion
+       Paradoxical septal motion
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Repaired MV (mean PG=2.43mmHg)
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = N/A d/t OP site
+6. Pericardial effusion : Minimal to small amount
+     LV posterior: 0.52cm at PLAX, 0.53cm at PSAX
+     LV lateral: 0.65cm at A4C
+     RV anterior: 0.22cm at A4C, 0.24cm at PSAX
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 28mmHg (assumed RAP = 5mmHg)
+9. PICC tip in RA
+
+-----------------------------------------------------------------------------
+BP: 121 / 83             Ht: 168cm          Wt: 58kg             BSA: 1.66㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 9mm          E: 0.67m/s        e`: 0.047m/s
+LVIDs: 34mm         LVPWd: 9mm          A: 1.12m/s        a`: 0.104m/s
+                    LA: 44mm            E/A: 0.60         E/e`: 14.26
+LVEF:               Ao: 34mm            DT: 187.0msec     LAVI: 56.3ml/m2
+                                        A-L ( 23.1 / 27.8 / 5.8 )
+LVMI : 95.31g/㎡
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         2          1         1
+Mid          1          1         1         1.5        2         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-07-20 【접수일】2010-10-26 08:33 【검사일】2010-10-26 09:30 【보고일】2010-10-26 17:13
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】강민호 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+* S/P MVP with commissuroplasty, MAP
+Minimal MR
+LA enlargement
+Slightly RV dilatation
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP with commissuroplasty, MAP with bovine pericardium strip (2010.4.11)
+* Rt. MCA cortical infarction, Multifocal SAH
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Slightly paradoxical septal motion
+2. RV
+-- (1) Slightly dilated RV cavity size and systolic function
+       (RV size : M-mode = 33mm, PSAX = 28mm, A4C = 30mm)
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with minimal MR
+        meanPG = 2.5mmHg
+-- (2) Minimal TR
+5. Great vessel :
+-- (1) Abdominal aorta size(AP/T) = 21 * 22mm
+-- (2) IVC가 RA로 들어오는 부분이 다소 좁아져보이면서 flow acceleration이 관찰됨  
+       (Vmax = 1.52m/s)
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler image
+9. Redundant IAS
+
+-----------------------------------------------------------------------------
+BP: 110 / 79             Ht: 168cm          Wt: 62kg             BSA: 1.70㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 48mm         IVSd : 10mm         E: 0.95m/s        e`: 0.069m/s
+LVIDs: 27mm         LVPWd: 8mm          A: 1.33m/s        a`: 0.103m/s
+                    LA: 45mm            E/A: 0.71         E/e`: 13.77
+LVEF: 68%           Ao: 33mm            DT: 466.0msec     LAVI: 40.7ml/m2                                                         
+                                        A-L ( 20.2 / 22.6 / 5.6 )
+LVMI : 86.93g/㎡
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

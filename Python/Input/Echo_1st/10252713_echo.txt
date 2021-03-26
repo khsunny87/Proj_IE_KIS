@@ -1,0 +1,84 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2001-08-27 【접수일】2001-09-27 09:24 【검사일】2001-09-27 10:26 【보고일】2001-09-28 09:23
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임을순 【확인의】박승우
+Video no:	AX862-12227	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	48	mm	IVSd:	10	mm	LA:	46	mm
+LVIDs:	31	mm	LVPWd:	9	mm	Ao:	30	mm
+  
+LVEF:	58.28	%
+---------------------------------------------------------------------------
+MV
+mPG:	3.9	mmHg	E:	1.1	m/sec	E/A:	0.6470
+DT:	434	msec	A:	1.7	m/sec	IVRT:	109	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.2	m/sec	peakPG:	6	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	3	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and contractility
+   LAE(=about 4.59cm)    
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV : mean PG =about 3.87mmHg
+                   no paravalvular leakage 
+   Minimal TR
+4. Paradoxical septal motion
+5. No pericardial effusion
+  
+Conclusion:
+S/P MVR with good postop state
+LAE
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-08-08 【접수일】2001-08-08 15:14 【검사일】2001-08-08 15:35 【보고일】2001-08-10 09:36
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이호현 【확인의】박승우
+Video no:	AX831-3905	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	47	mm	IVSd:	7	mm	LA:	44	mm
+LVIDs:	31	mm	LVPWd:	10	mm	Ao:	        mm
+  
+LVEF:	56.49	%
+---------------------------------------------------------------------------
+MV
+mPG:	5.4	mmHg	E:	1.9	m/sec	E/A:
+DT:	268	msec	A:	        m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1	m/sec	peakPG:	4	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	2	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+  *S/P MVR
+
+1. Normal LV cavity size and contractility
+   Increased LA size(4.4cm)
+2. Slightly paradoxical septal motion
+3. Prosthetic MV mean PG = 5.4mmHg
+   No paravalvular leakage
+   Trivial TR on C/D
+4. No regional wall motion abnormality
+5. No vegetation
+  
+Conclusion:
+Good postop state
+LAE
+
+
+
+
+
+

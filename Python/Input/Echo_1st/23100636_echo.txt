@@ -1,0 +1,327 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-01-26 【접수일】2010-05-04 10:31 【검사일】2010-05-04 10:44 【보고일】2010-05-04 12:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MAP (wooler) TAP(autopericardium), VSD closure
+Good post op status
+Lower normal LV systolic function
+LA enlargement
+Impoved LV systolic function and decreased LV cavity size compared to last
+study(2009.10.20)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP (wooler) TAP(autopericardium), VSD closure - 09.07.08
+
+1. LV
+-- (1) Normal LV cavity size and lower normal LV systolic function
+       (LVEF = 50% by visual estimation, 
+               47% by Simpson`s method , EDV =118 ml,ESV= 64ml)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) E/A= 0.66 , DT>160msec, E/e`=13.75
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. ValveWell functioning prosthetic aortic valve
+-- (1) MV : repaired MV , mean PG = 1.2mmHg
+            Minimal MR
+-- (2) TV : repaired TV , mean PG = 1.63mmHg
+            Minimal TR
+5. Great vessel :
+-- Abdominal aorta size(AP/T) = not done
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =25 mmHg (assumed RAP = 5 mmHg)
+9. PSAX view에서 PM VSD aneurysm (size: 1.4*0.9cm) 관찰되나 
+   residual VSD shunt flow는 없음
+
+-----------------------------------------------------------------------------
+BP: 117 / 77             Ht: 161cm          Wt: 53kg             BSA: 1.54㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 53mm         IVSd : 10mm         E: 0.44m/s        e`: 0.032m/s
+LVIDs: 36mm         LVPWd: 9mm          A: 0.66m/s        a`: 0.061m/s
+                    LA: 38mm            E/A: 0.66         E/e`: 13.75
+LVEF:               Ao: 34mm            DT: 208.0msec     LAVI:36.06ml/m2                                                          
+                                        A-L ( 19.3 / 17.7 / 5.2 )
+LVMI : 121.61g/㎡
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2009-08-04 【접수일】2009-10-20 10:01 【검사일】2009-10-20 11:27 【보고일】2009-10-21 14:38
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김상민 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MAP & TAP & VSD closure for I.E
+Dilated LV with mild to moderate LV systolic dysfunction
+LA enlargement
+Diastolic dysfunction grade1
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP (wooler), TAP(autopericardium), VSD closure - 09.07.08
+
+1. LV
+(1) Dilated LV cavity size & mild to moderate LV systolic dysfunction
+   (LVEF = 39% by Simpon`s method)
+(2) Normal LV wall thickness
+(3) Mild global hypokinesia
+(4) Diastolic dysfunction grade1
+2. RV
+(1) Normal RV cavity size and systolic function
+(2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+  Repaired TV : minimal to mild TR (mean PG = 1.7mmHg)
+  Repaired MV : minimal MR (mean PG = 1.64mmHg)
+  Minimal AR
+5. Great vessel : Normal
+--- Abdominal aorta size(AP/T) = N/A d/t short term f/u
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 34.6mmHg (assumed RAP = 5mmHg)
+9. Prominent trabeculation in LV apex
+-----------------------------------------------------------------------------
+BP: 162 / 83             Ht: 161cm          Wt: 51kg             BSA: 1.52㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 60mm         IVSd : 10mm         E: 0.50m/s        e`: 0.040m/s
+LVIDs: 49mm         LVPWd: 9mm          A: 0.83m/s        a`: 0.100m/s
+                    LA: 38mm            E/A: 0.60         E/e`: 12.50
+LVEF: %             Ao: 34mm            DT: 224.0msec     LAVI: 40ml/m2
+                                        A-L ( 21.0 / 18.3 / 5.4 )
+LVMI : 152.04g/㎡
+RWT : 0.30
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1.5        1.5       1.5       1.5        1.5       1.5
+Mid          1.5        1.5       1.5       1.5        1.5       1.5
+Apical       1.5                  1.5       1.5                  1.5
+Apex         1.5
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-07-21 【접수일】2009-07-21 16:30 【검사일】2009-07-21 18:09 【보고일】2009-07-22 11:02
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+
+S/P MAP & TAP & VSD closure for I.E
+Dilated LV with mild LV systolic dysfunction
+Mild TR
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+
+* S/P MAP (wooler) TAP(autopericardium), VSD closure - 09.07.08
+
+1. LV
+(1) Dilated LV cavity size & mild LV systolic dysfunction
+   (LVEF = 40% by A-L method)
+(2) Normal LV wall thickness
+(3) Mild global hypokinesia
+(4) Normal diastolic function
+2. RV
+(1) Normal RV cavity size and systolic function
+(2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+  Repaired TV : mild TR (mean PG = 2.1mmHg)
+  Repaired MV : minimal to mild MR (mean PG = 1.64mmHg)
+  Minimal AR
+5. Great vessel : Normal
+--- Abdominal aorta size(AP/T) = N/A d/t short term f/u
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 31mmHg (assumed RAP = 5mmHg)
+-----------------------------------------------------------------------------
+Patient No : 23100636
+BP: 122/ 69     Height: 160cm          Weight: 51kg         BSA: 1.51㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 60mm         IVSd : 10mm         E: 0.53m/s        e`: 0.030m/s
+LVIDs: 48mm         LVPWd: 9mm          A: 0.53m/s        a`: 0.059m/s
+                    LA: 49mm            E/A: 1.00         E/e`: 17.67
+LVEF: %             Ao: 35mm            DT: 187msec       LAVI: 67.3ml/m2
+                                        A-L ( 27.3 / 27.4 / 6.2 )
+LVMI : 153.04g/㎡
+RWT : 0.30
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1.5        1.5       1.5       1.5        1.5       1.5
+Mid          1.5        1.5       1.5       1.5        1.5       1.5
+Apical       1.5                  1.5       1.5                  1.5
+Apex         1.5
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-07-08 【접수일】2009-07-08 10:26 【검사일】2009-07-08 11:20 【보고일】2009-07-09 14:35
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】이상철 【확인의】이상철
+Patient No : 23100636
+BP: /           Height: 160.0cm        Weight: 50.8kg       BSA: 1.51㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 65mm         IVSd : 14mm         E: 1.21m/s        e`: 0.080m/s
+LVIDs: 36mm         LVPWd: 10mm         A: 1.25m/s        a`:
+                    LA:                 E/A: 1.00         E/e`: 15.90
+LVEF: 69%           Ao:                 DT: 116.0msec     LAVI:
+
+LVMI : 237.51g/㎡
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+1. LV
+(1) Dilated LV cavity size & normal systolic function
+(2) Increased LV wall thickness
+(3) No regional wall motion abnormality
+(4) Increased LV filling pressure
+2. RV
+(1) Mildly dilated RV cavity size and normal RV systolic function
+(2) Basal lateral RV wall thinning
+    : R/O combined myocarditis, possibly impanding rupture
+3. Atrium: LA enlargement, RA enlargement
+4. Valve :
+(1) Mild MR
+(2) Mild to moderate TR
+5. Great vessel : Normal
+--- Abdominal aorta size(AP/T) = NA d/t short term F/U
+6. Pericardial effusion : small amount
+7. Mass, thrombi or vegetation : Vegetation (+) in tricuspid valve (size = 9mm)    
+                                 no definite redual vegetation in RV free wall
+8. RV systolic pressure by TR Vmax = 67mmHg (assumed RAP = 5mmHg)
+      mean PAP=30mmHg
+9. Small perimembranous VSD with ventricular septal aneurysm
+
+Conclusion:
+RV free wall에 이전에 관찰되던 vegetation은 더이상 관찰되지 않습니다. embolization 되었을 가능성이 높습니다.
+RV lateral wall thinning이 이전에 비하여 진행하였으며 이부분에 myocarditis가 
+있을 가능성이 높습니다. Rupture의 위험성이 있을 것으로 생각됩니다.
+이외 mild to moderate TR, small VSD, small amount of pericardial effusion이 
+있으며 TV에 vegetation이 있고, MV leaflet에 small vegetation이 의심됩니다.
+rec> urgent Op
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2009-07-03 【접수일】2009-07-03 09:21 【검사일】2009-07-03 11:23 【보고일】2009-07-06 15:53
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송봉근 【판독의3】이상철 【확인의】이상철
+Patient No : 23100636
+BP: 145/ 80     Height: 160.0cm        Weight: 53.8kg       BSA: 1.55㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+Comment:
+1. Visually dilated LV cavity size & normal LV systolic function
+2. Visually normal LV wall thickness
+3. Slightly thickened MV with mild MR with 0.4*0.4cm sized oscillating 
+    hyperechogenic mass at anterior mitral leaflet
+4. Slightly thickened AoV with minimal AR
+   Linear echogenic mass in LVOT just below RCC of AoV
+   R/O subaortic ridge
+5. Mild TR
+   0.8 * 0.3cm size & 2.7 * 0.3cm sized oscillating hyper echogenic mass들이 VSD
+     shunt flow가 도달하는 RV free wall 부위에 TV의 직하방으로 관찰되며 이는 
+     이전 TEE보다 크기가 증가됨
+6. Perimembrous VSD
+7. Anomalously positioned RPA & aorta
+8. Small amount of pericardial effusion
+
+Conclusion:
+Infective endocarditis with vegetations on MV & RV free wall
+Perimembrous VSD, mild MR & TR
+Anomalous portion of RPA & aorta
+Small amount of pericardial effusion
+(이전 검사와 비교하여 MV의 post leaflet에 보이는 oscillating mass는 현재 definite 하게 관찰되지 않으나 RV free wall의 vegetation으로 생각되는 oscillating mass는 definite 하게 크기가 증가됨)
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2009-06-15 【접수일】2009-06-15 15:37 【검사일】2009-06-15 16:46 【보고일】2009-06-15 19:06
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송봉근 【판독의3】이상철 【확인의】이상철
+Patient No : 23100636
+BP: 117/ 65     Height: 160.8cm        Weight: 50.8kg       BSA: 1.52㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/㎡
+RWT :
+-----------------------------------------------------------------------------
+Comment:
+1. Visually dilated LV cavity size & normal LV systolic function
+2. Visually normal LV wall thickness
+3. Slightly thickened MV with mild MR
+    0.3*0.3cm sized, 0.2*0.4cm sized oscillating hyperechogenic mass like lesion 이 Ant.mitral leaflet, Post.mitral leaflet에 관찰됨
+4. Slightly thickened AoV with minimal AR
+   AoV 직하방의 LVOT area에 linear echogenic mass가 관찰됨 
+   : R/O subaortic ridge,R/O vegetation
+5. Mild TR
+   Oscillating hyperechogenic mass가 VSD shunt flow가 도달하는 RV free wall 부위에 TV의 직하방으로 관찰됨 : R/O vegetation
+6. Perimembranous VSD (size : 0.3~0.4cm)
+7. Dilated 된 descending aorta의 측면에 irregular vascular structure가 관찰됨 :   most likely anomalously positioned RPA
+8. Small amount of pericardial effusion
+
+
+Conclusion:
+1. Infectve endocarditis with vegetations on mitral valve & RV free wall
+2. Perimembranous VSD
+3. Mild TR
+4. Mild MR
+5. Anomalously positioned aorta & RA
+6. Small amount of pericardial effusion
+
+

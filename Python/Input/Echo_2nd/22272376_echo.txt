@@ -1,0 +1,460 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-11-01 【접수일】2011-04-25 13:11 【검사일】2011-04-25 13:19 【보고일】2011-04-25 15:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】정승민 【판독의2】최진오 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+Well functioning repaired MV with mild MR
+Slightly increased MR amount compared with last study (2010.3.8)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium(partial)(2009.10.16)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve :
+-- (1) Repaired MV with mild MR
+         maen PG = 5mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = 13 * 12mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =23 mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 136 / 79             Ht: 165cm          Wt: 59kg             BSA: 1.65㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 48mm         IVSd : 9mm          E: 1.60m/s        e`: 0.094m/s
+LVIDs: 29mm         LVPWd: 8mm          A: 1.07m/s        a`: 0.092m/s
+                    LA: 35mm            E/A: 1.50         E/e`: 17.02
+LVEF: 63%           Ao: 36mm            DT: 324.0msec     LAVI: 33ml/m2
+                                        A-L ( 15.7 / 15.1 / 3.7 )
+LVMI : 83.08g/㎡
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2009-12-28 【접수일】2010-03-08 13:25 【검사일】2010-03-08 14:11 【보고일】2010-03-08 16:53
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium(partial)
+Well functioning repaired MV
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium(partial)(2009.10.16)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve :
+-- (1) Repaired MV with minimal MR
+         maen PG = 3.8mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) =N/A due to short term f/u
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =19 mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 113 / 71             Ht: 165cm          Wt: 56kg             BSA: 1.61㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 46mm         IVSd : 8mm          E: 1.49m/s        e`: 0.089m/s
+LVIDs: 30mm         LVPWd: 8mm          A: 0.96m/s        a`: 0.072m/s
+                    LA: 33mm            E/A: 1.55         E/e`: 16.74
+LVEF: 57%           Ao: 36mm            DT: 241.0msec     LAVI: 24.4ml/m2
+                                        A-L ( 13.1 / 14.8 / 4.2 )
+LVMI : 73.23g/㎡
+RWT : 0.35
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-01-18 【접수일】2010-01-18 13:29 【검사일】2010-01-18 14:18 【보고일】2010-01-18 16:49
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+Good post op F/U state
+
+
+
+▣ 검사정보 및 소견
+
+S/P MVP, MAP with bovine pericardium(partial)(2009.10.16)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) MV : Repaired MV and minimal MR
+              Vmax= 1.46m/sec, mean PG = 5.1mmHg
+-- (2) Trivial TR
+5. Great vessel :
+       Annulus = 21mm, Sinus of valsalva = 37mm
+       ST junction = 26mm  ascending aorta = 26mm
+--- Abdominal aorta size(AP/T) =N/A
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+
+
+-----------------------------------------------------------------------------
+BP: 113 / 72             Ht: 165cm          Wt: 53kg             BSA: 1.58㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 48mm         IVSd : 7mm          E: 1.46m/s        e`: 0.110m/s
+LVIDs: 29mm         LVPWd: 7mm          A: 1.22m/s        a`: 0.090m/s
+                    LA: 35mm            E/A: 1.20         E/e`: 13.27
+LVEF: 63%           Ao: 33mm            DT: 334.0msec     LAVI: 19ml/m2
+                                        A-L ( 11.0 / 12.0 / 3.8 )
+LVMI : 67.64g/㎡
+RWT : 0.29
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-11-09 【접수일】2009-11-09 14:18 【검사일】2009-11-09 15:38 【보고일】2009-11-09 17:11
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송봉근 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+Borderline dilated aortic root
+Good post op status
+
+
+
+▣ 검사정보 및 소견
+
+S/P MVP, MAP with bovine pericardium(partial)(2009.10.16)
+
+1. LV
+(1) Normal LV cavity size & systolic function
+(2) Normal LV wall thickness
+(3) No regional wall motion abnormality
+(4) Indeterminate diastolic function
+(5) Post op septal bouncing
+2. RV
+(1) Normal RV cavity size and systolic function
+(2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+(1) MV : Repaired MV and minimal MR
+          Vmax= 1.5m/sec, mean PG = 4.6mmHg
+(2) Minimal TR
+5. Great vessel 
+   Borderline dilated aortic root
+      annulus = 23mm          Sinus of valsalva = 40mm
+      ST junction = 31mm      ascending aorta = 30mm
+--- Abdominal aorta size(AP/T) =N/A
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 26mmHg (assumed RAP =5 mmHg)
+9. Redundant IAS
+10. Catheter tip in RA (+)
+
+-----------------------------------------------------------------------------
+BP: 114 / 69             Ht: 164cm          Wt: 53kg             BSA: 1.57㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 8mm          E: 1.52m/s        e`: 0.063m/s
+LVIDs: 32mm         LVPWd: 7mm          A: 1.10m/s        a`: 0.068m/s
+                    LA: 35mm            E/A: 1.38         E/e`: 24.13
+LVEF: 59%           Ao: 36mm            DT: 280.0msec     LAVI: 30.2ml/m2
+                                        A-L ( 16.8 / 15.7 / 4.7 )
+LVMI : 79.67g/㎡
+RWT : 0.28
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-10-21 【접수일】2009-10-21 09:45 【검사일】2009-10-21 11:07 【보고일】2009-10-21 16:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+No residual MR
+Good post op status
+Minimal amount of pericardial effusion
+
+
+
+▣ 검사정보 및 소견
+
+S/P MVP, MAP with bovine pericardium(partial) (2009.10.16)
+POD#5
+
+1. LV
+(1) Normal LV cavity size & systolic function
+(2) Normal LV wall thickness
+(3) No regional wall motion abnormality
+(4) E/A = 1.97, DT >160msec, E/e`= 44.36
+(5) Post op septal bouncing
+2. RV
+(1) Normal RV cavity size and systolic function
+(2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+(1) MV : repaired MV and minimal MR
+          Vmax= 1.7m/sec, mean PG =5.2 mmHg
+(2) Minimal AR, TR
+5. Great vessel :
+--- Abdominal aorta size(AP/T) =N/A
+6. Pericardial effusion : Minimal amount
+   LV posterior side = 0.38cm at PSAX view,  RA anterior side = 0.3cm at A4C
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 26mmHg (assumed RAP =5 mmHg)
+
+-----------------------------------------------------------------------------
+BP: 117 / 69             Ht: 164cm          Wt: 52kg             BSA: 1.56㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 51mm         IVSd : 7mm          E: 1.73m/s        e`: 0.039m/s
+LVIDs: 31mm         LVPWd: 9mm          A: 0.88m/s        a`: 0.029m/s
+                    LA: 34mm            E/A: 1.97         E/e`: 44.36
+LVEF: 63%           Ao: 36mm            DT: 338.0msec     LAVI: 29.64ml/m2
+                                        A-L ( 15.4 / 14.8 / 4.2 )
+LVMI : 90.04g/㎡
+RWT : 0.35
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2009-10-15 【접수일】2009-10-15 16:35 【검사일】2009-10-15 16:47 【보고일】2009-10-16 13:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송봉근 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+Moderate to severe eccentric MR due to flail PMVL
+Vegetation on MV
+
+
+
+▣ 검사정보 및 소견
+
+1. Visually dilated LV cavity size & LV systolic function
+2. Visually normal IVS & LVPW thickness
+3. 1)Moderate to severe eccentric MR due to flail PMVL
+         with R/O chordae rupture
+         with R/O leaflet perforation
+   2)Oscillating mass on MV (0.4 x 0.9cm)
+4. No SEC & thrombus in LAA
+5. No atherosclerotic plaque in thoracic aorta
+
+-----------------------------------------------------------------------------
+BP: 111 / 70             Ht: 165cm          Wt: 52kg             BSA: 1.56㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2019-03-04 【접수일】2019-08-26 12:56 【검사일】2019-08-26 13:04 【보고일】2019-08-26 16:52
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김다래 【판독의3】김다래 【청구시행의】김다래 【확인의】김다래
+▣ 결론 및 진단
+
+S/P MVP, MAP
+Repaired mitral valve with mild to moderate eccentric MR
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium (partial) - (2009.10.16)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve  
+-- (1) Repaired MV with mild to moderate eccentric MR
+         MV meanPG= 6.1mmHg  MR PISA r= 0.67cm
+-- (2) Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Sinus of Valsalva= 37.2mm
+     Ascending aorta= 31.9mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 18.3mmHg (assumed RAP= 5mmHg)
+9. Strain(GL)= -17.31%
+
+-----------------------------------------------------------------------------
+ BP :98 / 62       HR :83       Ht:165.0cm        Wt:61.00kg        BSA:1.67
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 46.0mm       IVSd: 8.3mm         E: 1.68m/s          e': 0.083m/s
+LVIDs: 25.3mm       LVPWd: 9.0mm        A: 1.24m/s          a': 0.077m/s
+                    LA: 42.3mm          E/A: 1.35           E/e': 20.2
+LVEF: 70%           Ao: 35.3mm          DT: 496.3msec       LAVI: 36.4ml/m2
+                                        A-L ( 17.37 / 20.18 / 4.90 )
+LVMI : 78.23 g/m2
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2017-11-27 【접수일】2017-12-02 10:24 【검사일】2017-12-02 10:32 【보고일】2017-12-02 11:14
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVP, MAP
+Repaired mitral valve with mild MR
+LA enlargement
+
+- No significant interval change compared with last study (2011.04.25)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium (partial) - (2009.10.16)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- (1) Repaired MV with mild MR
+         MV meanPG= 5.5mmHg, MR PISA r= 0.64cm
+-- (2) Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+       Sinus of Valsalva= 37.0mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = N/A (assumed RAP= 5mmHg)
+9. Strain(GL)= -15.9%
+
+-----------------------------------------------------------------------------
+ BP: 90 / 58      HR : 91      Ht: 165cm      Wt: 61kg      BSA: 1.67㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 50.1mm       IVSd : 9.4mm          E:1.49m/s           e':0.079m/s
+LVIDs: 29.0mm       LVPWd: 9.1mm          A: 1.38m/s          a':0.071m/s
+                    LA: 39.0mm            E/A: 1.08           E/e':18.9
+LVEF: 66%           Ao: 39.0mm            DT:408.5msec        LAVI: 38.3ml/m2
+                                          A-L ( 18.78 / 19.68 / 4.91 )
+LVMI : 119.53 g/m2
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

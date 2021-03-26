@@ -1,0 +1,421 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2020-06-04 【접수일】2020-12-03 09:43 【검사일】2020-12-03 10:27 【보고일】2020-12-03 13:00
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지훈 【판독의3】김지훈 【청구시행의】김지훈 【확인의】김지훈
+▣ 결론 및 진단
+
+Repaired MV with paravalvular minimal MR
+-- R/O prosthetic ring detachment, R/O perforation
+Pseudoaneurysm at basal inferior LV wall (3.6*2.9cm)
+Tiny oscillating material at mitral annulus
+-- R/O vegetation, R/O suture material
+LA enlargement
+
+
+▣ 의견
+
+Rec) 이전 IE site에 pseudoaneurysm 및 abnormal paravalvular MR 이 관찰되어 
+     TEE & imaging w/u (CT or MRI)를 권유드립니다
+
+
+▣ 검사정보 및 소견
+
+* Severe MR d/t I.E
+  S/P MVP with posteromedial commissuroplasty, P3 Plication
+      MAP with Kay-Wooler annuloplasty (posteromedial)
+      Debridement of abscess pocket -- 2020.2.3
+* Poor echo window
+* HR = 90~100 BPM
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- Repaired MV with minimal paravalvular (P3, defect size = 0.24cm)
+   R/O prosthetic ring detachment, R/O perforation
+       MV meanPG= 2.0mmHg
+-- Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Ventricular interdependence (-)
+-- Pericardial thickening (+) at LV posterior, RV anterior
+-- Adhesion (+) at LV posterior, RV anterior
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.077m/sec) < Lateral e' ( 0.11 m/sec)
+-- Normal IVC , plethora (-)
+7. Mass, Thrombi, Vegetation :
+-- Tiny oscillating material at LA side of thickened posterior annulus
+   : R/O vegetation, R/O suture material
+-- Hypoechoic porket (3.63*2.89cm) with communication
+   (at basal inferior,inferoseptum)
+8. RV systolic pressure by TR Vmax =N/A(assumed RAP= 5mmHg)
+9. Strain (GL) =-15.1, AFI was done
+-----------------------------------------------------------------------------
+ BP :123 / 73        HR :110      Ht:161.8cm        Wt:48.80kg       BSA:1.50
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 41.2mm       IVSd: 8.9mm           E: 0.75m/s            e': 0.077m/s
+LVIDs: 27.0mm       LVPWd: 8.1mm          A: 0.85m/s            a': 0.052m/s
+                    LA: 24.6mm            E/A: 0.88             E/e': 9.7
+LVEF: 57%           Ao: 26.2mm            DT: 213.4msec         LAVI:N/A
+                                          
+LVMI : 70.96 g/m2
+RWT : 0.39
+
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2020-02-10 【접수일】2020-02-10 14:04 【검사일】2020-02-10 14:45 【보고일】2020-02-10 17:05
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지훈 【판독의3】김다래 【청구시행의】김다래 【확인의】김다래
+▣ 결론 및 진단
+
+S/P MAP, MVP
+Well functioning repaired MV
+LA enlargement
+Scanty amount of pericardial effusion
+Equivocal postop constrictive physiology
+
+
+▣ 검사정보 및 소견
+
+* Severe MR d/t I.E
+  S/P MVP with posteromedial commissuroplasty, P3 Plication
+      MAP with Kay-Wooler annuloplasty (posteromedial)
+      Debridement of abscess pocket -- 2020.2.3
+* Poor echo window
+* Tachycardia ( HR = 100 ~ 105 BPM)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Well functioning repaired MV with redundant arficial chordae
+         MV meanPG= 3.2mmHg,
+-- (2) Minimal to mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : Scanty amount
+-- LV posterior : 0.28cm at PLAX
+-- LV posterior : 0.30cm at PSAX
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 31.1mmHg(assumed RAP= 10mmHg)
+   IVC diameter =14.4mm, plethora: (+)
+9. Strain(GL)= -15.7%
+10. Constrictive physiology (+/-)
+-- Septal bouncing (+)
+-- Ventricular interdependence (+/-)
+-- Pericardial thickening (-)
+-- Adhesion (+) of RV side
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.115m/sec) = Lateral e' ( 0.117m/sec)
+-- Normal IVC (IVC = 14.4mm)
+-- IVC plethora (+)
+-- Normal hepatic vein
+
+-----------------------------------------------------------------------------
+ BP :135 / 78       HR :110        Ht:163.0cm       Wt:46.40kg       BSA:1.47
+ 과거검사 : No
+-----------------------------------------------------------------------------M-Mode data                        MV Doppler
+LVIDd: 46.2mm       IVSd: 9.3mm    E: 0.88m/s          e': 0.110m/s
+LVIDs: 28.8mm       LVPWd: 7.9mm   A: 0.71m/s          a': 0.059m/s
+                    LA: 30.2mm     E/A: 1.24           E/e': 8.0
+LVEF: 61%           Ao: 24.8mm     DT: 168.7msec       LAVI: 35.2ml/m2
+                                   A-L ( 17.76 / 14.49 / 4.23 )
+LVMI : 88.83 g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2020-01-28 【접수일】2020-01-28 08:44 【검사일】2020-01-28 09:55 【보고일】2020-01-28 14:05
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】현철원 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Severe eccentric MR d/t AMVL porolapse (A3)
+Mild pulmonary hypertension
+Minimal pericardial effusion
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* IE
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+       (LVEF= 68.0% by Simpson's method, LVEDV= 84.07ml, LVESV= 26.89ml)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- MV : Thickened MVL and prolapsed AMVL (A3 portion): r/o AMVL perforation
+        Severe eccentric MR
+           MR PISA r= 0.99cm, MV ERO= 44.5mm², MR RV= 66.79ml,
+           Pulmonic vein systolic reversal flow : (+)
+-- Minimal TR
+5. Great vessel : Normal
+-- Pulmonary Artery (mid-systole시), MPA= 28.1mm
+6. Pericardial effusion : Minimal mount of
+-- LV post.side=0.45 at PLAX
+-- RV side=0.60cm at subcostal view
+7. Vegetation (-) : irregualr hyperechogenic AMVL ,TTE상 AMVL thickness 증가해보이나
+   vegeation 유무는 평가가 제한적임
+     RV systolic pressure by TR Vmax = 48.4mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -21.7% AFI was done
+
+-----------------------------------------------------------------------------
+ BP :117 / 67      HR :97       Ht:163.0cm         Wt:48.20kg        BSA:1.50
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 49.4mm       IVSd: 6.0mm           E: 1.25m/s          e': 0.080m/s
+LVIDs: 27.7mm       LVPWd: 6.7mm          A: 0.75m/s          a': 0.098m/s
+                    LA: 38.9mm            E/A: 1.67           E/e': 15.6
+LVEF               Ao: 26.7mm            DT: 211.6msec       LAVI: 38.4ml/m2
+                                          A-L ( 19.62 / 16.91 / 4.90 )
+LVMI : 66.37 g/m2
+RWT : 0.27
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】외래
+【처방일】2020-12-03 【접수일】2020-12-04 10:27 【검사일】2020-12-04 12:39 【보고일】2020-12-07 12:48
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】김지훈 【확인의】김지훈
+▣ 결론 및 진단
+
+S/P MVP/MAP
+Repaired & irregularly thickened PMVL with mild MR at posteromedial annulus, 
+r/o perforation
+Tiny oscillating echogenic material at thickened annulus site, 
+r/o suture material > vegetation
+Pseudoaneurysm (3.95x3.10cm) at basal inferior LV wall
+
+-- PMVL이 irregular하게 두껍고, annlus와 pseudoaneurym neck이 연결되는 부위에 gap이 관찰되어 perforation 의심됩니다. Thickened posterior annulus의 LA side에 oscillating material이 관찰되는데 suture material 가능성 높지만 vegetation을 완전히 배제할 수 없습니다.
+
+
+▣ 검사정보 및 소견
+
+* Pseudoaneurysm & r/o PVL on TTE (20.12.03)
+* Severe MR d/t I.E
+  S/P MVP with posteromedial commissuroplasty, P3 Plication
+      MAP with Kay-Wooler annuloplasty (posteromedial)
+      Debridement of abscess pocket -- 2020.2.3
+* Baseline EKG : NSR
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : normal
+5. Valve
+-- (1) Repaired & irregularly thickened PMVL with mild MR at posteromedial annulus,
+       r/o perforation
+        Gap size= 0.2~0.3 cm
+        Minimal MR
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation :
+-- Tiny oscillating echogenic material at thickened annulus site, 
+   r/o suture material > vegetation
+-- Pseudoaneurysm (3.95x3.10cm) at basal inferior LV wall
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done 
+
+-----------------------------------------------------------------------------
+ BP :107 / 66        HR :100       Ht:162.6cm       Wt:51.95kg       BSA:1.54
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】외래
+【처방일】2020-12-03 【접수일】2020-12-04 10:27 【검사일】2020-12-04 12:39 【보고일】2020-12-04 13:26
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】서정훈 【판독의3】김지훈 【확인의】김지훈
+▣ 결론 및 진단
+
+S/P MVP/MAP
+Repaired & irregularly thickened PMVL with mild MR at posteromedial annulus, 
+r/o perforation
+Tiny oscillating echogenic material at thickened annulus site, 
+r/o suture material > vegetation
+Pseudoaneurysm (3.95x3.10cm) at basal inferior LV wall
+
+-- PMVL이 irregular하게 두껍고, annlus와 pseudoaneurym neck이 연결되는 부위에 gap이 관찰되어 perforation 의심됩니다. Thickened posterior annulus의 LA side에 oscillating material이 관찰되는데 suture material 가능성 높지만 vegetation을 완전히 배제할 수 없습니다.
+
+
+▣ 검사정보 및 소견
+
+* Pseudoaneurysm & r/o PVL on TTE (20.12.03)
+* Severe MR d/t I.E
+  S/P MVP with posteromedial commissuroplasty, P3 Plication
+      MAP with Kay-Wooler annuloplasty (posteromedial)
+      Debridement of abscess pocket -- 2020.2.3
+* Baseline EKG : NSR
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : normal
+5. Valve
+-- (1) Repaired & irregularly thickened PMVL with mild MR at posteromedial annulus,
+       r/o perforation
+        Gap size= 0.2~0.3 cm
+        Minimal MR
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation :
+-- Tiny oscillating echogenic material at thickened annulus site, 
+   r/o suture material > vegetation
+-- Pseudoaneurysm (3.95x3.10cm) at basal inferior LV wall
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ BP :107 / 66        HR :100       Ht:162.6cm       Wt:51.95kg       BSA:1.54
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2020-01-28 【접수일】2020-01-28 08:44 【검사일】2020-01-28 10:36 【보고일】2020-01-28 16:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】현철원 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+C/W infective endocarditis on MV
+Severe eccentric MR d/t AMVL prolapse & perforation (A3 portion)
+Minimal pericardial effusion
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* W/U for Infective endocarditis
+* Baseline EKG : NSR
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Severe eccentric MR
+        Prolapsed AMVL with irregularly thickened MV leaflet (A3 portion)
+         -- R/O Tiny remnant vegetations attached to A3 portion
+        Valve leaflet deformity with perforation (+)
+        Perivalvular abscess (-)
+        Pulmonic vein systolic reversal flow (+)
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : Same as above
+8. Intracardiac shunt : none
+9. Pericardial effusion : Minimal amount
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ BP :117 / 67        HR :97        Ht:163.0cm       Wt:48.20kg       BSA:1.50
+ 과거검사 : No
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2020-01-28 【접수일】2020-01-28 08:44 【검사일】2020-01-28 10:36 【보고일】2020-01-28 14:05
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】현철원 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+C/W infective endocarditis on MV
+Severe eccentric MR d/t AMVL prolapse & perforation (A3 portion)
+Minimal pericardial effusion
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* W/U for Infective endocarditis
+* Baseline EKG : NSR
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Severe eccentric MR
+        Prolapsed AMVL with irregularly thickened MV leaflet (A3 portion)
+         -- R/O Tiny remnant vegetations attached to A3 portion
+        Valve leaflet deformity with perforation (+)
+        Perivalvular abscess (-)
+        Pulmonic vein systolic reversal flow (+)
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : vegetation
+8. Intracardiac shunt : none
+9. Pericardial effusion : Minimal amount
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ BP :117 / 67        HR :97        Ht:163.0cm       Wt:48.20kg       BSA:1.50
+ 과거검사 : No
+-----------------------------------------------------------------------------
+

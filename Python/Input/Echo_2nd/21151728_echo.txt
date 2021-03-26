@@ -1,0 +1,193 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2008-03-27 【접수일】2008-03-27 11:04 【검사일】2008-03-27 11:06 【보고일】2008-03-28 09:28
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김정혁 【판독의2】박승우 【판독의3】박승우 【확인의】박승우
+환자성명 : PARK SOON JA                          Patient No. : 21151728
+Height: : 154.0cm                                Weight : 66.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 51mm         IVSd : 10mm         E: 1.78m/s        e`: 0.05m/s
+LVIDs: 35mm         LVPWd: 9mm          A: 1.19m/s        a`: 0.06m/s
+                    LA: 47mm            E/A: 1.50         E/e`: 32.96
+LVEF: 53%           Ao: 37mm            DT: 264msec       LAVI: 51.9ml/m2
+
+LVMI : 107.08g/m2
+RWT : 0.35
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1.5        1         1
+Mid          1          1         1         2          2.5       2.5
+Apical       1                    1         1                    2.5
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+   * S/P CABG, MVR (SJ 29mm) - 2008.3.11
+     Poor echo window
+
+1. Normal LV cavity size and lower normal LV systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV with suspicious paravalvular leakage (MR Vmax = 5.8m/sec)
+       mean PG = 7mmHg, MV Vmax = 1.98m/sec
+   Suspicious echogenic mass like lesion of MV (R/O vegetation < thrombus)
+   Thickened AoV with minimal AR
+   Minimal to mild TR with RVSP = 39mmHg
+4. Regional wall motion abnormality (+)
+5. LAE
+
+Conclusion:
+S/P CABG, MVR (SJ 29mm) 2008.3.11
+C/W Ischemic heart disease with lower normal LV systolic function
+- MV inflow velocity가 증가하였고, paravalvular 또는 valvular leakage가 의심되어
+prosthetic valve dysfunction이 의심됩니다. Prosthetic valve에 부착되어 움직이는 
+구조물은 (thrombus > vegetation) 의심됩니다.
+Rec) MV fluoroscopy and TEE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2008-04-23 【접수일】2008-04-23 18:45 【검사일】2008-04-23 18:46 【보고일】2008-04-24 10:03
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박지한 【판독의3】최진오 【확인의】최진오
+환자성명 : PARK SOON JA                          Patient No. : 21151728
+Height: : 154.0cm                                Weight : 66.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/m2
+RWT :
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1.5        1         1
+Mid          1          1         1         2          2.5       2.5
+Apical       1                    1         1                    2.5
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment: < ICU TEE >
+
+    * S/P Redo MVR with SJM 29mm (2008. 3. 27) & CABG
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Prosthetic MV with physiologic MR
+   Thickened AoV with minimal AR
+4. Regional wall motion abnormality (+)
+
+
+Conclusion:
+S/P Redo MVR with SJM 29mm & CABG
+Well functioning prosthetic valve
+No evidence of vegetation
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2008-04-15 【접수일】2008-04-15 15:38 【검사일】2008-04-15 16:22 【보고일】2008-04-16 10:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박지한 【판독의3】최진오 【확인의】최진오
+환자성명 : PARK SOON JA                          Patient No. : 21151728
+Height: : 154.0cm                                Weight : 66.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/m2
+RWT :
+-----------------------------------------------------------------------------
+Comment:  < TEE >
+
+   * S/P Redo MVR with SJM 29mm (2008. 3. 27) & CABG (2008. 3. 11)
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Prosthetic MV with physiologic MR
+   Thickened AoV with minimal AR
+4. Regional wall motion abnormality (+)
+5. No atherosclerotic plaque in thoracic aorta
+
+Conclusion:
+S/P Redo MVR with SJM 29mm & CABG 
+Well functioning prosthetic valve
+* 이전의 검사 (2008. 3. 21)에서 보이던 vegetation 은 관찰되지 않음.
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2008-04-15 【접수일】2008-04-15 15:38 【검사일】2008-04-15 16:22 【보고일】2008-04-16 09:46
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】박지한 【판독의3】최진오 【확인의】최진오
+환자성명 : PARK SOON JA                          Patient No. : 21151728
+Height: : 154.0cm                                Weight : 66.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/m2
+RWT :
+-----------------------------------------------------------------------------
+Comment:  < TEE >
+
+   * S/P Redo MVR with SJM 29mm & CABG 
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Prosthetic MV with physiologic MR
+   Thickened AoV with minimal AR
+4. Regional wall motion abnormality (+)
+5. No atherosclerotic plaque in thoracic aorta
+
+Conclusion:
+S/P Redo MVR with SJM 29mm & CABG 
+Well functioning prosthetic valve
+* 이전의 검사 (2008. 3. 21)에서 보이던 vegetation 은 관찰되지 않음.
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2008-03-27 【접수일】2008-03-27 16:34 【검사일】2008-03-27 16:34 【보고일】2008-03-28 09:28
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김정혁 【판독의2】박승우 【판독의3】박승우 【확인의】박승우
+환자성명 : PARK SOON JA                          Patient No. : 21151728
+Height: : 154.0cm                                Weight : 66.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/m2
+RWT :
+-----------------------------------------------------------------------------
+Comment: < ICU - TEE >
+
+1. Normal LV cavity size & systolic function
+2. Normal LV wall thickness
+3. Valvular MR (highly mobile multiple mass with irregular surface 
+      : size = 1.7 * 0.8cm, 1.4 * 0.2cm)
+4. Regional wall motion abnormality (+)
+
+
+
+Conclusion:
+Prosthetic MV endocarditis > thrombus
+
+

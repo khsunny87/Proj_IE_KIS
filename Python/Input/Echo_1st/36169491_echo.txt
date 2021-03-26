@@ -1,0 +1,129 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2016-06-08 【접수일】2016-06-08 15:26 【검사일】2016-06-08 16:09 【보고일】2016-06-08 17:47
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황지원 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Suspicious constrictive physiology
+Well functioning repaired MV
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal on mitral valve leaflet
+      MVP
+      CABG - 2016.05.28
+* Very poor echo window d/t poor pt`s cooperation and supine position
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve
+-- (1) Repaired MV
+         MV Vmax= 1.15m/s, MV meanPG= 3.4mmHg
+-- (2) Minima lTR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 24.3mmHg (assumed RAP = 5mmHg)
+9. Strain=-6.9% by APLAX
+10. Septal bouncing (+), flat diastolic motion of LV posterior wall
+-- Respiratory variation of mitral inflow >25%
+-- Respiratory variation of tricuspid inflow <45%
+-- Hepatic vein diastolic reversal flow with expiration (+)
+-- Adhesion of mid LV lateral and RV anterior
+-----------------------------------------------------------------------------
+ BP: 106 / 65        Ht: 174cm         Wt: 64kg              BSA: 1.77㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                          MV Doppler
+LVIDd: 53mm        IVSd : 9mm        E:1.03m/s              e`:0.070m/s
+LVIDs: 34mm        LVPWd: 11mm       A: 0.76m/s             a`:0.064m/s
+                   LA: 35mm          E/A: 1.36              E/e`:14.7
+LVEF: 59%          Ao: 38mm          DT:184.7msec           LAVI: 27.5ml/m2
+                                     A-L ( 16.01 / 15.72 / 4.40 )
+LVMI : 138.98 g/m2
+RWT : 0.42
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2016-05-27 【접수일】2016-05-27 13:11 【검사일】2016-05-27 13:39 【보고일】2016-05-27 17:15
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이가연 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+C/W Infective endocarditis at MV
+Severe MR
+LV dilatation
+LA enlargement
+Mild pulmonary hypertension
+
+
+
+▣ 검사정보 및 소견
+
+* Very poor echo window, T-stomy, PCD insertion state
+* Infective endocarditis로 ER 내원
+
+1. LV
+-- (1) Dilated LV cavity size & preserved LV systolic function
+        (EF>55% by visual estimation)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve
+-- (1) MV leaflet vegetation with severe MR
+        MR PISA r= 1.3cm, MV ERO= 94.5mm², MR RV= 86ml
+       Pulmonic vein systolic reversal flow (+)
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : Vegetation attatched to both mitral leaflet   
+                                 (1.5*0.6cm)
+8. RV systolic pressure by TR Vmax = 42.2mmHg (assumed RAP = 5mmHg)
+9. Strain= -14.4% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 104 / 70       Ht: 174cm             Wt: 88kg              BSA: 2.03㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                          MV Doppler
+LVIDd: 59mm        IVSd : 10mm       E:1.41m/s              e`:0.101m/s
+LVIDs: 43mm        LVPWd: 10mm       A:                     a`:0.056m/s
+                   LA: 50mm          E/A:                   E/e`:14.0
+LVEF:              Ao: 32mm          DT:118.7msec           LAVI: 44.5ml/m2
+                                     A-L ( 24.75 / 24.03 / 5.60 )
+LVMI : 147.15 g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

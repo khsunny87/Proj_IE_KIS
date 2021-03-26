@@ -1,0 +1,118 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2007-11-01 【접수일】2007-11-01 13:31 【검사일】2007-11-01 14:00 【보고일】2007-11-01 16:30
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조성원 【판독의3】박승우 【확인의】박승우
+환자성명 : CHOI YOON JUNG                        Patient No. : 20496794
+Height: : 162.0cm                                Weight : 46.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 42mm         IVSd : 7mm          E: 1.23m/s        e`: 0.10m/s
+LVIDs: 26mm         LVPWd: 7mm          A: 1.08m/s        a`: 0.11m/s
+                    LA: 20mm            E/A: 1.13         E/e`: 11.94
+LVEF: 62%           Ao: 30mm            DT: 192msec        LAVI:
+                                                          11.0ml/m2
+LVMI : 58.27g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+   * S/P Bovine patch repair of MV
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Repaired MV with trivial MR (mean PG = 3.9mmHg)
+   Minimal to mild TR (RVSP = 24mmHg)
+4. Paradoxical septal motion
+5. Normal LV diastolic function
+
+Conclusion:
+S/P Bovine patch repair of MV with good post op status
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2007-10-15 【접수일】2007-10-15 15:15 【검사일】2007-10-15 15:30 【보고일】2007-10-16 14:38
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송봉근 【판독의3】박승우 【확인의】박승우
+환자성명 : CHOI YOON JUNG                       Patient No. : 20496794
+Height: : 162.0cm                               Weight : 46.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 48mm         IVSd : 8mm         E: 0.92m/s        e`: 0.06m/s
+LVIDs: 34mm         LVPWd: 8mm         A: 0.96m/s        a`: 0.08m/s
+                    LA: 22mm           E/A: 0.96         E/e`: 15.33
+LVEF: 50%           Ao: 31mm           DT: 147msec       LAVI: 13.8ml/m2
+
+LVMI : 86.77g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+             Ant       A-S       I-S       Inf        I-L       A-L
+Basal        1         1         1         1          1         1
+Mid          1         1         1         1          1         1
+Apical       1                   1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment: * S/P Bovine patch repair of MV
+
+1. Normal LV cavity size and LV systolic function
+2. Normal LV wall thickness
+3. Repaired MV with trivial MR (mPG = 2.6mmHg)
+   Minimal to mild TR with RVSP = 25mmHg
+4. Paradoxical septal motion
+5. Normal LV diastolic function
+6. Redundant IAS
+
+
+Conclusion:
+Good postop. status
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2007-10-09 【접수일】2007-10-09 10:17 【검사일】2007-10-09 10:50 【보고일】2007-10-10 08:58
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조성원 【판독의3】박승우 【확인의】박승우
+환자성명 : CHOI YOON JUNG                       Patient No. : 20496794
+Height: : 0.0cm                                 Weight : 0.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd:              IVSd :             E:                e`:
+LVIDs:              LVPWd:             A:                a`:
+                    LA:                E/A:              E/e`:
+LVEF:               Ao:                DT:               LAVI:
+LVMI : g/m2
+RWT :
+-----------------------------------------------------------------------------
+Comment:
+   * TEE
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Moderate to severe eccentric MR
+      oscillating multiple mass attached to both MVL & post annulus site
+      abscess pocket formation on post. mitral annulus site with perforation
+      ant. mitral valve leaflet perforation
+   Clear AoV
+   Minimal TR
+4. RWMA (-)
+
+Conclusion:
+C/W Infective endocarditis
+Moderate to severe MR with MV perforation
+Vegetation on MV with annulus abscess pocket
+
+

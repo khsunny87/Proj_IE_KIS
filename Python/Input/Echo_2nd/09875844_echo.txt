@@ -1,0 +1,285 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2020-06-09 【접수일】2020-06-09 09:01 【검사일】2020-06-09 10:15 【보고일】2020-06-09 11:33 【서명일】2020-06-16 12:07
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve & repaired TV
+Slightly decreased RV systolic function
+LA enlargement
+Minimal amount of pericardial effusion
+Adhesion of RV without constrictive physiology
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with ON-X conform-X 25/33mm
+      TAP with St.Jude Tailor ring 31mm
+      Removal of vegetations - 2020.06.05
+* Supine position
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and slightly decreased RV systolic function 
+       (TAPSE= 8.6mm, TV TDI S'= 0.089m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Prosthetic mitral valve :
+       MV meanPG= 3.6mmHg, MVA by PHT= 3.3cm² Physiologic MR (+)
+-- (2) Repaired TV : TV meanPG= 1.0mmHg, Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : Minimal amount
+-- RV anterior : 0.23cm at PLAX
+-- Septal bouncing (+)
+-- Ventricular interdependence (+)
+-- Pericardial thickening (-)
+-- Adhesion (+) at RV
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.081m/sec) < Lateral e' (0.088m/sec)
+-- Normal IVC
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 28.9mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -12.47%
+
+-----------------------------------------------------------------------------
+ BP :126 / 85       HR :107       Ht:180.0cm       Wt:71.40kg        BSA:1.90
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 50.1mm       IVSd: 8.7mm           E: 1.46m/s          e': 0.081m/s
+LVIDs: 33.0mm       LVPWd: 8.7mm          A: 0.92m/s          a': 0.073m/s
+                    LA: 30.8mm            E/A: 1.59           E/e': 18.0
+LVEF: 57%           Ao: 29.9mm            DT: 230.2msec       LAVI: 35.5ml/m2
+                                          A-L ( 21.66 / 21.63 / 5.90 )LVMI: 79.92 g/m2
+RWT: 0.35
+
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2020-05-21 【접수일】2020-05-21 07:45 【검사일】2020-05-21 08:10 【보고일】2020-05-21 11:03
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】박승우 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+Moderate eccentric MR d/t MVP
+Echogenic mass at PM commissure of MV : R/O vegetation
+Moderate eccentric TR d/t prolapsed TV
+
+
+▣ 검사정보 및 소견
+
+* Pre-TEE, R/O IE w/u
+* Poor apical view
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+       (LVEF= 60.8% by Simpson's method, LVEDV= 105.00ml, LVESV= 41.20ml)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal
+4. Valve 
+-- (1) Prolapsed MV (mainly A3 & PM commissure) with moderate eccentric MR
+            MR PISA r= 0.72cm, MV ERO= 18.0mm², MR RV= 28.00ml
+            Pulmonic vein systolic reversal flow : (-)
+-- (2) Prolapsed TV with moderate eccentric TR (multiple jets)
+            TR PISA r= 0.71cm
+            Hepatic vein systolic reversal flow: (-)
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- Echogenic mass at PM commissure (1.44*1.03cm at PLAX, 1.37*0.99cm at PSAX) of MV
+8. RV systolic pressure by TR Vmax = 29.4mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -21.5%
+
+-----------------------------------------------------------------------------
+ BP :114 / 81       HR :107      Ht:178.0cm         Wt:72.10kg       BSA:1.89
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 50.7mm       IVSd: 8.8mm           E: 0.78m/s          e': 0.085m/s
+LVIDs: 28.4mm       LVPWd: 9.2mm          A: 0.86m/s          a': 0.082m/s
+                    LA: 36.1mm            E/A: 0.91           E/e': 9.2
+LVEF:               Ao: 26.9mm            DT: 232.4msec       LAVI: 32.6ml/m2
+                                          A-L ( 18.70 / 18.60 / 4.80 )
+LVMI : 85.68 g/m2
+RWT : 0.36
+
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2020-06-02 【접수일】2020-06-02 09:31 【검사일】2020-06-02 10:07 【보고일】2020-06-02 15:58 【서명일】2020-06-16 12:07
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최지훈 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+C/W Infective endocarditis
+-- Non-mobile echogenic mass at posteromedial commissure, r/o vegetation
+-- Thickened A2/A3 portion of MV & LV wall adjecent PMVL, r/o vegetation
+-- Minimal MR jet through LV wall closed to PMVL, r/o perforation
+Moderate eccentric MR
+Moderate eccentric TR
+LA enlargement
+
+
+▣ 의견
+
+Rec) 이전 검사 (2020.05.21) 와 비교시 vegetation으로 의심되는 mass가 약간 감소,
+     MV에 인접한 round-shaped mass 부분은 mobility가 약간 증가하였고 
+     perforation MR도 관찰됩니다
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis F/U
+* Baseline EKG : NSR with HR 60bpm
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 5mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Prolapsed & thickened MVL (mainly A3 & posteromedial commissure)
+       with moderate eccentric MR
+-- (2) Prolapsed TV with moderate eccentric TR (multi jets)
+-- (3) Slightly thickened AV
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation
+-- Non-mobile echogenic mass at posteromedial commissure (2.2x0.7cm),
+   r/o vegetation
+-- Thickened A2/A3 portion of MV & LV wall adjecent PMVL, r/o vegetation
+-- Minimal MR jet through LV wall closed to PMVL, r/o perforation
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done 
+
+-----------------------------------------------------------------------------
+ Ht:180.0cm            Wt:72.80kg           BSA:1.92           과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2020-05-21 【접수일】2020-05-21 07:45 【검사일】2020-05-21 09:06 【보고일】2020-05-21 11:57
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】박승우 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+C/W Infective endocarditis
+-- Non-mobile echogenic mass at posteromedial commissure - r/o vegetation 
+-- Thickened A2/A3 portion of MV & LV wall & MV chordae, r/o vegetation involved
+Moderate eccentric MR
+Moderate eccentric TR
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* R/O IE w/u
+* Baseline EKG : NSR
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 5mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Slightly thickened AV
+-- (2) Prolapsed & thickened MVL (mainly A3 & posteromedial commissure) 
+       and moderate eccentric MR
+        Thickened MV chordae
+-- (3) Prolapsed TV with moderate eccentric TR (multi jets)
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Vegetation (+)
+-- Non-mobile echogenic mass at posteromedial commissure - r/o vegetation
+-- Thickened A2/A3 portion of MV & LV wall & MV chordae, r/o vegetation involved
+8. Intracardiac shunt : none
+9. Pericardial effusion : none
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done
+
+-----------------------------------------------------------------------------
+ Ht:178.7cm            Wt:72.10kg           BSA:1.90           과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】응급
+【처방일】2020-05-21 【접수일】2020-05-21 07:45 【검사일】2020-05-21 09:06 【보고일】2020-05-21 11:04
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】서정훈 【판독의3】박승우 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+C/W Infective endocarditis
+-- Echogenic mass at posteromedial commissure - r/o vegetation
+-- Thickened A2/A3 portion of MV & LV wall & MV chordae, r/o vegetation involved
+Moderate eccentric MR
+Moderate eccentric TR
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* R/O IE w/u
+* Baseline EKG : NSR
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 5mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Slightly thickened AV
+-- (2) Prolapsed & thickened MVL (mainly A3 & posteromedial commissure) 
+       and moderate eccentric MR
+        Thickened MV chordae
+-- (3) Prolapsed TV with moderate eccentric TR (multi jets)
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Vegetation (+)
+-- Echogenic mass at posteromedial commissure - r/o vegetation
+-- Thickened A2/A3 portion of MV & LV wall & MV chordae, r/o vegetation involved
+8. Intracardiac shunt : none
+9. Pericardial effusion : none
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done
+
+-----------------------------------------------------------------------------
+ Ht:178.7cm            Wt:72.10kg           BSA:1.90           과거검사 : Yes
+-----------------------------------------------------------------------------
+

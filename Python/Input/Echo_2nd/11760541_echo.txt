@@ -1,0 +1,190 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2011-08-05 【접수일】2011-08-05 14:04 【검사일】2011-08-05 15:07 【보고일】2011-08-05 16:20
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVP
+Increased prosthetic mitral valve flow d/t PMV calcification
+LA enlargement
+Mild TR
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with St. Jude Epic valve 25mm
+* Mitral valve annular reconstruction with bovine pericardial patch d/t IE      
+  (2011.7.14)
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Well functioning prosthetic mitral valve : meanPG=7.51 mmHg, Trivial MR
+       Heavy PMV annulus calcification 남아있는 MAC 때문에 이부분의 flow 가 
+       약간 acceleration 됨 (MV Vmax = 1.7~1.8 m/sec)
+-- (2) Mild TR
+-- (3) Minimal AR
+5. Great vessel :
+-- Atherosclerotic palque at aortic root
+-- Abdominal aorta size(AP/T) = N/A d/t short term f/u
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 103 / 65             Ht: 148cm          Wt: 56kg             BSA: 1.49㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 48mm         IVSd : 8mm          E: 1.63m/s        e`: 0.033m/s
+LVIDs: 29mm         LVPWd: 9mm          A: 1.50m/s        a`: 0.054m/s
+                    LA: 50mm            E/A: 1.09         E/e`: 49.39
+LVEF: 63%           Ao: 31mm            DT: 370.0msec     LAVI: 61.9ml/m2
+                                        A-L ( 27.6 / 26.1 / 6.6 )
+LVMI : 92g/㎡
+RWT : 0.38
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2011-07-12 【접수일】2011-07-12 13:18 【검사일】2011-07-12 15:04 【보고일】2011-07-13 14:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+C/W Infective endocarditis, more aggravated state
+R/O abscess formation on PMV annulus
+LA enlargement
+Mild pulmonary hypertension
+
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis로 f/u TEE 시행함
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal RV cavity size & systolic function
+3. Atrium : Visually LA enlargmenet
+4. Valve
+-- (1) MV : Heavy PMV annular calcification & thickening
+        -> R/O Inflammatory change or abscess formation
+        (2011.07.05 TEE와 3D Echo 비교시 annulus 주변부의 irregular wall 
+         thickening이 더 증가됨)
+       Minimal MR
+-- (2) Minimal TR, AR
+5. No thrombus & SEC
+   Normal LAA emptying velocity(>40cm/sec)
+6. Vegetation on AMVL tip : 이전검사 (2011.07.05)에 비해 크기 증가됨
+                            (Size : 0.8*0.3cm -> 1.5*0.5cm)
+7. Atherosclerosis on descending aorta & arch
+8. RV systolic pressure by TR Vmax = 46mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 148cm          Wt: 56kg             BSA: 1.48㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2011-07-05 【접수일】2011-07-05 10:52 【검사일】2011-07-05 12:18 【보고일】2011-07-06 10:30
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+C/W Infective endocarditis, more aggravated state
+R/O Abscess formation on PMV annulus
+LA enlargement
+Mild pulmonary hypertension
+
+
+
+▣ 검사정보 및 소견
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal RV cavity size & systolic function
+3. Atrium : LA enlargement
+4. Valve
+-- (1) MV : Heavy PMV annular calcification & thickening
+         -> R/O Inflammatory change or abscess formation
+          (이전에 관찰되었던 posterior annulus 주변부의 echogenic wall 
+           thickening 이 3D echo 비교시 다소 증가되었음)
+       Minimal MR
+-- (2) TV : Minimal to mild TR
+5. No thrombus & SEC
+   Normal LAA emptying velocity(>40cm/sec)
+6. Vegetation on AMVL
+    -> 이전 TEE에 비하여 size 증가됨 (0.45 * 0.35cm -> 0.8 * 0.3cm)
+7. Minimal atherosclerotic plaque on descending aorta
+8. RV systolic pressure by TR Vmax = 48mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 148cm          Wt: 57kg             BSA: 1.50㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2011-06-27 【접수일】2011-06-27 15:09 【검사일】2011-06-27 16:55 【보고일】2011-06-28 13:47
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+C/W Infective endocarditis
+R/O Abscess formation on PMV annulus
+LA enlargement
+Mild TR
+
+
+
+▣ 검사정보 및 소견
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal RV cavity size & systolic function
+3. Atrium : LA enlargement
+4. Valve :
+-- (1) MV : Heavy PMV annular calcification & thickening
+           -> R/O Inflammatory change or abscess formation
+        (LA의 posterolateral annulus 주변의 wall thickening과 echogenic 
+         & echolucent portion이 혼재되어있어 inflammatory change 
+         혹은 abscess formation 으로 생각됨)
+       Miniaml MR, increased mitral inflow velocity (mean PG = 3~4 mmHg)
+-- (2) Mild TR
+5. No thrombus & SEC
+   Normal LAA emptying velocity(>40cm/sec)
+6. Echogenic oscillating material on AMVL (0.45 * 0.35cm)
+-> C/W vegetation
+7. Minimal atherosclerotic plaque on descending aorta
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 148cm          Wt: 60kg             BSA: 1.53㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

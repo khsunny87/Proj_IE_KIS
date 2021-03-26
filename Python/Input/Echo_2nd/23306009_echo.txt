@@ -1,0 +1,256 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2009-10-22 【접수일】2010-01-28 10:26 【검사일】2010-01-28 11:00 【보고일】2010-01-28 16:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이현종 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVP & MAP
+Minimal to mild MR (medial commissure)
+(09년 7월 검사와 비교하여 MR의 양이 약간 감소함)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP & MAP (2009. 6. 23.)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV with minimal to mild eccentric MR (medial commissure & A1)
+          mean PG = 2mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = 9 * 11 mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 29mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 127 / 79             Ht: 165cm          Wt: 44kg             BSA: 1.45㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 45mm         IVSd : 7mm          E: 1.16m/s        e`: 0.107m/s
+LVIDs: 28mm         LVPWd: 7mm          A: 0.41m/s        a`: 0.071m/s
+                    LA: 31mm            E/A: 2.83         E/e`: 10.84
+LVEF: 61%           Ao: 21mm            DT: 236.0msec     LAVI: 23.2ml/m2
+                                        A-L ( 13.0 / 11.1 / 3.7 )
+LVMI : 65.97g/㎡
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-07-14 【접수일】2009-07-14 13:42 【검사일】2009-07-14 14:03 【보고일】2009-07-15 11:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+
+S/P MVP & MAP
+Mild to moderate MR (Medial commissure)
+
+
+
+
+
+▣ 의견
+
+
+Immediate postop 시 관찰되지 않았던 MR이 새로이 관찰됨
+
+
+
+
+▣ 검사정보 및 소견
+
+
+* S/P MVP & MAP (09.6.23)
+1. LV
+(1) Normal LV cavity size & systolic function
+(2) Normal LV wall thickness
+(3) No regional wall motion abnormality
+(4) Normal diastolic function
+2. RV
+(1) Normal RV cavity size and systolic function
+(2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve :
+  1) Mild to moderate MR (medial commissure)
+     PISA radius= 6.2mm, ERO = 19mm2, Regurgitation Volume=22 ml
+  2) Minimal TR
+5. Great vessel : Normal
+--- Abdominal aorta size(AP/T) = not measured d/t short term
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =22 mmHg (assumed RAP =5 mmHg)
+
+-----------------------------------------------------------------------------
+Patient No : 23306009
+BP: 114/82          Height: 167.0cm        Weight: 44.0kg       BSA: 1.47㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 50mm         IVSd : 6mm          E: 1.00m/s        e`: 0.100m/s
+LVIDs: 28mm         LVPWd: 8mm          A: 0.38m/s        a`: 0.060m/s
+                    LA: 30mm            E/A: 2.63         E/e`: 10.00
+LVEF: 69%           Ao: 23mm            DT: 171.0msec     LAVI: 25ml/m2
+                                        A-L ( 13.3 / 13.4 / 4.1 )
+LVMI : 78.03g/㎡
+RWT : 0.32
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-06-29 【접수일】2009-06-29 14:35 【검사일】2009-06-29 14:35 【보고일】2009-06-29 18:41
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】이상철 【확인의】이상철
+Patient No : 23306009
+BP: 121/ 78     Height: 167.0cm        Weight: 45.0kg       BSA: 1.48㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 45mm         IVSd : 9mm          E: 1.10m/s        e`: 0.086m/s
+LVIDs: 28mm         LVPWd: 8mm          A: 0.33m/s        a`: 0.053m/s
+                    LA: 29mm            E/A: 3.33         E/e`: 12.79
+LVEF: 61%           Ao: 26mm            DT: 204.0msec     LAVI:
+                                                          26.11ml/m2
+                                        A-L ( 16.0 / 12.2 / 4.3 )
+LVMI : 83.16g/㎡
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+* S/P MVP & MAP (2009.6.23)
+* Poor echo window (apical window)
+
+I. Normal LV cavity size & systolic function
+2. Normal LV wall thickness
+3. Repaired MV with MR (-)
+     MV meanPG = 1.5mmHg
+   Minimal TR
+   RVSP = 28.6mmHg, assumed RAP = 5mmHg
+4. No regional wall motion abnormality
+   Paradoxical septal motion
+5. Normal LV diastolic function
+6. Prominent echogenic IAS d/t atrial repair site
+7. Minimal amount of pericardial effusion
+    PSAX = lat : 0.38cm
+    A4C = RA : 0.23cm
+
+* abdominal aorta size (AP/T) = N/A d/t op site
+
+Conclusion:
+* S/P MVP & MAP
+Good post-op state
+Minimal amount of pericardial effusion
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-06-18 【접수일】2009-06-18 13:49 【검사일】2009-06-18 13:51 【보고일】2009-06-19 14:53
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【확인의】박성지
+Patient No : 23306009
+BP: 120/ 90     Height: 167.0cm        Weight: 45.0kg       BSA: 1.48㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 51mm         IVSd : 7mm          E:                e`: 0.151m/s
+LVIDs: 29mm         LVPWd: 7mm          A:                a`: 0.092m/s
+                    LA: 33mm            E/A:              E/e`:
+LVEF: 68%           Ao: 23mm            DT:               LAVI: 36.5ml/m2
+                                        A-L ( 18.3 / 15.7 / 4.5 )
+LVMI : 80.22g/㎡
+RWT : 0.27
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:* Poor echo window (apical window)
+
+1. Normal LV cavity size & systolic function
+2. Normal LV wall thickness
+3. Moderate to severe eccentric MR
+    ERO = 37mm2, MR vol = 47ml, VC width = 0.51cm
+     d/t vegetation (size : 0.92 * 0.28cm) & MVL prolapse
+   Minimal TR
+   RVSP = 31mmHg, assumed RAP = 5mmHg
+4. No regional wall motion abnormality
+5. E/A summation d/t tachycardia (HR = about 100bpm), LAE
+* abdominal aorta size (AP/T) = 12 * 14mm
+
+Conclusion:
+Moderate to severe eccentric MR d/t vegetation
+LAE
+No significant interval change compared to last study (2009.6.12)
+Rec) TEE to evaluate the complication 
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2009-06-15 【접수일】2009-06-15 10:23 【검사일】2009-06-15 11:22 【보고일】2009-06-15 15:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】박승우 【확인의】박승우
+Patient No : 23306009
+BP: /           Height: 166.0cm        Weight: 45.0kg       BSA: 1.47㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/㎡
+RWT :
+-----------------------------------------------------------------------------
+Comment:
+Vegetation in mitral valve (1cm size)
+Mitral valve prolapse (P3) with severe MR
+No abscess
+
+
+
+
+

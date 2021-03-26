@@ -1,0 +1,425 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-12-14 【접수일】2019-04-12 09:31 【검사일】2019-04-12 09:59 【보고일】2019-04-12 13:31
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】권희진 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MVR
+Well functioning prosthetic MV
+LA enlargement
+
+- No significant interval change compared with previous exam (2018.02.23)
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis of MV
+* S/P MVR with On-X 23mm
+      Mitral annular reconstruction with Bovine pericardial patch
+      PFO primary closure
+      Conventional pericardiectomy - 2017.11.29
+* HR: 90~99bpm
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+       (TAPSE= 11.8mm, TV TDI S'= 0.090m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Well functioning prosthetic MV
+         MV meanPG= 5.7mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 22.5mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -14.1%
+10. Constricitve physiology (-)
+-- Septal bouncing (+), ventricular interdependence (-)
+-- Adhesion (+/-) at RV side
+-- Respiratory variation of mitral inflow <25%
+-- MV medial e'(0.074m/s) < lateral e' (0.14m/s)
+-- Hepatic vein diastolic reversal flow with expiration (-)
+11. 이전 TTE상 보이던 residual ASD shunt flow (pin point)는 
+    이번 TTE상 관찰되지 않습니다.
+
+-----------------------------------------------------------------------------
+ BP :102 / 62       HR :98       Ht:158.0cm       Wt:41.50kg        BSA:1.37
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 43.1mm       IVSd: 8.5mm           E: 1.40m/s            e': 0.074m/s
+LVIDs: 28.5mm       LVPWd: 7.3mm          A: 1.21m/s            a': 0.062m/s
+                    LA: 44.9mm            E/A: 1.16             E/e': 18.9
+LVEF: 56%           Ao: 30.1mm            DT: 211.0msec         LAVI: 45.1ml/m2                                          A-L ( 20.08 / 18.28 / 5.05 )
+LVMI : 75.91 g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-01-12 【접수일】2018-02-23 09:00 【검사일】2018-02-23 09:11 【보고일】2018-02-23 16:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최기홍 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MVR
+Increased prosthetic mitral valve mean PG
+Slightly decreased RV systolic function
+LA enlargement
+Tiny ASD, L->R shunt
+Pericardial thickening & adhesion at RV side without constrictive physiology
+
+- Slightly decreased MV meanPG (6.8->5.7mmHg) & TR amount compared with previous study 
+  (2017.12.13)
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis of MV
+* S/P MVR with On-X 23mm
+      Mitral annular reconstruction with Bovine pericardial patch
+      PFO primary closure
+      Conventional pericardiectomy - 2017.11.29
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size (base= 41.3mm, mid= 33.5mm at A4C) and 
+       slightly decreased RV systolic function (TAPSE= 13.4mm, TV TDI S'= 0.088m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Well functioning prosthetic mitral valve 
+         MV meanPG= 5.7mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Slightly septal bouncing (+)
+-- Pericardial thickening (+) at RV side
+-- Adhesion (+) at RV side
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.077m/sec) < Lateral e' (0.143m/sec)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor doppler signal (assumed RAP= 5mmHg)
+9. Strain(GL)= -11%
+10. Tiny ASD, L->R shunt
+
+-----------------------------------------------------------------------------
+ BP: 128 / 70      HR : 87      Ht: 158cm       Wt: 42kg      BSA: 1.37㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 43.2mm       IVSd : 8.1mm          E:1.52m/s             e':0.077m/s
+LVIDs: 23.3mm       LVPWd: 8.4mm       A: 1.00m/s          a':0.072m/s
+                    LA: 45.1mm         E/A: 1.52           E/e':19.7
+LVEF: 71%           Ao: 29.9mm         DT:167.9msec        LAVI: 58.1ml/m2
+                                       A-L ( 21.45 / 24.15 / 5.53 )
+LVMI : 94.30 g/m2
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2017-12-13 【접수일】2017-12-13 08:16 【검사일】2017-12-13 08:34 【보고일】2017-12-13 10:32
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR
+Increased prosthetic mitral valve mean PG
+Slightly decreased RV systolic function
+Mild TR
+Borderline pulmonary hypertension
+LA enlargement
+Pericardial thickening & adhesion at RV side without constrictive physiology
+
+- 이전검사 (2017.12.04)와 비교하여 RV size & 
+  MV meanPG (12.6mmHg -> 6.8mmHg)로 감소되었습니다.
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis of MV
+* S/P MVR with On-X 23mm
+      Mitral annular reconstruction with Bovine pericardial patch
+      PFO primary closure
+      Conventional pericardiectomy - 2017.11.29
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size (base= 41.1mm, mid= 32.2mm at A4C) and 
+       slightly decreased RV systolic function (TAPSE= 13.4mm, TV TDI S'= 0.093m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Well functioning prosthetic mitral valve 
+         MV meanPG= 6.8mmHg
+-- (2) Mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Septal bouncing (+)
+-- Pericardial thickening (+) at RV side
+-- Adhesion (+) at RV side
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.080m/sec) Lateral e' (0.10m/sec)
+-- Normal IVC
+-- Normal hepatic vein
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 36.9mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -18.4%
+10. 이전 TTE상 보이던 residual ASD shunt flow (pin point)는 
+    이번 TTE상 관찰되지 않습니다.
+
+-----------------------------------------------------------------------------
+ BP: 122 / 68       HR : 82       Ht: 158cm     Wt: 42kg        BSA: 1.38㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV DopplerLVIDd: 48.0mm      IVSd : 7.9mm        E:1.76m/s           e':0.080m/s
+LVIDs: 31.0mm      LVPWd: 8.2mm        A: 0.71m/s          a':0.058m/s
+                   LA: 47.2mm          E/A: 2.48           E/e':22.0
+LVEF: 58%          Ao: 30.2mm          DT:227.2msec        LAVI: 45.3ml/m2
+                                       A-L ( 18.66 / 20.87 / 5.30 )
+LVMI : 110.40 g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2017-12-04 【접수일】2017-12-04 14:39 【검사일】2017-12-04 15:06 【보고일】2017-12-04 17:34
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR
+Increased prosthetic mitral valve meanPG
+Dilated RV cavity size and slightly decreased RV systolic function
+LA enlargement
+Mild TR
+Mild pulmonary hypertension
+Residual ASD shunt flow with L -> R shunt (Pin point size)
+Pericardial thickening & adhesion of RV side without definitive constrictive physiology
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis of MV
+* S/P MVR with On-X 23mm
+      Mitral annular reconstruction with Bovine pericardial patch
+      PFO primary closure
+      conventional pericardiectomy - 2017.11.29
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Dilated RV cavity size (base= 47.8mm, mid= 32.1mm at A4C) and 
+       slightly decreased RV systolic function (TAPSE= 9.6mm, TV TDI S'= 0.088m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement (RA= 41.7mm at A4C)
+4. Valve 
+-- (1) Well functioning prosthetic mitral valve 
+         MV meanPG= 12.6mmHg, Physiologic MR (+)
+-- (2) Mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 44.0mmHg(assumed RAP= 5mmHg)
+-- IVC diameter =13.5mm, plethora: (-)
+9. Strain(GL)= -17%
+10. Large amount of pleural effusion (+)
+11. Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Ventricular interdependence (-)
+-- Pericardial thickening (+) of RV side
+-- Adhesion (+) of RV side
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.079m/sec) < Lateral e' ( 0.083m/sec)
+-- Normal IVC (IVC = 13.5mm)-- IVC plethora (-)
+-- Normal hepatic vein
+12. Residual ASD shunt flow with L -> R shunt, size : not measurable
+
+-----------------------------------------------------------------------------
+ BP: 149 / 83       HR : 94      Ht: 158cm       Wt: 44kg       BSA: 1.4㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 46.2mm      IVSd : 9.0mm        E:1.98m/s            e':0.079m/s
+LVIDs: 29.8mm      LVPWd: 10.2mm       A:                   a':0.074m/s
+                   LA: 51.0mm          E/A:                 E/e':25.1
+LVEF: 58%          Ao: 28.0mm          DT:292.0msec         LAVI:N/A
+                                      
+LVMI : 129.64 g/m2
+RWT : 0.44
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2017-11-24 【접수일】2017-11-24 16:01 【검사일】2017-11-24 16:20 【보고일】2017-11-24 17:16
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+MV chordae rupture & r/o infective endocarditis
+Mild MR
+LA enlargement
+Moderate pulmonary hypertension
+Small secundum ASD
+
+
+▣ 의견
+
+REC) TEE for evaluation of vegetation / clinical condition
+
+
+▣ 검사정보 및 소견
+
+* CKD
+* R/O I.E
+* HR = 115 BPM
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function d/t E/A summation
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- Ruptured chordae with suspicious vegetation like mass attached to anterior leaflet
+   Mild MR
+-- Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Vegetation (+) : Mobile mass lesion attached to MV (size : 1.98 * 1.66cm)
+8. RV systolic pressure by TR Vmax = 54.8mmHg (assumed RAP= 10mmHg)
+    Normal IVC( 11.7mm) , plethora: (+)
+9. Strain(GL)= -18.5%
+10. Small secundum ASD, L-R shunt(+), defect size= N/A
+
+-----------------------------------------------------------------------------
+ BP: 97 / 66      HR : 112      Ht: 153cm      Wt: 43kg      BSA: 1.36㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 48.3mm       IVSd : 8.8mm          E:                  e':
+LVIDs: 28.5mm       LVPWd: 7.9mm          A:                  a':
+                    LA: 50.1mm            E/A:                E/e':
+LVEF: 65%           Ao: 29.5mm            DT:                 LAVI: 59.0ml/m2
+                                          A-L ( 21.63 / 21.87 / 5.01 )
+LVMI : 119.17 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2017-11-27 【접수일】2017-11-27 08:39 【검사일】2017-11-27 09:09 【보고일】2017-11-27 16:43
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지훈 【판독의2】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+C/W Infective endocarditis (MV vegetation)
+Moderate eccentric MR with R/O perforation of AMVL
+Mild TR
+PFO type ASD
+
+
+▣ 의견
+
+Chordae rupture가 동반되어 있을 가능성이 있습니다.
+
+
+▣ 검사정보 및 소견
+
+* TEE for infective endocarditis w/u
+* Baseline EKG : NSR with HR 130bpm
+* Midazolam 5mg IV was done
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) More than moderate eccentric MR : PISA radius= 0.40cm
+-- (2) Mild TR
+6. Thrombus (-) and SEC (-) in LA
+   LAA was not well visualized
+7. Mass and Vegetation 
+-- Mobile mass (1.99 * 1.47cm) attached to AMVL - C/W vegetation
+-- Linear structure attached to vegetation - R/O chordae rupture
+-- Microperforation of prolapsed AMVL
+8. Intracardiac shunt : PFO type ASD (L -> R shunt)
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+    (thickness < 2mm)
+
+-----------------------------------------------------------------------------
+   Ht: 158cm     Wt: 43kg      BSA: 1.4㎡     과거검사 : Yes
+-----------------------------------------------------------------------------
+

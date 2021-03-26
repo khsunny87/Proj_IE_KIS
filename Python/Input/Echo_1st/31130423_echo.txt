@@ -1,0 +1,373 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2013-08-28 【접수일】2013-08-28 08:18 【검사일】2013-08-28 08:59 【보고일】2013-08-28 15:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김범성 【판독의3】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+Good op status
+
+- No significant interval change compared with previous study (2013.8.6)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium-2013.07.31
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal wall motion
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV with minimal MR
+         mean PG= 3.6mmHg
+-- (3) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = 13 * 14mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 20mmHg (assumed RAP = 5mmHg)
+9. Constrictive physiology (-)
+-- Septal bouncing (+), ventricular interdependence (-)
+-- Respiratory variation of mitral inflow <25%
+-- Respiratory variation of tricuspid inflow <45%
+-- Hepatic vein diastolic reversal flow with expiration :N/A
+-- Normal IVC & HV
+
+-----------------------------------------------------------------------------
+BP: 109 / 57             Ht: 164cm          Wt: 48kg             BSA: 1.50㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 46mm         IVSd : 7mm          E: 1.38m/s        e`: 0.099m/s
+LVIDs: 30mm         LVPWd: 8mm          A: 0.67m/s        a`: 0.073m/s
+                    LA: 27mm            E/A: 2.06         E/e`: 13.94
+LVEF: 57%           Ao: 29mm            DT: 268.0msec     LAVI: 25ml/m2
+                                        A-L ( 15.6 / 14.2 / 5.0 )
+LVMI : 72.31g/㎡
+RWT : 0.35
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2013-08-06 【접수일】2013-08-06 15:49 【검사일】2013-08-06 16:23 【보고일】2013-08-06 17:23
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+Good postop state
+Minimal amount of pericardial effusion (only RV side)
+- paradoxical septal bouncing은 관찰되나 constrictive physiology는 관찰되지 않음
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium-2013.07.31
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+       (LVEF=55-60% by visual estimation)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal wall motion
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired mitral valve : meanPG= 3.73mmHg,
+   Valvular minimal MR
+-- (3) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = 13*14 mm
+6. Pericardial effusion : minimal
+-- RV side 0.2-03cm
+-- Septal bouncing (+)
+   No respiratory variation of mitral inflow
+   No respiratory variation of tricuspid inflow
+   Postop bandage로 명확히 관찰은 힘드나
+   보이는한 Normal IVC & hepatic vein, No Hepatic vein
+   diastolic reversal flow with expiration
+   Respiratory variation on SVC flow (+)
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 20mmHg (assumed RAP = 5mmHg)
+9. AFI (+)
+
+-----------------------------------------------------------------------------
+BP: 104 / 64             Ht: 164cm          Wt: 47kg             BSA: 1.49㎡
+과거검사 : Yes
+----------------------------------------------------------------------------- 
+M-Mode data                             MV Doppler
+LVIDd: 40mm         IVSd : 7mm          E: 1.36m/s        e`: 0.070m/s
+LVIDs: 28mm         LVPWd: 7mm          A: 0.79m/s        a`: 0.060m/s
+                    LA: 24mm            E/A: 1.72         E/e`: 19.43
+LVEF: %             Ao: 26mm            DT: 283.0msec     LAVI: 24.7ml/m2
+
+                                        A-L ( 15.7 / 13.9 / 5.0 )
+LVMI : 52.59g/㎡
+RWT : 0.35
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-04-08 【접수일】2014-07-25 15:27 【검사일】2014-07-25 15:32 【보고일】2014-07-25 16:29
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이승화 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+Good op status
+
+-- No significant interval change compared with previous study. (2013.12.31)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium (2013.07.31)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal wall motion
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV with minimal MR
+        mean PG=2.6mmHg
+-- (3) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =21mmHg (assumed RAP = 5mmHg)
+9. Slightly septal bouncing(+)
+   No significant constrictive physiology
+10. Strain=-16.4% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 100 / 68             Ht: 164cm          Wt: 49kg             BSA: 1.52㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 46mm         IVSd : 7mm          E: 1.07m/s        e`: 0.120m/s
+LVIDs: 27mm         LVPWd: 7mm          A: 0.44m/s        a`: 0.046m/s
+                    LA: 30mm            E/A: 2.43         E/e`: 8.92
+LVEF: 66%           Ao: 26mm            DT: 306.0msec     LAVI: 28ml/m2
+                                        A-L ( 16.6 / 15.6 / 5.0 )
+LVMI : 65.35g/㎡
+RWT : 0.30
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2013-10-29 【접수일】2013-12-31 11:45 【검사일】2013-12-31 13:11 【보고일】2013-12-31 15:26
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김범성 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+Good op status
+
+-- No significant interval change compared with previous study (2013.08.28)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium (2013.07.31)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal wall motion
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV with minimal MR
+         mean PG=4.1mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =19mmHg (assumed RAP = 5mmHg)
+9. 3DEF= 65%
+10. Slightly septal bouncing(+)
+    No significant constrictive physiology
+
+-----------------------------------------------------------------------------
+BP: 103 / 71             Ht: 164cm          Wt: 49kg             BSA: 1.51㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 45mm         IVSd : 7mm          E: 1.36m/s        e`: 0.117m/s
+LVIDs: 26mm         LVPWd: 7mm          A: 0.91m/s        a`: 0.043m/s
+                    LA: 31mm            E/A: 1.49         E/e`: 11.62
+LVEF: 67%           Ao: 28mm            DT: 315.0msec     LAVI: 25.5ml/m2
+                                        A-L ( 16.4 / 15.5 / 5.8 )
+LVMI : 63.35g/㎡
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2013-07-30 【접수일】2013-07-30 08:45 【검사일】2013-07-30 11:31 【보고일】2013-07-31 13:27
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조은정 【판독의3】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+Most likely vegetation
+: oscillating mass attached to posterior mitral annulus (P2 portion) and LA wall
+Moderate to severe eccentric MR
+Small to moderate pericardial effusion
+
+
+
+▣ 검사정보 및 소견
+
+* Baseline ECG : NSR
+
+1. Visually normal LV cavity size & LV systolic dysfunction
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size : LA enlargement, RA enlargement
+5. Valve: moderate to severe eccentric MR (A3 > A2) with shorterned PMVL
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal (40cm/s) LAA emptying velocity
+7. Mass & vegetation: ( + )
+   : Oscillating mass (1*0.5*1.2cm 또는 1.4*0.8cm) attached to posterior 
+     mitral annulus (P2 portion) and LA wall : R/O vegetation
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( + )
+   : Small to moderate pericardial effusion
+10. Atherosclerotic plaque ( - ) in aortic arch & thoracic descending aorta
+
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 165cm          Wt: 50kg             BSA: 1.53㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2015-02-17 【접수일】2015-08-11 10:12 【검사일】2015-08-11 11:18 【보고일】2015-08-11 17:11
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황진경 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVP, MAP with bovine pericardium
+Mild eccentric MR
+
+- No significant interval change compared with previous study (2014.07.25)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP with bovine pericardium (2013.07.31)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal wall motion
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV with shorthened PMVL (mean PG=2.8mmHg)
+       Mild eccentric MR (VC=0.48cm)
+-- (3) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =18.5mmHg (assumed RAP = 5mmHg)
+9. Slightly septal bouncing(+)
+   No significant constrictive physiology
+10. 3DEF=66.1%
+
+-----------------------------------------------------------------------------
+BP: 114 / 76             Ht: 165cm          Wt: 22kg             BSA: 1.07㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 46mm         IVSd : 7mm          E: 1.20m/s        e`: 0.147m/s
+LVIDs: 30mm         LVPWd: 6mm          A: 0.52m/s        a`: 0.058m/s
+                    LA: 29mm            E/A: 2.31         E/e`: 8.16
+LVEF: 57%           Ao: 27mm            DT: 229.0msec     LAVI: 28.1ml/m2
+                                        A-L ( 13.1 / 12.6 / 4.7 )
+LVMI : 84.57g/㎡
+RWT : 0.26
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

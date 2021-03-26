@@ -1,0 +1,133 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2008-09-02 【접수일】2008-09-02 10:57 【검사일】2008-09-02 11:11 【보고일】2008-09-03 11:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】최진오 【확인의】최진오
+환자성명 : CHUN NA MI JA                         Patient No. : 20173518
+Height: : 155.0cm                                Weight : 52.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 56mm         IVSd : 9mm          E: 1.55m/s        e`: 0.06m/s
+LVIDs: 36mm         LVPWd: 9mm          A: 1.16m/s        a`: 0.05m/s
+                    LA: 37mm            E/A: 1.34         E/e`: 24.60
+LVEF: 59%           Ao: 32mm            DT: 517msec       LAVI: 38.3ml/m2
+
+LVMI : 128.61g/m2
+RWT : 0.32
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+  * S/P MVR (SJM 29mm), recontruction of MV annulus (2007. 7. 23)
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Moderate AR (VC width = 0.31cm, PHT = 461msec) without diastolic reversal  
+   flow on descending aorta
+   Mild to moderate TR with RVSP = 39mmHg
+   Prosthetic tissue MV without MR (mean PG = 5.5mmHg)
+   Oscillating thread like material on AoV (0.54cm), MV (0.86cm * 0.5cm)
+4. No regional wall motion abnormality
+5. LAE
+
+Conclusion:
+Moderate AR with oscillating like material on AoV
+R/O infective endocarditis on AoV
+Mild to moderate TR
+R/O vegetation on MV 
+(이전 검사와 비교할때 vegetation으로 생각하는 병변의 크기는 줄어들지 않은 상태로  지속적으로 관찰됨)
+S/P MVR with good prosthetic MV function
+Rec) TEE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2007-07-30 【접수일】2007-07-30 08:58 【검사일】2007-07-30 09:14 【보고일】2007-07-31 08:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최승민 【판독의3】박승우 【확인의】박승우
+환자성명 : CHUN NA MI JA                        Patient No. : 20173518
+Height: : 155.0cm                               Weight : 54.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 50mm         IVSd : 10mm        E: 1.38m/s        e`: 0.04m/s
+LVIDs: 36mm         LVPWd: 11mm        A: 1.60m/s        E/e`: 34.50
+                    LA: 34mm           E/A: 0.86         LAVI:
+LVEF:   %           Ao: 31mm           DT: 288msec         29.0ml/m2
+-----------------------------------------------------------------------------
+[RWMA]
+             Ant       A-S       I-S       Inf        I-L       A-L
+Basal        1         1         1         1          1         1
+Mid          1         1         1         1          1         1
+Apical       1                   1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+  * S/P MVR (Biocor 29mm), recontruction of MV annulus (2007. 7. 23)
+
+  1. Normal LV cavity size and lower nomal LV systolic function
+     (LVEF = 50% by A - L method)
+  2. Normal LV wall thickness
+  3. Prosthetic (tissue) MV : mean PG = 5.3mmHg
+     Minimal to mild TR (RVSP = 29mmHg)
+  4. No regional wall motion abnormality
+
+
+Conclusion:
+Good post op, state (MVR)
+Minimal to mild TR
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2007-07-23 【접수일】2007-07-23 09:15 【검사일】2007-07-23 09:47 【보고일】2007-07-24 10:15
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】박승우 【확인의】박승우
+환자성명 : CHUN NA MI JA                        Patient No. : 20173518
+Height: : 0.0cm                                 Weight : 0.00kg
+Previous exam : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd:              IVSd :             E:                e`:
+LVIDs:              LVPWd:             A:                E/e`:
+                    LA:                E/A:              LAVI:
+LVEF:               Ao:                DT:
+-----------------------------------------------------------------------------
+[RWMA]
+             Ant       A-S       I-S       Inf        I-L       A-L
+Basal        1         1         1         1          1         1
+Mid          1         1         1         1          1         1
+Apical       1                   1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+  1. Visually normal LV cavity size and normal LV systolic function
+  2. Visually normal LV wall thickness
+  3. MV : prolapse of medial commissure with severe MR ( mainly P3)
+          PV systolic flow reversal (+) & LAA flow (+)
+          vegetation on AMVL 
+            A2, A3 부위 ; irregular shape의 oscillating enlongated mass like 
+                          lesion (12.5 * 0.3cm)
+     AV : no significant abnormal findings
+     Aortomitral intervalvular fibrous tissue 
+        ; no definite evidence of periaortic valvular abscess
+     Mild TR
+  4. LA & LAA ; no thrombus
+  5. LAE
+
+Conclusion:
+C/W Infective endocarditis on MV
+Severe MR with MVP
+
+

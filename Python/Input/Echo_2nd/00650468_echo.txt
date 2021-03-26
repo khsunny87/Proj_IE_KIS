@@ -1,0 +1,172 @@
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】외래
+【처방일】2002-07-03 【접수일】2002-07-20 08:59 【검사일】2002-07-20 09:53 【보고일】2002-07-22 08:47
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이경진 【확인의】이상철
+Video no:	TEE194-12950	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   <TEE findings>
+   S/P MVR
+
+1. Visually normal LV cavity size & contractility
+2. Prosthetic MV : physiologic MR
+3. No thrombus in LA & LAA
+4. No thrombus in prosthetic MV annulus
+      ; TTE 시에 보였던 echogenic shadow 는 artifact로 생각됨.
+  
+Conclusion:
+Well functioning prosthetic MV 
+    with no annulus thrombus
+
+
+
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2011-06-08 【접수일】2011-06-08 08:46 【검사일】2011-06-08 10:33 【보고일】2011-06-09 10:18
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+Tiny mobile material on prosthetic MV
+LV dilatation
+LA enlargement
+Mild paravalvular leakage of prosthetic MV
+-- 이전 TEE (2011.06.01)와 큰 차이 없습니다
+
+
+
+▣ 의견
+
+REC) Fibrotic material일 가능성 높으나 clinical correlation이 필요할 것으로 생각됩니다
+
+
+
+▣ 검사정보 및 소견
+
+1. Visually dilated LV cavity size & systolic function
+2. Visually normal RV cavity size & systolic function
+3. Atrium : LA enlargement
+4. Valve :
+-- (1) Prosthetic MV : Mean PG = 2~3mmHg
+                     Physiologic minimal MR & mild paravalvular leakage
+-- (2) Minimal TR
+5. No thrombus & SEC
+   Normal LAA emptying velocity(>40cm/sec)
+6. Tiny mobile materail attached to prosthetic MV
+     -> No significant change
+        R/O Fibrotic material, less likely vegetation
+7. Mild atherosclerosis on descending aorta & arch
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 167cm          Wt: 68kg             BSA: 1.76㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2011-05-31 【접수일】2011-06-01 09:03 【검사일】2011-06-01 11:19 【보고일】2011-06-03 14:22
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】안계택 【판독의2】박성지 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Tiny mobile material on prosthetic MV ( R/O Vegetation)
+LA enlargement
+LV dilatation
+Mild paravalvular leakage of prosthetic MV
+
+
+
+
+▣ 의견
+
+Rec) 1주 동안 antibiotics management 이후 f/u TEE 시행하여 이번에 관찰된 material의 F/U이 요구됩니다
+
+
+
+▣ 검사정보 및 소견
+
+1. Visually dilated LV cavity size & normal systolic function
+2. Visually normal RV cavity size & systolic function
+3. Atrium : LA enlargement
+4. Valve
+-- (1) Prosthetic MV : Mean PG = 3~4mmHg
+                       Physiologic minimal MR & mild paravalvular leakage
+-- (2) Minimal TR
+5. No thrombus & SEC
+   Normal LAA emptying velocity
+6. Tiny mobile material attached to prosthetic MV
+7. Mild atherosclerosis on descending aorta & arch
+
+-----------------------------------------------------------------------------
+Ht: 167cm          Wt: 68kg             BSA: 1.77㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】응급
+【처방일】2011-05-31 【접수일】2011-06-01 09:03 【검사일】2011-06-01 11:19 【보고일】2011-06-02 14:19
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】안계택 【판독의3】최진오 【확인의】박성지
+▣ 결론 및 진단
+
+Vegetation on prosthetic MVL
+LA enlargement
+LV dilatation
+Mild paravalvular leakage of prosthetic MV
+
+
+
+
+▣ 의견
+
+Rec) f/u TEE 1wk later
+
+
+▣ 검사정보 및 소견
+
+1. Visually dilated LV cavity size & normal systolic function
+2. Visually normal RV cavity size & systolic function
+3. Atrium : LA enlargement
+4. Valve
+-- (1) Prosthetic MV : Mean PG = 3~4mmHg
+                       Physiologic minimal MR & mild paravalvular leakage
+-- (2) Minimal TR
+5. No thrombus & SEC
+   Normal LAA emptying velocity
+6. Vegetation on prosthetic MVL
+    : Tiny mobile material attached to prosthetic MVL
+7. Mild atherosclerosis on descending aorta & arch
+
+-----------------------------------------------------------------------------
+Ht: 167cm          Wt: 68kg             BSA: 1.77㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,45 @@
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2012-08-03 【접수일】2012-08-03 10:39 【검사일】2012-08-03 10:41 【보고일】2012-08-06 16:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】정승민 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+C/W infective endocarditis
+Moderate MR with highly mobile large sized vegetation
+Moderate MS
+
+
+
+▣ 의견
+
+환자 respiratory distress & hypoxia있어 검사를 조기종료하였습니다
+
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis w/u
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. No regional wall motion abnormality
+4. Visually enlarged LA and RA cavity size
+5. Valve :
+-- (1) Moderate MR with highly mobile large sized vegetation attached to AMVL
+      (1.5*0.6cm)
+       thickened and calcified MV with moderate MS
+-- (2) Thickened AoV
+6. No evidence of thrombus or SEC in LA & LAA
+   No mass
+   Decreased LAA emptying velocity
+7. No shunt flow
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 0cm            Wt: 0kg              BSA: 0.00㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

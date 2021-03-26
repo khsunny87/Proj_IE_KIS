@@ -1,0 +1,85 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-02-23 【접수일】2005-02-23 13:19 【검사일】2005-02-23 13:22 【보고일】2005-02-25 09:51
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】권성욱 【확인의】이상철
+Video no:	AC191-5632	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	45	mm	IVSd:	9	mm	E:	1.24	m/sec	   	e':	m/sec
+LVIDs:	27	mm	LVPWd:	9	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	45	mm	E/A:	   	   	LA volume index:
+LVEF:	64	%	Ao:	33	mm	DT:	112	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR, A. fib 
+
+1. Normal LV cavity size and lower normal LV systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV : mean PG = 3mmHg 
+   Mild TR with RVSP = 28mmHg 
+   Minimal AR 
+4. No regional wall motion abnormality
+5. LAE 
+6. Pericardial effusion (+) (circumferentially < 0.5cm)
+  
+Conclusion:
+S/P MVR 
+Good post op state 
+A. fib with LAE 
+Minimal amount pericardial effusion
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2005-02-16 【접수일】2005-02-16 14:31 【검사일】2005-02-16 15:19 【보고일】2005-02-17 09:08
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임수진 【확인의】박승우
+Video no:	TEE265-11029	   	   	   	과거검사 여부:	No
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal LV cavity size and systolic function
+2. Visually normal LV wall thickness
+3. PMVL prolapse & thickening with severe eccentric MR 
+        minimal TR (RVSP = 42mmHg)
+   PISA radius : 1.5cm 
+   Multiple vegetation at both leaflets (MV)
+        1.43 * 0.25cm sized, 0.68 * 0.45cm sized, 0.43cm sized 
+   AV vegetation at NCC (10.39 * 0.34cm sized)
+4. No regional wall motion abnormality
+5. Thrombus (-) LAA velocity : 0.61m/sec
+  
+Conclusion:
+Multiple vegetation at MV & AV 
+PMVL prolapse, severe MR 
+Borderline pulm. HTN
+
+

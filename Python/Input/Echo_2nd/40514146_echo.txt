@@ -1,0 +1,256 @@
+=================================================================================
+【검사명】Limited echo (단순echo) [BS2224]  【구분】입원
+【처방일】2019-04-16 【접수일】2019-04-16 15:06 【검사일】2019-04-16 15:38 【보고일】2019-04-16 17:16
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Severe LV systolic dysfunction with increased LV filling pressure
+LV dilatation
+RV dilatation
+Slightly decreased RV systolic function
+Severe TR
+Moderate to severe eccentric AR
+Both atrial enlargement
+Dilated pulmonary artery (MPA= 30.6mm)
+
+- Aggaravated LV & RV systolic dysfunction and increased TR & AR amount and 
+  RV cavity size compared to previous study (2019.03.26)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with Carpentier-Edwards PERIMOUNT Magna Ease 27mm
+      MV vegetation removal - 2019.03.19
+* HR= 95-100 BPM
+
+1. LV
+-- (1) Dilated LV cavity size and severe LV systolic dysfunction
+       (LVEF= 32.1% by Simpson's method, LVEDV= 234.18ml, LVESV= 159.11ml)
+-- (2) Normal LV wall thickness
+-- (3) Severe global hypokinesia
+-- (4) Indeterminate diastolic function d/t E/A summation
+2. RV
+-- (1) Dilated RV cavity size (base= 47.8mm, mid= 32.3mm at A4C) and
+       slightly decreased RV systolic function (TAPSE= 15.3mm, TV TDI S'= 0.087m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 50.8mm at A4C)
+4. Valve
+-- (1) Thickened AV with moderate to severe eccentric AR
+         AR PISA r= 0.73cm, AR ERO= 24.1mm², AR RV= 32.09ml, AR PHT= 155msec,
+         Holodiastolic reversal flow in descending thoracic aorta :(-) AR VTI= 7.46cm,
+         Holodiastolic reversal flow in abdominal aorta :(-)
+-- (2) Well functioning bio-prosthetic MV
+         MV meanPG= 4.6mmHg,
+-- (3) Severe TR with coaptation failure
+         TV VC width= 0.83cm, TR PISA r= 0.78cm,
+         Hepatic vein systolic reversal flow: (+)
+5. Great vessel
+-- Pulmonary Artery (mid-systole시): Dilated pulmonary artery
+     MPA= 30.6mm, LPA= 19.1mm, RPA= 20.8mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 34.5mmHg (assumed RAP= 5mmHg)
+-- IVC diameter =18.6mm, plethora: (-)
+-- Mean PA pressure by PR Vmax = 28.3 mmHg
+9. Strain(GL)= -6.3%
+
+-----------------------------------------------------------------------------
+ BP :109 / 72       HR :87       Ht:153.0cm       Wt:52.00kg       BSA:1.48
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                      MV Doppler
+LVIDd: 62.1mm    IVSd: 7.6mm    E:                  e': 0.060m/s
+LVIDs: 53.8mm    LVPWd: 9.0mm   A:                  a': 0.053m/s
+                 LA: 53.4mm     E/A:                E/e':
+LVEF             Ao: 33.7mm     DT:                 LAVI: 100.7ml/m2
+                                A-L ( 30.18 / 34.27 / 5.90 )
+LVMI : 139.80 g/m2
+RWT : 0.29
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         2         2         2         2         2         2
+Mid           2         2         2         2         2         2
+Apical        2                   2         2                   2
+Apex          2
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Limited echo (단순echo) [BS2224]  【구분】입원
+【처방일】2019-02-18 【접수일】2019-03-18 09:26 【검사일】2019-03-18 11:06 【보고일】2019-03-18 17:06
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Mild LV systolic dysfunction
+LV dilation
+Moderate to severe eccentric MR
+Oscillating material attached to AMV -> R/O vegetation
+Mild AR
+Borderlin pulmonary hypertension
+Minimal amount of pericardial effusion
+
+-- Newly appeared oscillating material at AMV & increased MR amount compared to last study (2019.01.28)
+
+
+▣ 의견
+
+Rec) blood culture & Empiric Abs.
+     prn. surgical treatment
+
+
+▣ 검사정보 및 소견
+
+* Acute promytelocytic leukemia
+* Lt MCA infarction
+* Limited study d/t LV function f/u
+
+1. LV
+-- (1) Dilated LV cavity size and mild LV systolic dysfunction
+       (LVEF= 43.1% by Simpson's method, LVEDV= 196.08ml, LVESV= 111.55ml)
+-- (2) Normal LV wall thickness
+-- (3) Mild global hypokinesia
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+3. Atrium : LA enlargement, RA enlargement
+4. Valve 
+-- (1) Thickened AV with mild AR,
+-- (2) Moderate to severe eccentric MR
+         Pulmonic vein systolic reversal flow : (-)
+       Oscillating material (2.15*0.5cm) attached to AMV -> R/O vegetation
+-- (3) Minimal to mild TR (RVSP=35.5mmHg)
+5. Pericardial effusion : Minimal amount
+-- LV posterior : 0.43cm at PLAX
+-- LV posterior : 0.41cm at PSAX
+-- RA side : 0.59cm at subcostal view
+
+-----------------------------------------------------------------------------
+ BP :115 / 73      HR :104      Ht:156.0cm      Wt:46.00kg        BSA:1.42
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data
+LVIDd: 62.1 mm      IVSd : 8.8 mm
+LVIDs: 45.6 mm      LVPWd: 7.5 mm
+                    LA: 46.2 mm
+LVEF                Ao: 34.8 mm
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-03-25 【접수일】2019-03-26 15:24 【검사일】2019-03-26 15:55 【보고일】2019-03-26 17:01
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+Increased MV meanPG (tachycardia로 overestimation 되었을 가능성 있음)
+Moderate eccentric AR
+Mild TR
+LV dilatation with moderate LV systolic dysfunction
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* HR : 90~100bpm
+* S/P MVR with Carpentier-Edwards PERIMOUNT Magna Ease 27mm
+      MV vegetation removal (2019.03.19)
+
+1. LV
+-- (1) Dilated LV cavity size and moderate LV systolic dysfunction
+       (LVEF= 36.7% by Simpson's method, LVEDV= 170.12ml, LVESV= 107.72ml)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+)
+-- (4) Indeterminate diastolic function d/t E/A summation
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Thickened AV with moderate eccentric AR
+         AR PISA r= 0.66cm, AR ERO= 20.1mm², AR RV= 27.41ml, AR PHT= 320msec
+         Holodiastolic reversal flow in descending thoracic aorta :(+) AR VTI= 7.19cm
+         Holodiastolic reversal flow in abdominal aorta :(-)
+-- (2) Well functioning bioprosthetic mitral valve :
+         MV meanPG= 7.9mmHg
+-- (3) Mild TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Annulus = 19.1 mm,
+     Sinus of Valsalva= 37.5mm
+     Ascending aorta= 35.9mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 26.5mmHg (assumed RAP= 5mmHg)
+9. Strain(GL)= -8.2%
+
+-----------------------------------------------------------------------------
+ BP :94 / 57       HR :93       Ht:153.0cm      Wt:44.40kg       BSA:1.38
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 63.4mm      IVSd: 8.5mm          E:                  e':
+LVIDs: 48.8mm      LVPWd: 9.1mm         A:                  a':
+                   LA: 43.3mm           E/A:                E/e':
+LVEF               Ao: 36.1mm           DT:                 LAVI: 50.2ml/m2
+                                        A-L ( 22.29 / 19.75 / 5.40 )LVMI : 167.20 g/m2
+RWT : 0.29
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         2         2         1.5       1         1
+Mid           1         2         2         1.5       1         1
+Apical        2                   2         2                   1.5
+Apex          1.5
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2019-03-19 【접수일】2019-03-19 09:44 【검사일】2019-03-19 10:24 【보고일】2019-03-19 15:21
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】현철원 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+R/O Vegetation on mitral valve with moderate to severe eccentric MR
+Mild AR d/t coaptation abnormality
+Mild LV systolic dysfunction
+LV dilatation
+Minimal amount of pericardial effusion
+
+
+▣ 검사정보 및 소견
+
+* w/u for MR, vegetation
+* Baseline EKG : NSR
+
+1. Visually dilated LV cavity size and mild LV systolic dysfunction
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : normal
+5. Valve
+-- (1) Moderate to severe eccentric MR (2 jet)
+         PISA radius= 0.61cm
+         Oscillating material attached to AMVL tip (A2 portion)
+-- (2) Mild AR d/t coaptation abnormality (redundant RCC and shortened NCC)
+         No definite vegetation-like materials on aortic valve
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+     Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : Highly mobile oscillating material attached 
+                         to AMVL tip (A2 portion)size : 2.09 x 0.64cm, irregular shaped
+8. Intracardiac shunt : None
+9. Pericardial effusion : Minimal amount
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:153.0cm        Wt:45.00kg           BSA:1.39       과거검사 : Yes
+-----------------------------------------------------------------------------
+

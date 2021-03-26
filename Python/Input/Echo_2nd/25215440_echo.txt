@@ -1,0 +1,66 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2010-06-21 【접수일】2010-06-21 14:59 【검사일】2010-06-21 16:58 【보고일】2010-06-21 17:17
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVR, AVP
+Well functioning mitral prosthetic valve
+Well functioning aortic valve
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with On-X 27mm, AVP(penetrated RCC repair)-2010.06.14
+* Poor echo window
+* Baseline EKG: frequent VPCs
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) E/A=1.36, E/e`=17.1
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve :
+(1) Well functioning mitral prosthetic valve
+--  mean PG=4.2 mmHg
+    Physiologic MR(+)
+(2) Repaired AoV
+--  mean PG= 3.0mmHg, Vmax=1.14 m/sec, AVA by C.E= 2.33cm2,
+    LVOT TVI/AV TVI= 0.74, LVOT d=2.0cm
+(3) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) =N/A d/t short term f/u
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 30mmHg (assumed RAP =5 mmHg)
+
+-----------------------------------------------------------------------------
+BP: 121 / 76             Ht: 175cm          Wt: 55kg             BSA: 1.67㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 52mm         IVSd : 8mm          E: 1.37m/s        e`: 0.080m/s
+LVIDs: 30mm         LVPWd: 8mm          A: 1.01m/s        a`: 0.099m/s
+                    LA: 36mm            E/A: 1.36         E/e`: 17.13
+LVEF: 67%           Ao: 37mm            DT: 204.0msec     LAVI: 28.4ml/m2
+                                        A-L ( 17.5 / 16.0 / 5.0 )
+LVMI : 86.96g/㎡
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

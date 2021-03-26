@@ -1,0 +1,122 @@
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2001-05-19 【접수일】2001-05-19 11:10 【검사일】2001-05-19 12:10 【보고일】2001-05-22 11:40
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임을순 【확인의】박승우
+Video no:	TEE162-1746	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	59	mm	IVSd:	11	mm	LA:	52	mm
+LVIDs:	33	mm	LVPWd:	8	mm	Ao:	35	mm
+  
+LVEF:	68.71	%
+---------------------------------------------------------------------------
+MV
+mPG:	1.5	mmHg	E:	1.4	m/sec	E/A:	2.3333
+DT:	199	msec	A:	0.6	m/sec	IVRT:	83	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.5	m/sec	peakPG:	9	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	5	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Prolapse of PMVL with severe MR(P2 portion), ERO=0.33cm2
+2. Vegetation of both mitral valve leaflets
+                 (1.7*0.4cm, 0.9*0.6cm)
+3. Atrial septal aneurysm 
+4. Aorta looks WNL
+  
+Conclusion:
+C/W Infective endocarditis with vegetation at both MVL
+Severe MR
+Atrial septal aneurysm
+
+
+
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2001-05-19 【접수일】2001-05-19 11:10 【검사일】2001-05-19 12:10 【보고일】2001-05-22 11:40
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】임을순 【확인의】박승우
+Video no:	TEE162-1746	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	59	mm	IVSd:	11	mm	LA:	52	mm
+LVIDs:	33	mm	LVPWd:	8	mm	Ao:	35	mm
+  
+LVEF:	68.71	%
+---------------------------------------------------------------------------
+MV
+mPG:	1.5	mmHg	E:	1.4	m/sec	E/A:	2.3333
+DT:	199	msec	A:	0.6	m/sec	IVRT:	83	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.5	m/sec	peakPG:	9	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	5	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Prolapse of PMVL with severe MR(P2 portion), ERO=0.33cm2
+2. Vegetation of both mitral valve leaflets
+                 (1.7*0.4cm, 0.9*0.6cm)
+3. Atrial septal aneurysm 
+4. Aorta looks WNL
+  
+Conclusion:
+C/W Infective endocarditis with vegetation at both MVL
+Severe MR
+Atrial septal aneurysm
+
+
+
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2001-05-19 【접수일】2001-05-19 11:10 【검사일】2001-05-19 12:10 【보고일】2001-05-22 08:22
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】임을순 【확인의】박승우
+Video no:	TEE162-1746	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	59	mm	IVSd:	11	mm	LA:	52	mm
+LVIDs:	33	mm	LVPWd:	8	mm	Ao:	35	mm
+  
+LVEF:	68.71	%
+---------------------------------------------------------------------------
+MV
+mPG:	1.5	mmHg	E:	1.4	m/sec	E/A:	2.3333
+DT:	199	msec	A:	0.6	m/sec	IVRT:	83	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.5	m/sec	peakPG:	9	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	5	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Increased LV cavity size and normal LV systolic function
+   LAE (=about 5.20cm)
+2. Normal IVS & LVPW thickness
+3. Severe MR with systolic reversal of pulm. Vein inflow
+                           vegetation of AMVL, PMVL
+                           (size 1.35 X 0.97cm, 0.54 X 1.66cm)
+                           eccentric jet flow to septal side
+   Minimal TR
+4. No regional wall motion abnormality
+5. Interatrial septal bulging with aneurysm formation(1.60 X 0.8cm)
+  
+Conclusion:
+C/W Infective endocarditis of MV with severe MR
+LVE, LAE
+Atrial septal aneurysm
+
+
+
+
+
+

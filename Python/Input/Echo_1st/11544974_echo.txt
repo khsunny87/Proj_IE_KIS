@@ -1,0 +1,118 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2002-05-13 【접수일】2002-05-13 16:19 【검사일】2002-05-13 16:58 【보고일】2002-05-15 09:27
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】도준형 【확인의】이상철
+Video no:	A810-1512	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	43	mm	IVSd:	7	mm	LA:	23	mm
+LVIDs:	33	mm	LVPWd:	7	mm	Ao:	29	mm
+  
+LVEF:		%
+---------------------------------------------------------------------------
+MV
+mPG:	2.1	mmHg	E:	1.2	m/sec	E/A:	2
+DT:	233	msec	A:	0.6	m/sec	IVRT:	66	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1	m/sec	peakPG:	4	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	2	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+  *S/P MAP
+
+1. Normal LV cavity size and mildly decreased LV contractility
+    (EF=49%)
+2. Normal IVS & LVPW thickness
+3. Minimal MR, TR on C/D
+   Folded mitral leaflet was seen   
+4. No regional wall motion abnormality
+5. E/A<1 at mitral inflow, normal DT & IVRT
+6. Pericardial effusion, circumferential, small amount, PLSX < 1cm
+  
+Conclusion:
+Mild LV systolic dysfunction
+Small amount pericardial effusion
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2002-05-22 【접수일】2002-05-22 10:58 【검사일】2002-05-22 11:41 【보고일】2002-05-23 13:21
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김병진 【확인의】이상철
+Video no:	TEE194-2033	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MAP
+
+1. Visually normal LV cavity size and normal LV contractility
+2. Visually normal IVS & LVPW thickness
+3. MV mean PG = 5.8mmHg with minimal MR
+    (MR 은 MV commissure 의 posterior MVL tip prolapse에 의해 생기는 
+     것으로 사료됨)
+4. No regional wall motion abnormality
+5. No thrombus in LA, LAA
+  
+Conclusion:
+S/P MAP
+* Posterior MV commisure 의 tip prolapse소견은 clinically vegetation 과
+  감별이 필요함 
+
+* REC) Clinical correlation(for infective endocarditis), follow up echo
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2002-05-22 【접수일】2002-05-22 10:58 【검사일】2002-05-22 11:41 【보고일】2002-05-23 09:49
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】김병진 【확인의】이상철
+Video no:	TEE194-2033	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MAP
+
+1. Visually normal LV cavity size and normal LV contractility
+2. Visually normal IVS & LVPW thickness
+3. MV mean PG = 5.8mmHg with minimal MR
+    (MR 은 posterior MV commissure 의 tip prolapse에 의해 생기는 것으로 
+    사료됨)
+4. No regional wall motion abnormality
+5. No thrombus in LA, LAA
+  
+Conclusion:
+S/P MAP
+* Posterior MV commisure 의 tip prolapse소견은 clinically vegetation 감별이 
+  필요함 
+
+* REC) Clinical correlation(for infective endocarditis), follow up echo
+

@@ -1,0 +1,142 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2019-08-14 【접수일】2019-10-08 08:51 【검사일】2019-10-08 09:38 【보고일】2019-10-08 10:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVR, TAP
+Well functioning prosthetic mitral valve & repaired TV
+Dilated LV cavity size and mild LV systolic dysfunction
+A.fib with both atrial enlargement
+Disappeared pericardial effusion compared to previous study (2019.03.06)
+
+
+▣ 검사정보 및 소견
+
+* S/P Mitral valve replacement d/t Infective endocarditis (2019.03.02)
+* S/P Mitral valve replacement with bioprosthesis
+      MVR with Carpentier-Edwards PERIMOUNT Magna Ease 27 mm
+      TAP with Duran ring 27 mm(2018.08 본원)
+* EKG: A.fib
+
+1. LV
+-- (1) Dilated LV cavity size and mild LV systolic dysfunction
+       (LVEF= 48.2% by Simpson's method, LVEDV= 168.23ml, LVESV= 87.11ml)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+)
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function 
+       (TAPSE= 15.3mm, TV TDI S'= 0.113m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 53.7mm at A4C)
+4. Valve 
+-- (1) MV : Well functioning prosthetic mitral valve
+         MV meanPG= 4.7mmHg, Minimal MR
+-- (2) TV : Repaired TV
+         TV meanPG= 1.1mmHg
+       Minimal to mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 29.7mmHg(assumed RAP= 5mmHg)
+   IVC diameter =19.8mm, plethora: (-)
+9. Strain= -8.4% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :125 / 76      HR :83      Ht:164.0cm        Wt:68.00kg         BSA:1.74
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 62.6mm       IVSd: 10.4mm          E: 1.43m/s          e': 0.060m/s
+LVIDs: 45.4mm       LVPWd: 10.1mm         A:                  a':
+                    LA: 72.3mm            E/A:                E/e': 23.8
+LVEF                Ao: 37.9mm            DT: 486.3msec       LAVI: 109.9ml/m2
+                                          A-L ( 37.67 / 45.16 / 7.56 )
+LVMI : 157.44 g/m2
+RWT : 0.32
+[RWMA]-----------------------------------------------------------------------              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         2         2         1         1         1
+Mid           1         2         2         1         1.5       1.5
+Apical        1                   1.5       1                   1.5
+Apex          1.5
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-03-06 【접수일】2019-03-06 16:31 【검사일】2019-03-06 16:45 【보고일】2019-03-06 17:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVR, TAP
+Well functioning prosthetic mitral valve , TAP
+Decreased RV systolic function
+A.fib with LA enlargement
+Loculated minimal amount of pericardial effusion
+
+-- Decreased LV size, RVSP (47.3->35.0mmHg) and newly appeared pericardial effusion 
+   compared with last study (2018.08.11)
+
+
+▣ 검사정보 및 소견
+
+* S/P Mitral valve replacement d/t Infective endocarditis (2019.03.02)
+* S/P Mitral valve replacement with bioprosthesis
+      MVR with Carpentier-Edwards PERIMOUNT Magna Ease 27 mm
+      TAP with Duran ring 27 mm(2018.08 본원)
+* Very poor echo window
+* EKG: A.fib
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and decreased RV systolic function
+       (TAPSE= 7.4mm, TV TDI S'= 0.097m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- (1) Slightly thickened AV
+-- (2) Well functioning prosthetic mitral valve : MV meanPG= 5.8mmHg
+-- (3) Repaired TV :TV meanPG= 2.9mmHg, minimal to mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : Loculated minimal amount
+-- RA side : 0.48cm at A4C
+-- Constrictive physiology (-)
+-- Abnormal septal motion after open heart surgery (+)
+-- Ventricular interdependence (+/-)
+-- Adhesion (-)
+-- Respiratory variation of mitral inflow N/A
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.052m/sec) < Lateral e' (0.064m/sec)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 35.0mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -15.37%
+-----------------------------------------------------------------------------
+ BP :110 / 60    HR :97     Ht:168.0cm     Wt:63.20kg       BSA:1.72
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                        MV Doppler
+LVIDd: 49.8mm       IVSd: 10.2mm   E: 1.33m/s          e': 0.052m/s
+LVIDs: 33.5mm       LVPWd: 8.9mm   A:                  a':
+                    LA: 64.4mm     E/A:                E/e': 25.6
+LVEF: 55%           Ao: 37.8mm     DT: 131.9msec       LAVI: 98.5ml/m2
+                                   A-L ( 34.96 / 41.09 / 7.21 )
+LVMI : 98.82 g/m2
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

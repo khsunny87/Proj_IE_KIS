@@ -1,0 +1,170 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2005-05-06 【접수일】2005-08-12 07:57 【검사일】2005-08-12 08:16 【보고일】2005-08-13 10:31
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【확인의】이상철
+Video no:	AB271-12123	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	52	mm	IVSd:	8	mm	E:	1.47	m/sec	   	e':	0.094	m/sec
+LVIDs:	29	mm	LVPWd:	8	mm	A:	1.3	m/sec	   	E/e':	15.6
+  	  	  	LA:	50	mm	E/A:	1.1	   	   	LA volume index:
+LVEF:	69	%	Ao:	36	mm	DT:	295	msec	   	   	42.4	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P Redo MVR
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV with physiologic MR 
+        MV mean PG : 4.8mmHg 
+   Mild AR 
+   Minimal to mild TR with RVSP = 32mmHg 
+4. No regional wall motion abnormality
+5. LAE, RA size (43mm)
+  
+Conclusion:
+S/P Redo MVR 
+BAE 
+Mild AR
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2004-12-27 【접수일】2004-12-27 13:53 【검사일】2004-12-27 13:59 【보고일】2004-12-29 08:37
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박중일 【확인의】이상철
+Video no:	AE135-3432	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	47	mm	IVSd:	11	mm	E:	1.43	m/sec	   	e':	0.1	m/sec
+LVIDs:	31	mm	LVPWd:	11	mm	A:	1.2	m/sec	   	E/e':	14.3
+  	  	  	LA:	51	mm	E/A:	1.2	   	   	LA volume index:
+LVEF:	56	%	Ao:	37	mm	DT:	198	msec	   	   	48.6	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * Redo MVR 
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV mean PG = 3.9mmHg
+        with physiologic MR 
+   Minimal to mild AR 
+   Minimal to mild TR with RVSP = 32mmHg 
+4. No regional wall motion abnormality
+5. E/A : 1.2, E/E' = 14, LAE 
+   RAE (=48mm) on 2D
+   No visible vegetation
+  
+Conclusion:
+S/P Redo MVR with good post op state 
+LAE, RAE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2004-12-08 【접수일】2004-12-08 14:25 【검사일】2004-12-08 14:56 【보고일】2004-12-09 13:18
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김선운 【확인의】박승우
+Video no:	AC153-4238	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	55	mm	IVSd:	11	mm	E:	1.57	m/sec	   	e':	0.074	m/sec
+LVIDs:	36	mm	LVPWd:	9	mm	A:	0.95	m/sec	   	E/e':	21.2
+  	  	  	LA:	45	mm	E/A:	1.7	   	   	LA volume index:
+LVEF:	57	%	Ao:	36	mm	DT:	195	msec	   	   	56.0	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * Redo MVR 
+
+1. Normal LV cavity size and systolic function
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV mean PG = 4.5mmHg 
+   Minimal to mild AR 
+   Mild TR (RVSP = 28mmHg)
+4. Paradoxical septal motion 
+5. Diastolic dysfunction grade 1 with LAE 
+6. No visible vegetation or mass
+  
+Conclusion:
+S/P Redo MVR, mild TR 
+Diastolic dysfunction grade 1 with LAE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2004-11-26 【접수일】2004-11-26 16:34 【검사일】2004-11-26 16:34 【보고일】2004-12-01 10:11
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박중일 【확인의】이상철
+Video no:	ICU429(2)-4055	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * 11월 26일 검사
+
+1. Visually normal LV cavity size and systolic function
+2. Visually increased IVS & LVPW thickness
+3. Mild AR 
+   Mild TR with mild pulm. HTN (RVSP = 45mmHg)
+   Shaggy oscillating echogenic mass (=0.4cm) on the atrial side of 
+         mechanical prosthetic MV (anterolateral side)
+         with minimal MR 
+4. No regional wall motion abnormality
+5. Normal LV diastolic function
+  
+Conclusion:
+C/W I.E
+Well functioning mechanical MV 
+Mild AR, TR with mild pulm. HTN 
+Concentric LVH
+
+

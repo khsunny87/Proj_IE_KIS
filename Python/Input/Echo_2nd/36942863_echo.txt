@@ -1,0 +1,234 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-10-29 【접수일】2019-01-28 09:08 【검사일】2019-01-28 09:32 【보고일】2019-01-28 11:07
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임경희 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MVP, MAP
+Well functioning repaired MV
+LA enlargement, RA enlargement
+Concentric LVH
+
+-- No significant interval change compared with last study (2017.12.22)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP with P2, P3 triangular resection,
+  MAP with Cosgrove-Edwards annuloplasty ring 30mm - 2017.12.18
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 47.2mm at A4C)
+4. Valve 
+-- (1) Well functioning repaired MV with minimal MR
+         MV meanPG= 3.8mmHg,
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 24.3mmHg (assumed RAP= 5mmHg)
+9. Strain(GL)= -16%
+
+-----------------------------------------------------------------------------
+ BP: 147 / 104         Ht: 180cm           Wt: 77kg              BSA: 1.96㎡
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 48.6mm       IVSd: 11.5mm          E: 1.17m/s          e': 0.071m/s
+LVIDs: 32.3mm       LVPWd: 11.1mm         A: 1.14m/s          a': 0.085m/s
+                    LA: 42.3mm            E/A: 1.03           E/e': 16.5
+LVEF: 56%           Ao: 38.5mm            DT: 342.2msec       LAVI: 33.5ml/m2
+                                          A-L ( 21.30 / 19.21 / 5.30 )
+LVMI : 104.80 g/m2
+RWT : 0.46
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2017-12-22 【접수일】2017-12-22 13:36 【검사일】2017-12-22 14:12 【보고일】2017-12-22 15:35
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVP, MAP
+Well functioning repaired MV
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP with P2, P3 triangular resection, 
+      MAP with Cosgrove-Edwards annuloplasty ring 30mm - 2017.12.18
+* EKG : Frequent VPCs
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function 
+       (TAPSE = 14.1mm, TV TDI S'= 0.120m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Repaired MV with minimal MR
+         MV meanPG= 2.2mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 29.4mmHg(assumed RAP= 5mmHg)
+9. Strain= -6.8% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 117 / 57        HR : 70     Ht: 180cm     Wt: 76kg        BSA: 1.95㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 53.8mm       IVSd : 10.4mm         E:                  e':0.052m/s
+LVIDs: 26.0mm       LVPWd: 10.1mm         A:                  a':0.066m/s
+                    LA: 47.2mm            E/A:                E/e':
+LVEF: 77%           Ao: 35.4mm            DT:                 LAVI: 58.3ml/m2
+                                          A-L ( 25.23 / 32.34 / 6.10 )
+LVMI : 134.03 g/m2
+RWT : 0.38
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2017-12-15 【접수일】2017-12-15 10:42 【검사일】2017-12-15 11:38 【보고일】2017-12-15 16:48
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Acute severe eccentric MR d/t flail of PMVL (P1 & P2) portion with chordae rupture
+LA enlargement
+
+
+▣ 의견
+
+Rec) 2016.11.01 본원 echo에서는 MR 관찰되지 않습니다.
+     Infective endocarditis를 반드시 R/O 하여야 합니다. 
+     Condition 가능 시 TEE 꼭 시행하시기 바랍니다.
+
+
+▣ 검사정보 및 소견
+
+* HR = 95~100bpm
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Flail of PMVL(P1 & 2 portion), MV chordae rupture with severe eccentric MR
+          MR PISA r= 1.10cm, MV ERO= 51.9mm², MR RV= 59.04ml,
+          Pulmonic vein systolic reversal flow : (+)
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 34.0mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -18.3%
+
+-----------------------------------------------------------------------------
+ BP: 91 / 52         HR : 56       Ht: 180cm      Wt: 78kg       BSA: 1.98㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 51.7mm       IVSd : 10.4mm         E:1.40m/s           e':0.098m/s
+LVIDs: 32.2mm       LVPWd: 9.8mm          A: 0.84m/s          a':0.093m/s
+                    LA: 48.2mm            E/A: 1.67           E/e':14.3
+LVEF: 61%           Ao: 35.8mm            DT:228.9msec        LAVI: 61.2ml/m2
+                                          A-L ( 29.05 / 30.91 / 6.30 )
+LVMI : 120.45 g/m2
+RWT : 0.38
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2017-12-18 【접수일】2017-12-18 08:50 【검사일】2017-12-18 09:37 【보고일】2017-12-18 17:11
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의2】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+R/O infective endocarditis
+Severe eccentric MR d/t flail of PMV (P2 & P3 portion) with chordae rupture
+LA enlargement
+
+
+▣ 의견
+
+Remark) Ruptured chordae 끝으로 irregular oscillating material 및 
+        posterior mitral valve leaflet 의 hypoechoic lesion (R/O abscess) 소견 관찰되어
+        infective endocarditis 배제할 수 없겠습니다.
+
+
+▣ 검사정보 및 소견
+
+* Acute MR d/t chordae rupture
+* R/O Infective endocarditis
+* Baseline EKG : NSR
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Flail of PMVL (mainly P2 & P3 portion), severe eccentric MR d/t 
+       MV chordae rupture
+         MR PISA r = 1.61 cm
+         Pulmonary vein systolic reversal flow (+)
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation 
+-- Tiny material attached to ruptured chordae, R/O vegetation
+-- Hypoechoic space of PMVL, R/O abscess
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht: 180cm     Wt: 77kg    BSA: 1.96㎡    과거검사 : Yes
+-----------------------------------------------------------------------------
+

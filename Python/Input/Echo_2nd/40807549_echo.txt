@@ -1,0 +1,153 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-10-05 【접수일】2018-10-05 15:37 【검사일】2018-10-05 16:13 【보고일】2018-10-05 17:09
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김민선 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVR, annuluar reconstruction
+Well functioning bioprosthetic mitral valve
+Mild LV systolic dysfunction
+Oscillating material attached to MV chorae
+R/o remnant chordae, r/o vegetation
+Moderate amount of pericardial effusion without hemodynamic compromise
+Abnormal septal motion after open heart surgery (+)
+
+-- Clinical correlation for oscillating materal
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (C-E Perimount Magna Ease 25mm), Annular reconstruction - 2018.9.29
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and mild LV systolic dysfunction
+       (LVEF= 45~50% by visual estimation)
+-- (2) Normal LV wall thickness
+-- (3) Mild global hypokinesia
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visual LA enlargement
+4. Valve 
+-- (1) Slightly thickened AV
+-- (2) Bioprosthetic mitral valve 
+         MV meanPG= 5.4mmHg
+       Hyperechoic round mass like lestion at MV chordae
+-- (3) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : Moderate amount
+-- LV posterior : 0.97cm at PLAX
+-- LV posterior : 1.30cm at PSAX
+-- LV lateral : 0.91cm, RA side : 1.82cm at A4C
+-- RV anterior : 1.02cm, LV lateral : 1.33cm, RA side : 1.81cm at subcostal view
+-- Early diastolic RV collapse (-)
+-- Late diastolic RA collapse (-)
+-- Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Abnormal septal motion after open heart surgery (+)
+-- Ventricular interdependence (-)
+-- Pericardial thickening (-)
+-- Adhesion (-)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.052m/sec) > Lateral e' (0.037m/sec)
+-- Normal IVC
+7. Mass, Thrombi, Vegetation -- Hyperechoic round mass like lestion at MV chordae
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+9. Strain(GL)= -8.9%
+
+-----------------------------------------------------------------------------
+ BP: 110 / 62       HR : 95      Ht: 150cm      Wt: 49kg        BSA: 1.42㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 40.0mm       IVSd: 7.3mm        E: 1.07m/s           e': 0.052m/s
+LVIDs: 31.5mm       LVPWd: 8.0mm       A: 1.11m/s           a': 0.055m/s
+                    LA: 22.3mm         E/A: 0.96            E/e': 20.6
+LVEF                Ao: 35.3mm         DT: 214.9msec        LAVI:N/A
+                                       A-L ( / / )
+LVMI : 62.01 g/m2
+RWT : 0.40
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1.5       1.5       1.5       1.5       1.5       1.5
+Mid     1.5       1.5       1.5       1.5       1.5       1.5
+Apical  1.5                 1.5       1.5                 1.5
+Apex    1.5
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2018-09-29 【접수일】2018-09-29 08:42 【검사일】2018-09-29 08:51 【보고일】2018-09-29 10:33
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【판독의3】박승우 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+Mobile mass at lateral annulus or P1 portion
+(Vegetation >> myxoma)
+Mild to moderate MR
+Mild MS component d/t mass
+LA enlargement
+Minimal amount of pericardial effusion
+
+
+▣ 의견
+
+Rec) 수술 시 LV 내에 vegetation 확인하세요. 특히 Papillary muscle 확인하세요.
+
+
+▣ 검사정보 및 소견
+
+* IE
+   HR=115bpm
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function (E/A summation)
+-- (5) Prominent trabeculation of LV apex
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- Oscillating material attached to lateral annulus or P1 ( 3.3cm * 1.76cm)
+      Vegetation >> LA mass
+      MV meanPG= 7.5mmHg,
+    Mild to moderate MR
+-- Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : Minimal amount at RA
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =N/AmmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -15.6%
+
+-----------------------------------------------------------------------------
+ Ht: 161cm               Wt: 62kg                   BSA: 1.65㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 50.4mm       IVSd: 9.1mm           E:                  e': 0.079m/s
+LVIDs: 32.5mm       LVPWd: 10.0mm         A:                  a': 0.128m/s
+                    LA: 31.6mm            E/A:                E/e':
+LVEF: 58%           Ao: 34.3mm            DT:                 LAVI: 38.0ml/m2
+                                          A-L ( 18.95 / 19.09 / 4.91 )
+LVMI : 105.08 g/m2
+RWT : 0.40
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1Apical  1                   1         1                   1
+Apex    1
+
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

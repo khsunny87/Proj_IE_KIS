@@ -1,0 +1,139 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2002-12-10 【접수일】2003-02-11 11:15 【검사일】2003-02-11 13:37 【보고일】2003-02-13 10:33
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김용훈 【확인의】이상철
+Video no:	A929-639	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	45	mm	IVSd:	7	mm	LA:	49	mm
+LVIDs:	24	mm	LVPWd:	8	mm	Ao:	26	mm
+  
+LVEF:	71.55	%
+---------------------------------------------------------------------------
+MV
+E:	2	m/sec	E/A:
+A:       	m/sec	DT:	275	msec
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR & TAP, baseline EKG : A. fib
+
+1. Normal LV cavity size and systolic function
+   LAE (=4.9cm)
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV - mean PG = 4.90mmHg, minimal physiologic MR
+   Minimal to mild TR (RVSP = 37mmHg)
+   Mild to moderate AR (mean PG = 15.2mmHg)
+         (AV thickening)
+4. No regional wall motion abnormality
+5. Dilatation of MPA (=3.5cm)
+                 RPA (=2.2cm)
+                 LPA (=2.0cm)
+  
+Conclusion:
+S/P MVR & TAP
+Atrial fibrillation with LAE
+Mild to moderate AR
+Mild AS
+Well functioning prosthetic MV
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-12-21 【접수일】2006-12-22 10:26 【검사일】2006-12-22 11:13 【보고일】2006-12-26 09:03
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조성원 【판독의3】이상철 【확인의】박승우
+Video no:	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	47	mm	IVSd:	10	mm	E:	1.76	m/sec	   	e':	0.09	m/sec
+LVIDs:	36	mm	LVPWd:	10	mm	A:	m/sec	   	E/e':	19.6
+  	  	  	LA:	50	mm	E/A:	   	   	LA volume index:
+LVEF:	  	%	Ao:	29	mm	DT:	231	msec	   	   	49.1	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1.5	1.5	1	1	1
+Mid	  	1	2	1.5	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * Baseline EKG : A.fib 
+     S/P MVR (ATS 27mm), TAP 
+
+1. Normal LV cavity size and lower normal LV systolic function
+       (LVEF = 50 ~ 55% by visual estimation)
+2. Normal LV wall thickness
+3. Prosthetic MV in situ : mean PG = 3.4mmHg, minimal MR 
+   Thickened AoV and mild to moderate ASR 
+       (Vmax = 3.4m/sec, mean PG = 26.4mmHg, AVA by C.E = 0.80cm2)
+   Annuloplasty of TV : minimal to mild TR (RVSP = 43mmHg, mean PG = 0.9mmHg)
+4. Regional wall motion abnormality (+)
+5. LAE
+6. Dilated pulm. artery (MPA : 3.8cm, RPA : 1.9cm, LPA : 1.91cm)
+  
+Conclusion:
+S/P MVR, TAP 
+Well functioning prosthetic MV 
+Mild to moderate ASR 
+Mild pulm. HTN 
+R/O Ischemic heart disease with lower normal LV systolic function
+A.fib with LAE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2006-07-14 【접수일】2006-08-17 10:41 【검사일】2006-08-17 11:05 【보고일】2006-08-18 09:18
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】송영빈 【판독의3】이상철 【확인의】이상철
+Video no:	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	47	mm	IVSd:	7	mm	E:	1.65	m/sec	   	e':	m/sec
+LVIDs:	30	mm	LVPWd:	7	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	51	mm	E/A:	   	   	LA volume index:
+LVEF:	59	%	Ao:	30	mm	DT:	298	msec	   	   	60.3	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+Basal ECG : A.fib 
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV : mean PG = 3.2mmHg
+                          physiologic MR
+   Thickened AoV with mean Pg = 20.7mmHg (Vmax = 3.25m/sec)
+      AVA by C.E = 1.19cm2
+   Mild to moderate AR
+   Minimal to mild TR with RVSP = 53mmHg
+4. No regional wall motion abnormality
+5. BAE (RA : 41mm on A4C)
+6. MPA :3.37cm, LPA : 2cm, RPA : 1.8cm
+  
+Conclusion:
+S/P MVR & TAP
+A.fib with BAE
+Mild to moderate AR, Mild AS
+Moderate pulm. HTN
+Well functioning prosthetic MV
+
+

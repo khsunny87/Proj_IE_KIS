@@ -1,0 +1,256 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2002-06-10 【접수일】2002-07-29 10:18 【검사일】2002-07-29 11:53 【보고일】2002-07-31 09:14
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】도준형 【판독의2】이상철 【확인의】이상철
+Video no:	AX1041-5230	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	49	mm	IVSd:	7	mm	LA:	45	mm
+LVIDs:	30	mm	LVPWd:	7	mm	Ao:	23	mm
+  
+LVEF:	62.51	%
+---------------------------------------------------------------------------
+MV
+mPG:	7.7	mmHg	E:	2.1	m/sec	E/A:	1.1666
+DT:	328	msec	A:	1.8	m/sec	IVRT:	88	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.5	m/sec	peakPG:	9.5	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	4.4	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment: * S/P MVR
+
+1. Normal LV cavity size and systolic function
+   LAE(4.5cm)
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV
+       Vmax = 2.1m/sec, mean PG =7.7mmHg
+   No paravalvular leakage
+   (이전 검사에서 pouch like cavity의 flow와 size는 변화없음)
+   Minimal TR, MR
+4. No regional wall motion abnormality
+5. Pericardial effusion with no tamponade physiology
+     -PLX view : ant. side -scanty
+                 LVPW side-2cm
+     -A4C view:LV side- 2cm
+               RV side-scanty
+  
+Conclusion:
+S/P MVR with annular reconstruction
+No paravalvular leakage
+Minimal MR
+LAE
+Mild to moderate pericardial effusion without tamponade physiology
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2002-04-17 【접수일】2002-04-17 13:06 【검사일】2002-04-17 13:38 【보고일】2002-04-18 11:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김현중 【확인의】이상철
+Video no:	AX988-814	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	50	mm	IVSd:	9	mm	LA:	48	mm
+LVIDs:	26	mm	LVPWd:	9	mm	Ao:	23	mm
+  
+LVEF:	72.96	%
+---------------------------------------------------------------------------
+MV
+mPG:	10.8	mmHg	E:	2.4	m/sec	E/A:	1.0909
+DT:	msec	A:	2.2	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.9	m/sec	peakPG:	15	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	6	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR
+
+1. Normal LV cavity size and systolic function
+   Increased LA size (=4.8cm)
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV
+   Vmax = 2.37m/sec, mean PG =10.8mmHg
+   No paravalvular leakage
+    (이전 검사에서 paravalvular leakag 로 생각되는 병변은 op 와 연관된
+     pouch로 인한 것으로 생각됨)
+   Minimal TR
+4. No regional wall motion abnormality
+  
+Conclusion:
+S/P MVR with annular reconstruction
+No paravalvular leakage
+LAE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2002-04-08 【접수일】2002-04-08 15:02 【검사일】2002-04-08 16:10 【보고일】2002-04-10 13:57
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】남궁준 【판독의2】이상철 【확인의】이상철
+Video no:	AC854-14840	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	51	mm	IVSd:	10	mm	LA:	46	mm
+LVIDs:	27	mm	LVPWd:	9	mm	Ao:	26	mm
+  
+LVEF:	71.97	%
+---------------------------------------------------------------------------
+MV
+mPG:	6.1	mmHg	E:	1.8	m/sec	E/A:	1
+DT:	454	msec	A:	1.8	m/sec	IVRT:	67	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	2.2	m/sec	peakPG:	19	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	9	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and systolic function
+   Increased LA size
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV (tissue valve)
+     Moderate MR with paravalvular leakage on posterior mitral anulus area
+     mean PG 6.1mmHg
+   Minimal TR
+4. No regional wall motion abnormality
+  
+Conclusion:
+S/P MVR with annular reconstruction 
+Moderate MR with paravalvular leakage
+LAE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2002-04-11 【접수일】2002-04-10 10:39 【검사일】2002-04-10 11:18 【보고일】2002-04-12 09:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+Video no:	TEE190-0000	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MV replacement (tissue valve) with annular patch insertion
+
+1. Normal looking LV cavity size & systolic function
+2. Prosthetic MV : minimal to mild MR at coaptation margin
+3. Pouch-like cavity at posterior MV annulus
+     (associated with patch insertion)
+   No evidence of moderate MR
+4. Multiple thread-like tissue density attached 
+     to LA side of MV strut & IAS (RA side)
+5. Echogenic mass density visible (size about 1 X 1.5cm) at SVC wall
+     adjacent to RA SVC junction
+     most likely postop granulation tissue
+
+Rec) F/U  TTE
+
+
+
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2002-03-26 【접수일】2002-03-26 10:07 【검사일】2002-03-26 11:03 【보고일】2002-03-27 09:27
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김진구 【확인의】이상철
+Video no:	TEE186-12018	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+<TEE finding>
+
+1. Severe MR with prolapse AMVL(A2)
+2. Thickened both mitral valve leaflets
+     covered with oscillating vegetations which extends to annulus 
+     & subvalvular structures (chordae tendinae)
+3. Minimal TR
+4. No thrombus in LA & LAA
+5. No atherosclerotic change at descending aorta
+  
+Conc) C/W Infective endocarditis with vegetations involving chordae
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2003-10-02 【접수일】2004-03-18 10:30 【검사일】2004-03-18 11:13 【보고일】2004-03-19 09:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】유철웅 【확인의】이상철
+Video no:	AE27-11108	과거검사 여부:	Yes
+---------------------------------------------------------------
+M-mode data	   	   	   	   	MV Doppler
+LVIDd:	51	mm	IVSd:	9	mm	E:	2.02	m/sec
+LVIDs:	32	mm	LVPWd:	8	mm	A:	1.49	m/sec
+  	  	  	LA:	46	mm	E/A:	1.3557
+LVEF:	60.63	%	Ao:	24	mm	DT:	657	msec
+---------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+---------------------------------------------------------------
+  
+Comment:
+   * S/P MVR
+
+1. Normal LV cavity size and systolic function
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV
+         Vmax = 2.4m/sec, mean PG = 12mmHg
+       pouch like cavity 의 flow 와 size 는 변화없음
+         (size 1.3cm, flow Vmax = 2.1m/sec)
+4. No regional wall motion abnormality
+5. LAE
+  
+Conclusion:
+S/P MVR with annular reconstruction 
+No paravalvular leakage
+LAE
+* Previous study 와 비교시 MV mean PG 증가소견 보임.
+
+

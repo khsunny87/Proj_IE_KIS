@@ -1,0 +1,351 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-11-19 【접수일】2018-11-19 16:16 【검사일】2018-11-19 16:55 【보고일】2018-11-19 17:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR, aortic vegetation removal
+Increased bioprosthetic MV mean PG
+Oscillating echogenic materials attached to MV annulus
+-- R/O vegetation or R/O remnant chordae
+LA enlargement
+Borderline pulmonary hypertension
+
+- Slightly increased bioprosthetic MV mean PG (8.2 -> 9.8mmHg) and newly detected oscillating materials at MV annulus compared to last study (2018.6.14)
+
+
+▣ 의견
+
+Rec) TEE
+
+
+▣ 검사정보 및 소견
+
+* DM, HTN, PAOD S/P Stent
+* DM foot, pre-OP w/u
+* S/P MVR (C-E Perimount Ease 25mm), aortic vegetation removal - 2018.6.8
+* Poor parasternal window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Slightly thickened AV
+-- (2) Bioprosthetic mitral valve : MV meanPG= 9.8mmHg
+-- (3) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- Oscillating echogenic materials attached to MV annulus
+   : R/O vegetation or R/O remnant chordae
+8. RV systolic pressure by TR Vmax = 38.7mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -14.6%
+
+-----------------------------------------------------------------------------
+ BP: 120 / 70      HR : 76      Ht: 166cm       Wt: 65kg         BSA: 1.72㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 42.4mm       IVSd: 9.2mm           E: 2.35m/s          e': 0.046m/s
+LVIDs: 23.2mm       LVPWd: 10.0mm         A: 1.22m/s          a': 0.056m/s
+                    LA: 43.5mm            E/A: 1.93           E/e': 51.1
+LVEF: 70%           Ao: 27.7mm            DT: 334.6msec       LAVI: 37.6ml/m2
+                                          A-L ( 19.13 / 17.61 / 4.43 )
+LVMI : 76.54 g/m2
+RWT : 0.47[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-06-14 【접수일】2018-06-14 16:31 【검사일】2018-06-14 17:02 【보고일】2018-06-14 17:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김다래 【판독의3】김다래 【청구시행의】김다래 【확인의】김다래
+▣ 결론 및 진단
+
+S/P MVR, Aortic vegetation removal
+Increased bioprosthetic MV mean PG
+LA enlargement
+RV side adhesion (+) without definite constrictive physiology
+
+
+▣ 검사정보 및 소견
+
+* S/P Mitral valve replacement with bioprosthesis
+      MVR with CE perimount EASE 25 mm (annulus bovine pericardium)
+      Aortic vegetation removal (2018.06.08)
+* Poor echo window
+* Drowsy mental status (r/o septic embolic inf. )
+* O2 5L/min VNP inhalation state
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size (base= 38.8mm, mid= 25.9mm at A4C) and 
+       normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Bioprosthetic MV
+         MV meanPG= 8.2mmHg, MV Vmax= 2.28m/sec
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion 
+-- Abnormal septal motion after open heart surgery (+)
+-- Pericardial thickning (-)
+-- RV side adhesion (+)
+-- Respiratory variation of MV, hepatic vein (-)
+-- MV medial E'(0.057m/sec) < Lateral E'(0.066m/sec)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 34.3mmHg(assumed RAP= 5mmHg)
+     IVC diameter =19.4mm without plethora
+9. Strain(GL)= -12.5%
+
+-----------------------------------------------------------------------------
+ BP: 118 / 56      HR : 78     Ht: 166cm       Wt: 66kg       BSA: 1.73㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 48.3mm       IVSd: 10.2mm          E: 1.92m/s          e': 0.057m/s
+LVIDs: 27.3mm       LVPWd: 10.0mm         A: 1.24m/s          a': 0.049m/s
+                    LA: 41.0mm            E/A: 1.55           E/e': 33.7
+LVEF: 68%           Ao: 33.3mm            DT: 344.0msec       LAVI: 49.1ml/m2
+                                          A-L ( 26.14 / 22.01 / 5.76 )
+LVMI : 100.74 g/m2RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2018-05-29 【접수일】2018-05-29 13:06 【검사일】2018-05-29 13:26 【보고일】2018-05-29 17:13
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김민선 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+No evidence of infective endocarditis
+Mitrial anuular calcification
+LA enlargement
+Sigmoid septum with LV cavity obstruction
+
+
+▣ 검사정보 및 소견
+
+* ER, r/o Infective endocarditis
+* DM ESRD on HD
+* HR: 120bpm
+* Poor echo window & poor cooperation
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function d/t E/A summation
+-- (5) Sigmoid septum with LV cavity obstruction (d/t hyperdynamic condition)
+       resting : Vmax = 2.88m/2, peak PG = 33.3mmHg
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Mitral annular calcification
+       (tachycardia로 MV의 정확한 평가 어렵습니다)
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =N/A(assumed RAP= 5mmHg)
+9. Strain(GL)= -12.6%
+
+-----------------------------------------------------------------------------
+ BP: 156 / 64       HR : 121      Ht: 164cm       Wt: 71kg      BSA: 1.77㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 42.6mm       IVSd: 8.5mm           E:                  e':
+LVIDs: 25.1mm       LVPWd: 8.8mm          A:                  a':
+                    LA: 38.7mm            E/A:                E/e':
+LVEF: 65%           Ao: 37.2mm            DT:                 LAVI: 50.6ml/m2
+                                          A-L ( 25.13 / 26.34 / 6.28 )
+LVMI : 76.14 g/m2
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2018-11-21 【접수일】2018-11-21 09:33 【검사일】2018-11-21 10:05 【보고일】2018-11-21 14:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Multiple oscillating echogenic materials attached to LV wall
+: r/o remnant chordae > r/o vegetation
+Increased bioprosthetic MV mean PG
+LA enlargement
+Decreased LAA emptying velocity
+
+-- Oscillating materials의 echogenicity나 위치 등을 고려하였을 때 수술 이후 remnant chorde의 가능성 높으나, 임상적으로 판단 필요하겠으며 follow up 하시기 바랍니다.
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with CE perimount EASE 25 mm (annulus bovine pericardium)
+      Aortic vegetation removal (2018.06.08)
+* Baseline EKG : NSR with HR 80bpm
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Bioprosthetic MV : MV meanPG= 9.6mmHg
+-- (2) Slightly thickened AV
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Decreased (30cm/s) LAA emptying velocity
+7. Mass and Vegetation :
+-- Multiple oscillating echogenic materials attached to LV wall
+   : r/o remnant chordae > r/o vegetation
+     (Bioprosthetic MV 및 주변의 infection 의심 소견 없고, oscillating materials
+      echogenicity LV wall 쪽에 위치해있어 remnant chordae 로 생각되어지나, 
+      follow up 필요하겠습니다.
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht: 166cm            Wt: 61kg            BSA: 1.68㎡         과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2018-06-08 【접수일】2018-06-08 08:40 【검사일】2018-06-08 09:32 【보고일】2018-06-08 14:34
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임경희 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+R/O Infective endocarditis
+Linear oscillating mass around MAC
+MAC with moderate MS component
+LA enlargement
+Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+
+▣ 의견
+
+Rec) 이전검사 (2018.05.30) 와 비교하여 r/o vegetation 크기 증가 하였습니다. 
+     IM2 상의 바랍니다.
+
+
+▣ 검사정보 및 소견
+
+* Candida & GPB baceremia r/o infective endocarditis f/u
+* DMCKD on HD
+* CAD, 2VD(17.7 CAG)
+* PAOD(14.7 s/p Rt. SFA, popliteal PTA)
+* Baseline EKG : NSR with HR 85-90 BPM
+* Midazolam 5mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Slightly thickened AV
+        Thinned oscillating material attached to AV R/O lambl's excrescence(0.57cm)
+-- (2) Thickened & calcified & limited motion of PMVL, MAC with minimal MR
+        Moderate MS component (mean PG= 6.35 mmHg)
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+-- Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : Low density lesion around MAC (+) (size 2.43 * 0.53)
+                         r/o vegetation
+-- 이전 검사 (2018.05.30) 과 비교하여 mass 의 크기가 증가하였으며
+   AMVL 쪽으로 beading 하는 oscillating mass 소견 새롭게 관찰됩니다.
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht: 166cm         Wt: 69kg          BSA: 1.76㎡           과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2018-05-30 【접수일】2018-05-30 14:12 【검사일】2018-05-30 14:44 【보고일】2018-05-30 16:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임경희 【판독의2】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+R/O Infective endocarditis
+MAC with severe MS component
+LA enlargement
+Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+- MAC 주변으로 density가 다른 irregular lesion 확인되어 vegetation 가능성 있겠습니다.
+
+
+▣ 검사정보 및 소견
+
+* R/O Infective endocarditis
+* DMCKD on HD
+* Baseline EKG : NSR with HR 95~100BPM
+* Midazolam 4mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Slightly thickened AV
+       Thinned oscillating material attached to AV R/O lambl's excrescence(0.57cm)
+-- (2) Thickened & calcified & limited motion of PMVL, MAC with minimal MR
+       Severe MS component (mean PG 10.7 mmHg)
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+-- Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : Low density lesion around MAC (+)
+-- R/O vegetation
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht: 164cm      Wt: 71kg      BSA: 1.77㎡       과거검사 : Yes
+-----------------------------------------------------------------------------
+

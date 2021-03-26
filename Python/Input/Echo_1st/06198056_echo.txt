@@ -1,0 +1,119 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-12-14 【접수일】2001-12-14 15:33 【검사일】2001-12-14 16:13 【보고일】2001-12-17 11:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임을순 【확인의】박승우
+Video no:	A730-4015	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	45	mm	IVSd:	9	mm	LA:	33	mm
+LVIDs:	28	mm	LVPWd:	9	mm	Ao:	31	mm
+  
+LVEF:	61.28	%
+---------------------------------------------------------------------------
+MV
+mPG:	0.9	mmHg	E:	m/sec	E/A:
+DT:	        msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.2	m/sec	peakPG:	5.7	mmHg	LVOT VTI:	m
+VTI:	0.1	m	meanPG:	3.3	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MV repair due to IE
+
+1. Normal LV cavity size and contractility
+2. Normal IVS & LVPW thickness
+3. Minimal to mild MR on C/D
+4. Paradoxical septal motion
+5. E & A summation
+6. Mobile mass in LV apex * 2
+        size (A4C) - 0.77 * 0.54cm
+                     1.05 * 0.46cm
+  
+Conclusion:
+Mobile echogenic mass (*2) in LV apex C/W vegetation
+-->이전에 보이던 mass 외에 다른 mass가 하나 더 관찰됨.
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-10-27 【접수일】2001-10-27 08:03 【검사일】2001-10-27 08:03 【보고일】2001-10-30 10:22
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김진구 【확인의】이상철
+Video no:	ICU273-13230	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	35	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	29	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	1.38	mmHg	E:	m/sec	E/A:
+DT:	        msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * Basal rhythm : junctional tachycardia
+     Vertical heart & poor window
+     S/P MV repair due to IE
+
+1. Visually estimated LV cavity size and contractility looked normal
+2. Normal IVS & LVPW thickness
+   Paradoxical septal motion
+3. Minimal to mild MR, mild TR without pulm. HTN
+4. IVS looked relatively hypokinetic owing to paradoxical septal motion
+5. Minimal pericardial effusion only systolic phase
+  
+Conclusion:
+1. Good post-op state
+2. Mild TR without pulm. HTN
+
+
+
+
+
+
+=================================================================================
+【검사명】Intraoperative TEE [BS2291]  【구분】입원
+【처방일】2001-10-24 【접수일】2001-10-24 15:53 【검사일】2001-10-24 15:54 【보고일】2001-10-26 09:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+Video no:	OR	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+Introop TEE
+
+S/P MV repair with vegetation & abscess excision
+Good MV opening with minimal MR at coaptation margin
+No AR
+LV cavity was not well visualized
+  
+Conclusion:
+Good postop state of MV repair & excision of vegetation & abscess
+
+
+
+
+
+

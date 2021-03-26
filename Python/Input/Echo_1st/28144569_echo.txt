@@ -1,0 +1,177 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2012-01-17 【접수일】2012-01-17 14:28 【검사일】2012-01-17 15:17 【보고일】2012-01-17 16:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MAP, MVP
+Good post op state
+LA enlargement
+Concentric LVH
+Mildly decreased RV systolic function
+Scanty amout of pericardial effusion
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP with Cosgrove-Edwards Annuloplasty System 30mm, MVP with P3 plication 
+  --2012.1.12
+* MV prolapse & chordae rupture
+* CAP c ARDS & r/o infective endocarditis로 예수병원 care (2011.11.21~12.20)
+* Lt. MCA territory subacute infarction
+* Poor apical window
+
+1. LV
+-- (1) Normal LV cavity size & lower normal systolic function
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal motion
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and mild decreased RV systolic function 
+       (especially wall lateral S` = 0.05m/sec, TAPSE = 7.1mm)
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV : mean PG = 2.32mmHg
+-- (2) Minimal TR
+-- (3) Slightly thickened AoV
+5. Great vessel :
+-- Abdominal aorta size(AP/T) = N/A d/t poor echo window
+6. Pericardial effusion :
+-- Scanty amount of pericardial effusion
+    LV posterior = 0.34cm at PLAX, 0.41cm at PSAX
+7. Mass, thrombi or vegetation : none
+8. RV systolic pressure by TR Vmax = 23mmHg (assumed RAP = 5mmHg)
+9. AFI (+)
+
+-----------------------------------------------------------------------------
+BP: 112 / 75             Ht: 155cm          Wt: 65kg             BSA: 1.64㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 13mm         E: 1.20m/s        e`: 0.048m/s
+LVIDs: 34mm         LVPWd: 13mm         A: 0.51m/s        a`: 0.050m/s
+                    LA: 41mm            E/A: 2.36         E/e`: 25.00
+LVEF: 52%           Ao: 32mm            DT: 296.0msec     LAVI: 39.9ml/m2                                                         
+                                        A-L ( 20.9 / 20.0 / 5.4 )
+LVMI : 154.7g/㎡
+RWT : 0.53
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2012-03-13 【접수일】2012-04-10 12:46 【검사일】2012-04-10 13:37 【보고일】2012-04-10 17:33
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】손명균 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+Well functioning repaired MV
+Concentric LVH
+Mild RV systolic dysfunction
+Small amount of pericardial effusion
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP with Cosgrove-Edwards Annuloplasty System 30mm, MVP with P3 plication  
+   -- 2012.1.12
+* Poor apical window
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and mild decreased RV systolic function
+         (S` = 0.05m/sec, TAPSE = 7.4mm)
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Repaired MV : meanPG= 2.89mmHg, Minimal MR
+-- (2) Slightly thickened AoV
+-- (3) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = 16 * 16mm
+6. Pericardial effusion : Small amount
+-- LV posterior =0.5cm at PLAX, 0.5cm at PSAX
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 19mmHg (assumed RAP = 5mmHg)
+9. AFI was done
+
+-----------------------------------------------------------------------------
+BP: 129 / 91             Ht: 156cm          Wt: 68kg             BSA: 1.68㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 43mm         IVSd : 12mm         E: 1.39m/s        e`: 0.050m/s
+LVIDs: 29mm         LVPWd: 12mm         A: 1.21m/s        a`: 0.078m/s
+                    LA: 40mm            E/A: 1.15         E/e`: 27.80
+LVEF: 55%           Ao: 32mm            DT: 287.0msec     LAVI: 30ml/m2
+                                        A-L ( 16.2 / 17.0 / 4.6 )
+LVMI : 109.93g/㎡
+RWT : 0.56
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2011-12-21 【접수일】2011-12-21 12:44 【검사일】2011-12-21 14:57 【보고일】2011-12-22 10:12
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】손명균 【판독의2】이상철 【판독의3】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+Severe eccentric MR due to lateral commissure prolapse and chordal rupture 
+
+
+
+▣ 검사정보 및 소견
+
+* Lt. MCA subacute infarction, severe MR
+* R/O chordae rupture, R/O Infective endocarditis
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Atrium : LA enlargement
+4. Valve
+-- (1) Severe eccentric MR
+       lateral commissure prolapse with chordal rupture
+       color Doppler 상 그 부위로 regurgitant flow 보임
+-- (2) Minimal TR
+5. No evidence of thrombus, SEC in LA and LAA
+   Normal LAA emptying velocity (>40cm/sec)
+6. No shunt flow
+7. Aorta: No significant abnormal findings
+8. Scanty amount of pericardial effusion
+
+-----------------------------------------------------------------------------
+BP: 124 / 97             Ht: 158cm          Wt: 66kg             BSA: 1.68㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,108 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2001-09-04 【접수일】2001-11-06 08:47 【검사일】2001-11-06 10:00 【보고일】2001-11-07 11:01
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】원경헌 【확인의】이상철
+Video no:	AP1120-11709	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	44	mm	IVSd:	10	mm	LA:	46	mm
+LVIDs:	19	mm	LVPWd:	10	mm	Ao:	37	mm
+  
+LVEF:	81.35	%
+---------------------------------------------------------------------------
+MV
+mPG:	4.2	mmHg	E:	1.6	m/sec	E/A:
+DT:	375	msec	A:	        m/sec	IVRT:	80	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.8	m/sec	peakPG:	12	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	6	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+  *S/P RedoO MVR state
+
+1. Normal LV cavity size and contractility
+   Increased LA size
+2. Normal IVS & borderline thickening LVPW thickness
+3. Prosthetic MV
+    mean PG : 4.2mmHg
+    no abnormal regurgitation
+4. No regional wall motion abnormality
+  
+Conclusion:
+Good functioning MVR state
+LAE
+
+
+
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2000-12-13 【접수일】2000-12-13 10:42 【검사일】2000-12-13 11:48 【보고일】2000-12-14 13:14
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【확인의】박승우
+ Video No :  TEE151-2059                  과거검사 여부:                         
+---------------------------------------------------------------------------
+           
+ IVSd/IVSs     /     mm LVIDd/LVIDs     /      mm LVPWd/LVPWs      /     mm
+  RV EDD       /     mm      EF                %    LA/Ao         /      mm
+  
+---------------------------------------------------------------------------
+  COMMENTS   * TEE finding
+              S/P MVR & LAA internal obliteration               
+
+             1) Two fluttening mass (+) at the rim of prosthetic
+                MV (0.8 X 0.4cm, 1.0 X 0.2cm)-vegetation> thrombus
+             2) Blood flow(+) at the site of internal obliteratipon of LAA 
+                with severe SEC in LA appendage
+             3) No visible thrombus in LA & LAA
+             4) Minimal Ai on C/D
+             5) TR (+) on C/D without pulm. HT
+             6) Mean PG at MV =7mmHg, physiology MR(+) on C/D  
+             7) 환자분이 transducer를 뽑아서 더이상 검사 못함.
+            
+             CONC) 1.C/W infective endocarditis with vegetation at 
+                     prosthetic MV
+                   2.Leakage of LAA obliteration site
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2004-09-18 【접수일】2004-09-18 10:31 【검사일】2004-09-18 10:31 【보고일】2004-09-21 12:11
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】이상철
+Video no:	ICU425-4303	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+* 9월 18일 검사
+* TEE
+   S/P Redo MVR
+   EKG : A. fib 
+
+1. Normal looking LV size & systolic function 
+2. Normal looking prosthetic MV movement without MR 
+3. No definite evidence of vegetations
+       in any of the valves or myocardium
+  
+
+

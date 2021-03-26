@@ -1,0 +1,140 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2019-02-19 【접수일】2019-04-23 08:24 【검사일】2019-04-23 08:49 【보고일】2019-04-23 17:02
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김동연 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVR, TAP, LAA internal obliteration
+Well functioning prosthetic MV and repaired TV
+A.fib with LA enlargement, RA enlargement
+Dilated aortic root (Ao root =44.3mm, Asc.Ao =36.5mm)
+Dilated pulmonary artery (MPA= 39.9mm)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (On-X Conform-X 25/33mm), TAP (SJ Tailor ring 31mm), LAA internal obliteration
+      - 2018.11.01
+* Baseline EKG: A.fib
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 48.5mm at A4C)
+4. Valve 
+-- (1) Thickened AV with mild AR
+         AR VC width= 0.29cm, PHT= 568msec
+-- (2) Prosthetic mitral valve with physiologic MR
+         MV meanPG= 3.2mmHg
+-- (3) Repaired TV with minimal TR
+         TV meanPG= 1.2mmHg
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Dilated aortic root
+     Annulus = 22.9 mm, ST junction= 31.0mm
+     Sinus of Valsalva= 44.3mm
+     Ascending aorta= 36.5mm
+-- Pulmonary Artery (mid-systole시): Dilated pulmonary artery
+     MPA= 39.9mm, LPA= 19.9mm, RPA= 20.7mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27.0mmHg (assumed RAP= 5mmHg)
+9. Strain= -12.2% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :165 / 76       HR :59      Ht:169.0cm       Wt:66.80kg       BSA:1.77
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 55.6mm       IVSd: 10.7mm          E: 1.82m/s          e': 0.096m/s
+LVIDs: 36.4mm       LVPWd: 10.1mm         A:                  a':
+                    LA: 61.6mm            E/A:                E/e': 19.0
+LVEF: 57%           Ao: 43.1mm            DT: 262.9msec       LAVI: 171.8ml/m2
+                                          A-L ( 64.02 / 50.95 / 9.12 )
+LVMI : 129.16 g/m2RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-11-06 【접수일】2018-11-06 08:25 【검사일】2018-11-06 09:13 【보고일】2018-11-06 13:48
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVR, TAP, LAA internal obliteration
+Well functioning prosthetic MV and repaired TV
+A.fib with LA enlargement, RA enlargement
+Dilated aortic root (Ao root = 44.2mm)
+Dilated pulmonary artery (MPA = 43.7mm)
+Minimal amount of pericardial effusion at LV posterior side
+
+-- Decreased LV cavity size and LAVI compared to pre-OP study (2018.09.11)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (On-X Conform-X 25/33mm), TAP (SJ Tailor ring 31mm), LAA internal obliteration - 2018.11.01
+* Baseline EKG: A.fib
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 48.5mm at A4C)
+4. Valve 
+-- (1) Thickened AV with mnimal AR
+         AR VC width= 0.24cm
+-- (2) Prosthetic mitral valve with physiologic MR
+         MV meanPG= 3.7mmHg
+-- (3) Repaired TV with minimal TR
+         TV meanPG= 1.4mmHg
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Dilated aortic root
+     Sinus of Valsalva= 44.2mm
+-- Pulmonary Artery (mid-systole시) : Dilated pulmonary artery
+     MPA= 43.7mm, LPA= 28.2mm, RPA= 27.6mm
+6. Pericardial effusion : Minimal amount at LV posterior side
+-- LV posterior : 0.42cm at PLAX
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 26.4mmHg(assumed RAP= 5mmHg)
+9. Strain= -13.2% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 108 / 65      HR : 84       Ht: 167cm       Wt: 67kg         BSA: 1.75㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 55.1mm       IVSd: 10.9mm          E: 1.50m/s          e': 0.053m/s
+LVIDs: 33.6mm       LVPWd: 10.2mm         A:                  a':
+                    LA: 59.0mm            E/A:                E/e': 28.3
+LVEF: 63%           Ao: 43.0mm            DT: 314.2msec       LAVI: 180.3ml/m2
+                                          A-L ( 61.95 / 52.06 / 8.69 )LVMI : 131.16 g/m2
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

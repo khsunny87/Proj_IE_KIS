@@ -1,0 +1,41 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2001-09-25 【접수일】2001-10-09 12:51 【검사일】2001-10-09 13:32 【보고일】2001-10-10 12:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김현중 【확인의】이상철
+Video no:	AC781-10458	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	39	mm	IVSd:	6	mm	LA:	22	mm
+LVIDs:	25	mm	LVPWd:	6	mm	Ao:	24	mm
+  
+LVEF:	58.90	%
+---------------------------------------------------------------------------
+MV
+mPG:	3.5	mmHg	E:	1.6	m/sec	E/A:	2.2857
+DT:	430	msec	A:	0.7	m/sec	IVRT:	85	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.1	m/sec	peakPG:	5	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	2	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR (tissue valve)
+
+1. Normal LV cavity size and contractility
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV
+       - Vmax = 1.64m/sec, mean PG = 3.5mmHg
+       - Minimal MR
+   Minimal TR (RVSP = 27mmHg)
+4. No regional wall motion abnormality
+  
+Conclusion:
+Good postop state of MVR (tissue valve)
+
+
+
+
+
+

@@ -1,0 +1,209 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-05-07 【접수일】2014-10-29 13:51 【검사일】2014-10-29 15:26 【보고일】2014-10-29 16:35
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김범성 【판독의3】최진오 【청구시행의】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVR
+Well functioning prosthetic MV with suspicious minimal  paravalvular leakage
+Borderline RV dilatation 
+Both atrial enlargement
+Dilated aortic root(41.6mm)
+Abnormal IVS motion after open heart surgery without constrictive physiology
+
+- 이전검사(2009.02.18)와 비교하여 prosthetic valve 바깥으로 소량의 
+  regurgitant flow가 관찰됩니다
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (ATS 27mm) -- 1997.12.8
+* Vertically oriented heart (2D로 chamber size 측정함)
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Borderline dilated RV cavity size (base 43.4mm, mid 36.4mm at A4C) and   
+       systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Visually LA enlargement and RA enlargement(42mm at A4C)
+4. Valve
+-- (1) Well functioning prosthetic mitral valve : meanPG= 5.58mmHg, 
+       Physiologic MR(+)
+-- (2) TV: Minimal TR
+-- (3) AV: Slightly thickened aortic valve with trivial AR
+5. Great vessel : Aorta(모든 aorta 측정은 leading edge to leading edge로 한다)
+-- Aortic root at end diastole: Annulus= 24.3mm, ST junction= 23.9mm
+-- Sinus of Valsalva at end diastole = 41.6mm
+-- Ascending aorta at end diastole= 39.2mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 19.9mmHg (assumed RAP = 5mmHg)
+9. Strain=-12.9% by APLAX
+10. Abnormal IVS motion after open heart surgery (+)
+-- Respiratory variation of mital inflow < 25%
+-- Respiratory variation of tricuspid inflow > 45%
+-- Hepatic vein diastolic reversal flow at expiration (-)
+
+-----------------------------------------------------------------------------
+BP: 138 / 96             Ht: 173cm          Wt: 78kg             BSA: 1.92㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 53mm         IVSd : 8mm          E: 1.61m/s        e`: 0.088m/s
+LVIDs: 35mm         LVPWd: 8mm          A: 0.83m/s        a`: 0.034m/s
+                    LA: 47mm            E/A: 1.94         E/e`: 18.30
+LVEF: 56%           Ao: 41mm            DT: 209.0msec     LAVI: N/A
+
+LVMI : 78.15g/㎡
+RWT : 0.30
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1          1         1         1          1         1
+Apical  1                    1         1                    1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2017-04-11 【접수일】2017-05-04 13:08 【검사일】2017-05-04 13:20 【보고일】2017-05-04 15:59
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박일 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Well functioning prosthetic MV with minimal paravlavular leakage
+LA enlargement
+Dilated aortic root (Ao root= 40.0mm, Asc.Ao= 34.7mm)
+
+- Decreased RV cavity size, no change prosthetic pravavalvular leakage compared with  
+  previous study (2014.10.29)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (ATS 27mm) - 1997.12.08
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+       (LVEF= 56.3% by Simpson's method, LVEDV= 113.85ml, LVESV= 49.80ml)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- MV : Prosthetic MV with physiologic MR
+        Minimal paravalvular leakage, dehiscence size (0.24cm) 
+        : leakage amount는 이전과 비슷합니다.
+          MV meanPG= 5.6mmHg
+-- Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Dilated aortic root
+--- Annulus= 21.4mm, ST junction= 34.1mm
+--- Sinus of Valsalva= 40.0mm
+--- Ascending aorta= 34.7mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 20.9mmHg (assumed RAP= 5mmHg)
+9. Strain= -13.4% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 140 / 94      HR : 77      Ht: 171cm      Wt: 79kg      BSA: 1.91㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 51.3mm       IVSd : 9.4mm          E:1.94m/s           e':0.065m/s
+LVIDs: 34.4mm       LVPWd: 8.6mm          A: 0.87m/s          a':
+                    LA: 50.9mm            E/A: 2.23           E/e':29.8
+LVEF:               Ao: 40.2mm            DT:178.9msec        LAVI: 62.7ml/m2
+                                          A-L ( 28.74 / 28.43 / 5.80 )
+LVMI : 105.16 g/m2
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+             Ant       A-S       I-S       Inf       I-L       A-LBasal        1         1         1         1         1         1
+Mid          1         1         1         1         1         1
+Apical       1                   1         1                   1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2017-10-17 【접수일】2017-12-01 09:10 【검사일】2017-12-01 09:58 【보고일】2017-12-01 17:21
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Well functioning prosthetic MV with minimal paravalvular leakage
+RV dilatation with decreased RV systolic function
+LA enlargement, RA enlargement
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (ATS 27mm) - 1997.12.08
+* A.flutter, RBBB
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+   (LVEF= 57.1% by Simpson's method, LVEDV= 81.56ml, LVESV= 34.95ml)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Dilated RV cavity size (base= 47.1mm, mid= 36.6mm at A4C) and decreased RV systolic function
+(TAPSE= 10.4mm, TV TDI S'= 0.083m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 48.5mm at A4C)
+4. Valve
+-- MV : Prosthetic MV with physiologic MR
+        Minimal paravalvular leakage
+        : leakage amount는 이전과 비슷합니다.
+          MV meanPG= 4.1mmHg
+-- Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+       Sinus of Valsalva= 39.1mm
+       Ascending aorta= 32.8mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 20.9mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -15.7%
+
+-----------------------------------------------------------------------------
+ BP: 120 / 89        HR : 95        Ht: 171cm        Wt: 79kg       BSA: 1.91㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 47.0mm       IVSd : 8.0mm          E:1.55m/s           e':0.073m/s
+LVIDs: 36.0mm       LVPWd: 9.0mm          A:                  a':
+                    LA: 41.5mm            E/A:                E/e':21.2
+LVEF:               Ao: 37.0mm            DT:238.0msec        LAVI: 49.3ml/m2
+                                          A-L ( 24.54 / 23.43 / 5.19 )
+LVMI : 82.63 g/m2
+RWT  : 0.38
+[RWMA]-----------------------------------------------------------------------
+         Ant       A-S       I-S       Inf       I-L       A-L
+Basal     1         1         1         1         1         1Mid       1         1         1         1         1         1
+Apical    1                   1         1                   1
+Apex      1
+
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

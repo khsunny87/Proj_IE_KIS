@@ -1,0 +1,124 @@
+     =================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2020-10-05 【접수일】2020-10-05 08:23 【검사일】2020-10-05 09:50 【보고일】2020-10-05 15:21
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MVR, TAP
+R/O Infective endocarditis (prosthetic MV)
+-- Multiple oscillating material at prosthetic MV strut, r/o vegetation
+Increased repaired TV mean PG
+Slightly decreased RV systolic function
+Well functioning prosthetic MV
+LA enlargement
+Minimal amount of pericardial effusion (Rt. side)
+
+-- Increased repaired TV mean PG (3.7-> 5.9mmHg) compared to previous study (2017.08.14)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (St.Jude Medical 27mm), TAP (ring 29mm) 2009.12.24
+* R/O Infective endocarditis w/u
+* Pre TEE
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size (base= 39.2mm, mid= 24.7mm at A4C) 
+       and slightly decreased RV systolic function
+       (TAPSE= 16.4mm, TV TDI S'= 0.098m/s, esp. decreased mid RV motion)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement (RA= 39.0mm at A4C)
+4. Valve 
+-- (1) Well functioning prosthetic mitral valve with visible multiple oscillating               
+        material at MV strut
+          mean PG= 3.4mmHg
+-- (2) Increrased repaired TV mean PG with minimal TR
+          Thickened both TV annulus
+          mean PG= 5.9mmHg
+-- (3) Slightly thickened AV
+5. Great vessel : Normal
+6. Pericardial effusion : Minimal amount
+-- RV anterior : 0.46cm, RA side : 0.33cm at A4C
+7. Mass, Thrombi, Vegetation :
+-- Multiple oscillating material attached to prosthetic MV strut
+   (size= 0.5*0.28cm, 0.56*0.23cm)
+    R/O Vegetation
+-- Suspicious vegetation involved at LVOT wall
+8. RV systolic pressure by TR Vmax =26.4mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -12.3%
+
+-----------------------------------------------------------------------------
+ BP :94 / 57       HR :87       Ht:143.0cm        Wt:51.70kg         BSA:1.40
+ 과거검사 : Yes
+-----------------------------------------------------------------------------M-Mode data                              MV Doppler
+LVIDd: 43.6mm         IVSd: 7.3mm        E: 1.07m/s          e': 0.054m/s
+LVIDs: 26.6mm         LVPWd: 6.7mm       A: 0.90m/s          a': 0.060m/s
+                      LA: 40.4mm         E/A: 1.19           E/e': 19.8
+LVEF: 63%             Ao: 27.9mm         DT: 207.7msec       LAVI: 53.8ml/m2
+                                         A-L ( 20.70 / 23.20 / 5.42 )
+LVMI : 64.74 g/m2
+RWT : 0.31
+
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2020-10-05 【접수일】2020-10-05 08:23 【검사일】2020-10-05 10:10 【보고일】2020-10-05 15:22
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MVR, TAP
+R/O Infective endocarditis
+-- Tiny oscillating echogenic materials attached at prosthetic MV strut,
+      r/o suture material, r/o vegetation
+Well functioning prosthetic MV
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* R/O IE w/u
+* S/P MVR (SJM 27mm), TAP (2009.12.24)
+* Baseline EKG : NSR
+* Midazolam 2mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Slightly thickened AV
+-- (2) Prosthetic MV with physiologic MR (+)
+       MV meanPG= 2.7mmHg
+-- (3) Repaired TV with minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation :
+-- Tiny oscillating echogenic materials attached at prosthetic MV strut,
+     r/o suture material, r/o vegetation
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ BP :94 / 57        HR :87       Ht:143.0cm        Wt:51.70kg        BSA:1.40
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+

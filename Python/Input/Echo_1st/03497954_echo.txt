@@ -1,0 +1,217 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2008-06-26 【접수일】2008-06-26 15:22 【검사일】2008-06-26 15:33 【보고일】2008-06-27 09:31
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】양지현 【판독의3】최진오 【확인의】최진오
+환자성명 : HONG DONG OON                         Patient No. : 03497954
+Height: : 180.0cm                                Weight : 91.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 57mm         IVSd : 11mm         E: 1.32m/s        e`: 0.06m/s
+LVIDs: 37mm         LVPWd: 12mm         A: 0.28m/s        a`: 0.03m/s
+                    LA: 54mm            E/A: 4.70         E/e`: 22.00
+LVEF: 58%           Ao: 36mm            DT: 324msec       LAVI: 56.2ml/m2
+
+LVMI : 129.15g/m2
+RWT : 0.42
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+   * S/P MVP : Chordae resection & leaflet plication 
+     (A3 & Postermedial commissure)
+     MAP (C-E 32mm), TAP (SJ 33mm) & Maze op : 2008. 6. 30
+
+1. Borderline increased LV cavity size & preserved LV systolic function
+2. Borderline increased LV wall thickness
+3. Repaired MV - mean PG = 2mmHg, no MR
+   Repaired TV - mean PG = 1mmHg, minimal TR (RVSP = 33mmHg)
+4. Paradoxical septal motion
+5. Intermittent A wave (+), A` wave (+)
+   LAE
+
+
+Conclusion:
+S/P MVP, MAP & TAP & Maze op
+Well functioning repaired valves
+Borderline LVE
+Borderline concentric LVH
+LAE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2008-11-21 【접수일】2008-11-21 11:00 【검사일】2008-11-21 11:57 【보고일】2008-11-24 09:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김상민 【판독의3】최진오 【확인의】최진오
+환자성명 : HONG DONG OON                         Patient No. : 03497954
+Height: 180.0cm      BP: /                            Weight : 105.0kg
+
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/m2
+RWT :
+-----------------------------------------------------------------------------
+Comment: * TEE
+         * S/P MVP, MAP, TAP, Maze op
+
+1. Visually increased LV cavity size & preserved LVEF
+2. Visually increased LV wall thickness
+3. Slightly thickened repaired MV
+   Shadowing 으로 인해 TV, PV 는 관찰에 제한 있음
+   TEE 에서 의심하였던 recurrent chordal vegetation 은  shadowing 으로 
+   제한적이었으나 보이는 한도에서는 관찰되지 않음
+4. No regional wall motion abnormality
+
+Conclusion:
+S/P MVP, MAP, TAP, Maze op
+Slightly thickened repaired MV
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-05-25 【접수일】2010-06-22 14:29 【검사일】2010-06-22 15:24 【보고일】2010-06-22 17:18
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】양정훈 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVP, MAP, TAP, Maze OP
+Well functioning repaired MV & TV
+Concentric LVH
+Both atrial enlargement
+
+
+
+▣ 검사정보 및 소견
+
+*S/P MVP, MAP(C-E 32mm), TAP(SJ 33mm), Maze OP :2008.6.30
+*Very poor apical window
+*HR=48~53bpm
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indetermiante diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium:
+-- LA enlargement(LAVI=46.1ml/m2 by D-L method), RA enlargement(43mm on A4C)
+-- LA activity (+) and RA activity (+)
+4. Valve
+-- (1) Repaired MV with trivial MR
+       mean PG=2.2mmHg
+-- (2) Repaired TV with minimal TR
+       mean PG=1mmHg
+-- (3) Slightly thickened AoV
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = N/A d/t poor window
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler tracing
+
+-----------------------------------------------------------------------------
+BP: 132 / 93             Ht: 180cm          Wt: 95kg             BSA: 2.15㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 52mm         IVSd : 11mm         E: 1.57m/s        e`: 0.084m/s
+LVIDs: 28mm         LVPWd: 12mm         A: 0.47m/s        a`: 0.065m/s
+                    LA: 53mm            E/A: 3.34         E/e`: 18.69
+LVEF: 71%           Ao: 38mm            DT: 429.0msec     LAVI: 40.2ml/m2
+                                        A-L ( 28.7 / 22.3 / 6.3 )
+LVMI : 109.12g/㎡
+RWT : 0.46
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2015-11-10 【접수일】2015-11-10 10:45 【검사일】2015-11-10 13:47 【보고일】2015-11-10 17:26
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MVP, MAP, TAP, Maze op
+Well functioning repaired MV, TV
+Borderline concentric LVH
+Both atrial enlargement
+
+- Sligtly increased MV, TV meanPG compared to previous study (2010.06.22)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP(C-E 32mm), TAP(SJ 33mm), Maze OP : 2008.6.30
+* Poor apical window
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Borderline increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) LA activity(+), MV a-wave(+)
+       RA activity(+), TV a-wave(+)
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement, RA enlargement (42.5mm on A4C)
+4. Valve
+-- (1) Repaired MV with trivial MR
+         mean PG=4.06mmHg
+-- (2) Repaired TV with minimal TR
+         mean PG=1.73mmHg
+-- (3) Thickened AoV
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 31mmHg (assumed RAP = 5mmHg)
+9. Strain = -8.8% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 117 / 76             Ht: 180cm          Wt: 95kg             BSA: 2.15㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 57mm         IVSd : 11mm         E: 1.88m/s        e`: 0.055m/s
+LVIDs: 37mm         LVPWd: 11mm         A: 0.61m/s        a`: 0.042m/s
+                    LA: 58mm            E/A: 3.08         E/e`: 34.18
+LVEF: 58%           Ao: 36mm            DT: 410.0msec     LAVI: 62.3ml/m2
+                                        A-L ( 31.6 / 34.3 / 6.9 )
+LVMI : 119.41g/㎡
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
