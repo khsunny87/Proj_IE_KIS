@@ -1,0 +1,360 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2016-08-26 【접수일】2016-08-26 10:52 【검사일】2016-08-26 11:07 【보고일】2016-08-26 14:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】오민석 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MAP
+
+- Decreased MV meanPG compared to previous study (2016.08.01)
+
+
+▣ 의견
+
+Remark) TTE window가 poor하여 vegetation 평가가 어려우나,
+         보이는 범위에서 의심되는 병변은 없습니다. 
+         Infective endocarditis 가 의심되면 TEE 시행하시기 바랍니다.
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP, Vegetation removal - 2016.05.17
+* Poor echo window
+* Supine position
+* Pt's poor cooperation
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve
+-- (1) Repaired MV
+         MV meanPG= 3.2mmHg
+       Thickened Posterior leaflet
+       : R/O suture site component
+-- (2) Slightly thickened AoV with minimal AR
+-- (3) Minimal TR
+5. Great vessel : Normal (leading to leading edge at end-diastole)
+    Ascending aorta= 36.0mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 26.5mmHg (assumed RAP = 5mmHg)
+9. Strain= -15.6% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 120 / 67        HR : 88     Ht: 156cm      Wt: 46kg      BSA: 1.42㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 47mm         IVSd : 9mm         E:1.23m/s               e':0.055m/s
+LVIDs: 30mm         LVPWd: 7mm         A: 1.14m/s              a':0.042m/s
+                    LA: 33mm           E/A: 1.08               E/e':22.4
+LVEF: 59%           Ao: 31mm           DT:256.2msec            LAVI: 16.5ml/m2
+                                       A-L ( 9.82 / 10.09 / 3.60 )
+LVMI : 102.20 g/m2
+RWT : 0.30
+[RWMA]-----------------------------------------------------------------------
+          Ant       A-S       I-S       Inf       I-L       A-L
+Basal     1         1         1         1         1         1
+Mid       1         1         1         1         1         1Apical    1                   1         1                   1
+Apex      1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2016-08-01 【접수일】2016-08-01 15:55 【검사일】2016-08-01 16:30 【보고일】2016-08-01 17:23
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임아영 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Repaired MV with increased MV meanPG (3.5->6.8mmHg)
+Tiny echogenic lesion at PMVL tip -> R/O Thickened MV tip or r/o vegetation
+Borderline pulmonary hypertension
+LA enlargement
+
+
+▣ 의견
+
+Rec) MAP op이후 시행한 ICU echo (16.6.13)에서 MV meanPG는 3~3.5mmHg 정도로 측정됩니다.
+    MV meaPG증가 및 PMVL tip의 lesion이 vegetation을 배제할수없으므로 TEE 시행하시기 바랍니다.
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP, vegetation removal (2016.05.17.)
+* Fever (+)로 ER 내원
+* Poor echo window d/t supine position
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- (1) MV : Repaired mitral valve
+            MV meanPG= 6.8mmHg
+            Thickened MV with increased meanPG : R/O vegetation
+-- (2) Minimal TR
+5. Great vessel : Normal (leading to leading edge at end-diastole)
+       Ascending aorta= 35.9mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- Thickened MV with increased meanPG : R/O vegetation
+8. RV systolic pressure by TR Vmax =36.3mmHg(assumed RAP= 5mmHg)
+9. Strain= -12.2% by APLAX
+-----------------------------------------------------------------------------
+ BP: 114 / 74           HR : 89      Ht: 156cm  Wt: 45kg        BSA: 1.41㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 49mm         IVSd : 8mm         E:1.34m/s              e':0.056m/s
+LVIDs: 32mm         LVPWd: 8mm         A: 1.70m/s             a':0.083m/s
+                    LA: 35mm           E/A: 0.79              E/e':23.9
+LVEF: 57%           Ao: 29mm           DT:300.0msec           LAVI: 35.1ml/m2
+                                       A-L ( 16.11 / 18.09 / 5.00 )
+LVMI : 111.42 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S      Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2016-05-12 【접수일】2016-05-12 09:04 【검사일】2016-05-12 09:35 【보고일】2016-05-12 11:49
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김충훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+R/O Sepsis induced cardiomyopathy with mild LV systolic dysfunction
+Mild to moderate MR
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* Pneumonia with bacteremia
+* Coronary CT : Imsignificant stenosis (p-m RCA 30%) : 2015.03.23
+* R/O ICMP w/u
+
+1. LV
+-- (1) Normal LV cavity size and mild LV systolic dysfunction
+       (LVEF= 44.5% by Simpson`s method, LVEDV= 106.19ml, LVESV= 58.97ml)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+) : mild global hypokinesia
+-- (4) Indeterminate diastolic function d/t E/A summation (E<A pattern)
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve :
+-- (1) Mild to moderate MR (two jets)
+         PISA r= 0.46cm, MV ERO= 9.28mm², MR RV= 15.52ml
+-- (2) Thickened AoV with minimal AR
+-- (3) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 26.4mmHg (assumed RAP = 5mmHg)
+9. Strain= -9.9% by APLAX 
+
+-----------------------------------------------------------------------------
+ BP: 126 / 80           Ht: 153cm           Wt: 48kg           BSA: 1.43㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                          MV Doppler
+LVIDd: 54mm        IVSd : 10mm       E:                     e`:0.044m/s
+LVIDs: 42mm        LVPWd: 9mm        A:                     a`:0.096m/s
+                   LA: 39mm          E/A:                   E/e`:
+LVEF:              Ao: 31mm          DT:                    LAVI: 36.9ml/m2
+                                     A-L ( 17.51 / 18.09 / 5.10 )
+LVMI : 166.02 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1.5       1.5       1.5       1.5       1.5       1
+Mid     1.5       1.5       1.5       1.5       1.5       1.5
+Apical  1.5                 2         1.5                 1.5
+Apex    2
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2016-08-09 【접수일】2016-08-09 12:53 【검사일】2016-08-09 14:37 【보고일】2016-08-09 16:03
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황지원 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P repaire MV (mean PG = 4.17mmHg)
+Echogenic material at TV tip
+Mild TR
+LA enlargement
+
+
+▣ 의견
+
+Remark) 이전검사와 비교시 repaired MV, RA catheter tip 부분은 변화가 없고
+        vegetation 보다는 suture site material 가능성 크겠습니다.
+        그리고 MV mean PG 역시 tachycardia 영향으로 높아졌던 것 같습니다.
+        다만 지난 검사에서 tachycardia 영향으로 TV evaluation이 제한적이어서 이번검사에 
+        TV tip의 echogenic material이 비교되지는 않지만 ,
+        이번검사에서는 vegetation or thrombus 가능성 있겠습니다.
+
+
+▣ 검사정보 및 소견
+
+* F/U
+* Baseline EKG : NSR with HR 80~90bpm
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve :
+-- (1) Repaired MV : mean PG = 4.17mmHg
+       Thickened MV 
+       -> Posterior leaflet 근처의 thickening은 이전검사와 차이가 없고 
+          suture site component 가능성 높겠음.
+-- (2) Slightly thickened AV, minimal AR
+-- (3) Mild TR : 이전검사는 sinus tachycardia로 rate가 빨라서 
+                 TV의 evaluation이 제한적이었습니다.
+                 TV leaflet 끝에 vegetation or thrombus로 의심되는 병변이 관찰됩니다.
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation (+) :
+-- TV site : Leaflet 끝에 coaptation site에 vegetation or thrombus로 의심되는 병변 관찰.
+-- Catheter tip 주변은 다른 lesion은 관찰되지 않음.
+8. Intracardiac shunt (+) :
+-- Tiny PFO : Visible L - R flow
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done
+
+-----------------------------------------------------------------------------
+ BP: /          HR :      Ht: 156cm        Wt: 47kg        BSA: 1.43㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2016-08-02 【접수일】2016-08-02 09:27 【검사일】2016-08-02 11:00 【보고일】2016-08-02 13:27
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임아영 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No evidence of infective endocarditis in this exam
+Repaired MV with increased MV mean PG
+R/O tiny PFO type ASD
+LA enlargement
+HD catheter in RA
+Atherosclerotic plaque in thoracic descending aorta
+
+
+▣ 의견
+
+Remark) TEE상 vegetation을 의심할 만한 병변은 관찰되지 않으나 
+        임상적으로 다른 뚜렷한 infection focus가 없다면 TEE f/u을 추천드립니다.
+        MV mean PG는 이전검사에 비해 증가되어 있으므로 infection 호전되고 
+        tachycardia 조절된 후에 추후 TTE f/u이 필요합니다.
+
+
+▣ 검사정보 및 소견
+
+* R/O infective endocarditis w/u
+* Baseline EKG : NSR with HR 120bpm
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve :
+-- (1) Repaired mitral valve with increased MV mean PG
+         MV mean PG = 12.7mmHg
+-- (2) Minimal to mild TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : None
+8. Intracardiac shunt (+) : R/O tiny PFO type ASD
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (+) in thoracic descending aorta
+11. HD catheter in RA
+12. 3D was done
+
+-----------------------------------------------------------------------------
+ BP: /          HR :         Ht: 156cm      Wt: 46kg    BSA: 1.42㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2016-05-16 【접수일】2016-05-16 07:48 【검사일】2016-05-16 10:06 【보고일】2016-05-16 16:49
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】오민석 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Infective endocarditis including MV with mild to moderate MR
+Mild LV systolic dysfunction
+LA enlargement
+Atherosclerotic plaque with increased IMT in aortic arch
+
+
+
+▣ 검사정보 및 소견
+
+* R/O Infective endocarditis
+* Septic pneumonia
+* Baseline ECG : NSR with 110bpm
+
+1. Visually normal LV cavity size & mild systolic dysfunction
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size: LA enlargement
+5. Valve:
+-- (1) Irregularly thickened AMVL tip as oval shaped echogenic mass like lesion 
+       -> R/O Vegetation
+-- (2) Minimal to mild AR
+-- (3) Minimal TR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal ( >40cm/s ) LAA emptying velocity
+7. Mass & vegetation: ( + )
+-- Irregularly thickened AMVL tip as oval shaped echogenic mass like lesion 
+   -> R/O Vegetation
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( - )
+10. Atherosclerotic plaque (0.8*0.15cm) ( + ) in aortic arch
+11. Redundant IAS
+12. 3D was done
+
+-----------------------------------------------------------------------------
+ BP: /                  Ht: 154cm           Wt: 48kg           BSA: 1.44㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+

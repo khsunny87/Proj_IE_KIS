@@ -1,0 +1,130 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2020-04-13 【접수일】2020-04-13 10:27 【검사일】2020-04-13 11:47 【보고일】2020-04-13 15:29
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지훈 【판독의3】김지훈 【청구시행의】김지훈 【확인의】김지훈
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+Decreased RV systolic function
+Dilated aortic root (Ao root =39.6mm)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with C-E Perimount magna valve 27mm(2020.04.09)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and decreased RV systolic function
+       (TAPSE= 6.3mm, TV TDI S'= 0.061m/s)
+        Esp, basal RV의 radial motion이 저하되어보임
+-- (2) Normal RV wall thickness
+3. Atrium : normal
+4. Valve 
+-- (1) Prosthetic mitral valve : MV meanPG= 4.1mmHg
+-- (2) Trivial TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole):
+       Sinus of Valsalva= 39.6mm
+6. Pericardial effusion : None
+-- Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Ventricular interdependence(-)
+-- Pericardial thickening (-)
+-- Adhesion (-)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.068m/sec) < Lateral e' (0.07m/sec)
+-- Normal IVC
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =N/A(assumed RAP= 5mmHg)
+9. Strain(GL)= -12.5%
+
+-----------------------------------------------------------------------------
+ BP :110 / 50       HR :88       Ht:178.0cm        Wt:77.00kg        BSA:1.95
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 42.1mm       IVSd: 9.8mm           E: 1.17m/s          e': 0.068m/s
+LVIDs: 27.0mm       LVPWd: 9.4mm          A: 1.04m/s          a': 0.068m/s
+                    LA: 27.3mm            E/A: 1.12           E/e': 17.2
+LVEF: 59%           Ao: 38.7mm            DT: 254.0msec       LAVI: 28.8ml/m2
+                                          A-L ( 18.49 / 18.31 / 5.12 )
+LVMI : 66.75 g/m2
+RWT : 0.45
+
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-LBasal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2020-04-07 【접수일】2020-04-07 15:41 【검사일】2020-04-07 16:27 【보고일】2020-04-07 16:51
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+C/W Infective endocarditis on MV (large size, hypermobile)
+LA enlargement
+Dilated aortic root (Ao root =40.3mm)
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis w/u
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Minimal AR, TR
+-- (2) Hypermobile eghogenic mass attached to AMVL (A3 portion)
+          (size = 1.95*0.82cm at PLAX, 0.83*2.71cm at A2C)
+          without significant MR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Dilated aortic root
+       Annulus = 25.5 mm, ST junction= 31.8mm
+       Sinus of Valsalva= 40.3mm
+6. Pericardial effusion : None
+7. Vegetation (+) : Hypermobile eghogenic mass attached to AMVL
+                    (size = 1.95*0.82cm at PLAX, 0.83*2.71cm at A2C)
+8. RV systolic pressure by TR Vmax = 33.2mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -17.7%
+
+-----------------------------------------------------------------------------
+ Ht:178.0cm            Wt:85.00kg           BSA:2.03            과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 47.9mm       IVSd: 10.4mm        E: 0.93m/s          e': 0.101m/s
+LVIDs: 30.9mm       LVPWd: 10.1mm       A: 0.74m/s          a': 0.118m/s
+                    LA: 37.1mm          E/A: 1.26           E/e': 9.2
+LVEF: 58%           Ao: 38.2mm          DT: 187.9msec       LAVI: 37.3ml/m2
+                                        A-L ( 21.67 / 20.12 / 4.89 )
+LVMI : 86.41 g/m2
+RWT : 0.42
+
+[RWMA]-----------------------------------------------------------------------
+            Ant       A-S       I-S       Inf       I-L       A-L
+Basal       1         1         1         1         1         1
+Mid         1         1         1         1         1         1
+Apical      1                   1         1                   1
+Apex        11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

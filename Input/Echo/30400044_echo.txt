@@ -1,0 +1,119 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2013-03-26 【접수일】2013-03-27 14:59 【검사일】2013-03-27 16:03 【보고일】2013-03-28 13:37
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이가연 【판독의3】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+S/P MVR
+Well functioning prosthetic valve
+Borderline concentric LVH
+Scanty amount of pericardial effusion
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with ON-X valve 27/29mm
+  Posterior annular reconstruction with bovine pericardium(2013.3.12)
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Borderline increased LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) Well functioning prosthetic mitral valve : meanPG= 4.29mmHg, 
+       Physiologic MR(+)
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) =N/A d/t op site
+6. Pericardial effusion : Scanty amount
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax =N/A d/t poor Doppler signal
+  (assumed RAP = 5mmHg)
+9. Pleural effusion
+
+-----------------------------------------------------------------------------
+BP: 100 / 60             Ht: 177cm          Wt: 75kg             BSA: 1.92㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 44mm         IVSd : 11mm         E: 1.39m/s        e`: 0.040m/s
+LVIDs: 28mm         LVPWd: 11mm         A: 0.87m/s        a`: 0.040m/s
+                    LA: 33mm            E/A: 1.59         E/e`: 31.93
+LVEF: 60%           Ao: 29mm            DT: 179.0msec     LAVI: 26ml/m2
+                                        A-L ( 16.7 / 18.0 / 5.1 )
+LVMI : 87.98g/㎡
+RWT : 0.50
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2013-03-11 【접수일】2013-03-11 15:28 【검사일】2013-03-11 17:44 【보고일】2013-03-12 17:07
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】손관협 【판독의2】박성지 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+C/W infective endocarditis
+Severe MR d/t vegetation and r/o perforation of PMVL
+
+
+
+▣ 의견
+
+Rec) Surgical consultation
+
+
+
+▣ 검사정보 및 소견
+
+* MRSA bacteremia
+* Intubation state d/t pulmonary edema
+* Multiple embolic cerebral infarction
+* Baseline ECG : NSR
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size : Normal
+5. Valve:
+-- (1) Severe MR d/t vegetation and R/O perforation of PMVL
+      (color Doppler가 명확하지는 않지만 2-D상에 perforation이 의심됨)
+       PV systolic reversal flow (+)
+-- (2) Minimal TR
+6. Thrombus (- ), SEC (- ) in LA & LA appendage
+   Normal (>40cm/s) LAA emptying velocity
+7. Mass & vegetation: ( +)
+-- 2개의 mass가 보이며 첫 번째는 PMV와 PMV annulus에 stalk을 가지는 
+   도넛모양의 soft and mobile mass (1.3*1.8cm)이며 두 번째는 PM papillary m. 
+   부위에 stalk을 가지는 달걀모양의 soft and mobile mass (1.8*3.1cm) 이며
+   vegetation의 가능성이 가장 높습니다
+8. Intracardiac shunt: (- )
+9. Pericardial effusion: (- )
+10. Atherosclerotic plaque (- ) in aortic arch & thoracic descending aorta
+
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 0cm            Wt: 0kg              BSA: 0.00㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+
+

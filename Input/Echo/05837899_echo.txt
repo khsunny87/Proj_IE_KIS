@@ -1,0 +1,189 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-07-19 【접수일】2019-07-19 14:50 【검사일】2019-07-19 16:00 【보고일】2019-07-19 16:58
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVR
+HCM (septal)
+Well functioning prosthetic mitral valve
+LA enlargement
+Mild pulmonary hypertension
+Minimal amount of pericardial effusion
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with C-E PERIMOUNT Magna
+  Ascending aorta replacement with Hemashield one branch graft 26mm - 2019.7.10
+  Known HCM
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+       (EF > 55% by visual estimation )
+-- (2) Increased IVS wall thickness (17mm)
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+-- (5) Paradoxical septal motion
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- AV : Thickened and calcified AV with minimal to mild AR
+      A5C: AV Vmax= 2.7m/s, AV meanPG= 13.8mmHg, LVOTd= 1.94cm,
+           AVA by CE= 1.31cm², AVAI by CE= 0.82cm²/m², LVOT VTI/AV VTI= 0.44
+-- MV : Well functioning prosthetic mitral valve with hyper mobile chordae
+      MV meanPG= 4.0mmHg
+-- TV : Minimal to mild TR
+5. Great vessel : Normal
+6. Pericardial effusion : Minimal amount at RA
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 41.1mmHg(assumed RAP= 5mmHg)
+9. Strain= -7.5% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :109 / 59      HR :57     Ht:169.0cm       Wt:52.90kg           BSA:1.60
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 40.0mm       IVSd: 20.8mm          E: 1.24m/s          e': 0.049m/s
+LVIDs: 30.3mm       LVPWd: 8.8mm          A: 0.89m/s          a': 0.026m/s
+                    LA: 44.4mm            E/A: 1.39           E/e': 25.3
+LVEF                Ao: 30.9mm            DT: 159.7msec       LAVI: 30.8ml/m2
+                                          A-L ( 16.78 / 14.87 / 4.30 )
+LVMI : 142.41 g/m2
+RWT : 0.44
+[RWMA]-----------------------------------------------------------------------              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-07-09 【접수일】2019-07-09 14:12 【검사일】2019-07-09 14:38 【보고일】2019-07-09 17:06
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+C/W HCMP (septal)
+Hypermobile linear structure attached to PMVL - C/W vegetation (2.5 ~ 2.8cm)
+Mild to moderate AS
+Mild to moderate MR
+LA enlargement
+Minimal amount of pericardial effusion at RV side
+
+
+▣ 검사정보 및 소견
+
+* Poor echo window
+* HCM f/u
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Increased basal septal LV wall thickness (17mm)
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function d/t E/A summation
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Thickened and calcified AV with minimal AR
+         A5C: AV Vmax= 2.9m/s, AV meanPG= 20.9mmHg, LVOTd= 2.21cm,
+              AVA by CE= 1.17cm², LVOT VTI/AV VTI= 0.31
+-- (2) Hypermobile linear structure attached to PMVL- C/W vegetation (2.5 ~ 2.8cm)
+       Mild to moderate MR
+-- (3) Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Sinus of Valsalva= 29.5mm
+     Ascending aorta= 28.0mm
+     Atherosclerotic plaque at aortic root
+6. Pericardial effusion : Minimal amount at RV side
+-- RV anterior : 0.43cm at A4C
+-- RV anterior : 0.41cm at subcostal view
+7. Vegetation (+) : Hypermobile linear structure attached to PMVL
+-- R/O vegetation (2.5 ~ 2.8cm)
+8. RV systolic pressure by TR Vmax = 32.0mmHg (assumed RAP= 5mmHg)
+9. Strain= -11.4% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :104 / 75       HR :60       Ht:169.0cm       Wt:53.90kg       BSA:1.61
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 49.2mm       IVSd: 21.0mm          E:                  e': 0.041m/s
+LVIDs: 26.2mm       LVPWd: 10.8mm         A:                  a': 0.069m/s
+                    LA: 39.5mm            E/A:                E/e':
+LVEF: 72%           Ao: 31.9mm            DT:                 LAVI: 48.5ml/m2
+                                          A-L ( 21.25 / 23.56 / 5.45 )
+LVMI : 213.46 g/m2RWT : 0.44
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2019-07-10 【접수일】2019-07-10 08:24 【검사일】2019-07-10 09:22 【보고일】2019-07-10 13:48
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의2】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+C/W Infective endocarditis involving MV with mild to moderate MR, r/o early abscess formation
+C/W HCMP (septal type)
+Mild AR
+LA enlargement
+Minimal amount of pericardial effusion
+Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+
+▣ 의견
+
+Rec) OP
+
+
+▣ 검사정보 및 소견
+
+* IE w/u
+* Baseline EKG : NSR with HR 60bpm
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 2mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually increased LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Hypermobile mass (2EA; 2.7x0.84cm, 1.44x0.26cm) attached to 
+       PMVL (P2-3 portion) with hypoechoic lesion
+       Irregularly thickened AMVL with 0.6x0.28cm oscillating mass
+       -> C/W vegetation with r/o early abscess formation
+       Mild to moderate MR
+-- (2) Thickened and calcified AV with limited motion.
+       Mild AR
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : vegetation(+)
+8. Intracardiac shunt : none
+9. Pericardial effusion : Minimal amount
+10. Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:169.0cm            Wt:53.90kg           BSA:1.61          과거검사 : Yes
+-----------------------------------------------------------------------------
+

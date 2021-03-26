@@ -1,0 +1,239 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2019-08-12 【접수일】2019-09-25 10:53 【검사일】2019-09-25 11:21 【보고일】2019-09-25 14:51
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVP, MAP, PFO primary closure
+Well functioning repaired MV
+LV lateral adhesion (+) with equivocal constrictive physiology
+Disappeared pericardial effusion compared to previous study (2019.07.24)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP with triangular resection (A2), MAP (C-E annuloplasty ring 26mm),
+      PFO primary closure - 2019.7.18
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal
+4. Valve 
+-- (1) Repaired MV with minimal MR
+         mean PG= 5.0mmHg (HR 88~90bpm)
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Constrictive physiology (+/-)
+-- Septal bouncing (+)
+-- Ventricular interdependence(-)
+-- Flat diastolic motion of LV posterior wall (+)
+-- Pericardial thickening (-)
+-- LV lateral wall adhesion (+)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (+)
+-- MV medial E'(0.123m/sec), Lateral e' (0.13m/sec)
+-- Normal IVC
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =30.8mmHg(assumed RAP= 5mmHg)
+9. Strain= -14.9% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :116 / 66      HR :101     Ht:170.0cm        Wt:48.30kg         BSA:1.55
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 40.7mm       IVSd: 6.0mm           E: 1.42m/s          e': 0.123m/s
+LVIDs: 23.6mm       LVPWd: 6.5mm          A: 0.86m/s          a': 0.079m/s
+                    LA: 35.5mm            E/A: 1.65           E/e': 11.5
+LVEF: 66%           Ao: 30.1mm            DT: 213.9msec       LAVI: 30.6ml/m2
+                                          A-L ( 15.60 / 15.93 / 4.45 )
+LVMI : 45.02 g/m2RWT : 0.32
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-07-22 【접수일】2019-07-24 15:46 【검사일】2019-07-24 16:45 【보고일】2019-07-24 17:20
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVP, MAP, PFO primary closure
+Well functioning repaired MV
+Small to moderate amount of pericardial effusion without hemodynamic compromise
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP with triangular resection (A2), MAP (C-E annuloplasty ring 26mm),
+      PFO primary closure - 2019.7.18
+* Sinus tachycardia (HR= 101~102bpm)
+* Poor apical & subcostal view
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal
+4. Valve 
+-- (1) Repaired MV
+        MV meanPG= 5.2mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : Small to moderate amount
+-- LV posterior : 0.53cm at PLAX
+-- RV anterior : 0.64cm, LV posterior : 1.43cm at PSAX
+-- LV lateral : 0.36cm, RA side : 0.28cm at A4C
+-- Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Ventricular interdependence (-)
+-- Pericardial thickening (-)
+-- Focal adhesion (+) at basal to mid RV anterior side
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.071m/sec) < Lateral e' (0.09m/sec)
+-- Normal IVC
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 30.6mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -13.7%
+
+-----------------------------------------------------------------------------
+ BP :122 / 47      HR :112       Ht:172.0cm     Wt:46.60kg         BSA:1.54
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 38.1mm       IVSd: 7.9mm           E: 1.39m/s            e': 0.071m/s
+LVIDs: 20.6mm       LVPWd: 7.9mm          A: 1.14m/s            a': 0.063m/s
+                    LA: 26.2mm            E/A: 1.22             E/e': 19.6
+LVEF: 71%           Ao: 29.6mm            DT: 370.5msec         LAVI: 26.0ml/m2                                          A-L ( 14.32 / 12.46 / 3.79 )
+LVMI : 55.11 g/m2
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-07-15 【접수일】2019-07-15 13:15 【검사일】2019-07-15 14:24 【보고일】2019-07-15 17:06
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+C/W Infective endocarditis at PMVL annulus, LA & LV wall, AMVL chordae.
+LA enlargement
+Mild eccentric MR
+Small amount of pericardial effusion
+
+
+▣ 검사정보 및 소견
+
+* I.E w/u
+* Pre TEE
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve
+-- Mild eccentric MR
+-- Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : Small amount
+-- RV anterior : 0.23cm at PSAX
+-- LV inferior : 0.57cm at A2C
+7. Vegetation (+) :
+-- Hyperechogenic lesion at LV inferior ~ inferorateral wall : 3.01 * 0.8cm,
+   oscillating lesion at PMVL annulus : 0.91 * 0.48cm, AMVL chordae : 0.51 * 0.53cm
+8. RV systolic pressure by TR Vmax = 25.3mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -21.7%
+
+-----------------------------------------------------------------------------
+ BP :108 / 89      HR :89         Ht:172.0cm          Wt:46.20kg       BSA:1.53
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 47.6mm       IVSd: 8.1mm           E: 1.04m/s          e': 0.122m/s
+LVIDs: 25.5mm       LVPWd: 7.3mm          A: 0.51m/s          a': 0.083m/s
+                    LA: 37.2mm            E/A: 2.04           E/e': 8.5
+LVEF: 71%           Ao: 25.5mm            DT: 229.3msec       LAVI: 37.9ml/m2
+                                          A-L ( 16.63 / 17.91 / 4.37 )
+LVMI : 77.72 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2019-07-15 【접수일】2019-07-15 13:15 【검사일】2019-07-15 14:59 【보고일】2019-07-15 16:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+C/W Infective endocarditis at PMVL annulus, LA & LV inferobasal wall, AMVL chordae
+Mild to moderate eccentric MR
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis w/u
+* Baseline EKG : NSR
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 10mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : normal
+5. Valve
+-- (1) Mild to moderate eccentric MR : PISA radius= 0.95cm
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+-- Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : vegetation (+)
+-- PMVL annulus, LA (1.25x0.438 cm) & LV inferobasal wall, AMVL chordae (0.43 x 0.33cm)
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:172.0cm            Wt:46.20kg           BSA:1.53           과거검사 : No
+-----------------------------------------------------------------------------
+

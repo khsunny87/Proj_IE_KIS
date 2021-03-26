@@ -1,0 +1,119 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2019-07-17 【접수일】2019-07-18 15:19 【검사일】2019-07-18 15:47 【보고일】2019-07-18 17:28
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+Lower normal LV systolic function
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with C-E PERIMOUNT Magna ease 27mm d/t IE (2019.07.13)
+* Post-op
+
+1. LV
+-- (1) Normal LV cavity size and lower normal LV systolic function
+       (LVEF= 52.8% by Simpson's method, LVEDV= 162.59ml, LVESV= 76.76ml)
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Well functioning bio-prosthetic MV
+         MV meanPG= 5.7mmHg
+-- (2) Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Sinus of Valsalva= 38.5mm
+     Ascending aorta= 33.9mm
+6. Pericardial effusion : None
+-- Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Abnormal septal motion after open heart surgery (+)
+-- Ventricular interdependence (+)
+-- Pericardial thickening (-)
+-- Adhesion (-)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.056m/sec) < Lateral e' (0.10 m/sec)
+-- Normal IVC (IVC = 20.2mm)
+-- Normal hepatic vein
+7. Mass, Thrombi, Vegetation 
+-- Thinned material attached to basal anterior LV wall side (size : 0.75cm)
+     r/o suture material
+8. RV systolic pressure by TR Vmax =21.1mmHg (assumed RAP= 5mmHg)
+9. Strain(GL)= -15.0%
+
+-----------------------------------------------------------------------------
+ BP :103 / 68       HR :80       Ht:177.0cm       Wt:75.20kg       BSA:1.92
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 50.2mm       IVSd: 10.4mm          E: 1.24m/s          e': 0.056m/s
+LVIDs: 30.9mm       LVPWd: 10.4mm         A: 1.64m/s          a': 0.083m/s
+                    LA: 44.1mm            E/A: 0.76           E/e': 22.1LVEF                Ao: 37.7mm            DT: 399.4msec       LAVI: 51.0ml/m2
+                                          A-L ( 24.22 / 28.96 / 6.09 )
+LVMI : 100.59 g/m2   
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2019-07-12 【접수일】2019-07-12 08:47 【검사일】2019-07-12 09:16 【보고일】2019-07-12 12:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김소리 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Vegetation at MV with r/o microperforation
+Vegetation at LA wall (near the LAA)
+Severe eccentric MR
+LA enlargement
+
+
+▣ 의견
+
+Rec) TS contact and OHS
+
+
+▣ 검사정보 및 소견
+
+* R/O IE로 검사 시행
+* Baseline EKG : NSR
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- Severe eccentric MR with MV vegetation & perforation
+     PISA rad 1.12 cm, ERO 0.53cm2, RV 66ml
+     MR jet (+) in LAA
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+-- Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : Multiple oscillating materials at MV (+)
+                         Irregular echogenic thickening of LA wall (+) - R/O vegetation
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht:177.0cm            Wt:77.40kg           BSA:1.94          과거검사 : No
+-----------------------------------------------------------------------------
+

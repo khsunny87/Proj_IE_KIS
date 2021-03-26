@@ -1,0 +1,128 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2012-05-17 【접수일】2012-05-17 13:04 【검사일】2012-05-17 16:18 【보고일】2012-05-17 17:24
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MVR, TAP, Maze op
+Well functioning prosthetic MV, Repaired TV
+R/O Ischemic heart disease with mild to moderate LV systolic dysfunction
+LA enlargement
+Mild pulmonary hypertension
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Ivor Lewis op.(2010.10.18)
+* S/P MVR with Carpentier-Edwards perimount 29mm
+   Neochoradae formation with Gore-tex suture (P2)
+   TAP with Carpentier-Edwards MC3 annuloplasty ring 30mm
+   Aortic valve exploration
+   Modified Cox-maze III procedure with cryoablation (2012.5.16)
+* POD #4 thalamic infarction
+* 검사도중 움직임 잦음-> chest discomfort (답답하다) 있다고 표현함
+
+1. LV
+-- (1) Normal LV cavity size & mild to moderate LV systolic dysfunction
+       (LVEF=40.2% by Simpson`s method, EDV=134.5ml, ESV=80.5ml)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality(+)
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+-- LA activity(+/-), MV a-wave(-)
+  RA activity(+/-), TV a-wave(-)
+4. Valve :
+--(1) Prosthetic MV
+     mean PG=3.17mmHg, minimal MR
+--(2) Repaired TV
+     mean PG=0.9mmHg, minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = N/A d/t short term f/u
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal 
+                                    (assumed RAP = 5mmHg)
+-- Mean PA pressure by PR Vmax=28.1mmHg
+
+
+
+-----------------------------------------------------------------------------
+BP: 100 / 53             Ht: 165cm          Wt: 55kg             BSA: 1.60㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 9mm          E: 1.71m/s        e`: 0.034m/s
+LVIDs: 32mm         LVPWd: 9mm          A:                a`:
+                    LA: 51mm            E/A:              E/e`: 50.29
+LVEF:               Ao: 32mm            DT: 308.0msec     LAVI: 72.4ml/m2
+                                        A-L ( 31.7 / 23.3 / 5.4 )
+LVMI : 95.59g/㎡
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          2         1         2.5        1         1
+Mid          2          3         2         3          2.5       2
+Apical       2.5                  2.5       2.5                  2.5
+Apex         2.5
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2012-05-05 【접수일】2012-05-07 13:37 【검사일】2012-05-07 15:52 【보고일】2012-05-08 17:37
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이미래 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+C/W IE with large hypermobile vegetation on MV
+Moderate pul.HTN
+Mild MS, minimal to mild MR
+Moderate TR
+
+* 검사 중 O2 하면서 saturation 유지되었으나, irritability 보였고, 검사 직후 
+  (probe 뺀후) 환자분 dyspnea 및 불편함 (몸이 이상하다) 호소하며 심한 chilling,
+   desaturation 소견 보임. O2 full mask로 saturation 유지되는 상태로 주치의  
+   동반하에 병실로 이동함.
+
+
+
+▣ 검사정보 및 소견
+
+* Fever with bacteremia, brain infarct
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size : visually LA enlargement
+5. Valve :
+-- (1) MV: Large mobile vegetation on MV
+           Minimal to mild MR
+           Mild MS (mean PG = 5-6 mmHg)
+-- (2) Moderate TR
+-- (3) AV: slightly thickened AV
+6. No SEC, No thrombus in LA & LA appendage
+    A.fib with decreased LAA emptying velocity (<40cm/sec)
+7. Mass or vegetation:
+   Large echogenic mass-like lesion on MV
+   (주로 AML의 LA & LV side 양쪽 모두에 붙어 있고, MV motion 과 함께 움직이면서
+    margin은 irregular shape을 보이며 끝부분은 hypermobile한 소견 보임.)
+   - r/o Large vegetation - most likely
+   - r/o other cardiac mass such as myxoma - less likely
+8. No intracardiac shunt
+9. No atherosclerotic plaque in aortic arch & thoracic descending aorta
+10. Moderate pul.HTN
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 165cm          Wt: 58kg             BSA: 1.63㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+

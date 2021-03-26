@@ -1,0 +1,451 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2020-05-19 【접수일】2020-06-13 07:49 【검사일】2020-06-13 08:20 【보고일】2020-06-13 09:43 【서명일】2020-06-13 10:00
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김다래 【판독의3】김다래 【청구시행의】김다래 【확인의】김다래
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+Visually LA enlargement
+
+- No significant interval change compared to last study : 2019.1.7
+
+
+▣ 검사정보 및 소견
+
+* S/P Redo sternotomy
+      MVR with On-X 25mm
+      Mitral annular reconstruction with bovine pericardium - 2018.11.22
+* S/P MVR with C-E Perimount Magna Ease 31mm
+      Modified Cox-Maze III operation with cryoablation
+      LAA resection - 2018.06.11
+* Poor echo window
+* 검사중 ECG: NSR with sinus arrhythmia
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visually LA enlargement (RA= 44.0mm at A4C)
+4. Valve 
+-- (1) Well functioning prosthetic mitral valve :
+         MV meanPG= 3.5mmHg
+-- (2) Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Ascending aorta= 30.2mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27.3mmHg(assumed RAP= 5mmHg)
+9. Strain= -9.1% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :125 / 85       HR :68       Ht:167.0cm       Wt:62.60kg       BSA:1.70
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 45.2mm       IVSd: 8.5mm           E: 1.46m/s            e': 0.063m/s
+LVIDs: 29.8mm       LVPWd: 8.2mm          A: 0.23m/s            a': 0.041m/s
+                    LA: 44.0mm            E/A: 6.35             E/e': 23.2
+LVEF: 57%           Ao: 34.0mm            DT: 233.7msec         LAVI:N/A
+                                          A-L ( / / )
+LVMI : 71.24 g/m2
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-12-24 【접수일】2019-01-07 12:57 【검사일】2019-01-07 13:08 【보고일】2019-01-07 14:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】현철원 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+LA enlargement
+
+-- Disappeared pericardial effusion compared with last study (2018.11.29)
+
+
+▣ 검사정보 및 소견
+
+* S/P Redo sternotomy
+      MVR with On-X 25mm
+      Mitral annular reconstruction with bovine pericardium - 2018.11.22
+*S/P MVR with C-E Perimount Magna Ease 31mm
+     Modified Cox-Maze III operation with cryoablation
+     LAA resection - 2018.06.11
+* Poor echo window
+* HR= 90BPM
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Well functioning prosthetic mitral valve :
+         MV meanPG= 5.9mmHg, Physiologic MR (+)
+-- (2) Minimal TR
+-- (3) Slightly thickened AoV
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 25.2mmHg (assumed RAP= 5mmHg)
+9. Strain= -11.62% by APLAX
+10. Abnormal septal motion d/t open heart surgery
+    Septal bouncing (+), No respiratory variation of mitral inflow & Hepatic vein
+
+-----------------------------------------------------------------------------
+ BP: 112 / 67         HR : 68       Ht: 167cm        Wt: 55kg      BSA: 1.61㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 44.8mm       IVSd: 9.6mm           E: 1.56m/s            e': 0.073m/s
+LVIDs: 28.9mm       LVPWd: 7.5mm          A:                    a': 0.050m/s
+                    LA: 41.4mm            E/A:                  E/e': 21.4
+LVEF: 58%           Ao: 30.5mm            DT: 223.0msec         LAVI:N/A
+                                          A-L ( / / )
+LVMI : 76.47 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-11-29 【접수일】2018-11-29 14:25 【검사일】2018-11-29 15:01 【보고일】2018-11-29 16:22
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+LA enlargement
+Loculated small amount of pericardial effusion at RV anterior
+
+
+▣ 검사정보 및 소견
+
+* S/P Redo sternotomy
+     MVR with On-X 25mm
+     Mitral annular reconstruction with bovine pericardium - 2018.11.22
+*S/P MVR with C-E Perimount Magna Ease 31mm
+     Modified Cox-Maze III operation with cryoablation
+     LAA resection - 2018.06.11
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visual LA enlargement
+4. Valve
+-- (1) Well functioning prosthetic mitral valve
+         MV meanPG= 3.0mmHg, Physiologic MR (+)
+-- (2) Minimal TR
+-- (3) Slightly thickened AoV
+5. Great vessel
+-- Pulmonary Artery (mid-systole시) , MPA= 27.4mm
+6. Pericardial effusion : Loculated small amount
+-- RV anterior : 0.96cm at subcostal view
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 26.8mmHg(assumed RAP= 5mmHg)
+     IVC diameter =13.4mm, plethora: (-)
+9. Strain(GL)= -10%
+10. Abnormal septal motion d/t open heart surgery
+    Septal bouncing (+), No respiratory variation of mitral inflow & Hepatic vein
+
+-----------------------------------------------------------------------------
+ BP: 124 / 74      HR : 91       Ht: 167cm        Wt: 56kg       BSA: 1.62㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 43.4mm       IVSd: 8.5mm           E: 1.61m/s            e': 0.075m/s
+LVIDs: 26.1mm       LVPWd: 10.9mm         A:                    a':
+                    LA: 37.0mm            E/A:                  E/e': 21.5
+LVEF: 64%           Ao: 35.8mm            DT: 251.1msec         LAVI:N/A
+                                          
+LVMI : 85.59 g/m2
+RWT : 0.50[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-11-19 【접수일】2018-11-19 10:21 【검사일】2018-11-19 11:04 【보고일】2018-11-19 18:12
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Vegetation attached to prosthetic MV
+Dehiscence of the prosthetic MV with paravalvular leakage
+Increased prosthetic mitral valve meanPG
+LA enlargement
+
+
+▣ 의견
+
+Rec) TEE & TS consultation
+
+
+▣ 검사정보 및 소견
+
+* Pre-TEE
+* MVR with C-E Perimount Magna Ease 31mm
+  Modified Cox-Maze III operation with cryoablation
+  LAA resection
+* Poor echo window d/t post op w/u
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Dehiscence of the prosthetic mitral valve with 
+       paravarlura leakage (Gap:0.25cm)
+         MV meanPG= 8.4mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Septal bouncing (+/-)
+-- Abnormal septal motion after open heart surgery (+)
+-- Ventricular interdependence (-)
+-- Respiratory variation of mitral inflow 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+7. Vegetation (+) : 
+-- Round shaped material attached at prosthetic MV (size 0.71*0.42cm) 
+   : R/O vegetation
+8. RV systolic pressure by TR Vmax = 35.5mmHg(assumed RAP= 5mmHg)
+9. Strain= -18.1% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 104 / 63      HR : 72      Ht: 167cm       Wt: 59kg        BSA: 1.66㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 48.0mm       IVSd: 7.3mm           E: 2.02m/s          e': 0.055m/s
+LVIDs: 25.8mm       LVPWd: 7.9mm          A: 0.54m/s          a': 0.041m/s
+                    LA: 40.1mm            E/A: 3.74           E/e': 36.7
+LVEF: 71%           Ao: 30.7mm            DT: 297.2msec       LAVI: 42.6ml/m2
+                                          A-L ( 20.05 / 19.31 / 4.65 )
+LVMI : 71.45 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------          Ant     A-S     I-S    Inf     I-L     A-L
+Basal     1       1       1      1       1       1
+Mid       1       1       1      1       1       1
+Apical    1               1      1               1
+Apex      1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2018-11-19 【접수일】2018-11-19 10:21 【검사일】2018-11-19 11:04 【보고일】2018-11-19 16:56
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】이수연 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Vegetation attached to prosthetic MV
+Dehiscence of the prosthetic MV with paravarlura leakage
+Increased prosthetic mitral valve meanPG
+LA enlargement
+
+
+▣ 의견
+
+Rec) TEE & TS consultation
+
+
+▣ 검사정보 및 소견
+
+* Pre-TEE
+* MVR with C-E Perimount Magna Ease 31mm
+  Modified Cox-Maze III operation with cryoablation
+  LAA resection
+* Poor echo window d/t post op w/u
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement
+4. Valve 
+-- (1) Dehiscence of the prosthetic mitral valve with 
+       paravarlura leakage (Gap:0.25cm)
+         MV meanPG= 8.4mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Septal bouncing (+/-)
+-- Abnormal septal motion after open heart surgery (+)
+-- Ventricular interdependence (-)
+-- Respiratory variation of mitral inflow 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+7. Vegetation (+) : 
+-- Round shaped material attached at prosthetic MV (size 0.71*0.42cm) 
+   : R/O vegetation
+8. RV systolic pressure by TR Vmax = 35.5mmHg(assumed RAP= 5mmHg)
+9. Strain= -18.1% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 104 / 63      HR : 72      Ht: 167cm       Wt: 59kg        BSA: 1.66㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 48.0mm       IVSd: 7.3mm           E: 2.02m/s          e': 0.055m/s
+LVIDs: 25.8mm       LVPWd: 7.9mm          A: 0.54m/s          a': 0.041m/s
+                    LA: 40.1mm            E/A: 3.74           E/e': 36.7
+LVEF: 71%           Ao: 30.7mm            DT: 297.2msec       LAVI: 42.6ml/m2
+                                          A-L ( 20.05 / 19.31 / 4.65 )
+LVMI : 71.45 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------          Ant     A-S     I-S    Inf     I-L     A-L
+Basal     1       1       1      1       1       1
+Mid       1       1       1      1       1       1
+Apical    1               1      1               1
+Apex      1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2018-12-17 【접수일】2018-12-17 09:37 【검사일】2018-12-17 10:20 【보고일】2018-12-17 15:39
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이성수 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+No evidence of infective endocarditis
+Minimal paravalvular leakage (+) of prosthetic MV (surgeon's view 상 2시 방향)
+LA enlargement
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis w/u
+* S/P Redo sternotomy
+      MVR with On-X 25mm
+      Mitral annular reconstruction with bovine pericardium - 2018.11.22
+* S/P MVR with C-E Perimount Magna Ease 31mm
+      Modified Cox-Maze III operation with cryoablation
+      LAA resection - 2018.06.11
+
+* Baseline EKG : NSR with HR 80bpm
+* Pethidine 50mg + NS 50cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Slightly thickened AV
+-- (2) Prosthetic MV : minimal paravalvular leakage (+) 
+       - surgeon's view 상 2시 방향, physiologic MR (+)
+           MV meanPG= 5.6mmHg
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-) in LA
+7. Mass and Vegetation : None
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (+) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ BP: 120 / 70       HR : 78       Ht: 167cm       Wt: 56kg       BSA: 1.62㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2018-11-19 【접수일】2018-11-19 10:21 【검사일】2018-11-19 14:29 【보고일】2018-11-19 16:30
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이수연 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+C/W infective endocarditis (vegetation on prosthetic MVL)
+Dehiscence of prosthetic MV with moderate paravalvular leakage
+Perivalvular abscess with hypermobile tissue
+Inceased prosthetic MV meanPG
+LA enlargement
+
+
+▣ 의견
+
+Rec) TS consultation for operation
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis w/u
+* MVR with C-E Perimount Magna Ease 31mm (18.06.11)
+  Modified Cox-Maze III operation with cryoablation
+  LAA resection
+* Baseline EKG : NSR with HR 80bpm
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Bioprosthetic MV with moderate paravalvular leakage (dehiscence gap : 0.35cm)
+         MV meanPG= 7.4mmHg
+-- (2) Trivial AR
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-) in LA
+   LAA resection status
+7. Mass and Vegetation 
+-- 0.7cm sized vegetation attached on prosthetic MVL
+-- Prosthetic valve 주변 (LV inferior side) 의 abscess formation & tunneling 으로 인한 dehiscence 및 hypermobile tissue 관찰
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht: 167cm            Wt: 59kg            BSA: 1.66㎡           과거검사 : Yes
+-----------------------------------------------------------------------------
+

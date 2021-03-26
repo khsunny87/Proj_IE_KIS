@@ -1,0 +1,295 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-08-06 【접수일】2001-08-06 16:09 【검사일】2001-08-06 16:09 【보고일】2001-08-07 09:09
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】남궁준 【확인의】박승우
+Video no:	AX829-13307	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	57	mm	IVSd:	10	mm	LA:	34	mm
+LVIDs:	41	mm	LVPWd:	10	mm	Ao:	31	mm
+  
+LVEF:	48.26	%
+---------------------------------------------------------------------------
+MV
+mPG:	1	mmHg	E:	0.9	m/sec	E/A:	1.8
+DT:	217	msec	A:	0.5	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1	m/sec	peakPG:	4.2	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	2.4	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and contractility
+2. Normal IVS & LVPW thickness
+3. Mild to moderate MR with eccentric flow at A3 portion
+   Echogenic mass attached to mitral septal annulus area
+      (0.9 X 1.2cm)
+   Mild TR on C/D (RVSP 28.4mmHg)
+4. No regional wall motion abnormality
+  
+Conclusion:
+Mild to moderate MR
+No significant interval change since last study.
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-02-21 【접수일】2001-02-21 16:24 【검사일】2001-02-21 16:49 【보고일】2001-02-24 11:02
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】원경헌 【판독의2】박승우 【확인의】박승우
+ Video No: AX717-3600           과거검사 여부:                         
+---------------------------------------------------------------------------
+           
+ IVSd      9   mm  LVIDd/LVIDs    52/40   mm  
+ LVPWd    10   mm        EF          50   %    LA/Ao   35/31  mm
+     
+---------------------------------------------------------------------------
+  MV  meanPG   2.4  mmHg   peak E   1.3   m/s   IVRT       m 
+         DT         ms     peak A         m/s   
+
+---------------------------------------------------------------------------
+  AV  Vmax     1.1   m/s   peak PG  5.2   mmHg   
+      VTI      0.1   m     mean PG  2.5   mmHg   
+
+---------------------------------------------------------------------------
+
+  COMMENTS   1) LV cavity size & contractility are WNL
+             2) IVS & LVPW thickness is WNL
+             3) Mild to moderate MR
+                     with eccentric flow at A3 portion
+                No interval change of echogenic mass(0.6*0.7cm)
+                Mild TR with RVSP = 30mmHg
+             4) Paradoxical septal motion
+             5) E/A summation state
+
+             CONC) 1. Mild to moderate MR (no interval change)
+                   2. Mild TR
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-01-12 【접수일】2001-01-12 14:10 【검사일】2001-01-12 15:34 【보고일】2001-01-13 08:45
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임을순 【확인의】박승우
+ Video No: AC631-1227           과거검사 여부:                         
+---------------------------------------------------------------------------
+           
+ IVSd/IVSs  8/12   mm  LVIDd/LVIDs  57/43  mm  LVPWd/LVPWs     9/13  mm
+  RV EDD           mm        EF       44    %      LA/Ao      33/32  mm
+     
+---------------------------------------------------------------------------
+  MV  meanPG 1.8   mmHg   peak E  1.1    m/s   E/A        
+         DT         ms    peak A         m/s   IVRT         ms
+
+---------------------------------------------------------------------------
+  AV  Vmax  1.0    m/s    peak PG   4  mmHg   LVOT VTI           m
+       VTI  0.2     m     mean PG   3  mmHg   LVOT diam         cm 
+
+---------------------------------------------------------------------------
+
+  COMMENTS   S/P MV annuloplasty state
+             1) Borderline LVE & mild decrease of LV contractility
+             2) IVS & LVPW thickness is WNL
+             3) Mild MR & TR on C/D without pul.HT
+             4) Akinesia of IVS(apex)
+                Paradoxical septal motion 
+             5) E.A summation 
+             6) Small echogenic mass(5mm) on RA septal side
+                fixed echogenic mass(13*7mm) on LA side(AMVL)           
+
+             CONC) Mild LV systolic dysfunction with borderline LVE 
+                   Mild MR & TR 
+                   ->이전에 비해 LV contractility 약간 저하됨
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-01-05 【접수일】2001-01-05 16:21 【검사일】2001-01-05 16:36 【보고일】2001-01-08 10:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】정준용 【확인의】박승우
+ Video No: A567-4819           과거검사 여부:                         
+---------------------------------------------------------------------------
+           
+ IVSd/IVSs  10/11  mm  LVIDd/LVIDs  56/41  mm  LVPWd/LVPWs 11/16  mm
+  RV EDD           mm        EF       50    %      LA/Ao   29/34  mm
+     
+---------------------------------------------------------------------------
+  MV  meanPG  1.4  mmHg   peak E    1.2    m/s   E/A        
+         DT   146   ms    peak A    0.4    m/s   IVRT        54   ms
+
+---------------------------------------------------------------------------
+  AV  Vmax    1.3  m/s    peak PG     7    mmHg   LVOT VTI        m
+       VTI    0.2   m     mean PG     4    mmHg   LVOT diam       cm 
+
+---------------------------------------------------------------------------
+
+  COMMENTS      *Cf) Post-MV annuloplasty state
+
+             1) Borderlinely increased LV cavity size & normal 
+                 LV contractility 
+             2) IVS & LVPW thickness is WNL
+             3) Minimal to mild MR
+                Mild TR with RVSP 31mmHg
+             4) Paradoxical septal motion
+             5) Small echogenic mass (5mm) on RA septal motion
+             6) Fixed echogenic mass(11*7mm) on LA side(AMVL)
+                
+             CONC) 1. Good functioning MV annuloplasty state
+                   2. Mild TR
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2000-12-22 【접수일】2000-12-22 09:18 【검사일】2000-12-22 10:43 【보고일】2000-12-23 09:20
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】정준용 【확인의】이상철
+ Video No: AP892-0000           과거검사 여부: Y                        
+---------------------------------------------------------------------------
+           
+ IVSd/IVSs  11/13  mm  LVIDd/LVIDs  56/39  mm  LVPWd/LVPWs 11/25  mm
+  RV EDD           mm        EF        52   %      LA/Ao   35/32  mm
+     
+---------------------------------------------------------------------------
+  MV  meanPG  1.2  mmHg   peak E   1.1   m/s   E/A        
+         DT   218   ms    peak A         m/s   IVRT               ms
+
+---------------------------------------------------------------------------
+  AV  Vmax    1.3  m/s    peak PG  7.2   mmHg   LVOT VTI           m
+       VTI    0.2   m     mean PG  5.8   mmHg   LVOT diam         cm 
+
+---------------------------------------------------------------------------
+
+  COMMENTS   1) Borderline increased LV cavity size
+             2) IVS & LVPW thickness is WNL
+             3) Moderate to severe MR
+                Mild TR with RVSP 26mmHg
+                Echogenic mass on AMVL  (LA side - 18*12mm)
+             4) No regional wall motion abnormality
+             5) E/A summation
+
+             CONC) 1. Moderate to severe MR
+                   2. Mild TR
+                   3. Vegetation of AMVL
+                    (2000.12.8 보다 vegetation size 증가됨)
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2000-12-08 【접수일】2000-12-08 12:00 【검사일】2000-12-08 12:01 【보고일】2000-12-09 08:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】곽미향 【확인의】박승우
+ Video No: AP883-2114           과거검사 여부:                         
+---------------------------------------------------------------------------
+           
+ IVSd/IVSs   8/15  mm  LVIDd/LVIDs  58/41  mm  LVPWd/LVPWs  9/12  mm
+  RV EDD           mm        EF        50   %      LA/Ao   44/32  mm
+     
+---------------------------------------------------------------------------
+  MV  meanPG  1.8  mmHg   peak E   1.4   m/s   E/A        
+         DT   133   ms    peak A         m/s   IVRT               ms
+
+---------------------------------------------------------------------------
+  AV  Vmax    1.4  m/s    peak PG    8  mmHg   LVOT VTI           m
+       VTI          m     mean PG    4  mmHg   LVOT diam         cm 
+
+---------------------------------------------------------------------------
+
+  COMMENTS   1) Dilated LA, LV
+                Normal LV systolic function
+             2) IVS & LVPW thickness is WNL
+             3) Moderate to severe MR (eccentric, A3 portion)
+                AMVL prolapse
+                AMVL 아래쪽으로 echogenic material (1.3cm*0.74cm)
+                Minimal TR without pulm. HT
+             4) No regional wall motion abnormality
+             5) E & A summation
+
+             CONC) 1. MVP of AMVL with moderate to severe MR
+                   2. R/O inferctive endocarditis (지난번보다 size 커짐)
+                   3. LAE, LVE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2000-11-17 【접수일】2000-11-17 10:29 【검사일】2000-11-17 10:48 【보고일】2000-11-18 09:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+ Video No: AP871-1234           과거검사 여부:  Y                       
+---------------------------------------------------------------------------
+           
+ IVSd/IVSs  11/15  mm  LVIDd/LVIDs  58/41  mm  LVPWd/LVPWs  9/15  mm
+  RV EDD           mm        EF             %      LA/Ao   47/37  mm
+     
+---------------------------------------------------------------------------
+  MV  meanPG   2.4 mmHg   peak E    1.4    m/s   E/A        
+         DT    181  ms    peak A           m/s   IVRT             ms
+
+---------------------------------------------------------------------------
+  AV  Vmax     1.3 m/s    peak PG    7     mmHg   LVOT VTI        m
+       VTI     0.2  m     mean PG    3     mmHg   LVOT diam       cm 
+
+---------------------------------------------------------------------------
+
+  COMMENTS   1) LV cavity size & contractility are WNL
+                LAE
+             2) IVS & LVPW thickness is WNL
+             3) Moderate to severe MR, eccentric to posterior with 
+                 tissue-density material attached to base of AMVL
+                 (A3 portion) or prolapse of A3 portion
+                Mild TR, RVSP 31mmHg
+                Minimal AR
+             4) No regional wall motion abnormality
+             5) Previous abscess cavity site : clear
+               
+             CONC) 1) R/O prolapse of AMVL associated with previous OHS
+                   2) R/O infective endocarditis with vegetation attached 
+                       to AMVL
+                   3) Moderate to severe MR
+             REC) TEE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2000-11-24 【접수일】2000-11-24 10:21 【검사일】2000-11-24 11:31 【보고일】2000-11-25 10:14
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+ Video No :  TEE149-2104                  과거검사 여부:                         
+---------------------------------------------------------------------------
+           
+ IVSd/IVSs     /     mm LVIDd/LVIDs     /      mm LVPWd/LVPWs      /     mm
+  RV EDD       /     mm      EF                %    LA/Ao         /      mm
+  
+----------------------------------------------------------------------------
+  COMMENTS   * TEE finding
+             1) LV systolic functon seems O.K
+             2) Prolapse of AMVL, A3 portion with echo-dense shadow
+                  attached to tip of valve leaflet
+                  (most likely partially ruptured papillary muscle)
+                MR, moderate
+             3) No visible intracardiac/ myocardial abscess
+
+             CONC) Moderate MR with AMVL prolapse most likely due to 
+                     partial rupture of papillary muscle
+
+             REC)  F/U after infection control
+
+
+
+
+
+
+
+
+
+
+

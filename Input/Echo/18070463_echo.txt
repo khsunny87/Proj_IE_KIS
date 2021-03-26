@@ -1,0 +1,297 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-06-19 【접수일】2006-06-19 10:17 【검사일】2006-06-19 10:21 【보고일】2006-06-20 13:53
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【판독의3】박승우 【확인의】이상철
+Video no:	IA	   	   	   	과거검사 여부:	No
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	50	mm	IVSd:	11	mm	E:	2.89	m/sec	   	e':	m/sec
+LVIDs:	29	mm	LVPWd:	10	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	40	mm	E/A:	   	   	LA volume index:
+LVEF:	66	%	Ao:	26	mm	DT:	194	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+S/P Bentall op, MVR 
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthethic MV : mean PG : 11.8mmHg
+                            Dehiscence of medial portion of prosthetic MV 
+                            Moderate to severe MR (ERO = 36mm2) 
+   Prosthetic AoV : mean PG : 11mmHg
+      -suspicious small paravalvular opening into anterial portion of aortic annulus 
+   Minimal MR 
+4. No regional wall motion abnormality
+5. Extracardiac anechoic mass with compression of RA & RV
+                           Minimal > 2cm at A4C
+                           Minimal > 1.26cm at sub - PLAX view
+                           (decreased compared to last study 06.12)
+  
+Conclusion:
+Newly doveloped paravalvular leakage of prosthetic MV with dehiscence
+(Mod to severe MR)
+Decreased extracardiac hematoma size
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-06-07 【접수일】2006-06-07 15:36 【검사일】2006-06-07 15:41 【보고일】2006-06-08 09:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	IA	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	55	mm	IVSd:	7	mm	E:	0.43	m/sec	   	e':	0.04	m/sec
+LVIDs:	33	mm	LVPWd:	7	mm	A:	m/sec	   	E/e':	10.8
+  	  	  	LA:	36	mm	E/A:	   	   	LA volume index:
+LVEF:	64	%	Ao:	27	mm	DT:	185	msec	   	   	32.2	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P Bentall op, MVR
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV : mean PG = 11.5mmHg 
+                   physiologic MR 
+   Prosthetic AoV : mean PG = 16.5mmHg 
+                    physiologic AR 
+   Minimal TR with RVSP = 39mmHg 
+4. No regional wall motion abnormality
+5. LAE
+  
+Conclusion:
+Well functioning prosthetic valves 
+  except increased prosthetic MV mean PG compared to last study 2006.5.26
+- RA free wall 쪽의 mass like lesion 은 extracardiac lesion으로 보이며    
+  percutaneous aspiration 은 불가능함.
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-05-22 【접수일】2006-05-23 14:30 【검사일】2006-05-23 14:59 【보고일】2006-05-24 10:05
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】박승우 【확인의】이상철
+Video no:	IA	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	51	mm	IVSd:	8	mm	E:	1.84	m/sec	   	e':	0.07	m/sec
+LVIDs:	34	mm	LVPWd:	8	mm	A:	m/sec	   	E/e':	26.3
+  	  	  	LA:	29	mm	E/A:	   	   	LA volume index:
+LVEF:	56	%	Ao:	27	mm	DT:	139	msec	   	   	27.3	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P Bental op, MVR
+
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV with physiologic MR (mean PG = 5.2mmHg)
+   Prosthetic AV with physiologic AR 
+        Vmax = 2.6m/sec, mean PG = 15mmHg 
+        AVA by C.E = 0.96cm2, AVAI = 0.76cm2/m2 
+   Trivial TR with RVSP = 40mmHg 
+4. No regional wall motion abnormality
+5. LAE
+  
+Conclusion:
+Good post op state 
+Mild pulm. HTN 
+LAE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-06-12 【접수일】2006-06-12 10:26 【검사일】2006-06-12 10:47 【보고일】2006-06-13 13:12
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	TEE300-5642	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P Bental op, MVR
+
+1. Visually normal LV cavity size and systolic function
+2. Visually normal LV wall thickness
+3. Prosthetic MV with physiologic MR (mean PG = 5.5mmHg)
+   Prosthetic AV with physiologic AR 
+4. About 0.9 * 0.4cm sized oscillating echogenic mass 
+      attached to mitral anterior annulus 
+5. Enlarged paraaortic space with echogenic material inside, increased 
+    compared to last TEE (2006.5.26)
+    & inflammatory change at intervalvular fibrosa 
+6. About 9.4 * 5.5cm sized inhomogeneous echogenic mass like lesion 이 
+      RA 와 RV를 compression 하고 있음 (aggravated compared to last study)
+  
+Conclusion:
+C/W infective endocarditis 
+Suspicious paraaortic abscess 
+Rt. heart compression by enlarged extracardiac lesion
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-05-26 【접수일】2006-05-26 13:28 【검사일】2006-05-26 14:00 【보고일】2006-05-27 09:43
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】신대희 【판독의3】박승우 【확인의】이상철
+Video no:	TEE 299 - 5644	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal  LV cavity size and systolic function
+2. Visually normal LV wall thickness
+3. Prosthetic MV with physiologic MR (mean PG = 8.8mmHg) by TEE
+   Prosthetic AV with physiologic AR
+       Tissue thickening around aorta graft
+       Descending aorta intimal thickening (0.27cm)
+4. No regional wall motion abnormality
+5. Normal LV diastolic function
+  
+Conclusion:
+Well functioning prosthetic valve, increased prosthetic MV mean PG
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-05-12 【접수일】2006-05-15 14:47 【검사일】2006-05-15 15:25 【보고일】2006-05-16 13:26
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】신대희 【판독의3】이상철 【확인의】이상철
+Video no:	TEE298-239	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Visually normal LV cavity size and LV systolic function
+2. Visually normal LV wall thickness
+3. Severe AR
+     d/t AV  NCC abscess formation with cavitation & rupture to LV site
+   Moderate MR
+     d/t -Echogenic fragile mass at A3 portion 
+          -Transverse tearing of mid AMVL with imminent perforation
+   Mild TR with RVSP = 49.4mmHg      
+  
+Conclusion:
+Infective endocarditis on AV (NCC abscess) with severe AR 
+Infective endocarditis on MV with moderate MR
+Mild TR with mild to moderate pulm. HTN
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-04-14 【접수일】2006-04-15 12:21 【검사일】2006-04-15 12:31 【보고일】2006-04-17 09:35
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】양정훈 【판독의2】조성원 【판독의3】박승우 【확인의】박승우
+Video no:	ICU479-0000/478-13718	   	  	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and systolic function
+2. Normal LV wall thickness
+3. Mild MR
+4. No regional wall motion abnormality
+5. Indeterminate diastolic function
+6. Intravalvular annulus fibrosa 부위에 patch(+)
+   MV anterior leafleat LA side로 bovine patch로 보이는 material
+   관찰되며 dehiscence 없었고 AoV NCC 방향으로
+   saturate material로 의심되는 소견 보임
+  
+Conclusion:
+Mild MR
+No definite evidence of vegetation
+Rec> F/U TEE 1 week later
+
+

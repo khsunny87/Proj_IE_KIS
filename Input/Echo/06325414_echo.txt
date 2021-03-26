@@ -1,0 +1,215 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-08-31 【접수일】2005-08-31 15:40 【검사일】2005-08-31 15:43 【보고일】2005-09-02 13:30
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】이상철
+Video no:	AE236-10026	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * F/U echo for change of mass on prosthetic MV 
+
+1. Small oscillating echogenic mass 
+       (most likely suture material size : 0.93 * 0.34cm) 
+       attached to posterior annulus of prosthetic MV 
+       (very minimal central MR)
+2. 3.2 * 2.5cm sized echogenic mass attached to posterior wall of LA 
+       (LA posterior wall 을 따라 7.6cm * 1.9cm 정도까지 측정됨)
+   - No chage compared to last study
+  
+Conclusion:
+Mass on prosthetic MV annulus - no change 
+(R/O sewing material or vegetation)
+LA thrombus
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221] ▶수정前◀ 【구분】입원
+【처방일】2005-08-31 【접수일】2005-08-31 15:40 【검사일】2005-08-31 15:43 【보고일】2005-09-01 15:22
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】이상철 【확인의】이상철
+Video no:	AE236-10026	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * F/U echo for change of mass on prosthetic MV 
+
+1. Small oscillating echogenic mass (most likely suture material size : 0.93 * 0.34cm) 
+attached to posterior annulus of prosthetic MV (very minimal 
+central MR)
+2. 3.2 * 2.5cm sized echogenic mass attached to poasterior wall of LA 
+       (LA posterior wall 을 따라 7.6cm * 1.9cm 정도까지 측정됨)
+   - No chage compared to last study
+  
+Conclusion:
+Mass on prosthetic MV annulus - no change 
+  (R/O sewing material or vegetation)
+LA thrombus
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-07-29 【접수일】2005-07-29 15:35 【검사일】2005-07-29 15:39 【보고일】2005-08-02 16:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임성훈 【판독의2】이상철 【확인의】이상철
+Video no:	AA261-13047	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	50	mm	IVSd:	6	mm	E:	1	m/sec	   	e':	m/sec
+LVIDs:	35	mm	LVPWd:	9	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	72	mm	E/A:	   	   	LA volume index:
+LVEF:	51	%	Ao:	31	mm	DT:	300	msec	   	   	109.9	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+S/P Redo MVR (tissue), A.fib
+
+1. Normal LV cavity size and lower normal LV systolic function
+2. Normal LV wall thickness
+3. Mild TR with RVSP = 30mmHg
+   Minimal AR on color Doppler
+   Prosthetic MV - mean PG = 3.5mmHg
+      Minimal MR on color doppler
+      Suspicious oscilliationg echogenic mass at prosthetic MV annulus,
+        R/O suture material
+4. Paradoxical septal motion 
+5. LAE, RAE (45mm)
+  
+Conclusion:
+Mild TR
+BAE
+Endocarditis 소견은 명확하지 않음
+Rec) Endocarditis R/O 위해서 반드시 TEE 시행하십시요.
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-07-22 【접수일】2005-07-22 15:42 【검사일】2005-07-22 15:43 【보고일】2005-07-27 09:58
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임성훈 【확인의】이상철
+Video no:	AB262-1724	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	48	mm	IVSd:	11	mm	E:	1.4	m/sec	   	e':	m/sec
+LVIDs:	37	mm	LVPWd:	9	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	69	mm	E/A:	   	   	LA volume index:
+LVEF:	  	%	Ao:	35	mm	DT:	367	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+S/P MV replacement perimount (29mm), A.fib
+
+1. Normal LV cavity size and lower normal LV systolic function 
+   (LVEF = 50% by visual estimation)
+2. Normal LV wall thickness
+3. Prosthetic MV : mean PG = 2.6mmHg
+   Minimal to mild AR with AoV thickening
+   Minimal TR with RVSP = 31mmHg
+4. Paradoxical septal motion 
+5. LAE, RAE (31mm)
+  
+Conclusion:
+A.fib with BAE
+Well functioning prosthetic MV
+Good post-op state
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-07-13 【접수일】2005-07-13 13:49 【검사일】2005-07-13 13:56 【보고일】2005-07-15 15:00
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】이상철
+Video no:	AE216-2513	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	51	mm	IVSd:	10	mm	E:	2.5	m/sec	   	e':	0.099	m/sec
+LVIDs:	34	mm	LVPWd:	10	mm	A:	m/sec	   	E/e':	25.3
+  	  	  	LA:	67	mm	E/A:	   	   	LA volume index:
+LVEF:	  	%	Ao:	34	mm	DT:	304	msec	   	   	113.4	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1.5	1.5	1.5	1.5	1.5	1.5
+Mid	  	1.5	1.5	1.5	1.5	1.5	1.5
+Apical	  	1.5	  	1.5	1.5	  	1.5
+Apex:	  	1.5
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * A. fib 
+     S/P MVR
+
+1. Normal LV cavity size and mild LV systolic dysfunction
+         (LVEF by visual estimation = 45 ~ 50%)
+2. Normal LV wall thickness
+3. Prosthetic MV 
+         MV mean PG = 12mmHg 
+   Oscillating echogenic material attached to post. Prosthetic MV leaflet (size : 1.5cm)
+   Minimal to mild AR with sl. AoV thickening 
+   Minimal to mild TR with RVSP = 48mmHg 
+4. Mild global hypokinesia 
+5. LAE, RAE (70mm) on 2D
+  
+Conclusion:
+S/P MVR state 
+A. fib with BAE 
+Mild LV systolic dysfunction 
+IE with MV vegetation 
+Mild pulm. HTN
+
+

@@ -1,0 +1,233 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2020-06-11 【접수일】2020-06-11 14:22 【검사일】2020-06-11 15:36 【보고일】2020-06-11 16:08 【서명일】2020-06-16 12:07
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+Decreased RV systolic function
+LA enlargement, Borderline RA enlargement
+Scanty amount of pericardial effusion
+Adhesion (+) at RV side with R/O constrictive physiology
+
+
+▣ 검사정보 및 소견
+
+* S/P Redo sternotomy
+      Redo MVR with On-X 25/33mm
+      Mitral annular reconstruction with bovine pericardium
+      Modified Cox-Maze III operation with cryoablation
+      - 2020.06.04
+* S/P MVR, TAP, MV annular reconstruction - 2006.07.06
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and decreased RV systolic function
+       (TAPSE= 9.7mm, TV TDI S'= 0.073m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, Borderline RA enlargement (RA= 43.7mm at A4C)
+-- LA activity(-), MV a' wave(-), RA activity (+), TV a' wave(+)
+4. Valve 
+-- (1) Thickened AV with minimal to mild AR
+-- (2) Prosthetic mitral valve : MV meanPG= 3.4mmHg, Physiologic MR (+)
+-- (3) Repaired TV with meanPG =1.3mmHg, Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+       Sinus of Valsalva= 39.4mm
+6. Pericardial effusion : Scanty
+--  Basal LVPW < 0.2cm at parastrernal view
+--  Constrictive physiology (+/-)
+--  Septal bouncing (+)
+--  Ventricular interdependence (+)
+--  Pericardial thickening (-)
+--  Adhesion (+) at RV side
+--  Respiratory variation of mitral inflow < 25%
+--  Dominant HV diastolic reversal flow at early expiration (+)
+    No respiratory variation of SVC S wave
+-- Septal e'(0.070m/sec) Lateral e' (0.08m/sec)
+-- Normal IVC (IVC = 19.8mm)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 33.9mmHg(assumed RAP= 5mmHg)
+9. Strain(GL)= -16.7%
+-----------------------------------------------------------------------------
+ BP :126 / 61       HR :65       Ht:167.0cm        Wt:67.80kg        BSA:1.76
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                               MV Doppler
+LVIDd: 55.6mm       IVSd: 8.0mm           E: 1.96m/s          e': 0.070m/s
+LVIDs: 33.2mm       LVPWd: 8.2mm          A: 0.00m/s          a':
+                    LA: 46.0mm            E/A:                E/e': 28.0
+LVEF: 64%           Ao: 38.2mm            DT: 296.7msec       LAVI: 67.2ml/m2
+                                          A-L ( 29.30 / 31.26 / 6.58 )
+LVMI: 94.07 g/m2
+RWT : 0.29
+
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2020-06-02 【접수일】2020-06-02 07:33 【검사일】2020-06-02 08:26 【보고일】2020-06-02 15:57 【서명일】2020-06-16 12:07
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최지훈 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVR, TAP, MV annular reconstruction (2006.07.06)
+C/W Infective endocarditis
+-- Flail bioprosthetic MV with severe eccentric MR, 
+   R/O paravalvular leakage & minimal MR d/t MV perforation
+-- Multiple oscillating echogenic materials at bioprosthetic MV, r/o vegetation
+-- Multiple tiny oscillating material at AV, r/o vegetation
+LA enlargement
+Decreased (30~40cm/s) LAA emptying velocity
+
+
+▣ 의견
+
+Rec) 이전 검사 (2020.05.19) 와 비교시 MV의 vegetation의 크기가 약간 증가, 
+     mobility 증가 되었고 이전에 관찰되지 않던 paravalvular MR, perforation에 의한
+     MR 의심됩니다
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis F/U
+* S/P MVR, TAP, MV annular reconstruction (2006.07.06)
+* Baseline EKG : NSR with HR 60bpm
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Flail bioprosthetic MV with severe eccentric MR (Two jets)
+         MR jet flow to LAA, minimal MR d/t suspicious MV perforation at PMV
+         New MR jet with different direction, r/o paravalvular leakage
+         MV meanPG= 6.95mmHg
+-- (2) Thickened and calcified AV with minimal AR (Two jets)
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Decreased (30~40cm/s) LAA emptying velocity
+7. Mass and Vegetation
+-- (1) Multiple oscillating echogenic materials at bioprosthetic MV, r/o vegetation
+-- (2) Multiple tiny oscillating material at AV (esp. LCC), r/o vegetation
+-- (3) Increased density of aorto-mitral continuity : 
+        R/O inflammation
+        No evidence of abscess
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done 
+
+-----------------------------------------------------------------------------
+ BP :100 / 59        HR :66       Ht:167.0cm        Wt:70.20kg      BSA:1.79
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2020-05-19 【접수일】2020-05-19 12:56 【검사일】2020-05-19 13:15 【보고일】2020-05-21 15:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】서정훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR, TAP, MV annular reconstruction
+C/W Infective endocarditis
+-- Flail bioprosthetic MV with moderate to severe eccentric MR
+-- Multiple oscillating echogenic materials at bioprosthetic MV, r/o vegetation
+LA enlargement
+Decreased (20~30cm/s) LAA emptying velocity
+
+
+▣ 검사정보 및 소견
+
+* R/O Infective endocarditis w/u
+* S/P MVR, TAP, MV annular reconstruction (06.07.06)
+* Baseline EKG : A.flutter
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Thickened and calcified AV with minimal AR
+-- (2) Flail bioprosthetic MV with moderate to severe eccentric MR
+          MV meanPG= 7.5mmHg
+          MR flow in LAA (+)
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Decreased (20~30cm/s) LAA emptying velocity
+7. Vegetation (+)
+-- Multiple oscillating echogenic materials at bioprosthetic MV, r/o vegetation
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10.Aortic arch와 descending thoracic aorta는 관찰되지 않음
+
+-----------------------------------------------------------------------------
+ Ht:167.0cm            Wt:68.70kg           BSA:1.77           과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2020-05-19 【접수일】2020-05-19 12:56 【검사일】2020-05-19 13:15 【보고일】2020-05-19 15:44
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】서정훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR, TAP, MV annular reconstruction
+C/W Infective endocarditis
+-- Flail bioprosthetic AV with moderate to severe eccentric MR
+-- Multiple oscillating echogenic materials at bioprosthetic AV, r/o vegetation
+LA enlargement
+Decreased (20~30cm/s) LAA emptying velocity
+
+
+▣ 검사정보 및 소견
+
+* R/O Infective endocarditis w/u
+* S/P MVR, TAP, MV annular reconstruction (06.07.06)
+* Baseline EKG : A.flutter
+* Pethidine 25mg + NS 10cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : LA enlargement
+5. Valve
+-- (1) Thickened and calcified AV with minimal AR
+-- (2) Flail bioprosthetic AV with moderate to severe eccentric MR
+          MV meanPG= 7.5mmHg
+          MR flow in LAA (+)
+-- (3) Minimal TR
+6. Thrombus (-) and SEC (-) in LA and LA appendage
+   Decreased (20~30cm/s) LAA emptying velocity
+7. Vegetation (+)
+-- Multiple oscillating echogenic materials at bioprosthetic AV, r/o vegetation
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10.Aortic arch와 descending thoracic aorta는 관찰되지 않음
+
+-----------------------------------------------------------------------------
+ Ht:167.0cm            Wt:68.70kg           BSA:1.77           과거검사 : Yes
+-----------------------------------------------------------------------------
+

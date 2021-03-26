@@ -1,0 +1,100 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2008-01-25 【접수일】2008-01-28 15:58 【검사일】2008-01-28 15:59 【보고일】2008-01-30 09:20
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조수진 【판독의2】박승우 【판독의3】박승우 【확인의】박승우
+환자성명 : KIM YUNG KON                          Patient No. : 20901962
+Height: : 160.0cm                                Weight : 41.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 41mm         IVSd : 7mm          E:                e`:
+LVIDs: 26mm         LVPWd: 9mm          A:                a`:
+                    LA: 33mm            E/A:              E/e`:
+LVEF: 60%           Ao: 30mm            DT:               LAVI:
+                                                          33.0ml/m2
+LVMI : 70.54g/m2
+RWT : 0.44
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+   * 2008. 1. 25 검사함 (VCR 참조)
+   * S/P MVR (2008. 1. 15) d/t I.E
+    (Perimount 29mm)
+
+1. Normal LV cavity size and normal LV systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV (mean PG = 4.8mmHg, No MR)
+   Trivial TR
+4. No regional wall motion abnormality, paradoxical septal motion
+5. Normal LV diastolic function
+6. Pericardial effusion
+     : PLAx에서 RV anterior side에 6mm 두께로 다른 부분에도 effusion은        
+       circumferential하게 관찰되나, systolic phase에만 보일정도로 소량임
+   Respiratory change of MV & TV (-)
+7. LAE
+
+
+Conclusion:
+S/P MVR
+Good postop. state, LAE
+Minimal amount of pericardial effusion without hemodynamic compromise
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221] ▶수정前◀ 【구분】입원
+【처방일】2008-01-25 【접수일】2008-01-28 15:58 【검사일】2008-01-28 15:59 【보고일】2008-01-29 15:13
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】조수진 【판독의2】박승우 【판독의3】박승우 【확인의】박승우
+환자성명 : KIM YUNG KON                          Patient No. : 20901962
+Height: : 160.0cm                                Weight : 41.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 41mm         IVSd : 7mm          E:                e`:
+LVIDs: 26mm         LVPWd: 9mm          A:                a`:
+                    LA: 33mm            E/A:              E/e`:
+LVEF: 60%           Ao: 30mm            DT:               LAVI:
+                                                          33.0ml/m2
+LVMI : 70.54g/m2
+RWT : 0.44
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+   * 2008. 1. 25 검사함 (VCR 참조)
+   * S/P MVR (2008. 1. 15) d/t I.E
+    (Perimount 29mm)
+
+1. Normal LV cavity size and normal LV systolic function
+2. Normal LV wall thickness
+3. Prosthetic MV (mean PG = 4.8mmHg, No MR)
+   Trivial TR
+4. No regional wall motion abnormality, paradoxical septal motion
+5. Normal LV diastolic function
+6. Pericardial effusion
+     : PLAx에서 RV anterior 6mm
+       circumferential하게 있으나, 다른 부분은 systolic phase에만 
+       보일정도로 소량임
+   Respiratory change of MV & TV (-)
+
+
+Conclusion:
+S/P MVR
+Good postop. state
+Minimal pericardial effusion without hemodynamic compromise
+
+

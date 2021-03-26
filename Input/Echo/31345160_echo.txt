@@ -1,0 +1,446 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2013-09-16 【접수일】2013-09-16 14:47 【검사일】2013-09-16 16:33 【보고일】2013-09-16 17:00
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Well functioning repaired MV
+Scanty amount of pericardial effusion
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, MVP
+    triangular resection of P1
+    posteromedial commissural fusion (2013.9.13)
+* Poor apical window
+* HR : 100~120 BPM
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) 보이는 한 regional wall motion abnormality 없음
+-- (4) Indeterminated diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) MV : MV Vegetation removal, MVP
+       meanPG= 2.6mmHg, minimal MR
+-- (2) Minimal TR
+5. Great vessel :
+-- Abdominal aorta size(AP/T) = N/A
+6. Pericardial effusion : Scanty amount
+  (LV posterior : 0.2cm at PSAX view)
+7. Mass, thrombi or vegetation : none
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal 
+   (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 108 / 72             Ht: 163cm          Wt: 57kg             BSA: 1.61㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 42mm         IVSd : 8mm          E: 0.97m/s        e`: 0.070m/s
+LVIDs: 27mm         LVPWd: 8mm          A: 0.81m/s        a`: 0.024m/s
+                    LA: 21mm            E/A: 1.20         E/e`: 13.86
+LVEF: 59%           Ao: 27mm            DT: N/A           LAVI: 15ml/m2
+                                        A-L ( 18.0 / 18.0 / 3.1 )
+LVMI : 62.91g/㎡
+RWT : 0.38
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-12-04 【접수일】2015-05-21 09:01 【검사일】2015-05-21 10:26 【보고일】2015-05-21 13:32
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】최진오 【청구시행의】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Mild eccentric MR
+R/O residual vegetation or postop change on posteromedial portion of MV
+
+
+- Slightly increased MR amount compared to previous study (2014.6.12)
+
+
+
+▣ 의견
+
+REC) Posteromedial portion의 lesion은 이전 검사에서는 관찰되지 않으나 
+     poor echo window로 금번 새로 생긴 병변인지의 여부가 확실치 않습니다
+     임상적으로 필요하면 TEE가 도움이 될 수 있겠습니다.
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, 
+      MVP (triangular resection of P1, posteromedial commissural fusion 
+          (2013.9.13)
+
+1. LV
+-- (1) Normal LV cavity size & normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Increased LV filling pressure
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Visually normal size
+4. Valve
+-- (1) MV : MV Vegetation removal, MVP
+            meanPG=2.8mmHg
+            Mild posteromedial commissure eccentric MR, ERO=33mm2, RV=43.7ml
+            Minimal to mild anterolateral commissure MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation :
+-- Visible linear material on posteromedial commissure (0.4cm) 
+   -> R/O residual vegetation or posop change
+8. RV systolic pressure by TR Vmax =26mmHg (assumed RAP = 5mmHg)
+9. 3DEF=60.4%
+
+-----------------------------------------------------------------------------
+BP: 97 / 59              Ht: 174cm          Wt: 60kg             BSA: 1.72㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 8mm          E: 1.52m/s        e`: 0.095m/s
+LVIDs: 28mm         LVPWd: 7mm          A: 0.33m/s        a`: 0.041m/s
+                    LA: 31mm            E/A: 4.61         E/e`: 16.00
+LVEF: 67%           Ao: 33mm            DT: 166.0msec     LAVI: N/A
+
+LVMI : 70.24g/㎡
+RWT : 0.29
+[RWMA]-----------------------------------------------------------------------
+         Ant      A-S       I-S        Inf       I-L       A-L
+Basal    1        1         1          1         1         1
+Mid      1        1         1          1         1         1
+Apical   1                  1          1                   1
+Apex     1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2013-12-12 【접수일】2014-06-12 08:59 【검사일】2014-06-12 09:20 【보고일】2014-06-12 11:49
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박택규 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Eccentric mild MR at MV lateral & medial commissure
+
+- Newly developed minimal to mild eccentric MR at medial commissure
+  compared to last study (2013.10.14)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, MVP( triangular resection of P1,
+  posteromedial commissural fusion (2013.9.13)
+* HR : 60~70 BPM
+
+1. LV
+-- (1) Normal LV cavity size & normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminated diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) MV : MV Vegetation removal, MVP
+              meanPG=3.0mmHg
+            previous study 에서 관찰되던 MV lateral commissure 근처에서    
+            eccentric mild MR 은 여전히 보이며, medial commissure 쪽에서도    
+            minimal to mild eccentrc MR이 새롭게 관찰됨
+-- (2) Minimal TR
+5. Great vessel :
+-- Abdominal aorta size(AP/T) = N/A
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : none
+8. RV systolic pressure by TR Vmax =29mmHg (assumed RAP = 5mmHg)
+9. Strain : -16.9% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 118 / 68             Ht: 173cm          Wt: 57kg             BSA: 1.69㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 8mm          E: 1.26m/s        e`: 0.070m/s
+LVIDs: 28mm         LVPWd: 8mm          A: 0.44m/s        a`: 0.050m/s
+                    LA: 28mm            E/A: 2.89         E/e`: 18.35
+LVEF: 67%           Ao: 29mm            DT: 223.0msec     LAVI: 19.4ml/m2
+                                        A-L ( 13.6 / 11.1 / 3.9 )
+LVMI : 77.64g/㎡
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2013-10-14 【접수일】2013-10-14 13:12 【검사일】2013-10-14 14:32 【보고일】2013-10-14 16:51
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Mild eccentic MR at MV lateral commissure
+Thickened pericardium in inferior wall side
+
+- Newly developed eccentric mild MR compared to last study (2013.9.24)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, MVP( triangular resection of P1) 
+  - posteromedial commissural fusion (2013.9.13)
+* HR : 90~95 BPM
+
+1. LV
+-- (1) Normal LV cavity size & normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) 보이는 한 regional wall motion abnormality 없음
+-- (4) Indeterminated diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: Normal size
+4. Valve
+-- (1) MV : MV Vegetation removal, MVP
+            meanPG=3.2mmHg
+            MV lateral commissure 근처에서 eccentric mild MR 이 새롭게 관찰됨
+-- (2) Minimal TR
+5. Great vessel :
+-- Abdominal aorta size(AP/T) = N/A
+6. Pericardial effusion : None
+-- Thickened pericardium with low echogenicity in inferior wall
+7. Mass, thrombi or vegetation : none
+8. RV systolic pressure by TR Vmax =22mmHg (assumed RAP = 5mmHg)
+9. Strain : -12% by A3C
+
+-----------------------------------------------------------------------------
+BP: 106 / 67             Ht: 163cm          Wt: 57kg             BSA: 1.61㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 45mm         IVSd : 8mm          E: 1.17m/s        e`: 0.074m/s
+LVIDs: 27mm         LVPWd: 7mm          A: 0.67m/s        a`: 0.046m/s
+                    LA: 23mm            E/A: 1.75         E/e`: 15.81
+LVEF: 64%           Ao: 31mm            DT: 189.0msec     LAVI: 22ml/m2
+                                        A-L ( 13.0 / 14.5 / 4.4 )
+LVMI : 64.9g/㎡
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2013-09-11 【접수일】2013-09-12 08:06 【검사일】2013-09-12 10:19 【보고일】2013-09-13 12:05
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장우진 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Multiple vegetations attached to A1 & P1, and medial subvalvular structure
+Mild eccentric MR
+
+
+
+▣ 검사정보 및 소견
+
+* W/U for vegetation (r/o Infective endocarditis)
+* Baseline ECG : NSR( + )
+
+1. Visually normal LV cavity size & LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size : Normal
+5. Valve:
+-- (1) Mild eccentric MR & large, multiple vegetations
+       A1 & P1의 mitral leaflet에 perforation 의심되나 명확한 이상소견은 
+       확인되지 않음
+       Aortomitral continuity와 annular rim of MV에 involve한 소견은 
+       확인되지 않음
+-- (2) Minimal AR & TR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal (>40cm/s)LAA emptying velocity
+7. Mass & vegetation: ( + ) , Multiple vegetation
+-- A1 & P1 ; Size 1.73 * 0.85cm, mobile & multilobulate & irregular
+-- Medial subvalvular structure(A3 아래쪽) ; size 1.37 * 0.22cm, 
+   linear & oscillating
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( - )
+10. Atherosclerotic plaque ( - ) in aortic arch & thoracic descending aorta
+
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 163cm          Wt: 57kg             BSA: 1.61㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2016-05-12 【접수일】2016-10-27 09:01 【검사일】2016-10-27 09:20 【보고일】2016-10-27 10:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황지원 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Mild eccentric MR with posteromedial commissural prolapse
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, MVP (triangular resection of P1, PM commissural fusion)
+  - 2013.9.13
+* Very poor apical window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Repaired MV with mild eccentric MR d/t PM commissural prolapse
+         MV meanPG= 1.6mmHg
+         MR PISA r= 0.62cm, MV ERO= 19.3mm², MR RV= 27ml
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- 이전 검사 (2015.5.21)에서 관찰되던 MV lesion은 이번 검사에서도 큰 변화 없이 관찰되며
+   이는 residual vegetation 가능성보다는 prolapsed PM commissure로 생각됨.
+8. RV systolic pressure by TR Vmax = 26.6mmHg (assumed RAP= 5mmHg)
+9. Strain= -12.8% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 111 / 71      HR : 63     Ht: 170cm      Wt: 59kg       BSA: 1.68㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 48mm         IVSd : 7mm         E:1.26m/s              e':0.095m/s
+LVIDs: 29mm         LVPWd: 8mm         A: 0.45m/s             a':0.059m/s
+                    LA: 27mm           E/A: 2.80              E/e':13.3
+LVEF: 63%           Ao: 31mm           DT:236.3msec           LAVI: 30.5ml/m2
+                                       A-L ( 18.39 / 16.66 / 5.09 )
+LVMI : 82.36 g/m2
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-07-12 【접수일】2018-12-27 07:46 【검사일】2018-12-27 08:07 【보고일】2018-12-27 16:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이성수 【판독의3】박승우 【청구시행의】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Mild eccentric MR with posteromedial commissural prolapse
+
+- No significant interval change compared to last study (2016.10.27)
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, MVP (triangular resection of P1, PM commissural fusion)
+      - 2013.09.13
+* Very poor apical window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve 
+-- (1) Repaired MV with mild eccentric MR d/t PM commissural prolapse
+         MV meanPG= 1.9mmHg
+         MR PISA r= 0.52cm, MV ERO= 13.2mm², MR RV= 18.28ml,
+-- (2) Minimal TR
+5. Great vessel
+-- Aorta (leading to leading edge at end-diastole): Normal
+     Sinus of Valsalva= 33.1mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = N/A (assumed RAP= 5mmHg)
+9. Strain(GL)= -12%
+
+-----------------------------------------------------------------------------
+ BP: 97 / 60       HR : 59       Ht: 170cm        Wt: 59kg      BSA: 1.68㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 47.1mm       IVSd: 7.6mm           E: 1.32m/s          e': 0.098m/s
+LVIDs: 27.9mm       LVPWd: 8.8mm          A: 0.49m/s          a': 0.056m/s
+                    LA: 27.3mm            E/A: 2.69           E/e': 13.5
+LVEF: 65%           Ao: 34.6mm            DT: 193.1msec       LAVI: 24.4ml/m2
+                                          A-L ( 16.98 / 12.84 / 4.53 )
+LVMI : 75.42 g/m2
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

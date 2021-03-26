@@ -1,0 +1,929 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2017-01-10 【접수일】2017-02-21 07:56 【검사일】2017-02-21 08:07 【보고일】2017-02-21 16:52
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황지원 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+Increased MV meanPG (6.1mmHg -> 7.7mmHg)
+
+
+▣ 의견
+
+Remark) 전반적으로 HR가 70~90으로 빨라 E/A summation되면서 MV mean PG가 7에서 9까지
+        높게 측정되어가는 부분이 있습니다.
+        Prosthetic vavle strut 안쪽으로 생각되는 tiny regurgitant flow가 1~2개
+        관찰되는데 이전 검사에서도 각도에 따라 관찰됩니다. Regular f/u 권고드립니다.
+
+
+▣ 검사정보 및 소견
+
+* HR : 80~100bpm
+* S/P MVR (SJ medical mechanical valve 25mm),
+      Mitral annular reconstruction with bovine pericardial patch - 2016.7.9
+* Poor echo window (esp.apical window)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) E/A summation
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visually normal size
+4. Valve :
+-- (1) MV : Prosthetic mitral valve with physiologic MR
+              MV meanPG= 7.7mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal (leading to leading edge at end-diastole)
+-- Ascending aorta= 30.5mm
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 20.4mmHg(assumed RAP= 5mmHg)
+9. Strain= -10.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 109 / 72      HR : 85      Ht: 171cm      Wt: 48kg        BSA: 1.54㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 36.0mm       IVSd : 7.8mm          E:                    e':
+LVIDs: 22.1mm       LVPWd: 8.5mm          A:                    a':
+                    LA: 23.2mm            E/A:                  E/e':
+LVEF: 62%           Ao: 33.1mm            DT:                   LAVI:
+                                          A-L ( / / )
+LVMI : 58.41 g/m2
+RWT : 0.47
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    11:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2016-08-22 【접수일】2016-08-22 14:05 【검사일】2016-08-22 14:45 【보고일】2016-08-22 16:58
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR, mitral annular reconstruction
+Well functioning prosthetic mitral valve
+No definite constrictive physiology
+
+- Slightly decreased MV mean PG (7.4mmHg -> 6.1mmHg) compared to last study (2016.7.18)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (SJ medical mechanical valve 25mm),
+      Mitral annular reconstruction with bovine pericardial patch - 2016.7.9
+* Poor echo window
+* Intermittent VPCs
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visually normal size
+4. Valve :
+-- (2) Prosthetic mitral valve with physiologic MR
+         MV meanPG= 6.1mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =19.9mmHg(assumed RAP= 5mmHg)
+9. Strain= -10.6% by APLAX
+10. Constrictive physiology (-)
+-- Septal bouncing (+), Ventricular interdependence (-)
+-- Respiratory variation of mitral inflow < 25%
+-- Respiratory variation of tricuspid inflow < 45%
+-- Mitral e' (0.099m/sec) > lateral e' (0.092m/sec)
+-- Normal IVC without plethora
+-- Hepatic vein diastolic reversal flow with early expiration (+)
+
+-----------------------------------------------------------------------------
+ BP: 100 / 52     HR : 78      Ht: 171cm      Wt: 48kg         BSA: 1.55㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 8mm         E:1.87m/s                e':0.099m/s
+LVIDs: 26mm         LVPWd: 8mm         A: 1.09m/s               a':0.044m/s
+                    LA: 30mm           E/A: 1.72                E/e':18.9
+LVEF: 67%           Ao: 34mm           DT:242.3msec             LAVI:N/A
+LVMI : 86.20 g/m2
+RWT : 0.36
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2016-07-18 【접수일】2016-07-18 13:25 【검사일】2016-07-18 13:54 【보고일】2016-07-18 16:09
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR, Mitral annular reconstruction
+Well functioning prosthetic mitral valve with slightly increased MV mean PG
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (St.Jude Medical mechanical valve 25mm),
+      Mitral annular reconstruction with bovine pericardial patch - 2016.7.9
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visually normal size
+4. Valve :
+-- (1) Prosthetic mitral valve with physiologic MR
+         MV meanPG= 7.4mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 22.8mmHg(assumed RAP= 5mmHg)
+9. Strain= -13.7% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 112 / 64      HR : 96    Ht: 171cm        Wt: 48kg      BSA: 1.55㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 9mm         E:1.83m/s                e':0.053m/s
+LVIDs: 26mm         LVPWd: 9mm         A: 0.92m/s               a':0.061m/s
+                    LA: 29mm           E/A: 1.99                E/e':34.5
+LVEF: 67%           Ao: 32mm           DT:264.9msec             LAVI:N/A
+                                       A-L ( / / )
+LVMI : 101.82 g/m2
+RWT : 0.40
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-18 【접수일】2016-07-18 13:25 【검사일】2016-07-18 13:54 【보고일】2016-07-18 14:44
+ 중간보고입니다. 최종판독내용을 확인하세요.
+=================================================================================
+**** 【중간보고】 ▶수정前◀****
+※중간보고 입니다. 최종보고에 따라 검사결과가 변경 될 수 있습니다.
+【판독의1】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 검사정보 및 소견
+
+* S/P MVR (St. Jude Medical mechanical valve 25mm),
+     Mitral annular reconstruction with bovine pericardial patch - 2016.7.9
+* Poor echo window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Visually normal size
+4. Valve :
+-- (1) Prosthetic mitral valve with physiologic MR
+           MV meanPG= 7.4mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =22.8mmHg(assumed RAP= 5mmHg)
+9. Strain= -13.7% by APLAX
+-----------------------------------------------------------------------------
+ BP: 112 / 64           HR : 96            Ht: 171cm Wt: 48kg                   BSA: 1.55㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 9mm         E:1.83m/s                e':0.053m/s
+LVIDs: 26mm         LVPWd: 9mm         A: 0.92m/s               a':0.061m/s
+                    LA: 29mm           E/A: 1.99                E/e':34.5
+LVEF: 67%           Ao: 32mm           DT:264.9msec             LAVI:
+                                       A-L ( / / )
+LVMI : 101.82 g/m2
+RWT : 0.40
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+▣ 결론 및 진단
+
+S/P MVR, Mitral annular reconstruction
+Well functioning prosthetic mitral valve with slightly increased MV mean PG
+
+▣ 의견
+
+ 
+
+------------------------------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-07 17:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】임아영 【판독의2】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+R/O Infective endocarditis
+
+- 2016.7.7 f/U TTE
+C/W Infective endocarditis with abscess formation at LV post. wall and PMVL annulus and inflammatory change of LA wall at aorta side
+Mild eccentric MR
+
+
+▣ 검사정보 및 소견
+
+* Fever W/U
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- Suspicious mass like protrusion at LV myocardium right below PMVL
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 10mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+
+-- 2016.7.7 f/U TTE
+-> LV post. wall 의 mass like protrusion lesion의 extent가 이전보다 증가되었고, 인접한 PMVL insertion site도 involvement가 보임.
+MR amount 도 이전보다 증가하였고, LV post. wall 안으로  비정상적인 color flow 가 관찰되며 Lt.post.wall의 myocardial density가 정상 myocardium과 차이가 있어서 abscess formation이 의심됨.
+AMVL의 tip에도 low echogenic lesion이 관찰되고 vegetation의 가능성이 있을 것으로 생각됨.
+-> LA의 aorta side에 인접해 inflammatory tissue로 생각되는 hypoechoic lesion이 관찰됨.
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI:17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-07 17:31
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】임아영 【판독의2】박성지 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+R/O Infective endocarditis
+
+- 2016.7.7 f/U TTE
+C/W Infective endocarditis with abscess formation at LV post. wall and PMVL annulus and inflammatory change of LA wall at aorta side
+Mild eccentric MR
+
+
+▣ 검사정보 및 소견
+
+* Fever W/U
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- Suspicious mass like protrusion at LV myocardium right below PMVL
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 10mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+
+-- 2016.7.7 f/U TTE
+-> LV post. wall 의 mass like protrusion lesion의 extent가 이전보다 증가되었고, 인접한 PMVL insertion site도 involvement가 보임.
+MR amount 도 이전보다 증가하였고, LV post. wall 안으로  비정상적인 color flow 가 관찰됨.
+AMVL의 tip에도 low echogenic lesion이 관찰되고 vegetation의 가능성이 있을 것으로 생각됨.
+-> LA의 aorta side에 인접해 inflammatory tissue로 생각되는 hypoechoic lesion이 관찰됨.
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI:17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-05 17:06
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】임아영 【판독의3】이상철 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+R/O Infective endocarditis
+
+
+▣ 검사정보 및 소견
+
+* Fever W/U
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation :
+-- Suspicious mass like protrusion at LV myocardium right below PMVL
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 10mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI:17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-05 16:18
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】임아영 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No significant abnormal echo findings in this study.
+
+
+▣ 검사정보 및 소견
+
+* Fever W/U
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 10mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI:17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-05 12:18
+ 중간보고입니다. 최종판독내용을 확인하세요.
+=================================================================================
+**** 【중간보고】 ▶수정前◀****
+※중간보고 입니다. 최종보고에 따라 검사결과가 변경 될 수 있습니다.
+【판독의1】임아영 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No significant abnormal echo findings in this study.
+
+▣ 검사정보 및 소견
+
+* Fever W/U
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 5mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI: 17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-05 12:17
+ 중간보고입니다. 최종판독내용을 확인하세요.
+=================================================================================
+**** 【중간보고】 ▶수정前◀****
+※중간보고 입니다. 최종보고에 따라 검사결과가 변경 될 수 있습니다.
+【판독의1】임아영 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No significant abnormal echo findings in this study.
+
+▣ 검사정보 및 소견
+
+* Fever W/u
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 5mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI: 17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-05 12:15
+ 중간보고입니다. 최종판독내용을 확인하세요.
+=================================================================================
+**** 【중간보고】 ▶수정前◀****
+※중간보고 입니다. 최종보고에 따라 검사결과가 변경 될 수 있습니다.
+【판독의1】임아영 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No significant abnormal echo findings in this study.
+
+
+▣ 검사정보 및 소견
+
+* Fever W/u
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 5mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI: 17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 10:49 【검사일】2016-07-05 11:33 【보고일】2016-07-05 12:14
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】임아영 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+No significant abnormal echo findings in this study.
+
+
+▣ 검사정보 및 소견
+
+* Fever W/u
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Normal diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve :
+-- (1) Slightly prolapsed PMVL & enlongated with minimal to mild MR
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = 27mmHg (assumed RAP = 5mmHg)
+-- Dilated IVC (27mm) without plethora
+9. Strain= -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 95 / 50        HR : 89     Ht: 171cm       Wt: 51kg          BSA: 1.59㎡
+ 과거검사 : No
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 45mm         IVSd : 7mm         E:0.94m/s               e':0.106m/s
+LVIDs: 27mm         LVPWd: 7mm         A: 0.41m/s              a':0.078m/s
+                    LA: 34mm           E/A: 2.29               E/e':8.9
+LVEF: 64%           Ao: 33mm           DT:180.5msec            LAVI: 17.3ml/m2
+                                       A-L ( 12.42 / 9.86 / 3.79 )
+LVMI : 69.76 g/m2
+RWT : 0.31
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 14:16 【검사일】2016-07-05 15:18 【보고일】2016-07-05 17:01
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】황지원 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+Suspicious endocarditis with abscess formation 
+Slightly prolapsed PMVL with eccentric minimal to mild MR
+
+
+▣ 의견
+
+Rec) PET
+
+
+▣ 검사정보 및 소견
+
+* GPC Cluster bacteremia, meningitis w/u
+* Baseline EKG : NSR with HR 90bpm
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : Normal
+5. Valve :
+-- (1) Slightly prolapsed PMVL & elongated AMVL with eccentric minimal to mild MR
+       (tiny oscillating material attached at prolapsed PMVL site)
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : (+) Left ventricular free wall 에 (MV아래쪽에) round shape의 
+                             abscess formation가능성으로 보이는 lesion이 있음
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done
+
+-----------------------------------------------------------------------------
+ BP: /            HR :       Ht: 171cm        Wt: 51kg        BSA: 1.59㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 14:16 【검사일】2016-07-05 15:18 【보고일】2016-07-05 16:01
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】황지원 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+No evidence of infective endocarditis or vegetation in this study
+Slightly prolapse PMVL with eccentric minimal to mild MR
+
+
+▣ 의견
+
+Rec) Prolapsed PMVL site에 tiny oscillating material이 있으나 
+     echogenicity가 다르지 않고 크지 않아서 vegetation 가능성은 적으나 
+     minimal MR은 동반되어 있어 bacteremia control되지 않으면
+     TEE f/u 하시는 것이 좋겠습니다.
+
+
+▣ 검사정보 및 소견
+
+* GPC Cluster bacteremia, meningitis w/u
+* Baseline EKG : NSR with HR 90bpm
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : Normal
+5. Valve :
+-- (1) Slightly prolapsed PMVL & elongated AMVL with eccentric minimal to mild MR
+       (tiny oscillating material attached at prolapsed PMVL site)
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : None
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done
+
+-----------------------------------------------------------------------------
+ BP: /            HR :       Ht: 171cm        Wt: 51kg        BSA: 1.59㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2016-07-05 【접수일】2016-07-05 14:16 【검사일】2016-07-05 15:18 【보고일】2016-07-05 15:40
+ 중간보고입니다. 최종판독내용을 확인하세요.
+=================================================================================
+**** 【중간보고】 ▶수정前◀****
+※중간보고 입니다. 최종보고에 따라 검사결과가 변경 될 수 있습니다.
+【청구시행의】이상철 【확인의】이상철
+▣ 검사정보 및 소견
+
+* GPC Cluster bacteremia, meningitis w/u
+* Baseline EKG : NSR with HR 90bpm
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size and normal RV systolic function
+4. Atrium size : Normal
+5. Valve :
+-- (1) Slightly prolapsed PMVL & elongated AMVL with eccentric minimal to mild MR
+       (tiny oscillating material attached at prolapsed PMVL site)
+-- (2) Minimal TR
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+   Normal (> 40cm/s) LAA emptying velocity
+7. Mass and Vegetation : None
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+11. 3D was done
+-----------------------------------------------------------------------------
+ BP: /                  HR :               Ht: 171cm Wt: 51kg                   BSA: 1.59㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+▣ 결론 및 진단
+
+No evidence of infective endocarditis or vegetation in this study
+Slightly prolapse PMVL with eccentric minimal to mild MR
+
+▣ 의견
+
+Rec) Prolapsed PMVL site에 tiny oscillating material이 있으나 echogenicity가 다르지 않고 크기 않아서
+vegetation 가능성은 적으나 minimal MR은 동반되어 있어 bacteremia control되지 않으면 TEE f/u 하시는
+것이 좋겠습니다
+
+------------------------------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-02-06 【접수일】2018-06-05 15:08 【검사일】2018-06-05 15:32 【보고일】2018-06-05 16:27
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장하성 【판독의3】김다래 【청구시행의】김다래 【확인의】김다래
+▣ 결론 및 진단
+
+Well functioning prosthetic mitral valve
+
+-- Slightly decreased MV meanPG (7.7mmHg -> 5.5mmHg) compared with previous study (2017.02.21.)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (SJ medical mechanical valve 25mm),
+    Mitral annular reconstruction with bovine pericardial patch - 2016.07.09
+* Poor echo window (esp.apical & subcostal window)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function
+-- (2) Normal RV wall thickness
+3. Atrium : Normal size
+4. Valve 
+-- (1) MV : Well functioning prosthetic mitral valve 
+            MV meanPG= 5.5mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =21.3mmHg (assumed RAP = 5mmHg)
+9. Strain= -20.2% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 105 / 52      HR : 69        Ht: 171cm       Wt: 48kg       BSA: 1.54㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                               MV Doppler
+LVIDd: 37.7mm       IVSd: 8.5mm           E: 1.57m/s            e': 0.044m/s
+LVIDs: 23.2mm       LVPWd: 7.4mm          A: 0.93m/s            a': 0.084m/s
+                    LA: 29.3mm            E/A: 1.69             E/e': 35.7
+LVEF: 62%           Ao: 31.5mm            DT: 297.0msec         LAVI: N/A
+                                          A-L ( / / )
+LVMI : 54.64 g/m2
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

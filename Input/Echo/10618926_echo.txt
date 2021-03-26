@@ -1,0 +1,154 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2003-03-06 【접수일】2003-06-12 08:01 【검사일】2003-06-12 08:57 【보고일】2003-06-13 11:04
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김용훈 【확인의】김현중
+Video no:	A994-11245	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+M-mode data	   	   	   	   	MV Doppler
+LVIDd:	48	mm	IVSd:	9	mm	E:	1.54	m/sec
+LVIDs:	33	mm	LVPWd:	8	mm	A:	m/sec
+  	  	  	LA:	45	mm	E/A:
+LVEF:	58	%	Ao:	26	mm	DT:	314	msec
+---------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR (2001.10)
+
+1. Normal LV cavity size and systolic function
+   LAE 
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV : mean PG = 2.9mmHg
+                          physiologic MR
+   Minimal to mild TR without pulm. HTN (RVSP = 36mmHg)
+4. No regional wall motion abnormality
+  
+Conclusion:
+S/P MVR
+Well functioning prosthetic MV
+LAE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2002-01-10 【접수일】2002-03-11 08:22 【검사일】2002-03-11 08:53 【보고일】2002-03-12 10:02
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】남궁준 【확인의】이상철
+Video no:	OT51	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	52	mm	IVSd:	7	mm	LA:	40	mm
+LVIDs:	37	mm	LVPWd:	10	mm	Ao:	26	mm
+  
+LVEF:	49.37	%
+---------------------------------------------------------------------------
+MV
+mPG:	2.1	mmHg	E:	1.2	m/sec	E/A:
+DT:	360	msec	A:	        m/sec	IVRT:	84	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.7	m/sec	peakPG:	12	mmHg	LVOT VTI:	m
+VTI:	0.4	m	meanPG:	7	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and lower normal LV contractility
+   Increased LA size(4.3cm), 이전 study 보다 줄어듬
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV : mean PG = 2.1mmHg
+       Physiologic MR
+   Minimal to mild TR (RVSP : 35mmHg)
+4. No regional wall motion abnormality
+  
+Conclusion:
+S/P MVR
+Well functioning prosthetic MV
+LAE
+Minimal to mild TR without pulm.HT
+-> 이전 study 보다 LA, LV size 감소, LV systolic function 정상화 됨.
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2001-11-01 【접수일】2001-11-01 10:47 【검사일】2001-11-01 11:46 【보고일】2001-11-02 09:39
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【확인의】박승우
+Video no:	AX884-11318	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	57	mm	IVSd:	8	mm	LA:	46	mm
+LVIDs:	43	mm	LVPWd:	7	mm	Ao:	26	mm
+  
+LVEF:	43.09	%
+---------------------------------------------------------------------------
+MV
+mPG:	2.5	mmHg	E:	m/sec	E/A:
+DT:	        msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.5	m/sec	peakPG:	9	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	5	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR
+
+1. Incrased LA, LV cavity size(수술전보다 줄어듬) 
+   Decreased slightly LV contractility  (LVEF by Simpson's method = 47%)
+2. Normal IVS & LVPW thickness
+   Paradoxical IVS motion
+3. Well functioning prosthetic MV with mean PG = 2.5mmHg
+   Mild TR on C/D without pulm. HT
+4. No pericardial effusion
+  
+Conclusion:
+Good postop state after MVR
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2001-10-19 【접수일】2001-10-19 10:07 【검사일】2001-10-19 11:16 【보고일】2001-10-20 09:52
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이경진 【확인의】이상철
+Video no:	TEE174-13853	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment: <TEE finding>
+   * ECG : A. fib
+
+1. Visually increased LA size
+2. Severe MR, eccentric to LA posterior wall
+   Flail AMVL & restictive motion of PMVL with chordal rupture
+3. Minimal TR
+  
+Conclusion:
+1. LAE
+2. Severe MR with flail AMVL & chordal rupture
+
+
+
+
+
+

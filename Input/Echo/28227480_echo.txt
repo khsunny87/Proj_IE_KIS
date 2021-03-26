@@ -1,0 +1,58 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2012-02-09 【접수일】2012-02-09 14:37 【검사일】2012-02-09 15:16 【보고일】2012-02-09 16:35
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Good post op state
+LA enlargement
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVP, MAP (2012.02.02.)
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Repaired MV with minimal MR
+        mean PG = 1.98mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = N/A
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 24mmHg (assumed RAP = 5mmHg)
+
+-----------------------------------------------------------------------------
+BP: 110 / 60             Ht: 161cm          Wt: 56kg             BSA: 1.58㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 53mm         IVSd : 9mm          E: 0.90m/s        e`: 0.048m/s
+LVIDs: 34mm         LVPWd: 9mm          A: 0.66m/s        a`: 0.029m/s
+                    LA: 37mm            E/A: 1.36         E/e`: 18.75
+LVEF: 59%           Ao: 32mm            DT: 245.0msec     LAVI: 36.2ml/m2                                                         
+                                        A-L ( 17.5 / 17.2 / 4.5 )
+LVMI : 110.45g/㎡
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+

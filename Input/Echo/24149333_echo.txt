@@ -1,0 +1,503 @@
+=================================================================================
+【검사명】Limited echo (단순echo) [BS2224]  【구분】입원
+【처방일】2018-06-27 【접수일】2018-06-27 10:36 【검사일】2018-06-27 11:39 【보고일】2018-06-27 15:31
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+Constrictive physiology (+)
+RV dilatation with decreased RV systolic function
+A.fib with both atrial enlargement
+
+
+▣ 검사정보 및 소견
+
+* Limited study (r/o bacterial pericarditis)
+* EKG: A.fib
+
+* S/P MVR with tissue valve (1978, USA)
+* S/P redo MVR with tissue valve (1983, USA)
+* S/P Trido MVR (C-M 29mm), AVR (C-M 23mm), TAP (kay type) - (2006.01, 을지병원)
+* S/P 4th-MVR with On-X 25mm, TVR with St.Jude 27mm (2015.01.03, SMC)
+* Infective endocarditis and iatrogenic retrograde aortic dissection type A
+* S/P 5th-MVR with On-X 25/33mm
+    Mitral annular reconstruction with bovine pericardium
+    Ascending aorta and hemiarch replacement with Gelweave
+    one branch vascular graft 24mm (2018.05.23)
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Dilated RV cavity size (base= 49.4mm, mid= 45.2mm at A4C)
+       and decreased RV systolic function
+3. Atrium : LA enlargement, RA enlargement
+4. Constrictive physiology (+)
+-- Septal bouncing (+), ventricular interdependence (+)
+-- Respiratory variation of mitral inflow : N/A
+-- Hepatic vein diastolic reversal flow with expiration (+)
+-- IVC dilatation and hepatic vein dilatation
+-- Adhesion (+) at RV side
+-- Pericardial thickening (+)
+
+-----------------------------------------------------------------------------
+ Ht: 156cm        Wt: 50kg          BSA: 1.48㎡        과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                              
+LVIDd: 56.1mm       IVSd: 7.4mm           
+LVIDs: 36.2mm       LVPWd: 7.4mm      
+                    LA: 51.7mm          
+LVEF: 58%           Ao: 33.8mm            
+LVMI : 101.51 g/m2
+RWT : 0.26
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2018-04-16 【접수일】2018-07-11 14:46 【검사일】2018-07-11 15:42 【보고일】2018-07-11 17:13
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김민선 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVR, AVR, TVR
+    Mitral annular reconstruction, Ascending aorta and hemiarch replacement
+Well functioning prosthetic AV, MV, TV
+Dilated RV with decreased RV systolic function
+RV adhesion without definite constrictive physiology
+A. fib with LA enlargement, RA enlargement
+Dilated MPA
+
+- Disappeared constrictive physiology compared to last study (2018.06.27)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with tissue valve (1978, USA)
+* S/P redo MVR with tissue valve (1983, USA)
+* S/P Trido MVR (C-M 29mm), AVR (C-M 23mm), TAP (kay type) - (2006.01, 을지병원)
+* S/P 4th-MVR with On-X 25mm, TVR with St.Jude 27mm (2015.01.03, SMC)
+* Infective endocarditis and iatrogenic retrograde aortic dissection type A
+* S/P 5th-MVR with On-X 25/33mm
+      Mitral annular reconstruction with bovine pericardium
+      Ascending aorta and hemiarch replacement with Gelweave
+      one branch vascular graft 24mm (2018.05.23)
+* ECG: A. fib
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Dilated RV cavity size (base= 48.6mm, mid= 44.5mm at A4C) and
+       decreased RV systolic function (TAPSE= 12.9mm, TV TDI S'= 0.080m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (47mm)
+4. Valve 
+-- (1) Well functioning prosthetic aortic valve 
+          A5C: AV Vmax= 1.8m/s, AV meanPG= 7.0mmHg, LVOTd= 2.10cm, EOA by CE= 2.34cm²
+               EOAI by CE= 1.69cm²/m²
+          LVOT VTI/AV VTI= 0.68Physiologic AR (+)
+-- (2) Well functioning prosthetic mitral valve :
+         MV meanPG= 5.3mmHg, Physiologic MR (+)
+-- (3) Well functioning prosthetic TV with physiologic TR
+         TV meanPG= 4.1mmHg,
+5. Great vessel
+-- Ascending aorta= 24.4mm
+-- Dilated pulmonary Artery (mid-systole시) 
+     MPA= 32.1mm
+6. Pericardial effusion : None
+-- Constrictive physiology (-)
+-- Septal bouncing (-)
+-- Ventricular interdependence (-)-- Pericardial thickening (+) & RV adhesion (+)
+-- Respiratory variation of mitral inflow < 25%
+-- Dominant HV diastolic reversal flow at early expiration (-)
+-- Septal e'(0.051m/sec) Lateral e' (0.078m/sec)
+-- Dilated IVC (IVC = 21.9mm)
+-- IVC plethora (-)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = N/A (assumed RAP= 10mmHg)
+9. Strain= -15% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 87 / 40       HR : 89      Ht: 157cm       Wt: 43kg       BSA: 1.39㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 57.1mm      IVSd: 8.6mm         E: 1.73m/s          e': 0.051m/s
+LVIDs: 37.0mm      LVPWd: 8.2mm        A:                  a':
+                   LA: 59.0mm          E/A:                E/e': 33.9
+LVEF: 58%          Ao: 28.0mm          DT: 275.0msec       LAVI: 130.3ml/m2
+                                       A-L ( 36.70 / 38.90 / 6.70 )
+LVMI : 130.57 g/m2
+RWT : 0.29
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-05-31 【접수일】2018-05-31 12:18 【검사일】2018-05-31 15:19 【보고일】2018-05-31 16:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김다래 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MVR, Mitral annular reconstruction & Ascending aorta and hemiarch replacement
+Well functioning prosthetic MV, AV and TV
+Dilated RV cavity size and decreased RV systolic function
+A.fib with both atrial enlargement
+R/O Adhesive pericardium at RV mid to apex, but no significant constrictive physiology
+
+- decreased LV cavity size compared to pre-op study : 2018.05.18
+
+
+▣ 검사정보 및 소견
+
+* Infective endocarditis
+  MR (severe paravalvular leakage)
+  s/p MVR with tissue valve (1978,USA)
+  s/p redo MVR with tissue valve (1983,USA)
+  s/p Trido MVR (C-M 29mm), AVR (C-M 23mm),TAP (kay type) - (2006.01,을지병원)
+  s/p 4th-MVR with On-X 25mm, TVR with St.Jude 27mm (2015.01.03,SMC)
+  Iatrogenic retrograde aorta dissection type A
+* S/P 5th-MVR with On-X 25/33mm
+      Mitral annular reconstruction with bovine pericardium
+      Ascending aorta and hemiarch replacement with Gelweave 
+      one branch vascular graft 24mm : 2018.05.53
+* EKG: A.fib
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+2. RV
+-- (1) Dilated RV cavity size (base= 51.5mm, mid= 39.6mm at A4C)
+       and decreased RV systolic function (TAPSE= 10.4mm, TV TDI S'= 0.080m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 60.3mm at A4C)
+4. Valve 
+-- (1) Well functioning of prosthetic MV with increased MV mean PG 
+         MV meanPG= 6.3mmHg
+-- (2) Well functioning of prosthetic AV
+         A5C: AV Vmax= 2.3m/s, AV meanPG= 11.6mmHg, LVOTd= 2.14cm
+              AVA by CE= 2.11cm², LVOT VTI/AV VTI= 0.59
+-- (3) Well functioning of prosthetic TV 
+         TV meanPG= 3.3mmHg
+5. Great vessel : Normal
+-- Pulmonary Artery (mid-systole시) , MPA= 32.8mm
+6. Pericardial effusion : None
+    Septal bouncing (+)
+    Respiratory variation of mitral inflow < 25%
+    R/O Adhesive pericardium at RV mid to apex, 
+    but no significant constrictive physiology
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =N/A
+9. Strain= -10.6% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 115 / 65      HR : 81       Ht: 157cm        Wt: 47kg      BSA: 1.44㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 53.4mm      IVSd: 10.4mm        E: 1.69m/s          e': 0.053m/s
+LVIDs: 35.7mm      LVPWd: 10.1mm       A:                  a':
+                   LA: 60.1mm          E/A:                E/e': 31.9
+LVEF: 55%          Ao: 32.8mm          DT: 306.7msec       LAVI: 168.0ml/m2
+                                       A-L ( 49.16 / 42.90 / 7.41 )
+LVMI : 145.62 g/m2
+RWT : 0.38
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2018-05-18 【접수일】2018-05-18 14:01 【검사일】2018-05-18 14:49 【보고일】2018-05-18 16:38
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김민선 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P Redo- 4th MVR, AVR, TVR
+Severe paravalular leakage of prosthetic MV (2 jets)
+LV dilatation
+RV dilatation with decreased RV systolic function
+Well functioning prosthetic AoV, prosthetic TV
+Mild pulmonary hypertension (by PR Vmax)
+Both atrial enlargement
+
+- Newly appeared paravalvular leakage of prosthetic MV and increased MV mean PG
+  (5.0 -> 7.5mmHg), increased LV & RV cavity size and decreased RV systolic function 
+  compared to previous study (2017.11.16)
+
+
+▣ 의견
+
+Rec) TEE (3D필요), 
+     Coronary aorta CTA (comment에 "mechamical valve dysfunction"이라고 명시)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR (tissue vale-`78,`83), Trido MVR (C-M 29mm), AVR (C-M 23mm),
+      TAP (kay type) - (`06.01, 을지병원), wound infection (`06.02, 을지병원)
+* S/P Redo- 4th MVR with ON-X 25mm
+      TVR with ST Jude 27 mm - 2015.01.03
+* EKG : A.fib
+* Dyspnea aggravation
+
+1. LV
+-- (1) Dilated LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Dilated RV cavity size (base= 64.5mm, mid= 44.6mm at A4C) and 
+       decreased RV systolic function (TAPSE= 12.5mm, TV TDI S'= 0.079m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 66.8mm at A4C)
+4. Valve 
+-- (1) Prosthetic MV with severe paravalvular leakage ( 2 jets)
+       : 이전검사 (2017.11.16) 비교시 septal PVL 의심되는 부분은 amount 증가하였고, 
+         lateral PVL은 새롭게 발생한 것으로 보임.
+          MV Vmax= 2.49m/sec, mean PG= 7.5mmHg
+          medial: PISA r= 0.76 cm, ERO=0.23cm2, RV= 29.18 ml
+          lateral: PISA r= 1.29cm, ERO= 0.69cm2, RV= 87.4ml
+          Pulmonic vein systolic reversal flow (-)
+-- (2) Well functioning prosthetic aortic valve :
+         A5C: AV Vmax= 3.1m/s, AV meanPG= 18.3mmHg, LVOTd= 2.03cm, EOA by CE= 1.32cm²
+              EOAI by CE= 0.93cm²/m², LVOT VTI/AV VTI= 0.41
+         Physiologic AR (+)
+-- (3) Well functioning prosthetic tricuspid valve
+         TV meanPG= 4.2mmHg, physiologic TR (+)
+5. Great vessel : Normal
+-- Pulmonary Artery (mid-systole시), MPA= 25.5mm
+6. Pericardial effusion : None7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = N/A (assumed RAP= 15mmHg)
+-- IVC diameter =22.0mm with plethora
+-- Mean PA pressure by PR Vmax = 32.1 mmHg
+9. Strain= -18.5% by APLAX
+
+-----------------------------------------------------------------------------
+ BP: 87 / 51       HR : 78       Ht: 157cm       Wt: 45kg      BSA: 1.41㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                            MV Doppler
+LVIDd: 68.5mm      IVSd: 7.7mm         E: 1.93m/s          e': 0.053m/s
+LVIDs: 37.3mm      LVPWd: 9.5mm        A:                  a':
+                   LA: 67.9mm          E/A:                E/e': 36.4
+LVEF: 70%          Ao: 30.1mm          DT: 277.8msec       LAVI: 192.8ml/m2
+                                       A-L ( 52.92 / 45.51 / 7.53 )
+LVMI : 231.12 g/m2
+RWT : 0.28
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】응급
+【처방일】2018-06-25 【접수일】2018-06-25 15:03 【검사일】2018-06-25 15:43 【보고일】2018-06-25 17:19
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김지훈 【판독의3】장성아 【청구시행의】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+Well functioning prosthetic MV, AV, and TV
+No evidence of infective endocarditis in this study
+Aortic dissection(+) at aortic arch and descending thoracic aorta
+A.fib with both atrial enlargement
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with tissue valve (1978, USA)
+* S/P redo MVR with tissue valve (1983, USA)
+* S/P Trido MVR (C-M 29mm), AVR (C-M 23mm), TAP (kay type) - (2006.01, 을지병원)
+* S/P 4th-MVR with On-X 25mm, TVR with St.Jude 27mm (2015.01.03, SMC)
+* Infective endocarditis and iatrogenic retrograde aortic dissection type A
+* S/P 5th-MVR with On-X 25/33mm
+      Mitral annular reconstruction with bovine pericardium
+      Ascending aorta and hemiarch replacement with Gelweave
+      one branch vascular graft 24mm (2018.05.23)
+
+* W/U for fever
+* Baseline EKG : A.fib with HR 110bpm
+* Pethidine 25mg + NS 50cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually dilated RV cavity size and decreased RV systolic function
+4. Atrium size : LA enlargement, RA enlargement
+-- Flow accelleration at LA wall (Vmax = 1.8m/s, r/o pulmonic vein inflow)
+5. Valve
+-- (1) Well functioning prosthetic MV with increased MV mean PG, physiologic MR(+)
+         MV meanPG= 7.6mmHg,
+-- (2) Well functioning prosthetic AV
+-- (3) Well functioning prosthetic TV
+6. Thrombus (-) and SEC (-)in LA and LA appendage
+-- Decreased (< 20cm/s) LAA emptying velocity
+7. Mass and Vegetation : none
+8. Intracardiac shunt : none
+9. Pericardial effusion : None
+10. Aortic dissection flap(+) at aortic arch and descending thoracic aorta 
+-----------------------------------------------------------------------------
+ Ht: 156cm      Wt: 48kg      BSA: 1.45㎡        과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2018-05-21 【접수일】2018-05-21 08:24 【검사일】2018-05-21 09:13 【보고일】2018-05-21 16:49
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김민선 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P redo-4th MVR, AVR, TVR
+Severe paravalvular leakage of prosthetic MV
+(d/t r/o ruptured abscess or detachment of suture material)
+Well functioning prosthetic AoV
+Well functioning prosthetic TV
+LV dilatation
+Dilated RV with decreased RV systolic function
+A.fib with both atrial enlargement
+SEC (+)in LA and LA appendage
+
+
+▣ 검사정보 및 소견
+
+* PVL w/u
+* Baseline EKG : A.fib with HR 100bpm
+* Pethidine 50mg + NS 50cc IV was administered
+* Midazolam 3mg IV was administered
+
+1. Visually dilated LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Visually dilated RV cavity size and decreased RV systolic function
+4. Atrium size : Both atrial enlargement
+5. Valve
+--(1) Prosthetic MV with severe paravalvular leakage (+)
+      d/t r/o rupture of perivalvular abscess, r/o detachment of suture material
+      MV meanPG= 6.3mmHg
+      TEE상 2jets 으로 보였던 PVL은 AV 뒤쪽에서부터 septal side 로 posterior annuls 
+      까지 길게 이어진것으로 보입니다.
+--(2) Thickened valve leaflet but well functioning prosthetic AV
+--(3) Well functioning prosthetic TV
+       TV meanPG= 2.0mmHg
+6. Thrombus (-) and SEC (+)in LA and LA appendage
+   Decreased (< 20cm/s) LAA emptying velocity
+7. Mass and Vegetation 
+-- Prosthetic MV
+     1.09x0.39cm sized oscillating material at LA side of prosthetic MV, septal side
+     1.10x0.71cm sized linear material, r/o ruptured abscess or r/o detachment of 
+     suture material
+8. Intracardiac shunt : None
+9. Pericardial effusion : None
+10. Atherosclerotic plaque (-) in aortic arch and thoracic descending aorta
+
+-----------------------------------------------------------------------------
+ Ht: 157cm          Wt: 47kg           BSA: 1.45㎡          과거검사 : Yes
+-----------------------------------------------------------------------------
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2020-01-21 【접수일】2020-05-19 08:12 【검사일】2020-05-19 09:52 【보고일】2020-05-19 15:21 【서명일】2020-05-28 14:14
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장용호 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P AVR, MVR TVR, Mitral annular reconstruction, Ascending aorta and hemiarch Replacement
+Well functioning prosthetic AV, MV & TV
+Dilated RV with slightly decreased RV systolic function
+A.fib with LA enlargement, RA enlargement
+
+-- No significant interval change compared with last study (2018.07.11)
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR with tissue valve (1978, USA)
+* S/P redo MVR with tissue valve (1983, USA)
+* S/P Trido MVR (C-M 29mm), AVR (C-M 23mm), TAP (kay type) - (2006.01, 을지병원)
+* S/P 4th-MVR with On-X 25mm, TVR with St.Jude 27mm (2015.01.03, SMC)
+* Infective endocarditis and iatrogenic retrograde aortic dissection type A
+* S/P 5th-MVR with On-X 25/33mm
+      Mitral annular reconstruction with bovine pericardium
+      Ascending aorta and hemiarch replacement with Gelweave
+      One branch vascular graft 24mm (2018.05.23)
+* ECG: A.fib
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Dilated RV cavity size (base= 48.1mm, mid= 38.6mm at A4C) 
+       and slightly decreased RV systolic function
+       (TAPSE= 12.4mm, TV TDI S'= 0.079m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : LA enlargement, RA enlargement (RA= 51.2mm at A4C)
+4. Valve 
+-- (1) Well functioning prosthetic aortic valve : Physiologic AR (+)
+          A5C: AV Vmax= 1.8m/s, AV meanPG= 7.2mmHg, LVOTd= 2.01cm, EOA by CE= 1.87cm²,
+               EOAI by CE= 1.30cm²/m², LVOT VTI/AV VTI= 0.59
+-- (2) Well functioning prosthetic mitral valve : Physiologic MR (+)
+               MV meanPG= 3.9mmHg,
+-- (3) Well functioning prosthetic TV : physiologic TR (+)
+               TV meanPG= 1.4mmHg
+5. Great vessel : Normal
+6. Pericardial effusion : None
+-- Constirctive physiology (-)
+-- Pericardial thickening (+)
+-- RV adhesia (+)
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax =N/A (assumed RAP= 5mmHg)
+   IVC diameter =20.2mm, plethora: (-)
+9. Strain= -15.2% by APLAX
+
+-----------------------------------------------------------------------------
+ BP :120 / 63      HR :62        Ht:158.0cm        Wt:46.40kg        BSA:1.44
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                                MV Doppler
+LVIDd: 52.8mm      IVSd: 10.4mm            E: 1.80m/s        e': 0.051m/s
+LVIDs: 34.0mm      LVPWd: 10.1mm           A:                a':
+                   LA: 55.3mm              E/A:              E/e': 35.3
+LVEF: 59%          Ao: 33.8mm              DT: 246.0msec     LAVI: 173.0ml/m2
+                                           A-L ( 45.04 / 45.41 / 6.98 )
+LVMI : 142.92 g/m2
+RWT : 0.38
+
+[RWMA]-----------------------------------------------------------------------
+              Ant       A-S       I-S       Inf       I-L       A-L
+Basal         1         1         1         1         1         1
+Mid           1         1         1         1         1         1
+Apical        1                   1         1                   1
+Apex          1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

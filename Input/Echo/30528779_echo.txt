@@ -1,0 +1,269 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2013-06-03 【접수일】2013-06-04 09:43 【검사일】2013-06-04 11:03 【보고일】2013-06-04 13:43
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박성지 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MV vegetation removal, ASD closure, CABG
+Diastolic dysfunction grade 1 with LA enlargement
+Heavy mitral annulus calcification
+Minimal amount of pericardial effusion
+
+
+
+▣ 의견
+
+임상적으로 Infective endocarditis 의심시 TEE 시행하시기 바랍니다
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Mitral valve vegetation removal,
+      ASD closure with GA-fixed autologous percardial patch
+      CABG - 2013.05.20
+* Mild fever
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Diastolic dysfunction grade 1
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Heavy thickened & calcified PMV annulus with minimal MR
+         MV meanPG= 2.53mmHg
+-- (2) Minimal AR, TR
+5. Great vessel : Normal
+-- Abdominal aorta size(AP/T) = N/A d/t short term f/u
+6. Pericardial effusion : minimal amount
+-- LV posterior: 0.34cm at PSAX
+   LV lateral: 0.45cm at A4C
+   RA side: 0.66cm at subcostal view
+7. Mass, thrombi or vegetation : MV의 heavy calcification으로 
+   vegetation 유무 감별이 어렵습니다
+8. RV systolic pressure by TR Vmax = 23mmHg (assumed RAP = 5mmHg)
+9. Septal bouncing (+)
+   Ventricular interdependence (-)
+   Respiratory variation of mitral inflow <25%
+   Respiratory variation of tricuspid inflow <45%
+   Hepatic vein diastolic reversal flow with expiration (-)
+   Normal IVC size= 1.51cm, Plethora (-)
+10. Sigmoid septum without LVOT obstruction
+11. No remnant ASD shunt flow
+
+-----------------------------------------------------------------------------
+BP: 111 / 65             Ht: 141cm          Wt: 51kg             BSA: 1.38㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 44mm         IVSd : 10mm         E: 0.83m/s        e`: 0.073m/s
+LVIDs: 22mm         LVPWd: 9mm          A: 1.11m/s        a`: 0.088m/s
+                    LA: 49mm            E/A: 0.75         E/e`: 11.37
+LVEF: 75%           Ao: 32mm            DT: 280.0msec     LAVI: 83.9ml/m2                                                         
+                                        A-L ( 29.3 / 30.5 / 6.6 )
+LVMI : 99.83g/㎡
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2013-05-27 【접수일】2013-05-27 13:02 【검사일】2013-05-27 14:46 【보고일】2013-05-27 15:54
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】장성아 【확인의】장성아
+▣ 결론 및 진단
+
+S/P MV vegetation removal, ASD closure, CABG
+Diastolic dysfunction grade 1 with LA enlargement
+Heavy mitral annulus calcification
+No evidence of residual ASD and vegetation
+
+
+
+▣ 검사정보 및 소견
+
+* Cerebral infarction
+* S/P Mitral valve vegetation removal,
+      ASD closure with GA-fixed autologous pericardial patch,
+      CABG -- 2013.5.20
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Diastolic dysfunction grade 1
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve :
+-- (1) Heavy thickened & calcified PMV annulus with minimal MR
+-- (2) Slightly thickened AoV
+-- (3) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 19mmHg (assumed RAP = 5mmHg)
+9. No evidence of remnant secundum ASD
+10. Sigmoid septum without dynamic latent LVOT obstruction
+
+-----------------------------------------------------------------------------
+BP: 108 / 66             Ht: 141cm          Wt: 52kg             BSA: 1.39㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 44mm         IVSd : 10mm         E: 0.75m/s        e`: 0.048m/s
+LVIDs: 23mm         LVPWd: 11mm         A: 1.06m/s        a`: 0.069m/s
+                    LA: 50mm            E/A: 0.71         E/e`: 15.63
+LVEF: 73%           Ao: 39mm            DT: 417.0msec     LAVI: 73.3ml/m2
+                                        A-L ( 25.3 / 31.7 / 6.7 )
+LVMI : 113.82g/㎡
+RWT : 0.50
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-08-05 【접수일】2014-08-13 14:58 【검사일】2014-08-13 15:24 【보고일】2014-08-13 16:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】천광진 【판독의3】최진오 【청구시행의】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+S/P MV vegetation removal, ASD closure, CABG
+LA enlargement
+Heavy posterior mitral annulus calcification
+
+- No significant interval change compared to previous study (2013.6.4)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Mitral valve vegetation removal,
+      ASD closure with GA-fixed autologous percardial patch
+      CABG - 2013.05.20
+* LCC, pre op w/u
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Heavy thickened & calcified PMV annulus with minimal MR
+       MV meanPG= 2.5mmHg
+-- (2) Minimal AR, TR
+5. Great vessel : Normal
+6. Pericardial effusion : none
+7. Mass, thrombi or vegetation : 
+-- MV의 heavy calcification 으로 vegetation 유무 감별어려우나
+   vegetation 가능성은 낮아보입니다
+8. RV systolic pressure by TR Vmax = 23mmHg (assumed RAP = 5mmHg)
+9. Sigmoid septum without LVOT obstruction
+10. No remnant ASD shunt flow
+11. Strain = -21.3% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 132 / 74             Ht: 137cm          Wt: 51kg             BSA: 1.35㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 8mm          E: 1.00m/s        e`: 0.049m/s
+LVIDs: 25mm         LVPWd: 9mm          A: 0.91m/s        a`: 0.074m/s
+                    LA: 52mm            E/A: 1.10         E/e`: 20.41
+LVEF: 74%           Ao: 33mm            DT: 245.0msec     LAVI: 86.3ml/m2
+                                        A-L ( 27.9 / 31.0 / 6.3 )
+LVMI : 105.12g/㎡
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】외래
+【처방일】2013-04-11 【접수일】2013-05-15 09:44 【검사일】2013-05-15 11:47 【보고일】2013-05-16 11:56
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조은정 【판독의2】장성아 【판독의3】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+Secundum ASD (+) with L->R shunt
+Infective endocarditis
+
+
+
+▣ 의견
+
+Rec) TS op
+
+
+
+▣ 검사정보 및 소견
+
+* W/U for ASD
+* Baseline ECG : NSR
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & normal systolic function
+4. Atrium size: LA enlargement
+5. Valve:
+-- (1) Heavy thickened & calcified PMV annulus with minimal MR
+-- (2) Slightly thickened AoV
+-- (3) Minimal TR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal ( >40cm/s ) LAA emptying velocity
+7. Mass & vegetation: ( + )
+-- Vegetation at PMV (size : 1.35 * 0.27cm)
+-- Lambl`s excrescence at AV
+8. Intracardiac shunt: ASD (+) with L->R shunt
+-- Type: secundum
+-- 0˚ view: defect = 1.55cm, AI rim = 0.27cm, PS rim = 1.61cm
+-- 45˚ view: defect = 1.81cm, AS rim = 0.21cm, PI rim = 2.75cm
+-- 110˚ view: defect = 1.50cm, superior rim = 2.13cm, inferior rim = 0.29cm
+9. Pericardial effusion: ( - ):
+10. Atherosclerotic plaque ( - ) in aortic arch
+
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 145cm          Wt: 51kg             BSA: 1.41㎡
+과거검사 : No
+-----------------------------------------------------------------------------
+
+
+

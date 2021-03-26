@@ -1,0 +1,79 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2005-02-07 【접수일】2005-02-07 08:52 【검사일】2005-02-07 09:01 【보고일】2005-02-14 08:48
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+Video no:	AB185-0000	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	33	mm	IVSd:	11	mm	E:	1.36	m/sec	   	e':	0.08	m/sec
+LVIDs:	24	mm	LVPWd:	10	mm	A:	0.97	m/sec	   	E/e':	17.0
+  	  	  	LA:	35	mm	E/A:	1.4	   	   	LA volume index:
+LVEF:	  	%	Ao:	29	mm	DT:	252	msec	   	   	19.2	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P MV repair for AMVL perforation, vertical heart 
+
+1. Normal LV cavity size and visually normal LV systolic function
+         (EF = 65%)
+2. Normal LV wall thickness
+3. Repaired MV : mean PG = 3.7mmHg, minimal MR 
+   Minimal TR, RVSP = 34mmHg 
+4. No regional wall motion abnormality
+5. Dilated coronary sinus (suspicious persistent left SVC)
+  
+Conclusion:
+Good post op state
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2005-01-17 【접수일】2005-01-17 15:13 【검사일】2005-01-17 15:52 【보고일】2005-01-19 08:42
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】권성욱 【판독의2】박승우 【확인의】박승우
+Video no:	TEE263-1225	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * R/O I.E, ECG : NSR
+
+1. Visually normal LV cavity size and systolic function
+2. Visually normal IVS & LVPW thickness
+3. Visually normal TV & AV morphology with minimal TR & AR 
+        aneurysm formation and perforation of AMVL & severe MR 
+            (mainly A1 portion)
+4. No evidence of thrombus formation in LA & LAA 
+   LAA vel : 0.41m/sec
+  
+Conclusion:
+Severe MR with AMVL perforation and aneurysm formation 
+C/W I.E
+
+

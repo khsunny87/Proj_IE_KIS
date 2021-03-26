@@ -1,0 +1,173 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2002-12-03 【접수일】2003-03-11 08:39 【검사일】2003-03-11 09:59 【보고일】2003-03-12 09:43
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】천우정 【판독의2】도준형 【확인의】이상철
+Video no:	AX1148-12850	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	50	mm	IVSd:	9	mm	LA:	43	mm
+LVIDs:	31	mm	LVPWd:	9	mm	Ao:	28	mm
+  
+LVEF:	63	%
+---------------------------------------------------------------------------
+MV
+E:	1.73	m/sec	E/A:	1.44166
+A:	1.2	m/sec	DT:	246	msec
+---------------------------------------------------------------------------
+  
+Comment:
+   * S/P MVR, TAP, AV repair (slicing & commissuroplasty)
+
+1. Normal LV cavity size and systolic function
+   LAE (4.3cm)
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV, mean PG = 5.4mmHg
+   Physiologic MR
+   Moderate AR (PHT = 320 ~ 350msec)
+   Descending aorta 의 diastolic flow reversal 은 있으나
+      holodiastolic flow reversal 이 관찰되지 않음.
+   Minimal TR with peak PG = 17.9mmHg
+4. No regional wall motion abnormality
+  
+Conclusion:
+S/P MVR, TAP, AV repair due to infective endocarditis
+Well functioning prosthetic MV
+Moderate AR
+-> AR 의 severity 가 post op echo 에 비해 증가하였음.
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2002-03-26 【접수일】2002-03-26 14:31 【검사일】2002-03-26 15:11 【보고일】2002-03-28 10:21
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】남궁준 【확인의】이상철
+Video no:	AP1229-11700	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	49	mm	IVSd:	6	mm	LA:	44	mm
+LVIDs:	34	mm	LVPWd:	8	mm	Ao:	28	mm
+  
+LVEF:	51.85	%
+---------------------------------------------------------------------------
+MV
+mPG:	4.2	mmHg	E:	1.5	m/sec	E/A:	1.875
+DT:	270	msec	A:	0.8	m/sec	IVRT:	92	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.9	m/sec	peakPG:	14	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	6	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and systolic function
+   Increased LA size
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV 
+      mean PG : 4.2mmHg
+   Trivial MR : physiologic leak
+   Mild AR
+   Minimal TR (RVSP = 30.8mmHg)
+4. Paradoxical septal wall motion abnormality
+  
+Conclusion:
+S/P MVR, TAP & AV repair
+Well functioning prosthetic MV
+Mild AR
+LAE
+
+
+
+
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2002-03-13 【접수일】2002-03-13 14:22 【검사일】2002-03-13 15:30 【보고일】2002-03-15 11:50
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【확인의】박승우
+Video no:	A775-12900	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	45	mm	IVSd:	7	mm	LA:	45	mm
+LVIDs:	31	mm	LVPWd:	9	mm	Ao:	28	mm
+  
+LVEF:	52.54	%
+---------------------------------------------------------------------------
+MV
+mPG:	6.1	mmHg	E:	2.2	m/sec	E/A:	
+DT:	278	msec	A:		m/sec	IVRT:	74	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	2	m/sec	peakPG:	16	mmHg	LVOT VTI:	m
+VTI:	0.3	m	meanPG:	8	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+s/p MVR, TAP and AV repair
+
+1. Normal LV cavity size and contractility
+   LAE
+2. Normal IVS & LVPW thickness
+3. Prosthetic MV: mean PG=6.1 mmHg
+    Trivial MR: physiologic leak
+    Mild AR
+    Mild TR with RVSP 34 mmHg
+4. Paradoxical septal motion
+  
+Conclusion:
+Good postop state of MVR, TAP & AV repair
+
+
+
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2002-03-06 【접수일】2002-03-06 09:56 【검사일】2002-03-06 10:28 【보고일】2002-03-07 08:58
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】남궁준 【확인의】박승우
+Video no:	TEE186-11420	과거검사 여부:	No
+---------------------------------------------------------------------------
+LVIDd:	mm	IVSd:	mm	LA:	mm
+LVIDs:	mm	LVPWd:	mm	Ao:	mm
+  
+LVEF:	%
+---------------------------------------------------------------------------
+MV
+mPG:	mmHg	E:	m/sec	E/A:
+DT:	msec	A:	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	m/sec	peakPG:	mmHg	LVOT VTI:	m
+VTI:	m	meanPG:	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+TEE finding
+1. Normal LV cavity size & contractility
+   Visually increased LA size
+2. Severe MR (MR jet 가 Lt. Pulmonary vein 을 향함)
+              ERO = 56mm2
+   AMVL thickening & diastolic doming
+          MVA = 1.11cm2 by PHT, mean PG 20.7mmHg
+          severe MR 로 인해 MVA 와 mean PG 가 실제보다 과장되어 나타남)
+   Mild to moderate AR
+3. No evidence of thrombus
+  
+Conclusion:
+Severe MR, mild MS
+Mild to moderate AR
+LAE
+
+
+
+
+
+

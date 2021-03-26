@@ -1,0 +1,311 @@
+=================================================================================
+【검사명】F/U EchoCG (<3Mo) [BS2220]  【구분】입원
+【처방일】2012-11-27 【접수일】2012-11-28 14:41 【검사일】2012-11-28 15:11 【보고일】2012-11-28 16:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이미래 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Decreased RV systolic function
+Well functioning repaired MV
+-Septal bouncing 은 이전검사 (2012.11.08)와 같이 보이고 있으나 수술 전 부터 
+ 보이던 소견이며 다른 finding 은 저명하지 않아 significant post op 
+ constrictive physiology 는 없는 것으로 생각됨
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal
+* MVP with posteromedial commissure fusion x5 - 2012.11.02
+* Very poor apical view
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) E/A summation
+2. RV
+-- (1) Normal RV cavity size and decreased RV systolic function (S` = 0.07m/sec)
+-- (2) Normal RV wall thickness
+3. Atrium : Visually normal size
+4. Valve :
+-- (1) Repaired MV
+       poor apical window로 angle correlation맞지않아 PG, velocity 등은 
+       정확한 측정 어려움 (2D 소견상 stentic component 나 MR 은 보이지 않음 )
+-- (2) Trivial TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor echo window
+9. Visible PICC tip in RA
+10. Constrictive physiology (-)
+-- Septal bouncing (+)
+-- Ventricular interdependence (+)
+-- Respiratory variation of MV,TV inflow (-)
+-- Hepatic vein diastolic reversal flow with expiration (-)
+-- Pre op echoCG (2012.10.30)에서도 basal septal bouncing이 관찰됩니다
+
+-----------------------------------------------------------------------------
+BP: 102 / 66             Ht: 178cm          Wt: 62kg             BSA: 1.78㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 43mm         IVSd : 6mm          E:                e`:
+LVIDs: 28mm         LVPWd: 7mm          A:                a`:
+                    LA: 27mm            E/A:              E/e`:
+LVEF: 58%           Ao: 31mm            DT:               LAVI:N/A
+LVMI : 45.26g/㎡
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2013-01-15 【접수일】2013-02-22 10:34 【검사일】2013-02-22 10:56 【보고일】2013-02-22 14:26
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장우진 【판독의3】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Well functioning repaired MV
+Decreased RV function
+
+- No significant interval change compared to previous study (2012.11.28)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, MVP with posteromedial commissure fusion x5 -     
+  2012.11.02
+* Very poor apical window
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Septal bouncing (+)
+-- (4) E/A summation
+2. RV
+-- (1) Normal RV cavity size and decreased RV systolic function (S` = 0.07m/sec)
+-- (2) Normal RV wall thickness
+3. Atrium : normal
+4. Valve :
+-- (1) Repaired MV with trivial MR
+         meanPG = 1.9mmHg
+-- (2) Trivial TR
+5. Great vessel :
+-- Abdominal aorta size(AP/T) = N/A d/t short term f/u
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal
+
+-----------------------------------------------------------------------------
+BP: 100 / 59             Ht: 179cm          Wt: 64kg             BSA: 1.81㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 47mm         IVSd : 6mm          E:                 e`: 0.079m/s
+LVIDs: 30mm         LVPWd: 6mm          A:                 a`: 0.045m/s
+                    LA: 25mm            E/A:               E/e`:
+LVEF: 59%           Ao: 30mm            DT:                LAVI: 12.3ml/m2
+                                        A-L ( 8.9 / 11.0 / 3.7 )
+LVMI : 47.01g/㎡
+RWT : 0.26
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2012-11-08 【접수일】2012-11-08 09:41 【검사일】2012-11-08 11:21 【보고일】2012-11-08 14:08
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박승우 【판독의3】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Decreased RV systolic function
+Well functioning repaired MV
+R/O post operative constrictive physiology (+)
+Central line tip이 너무 깊이 들어가서 diastole때 RV 까지 들어감
+
+
+
+▣ 의견
+
+Central line을 좀 뽑을 것
+
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal
+  MVP with posteromedial commissure fusion x5 - 2012.11.02
+* PICC insertion
+* Very poor apical view
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) E/A summation
+2. RV
+-- (1) Normal RV cavity size and decreased RV systolic function 
+       (TAPSE =  1.02cm, S` =0.07m/sec)
+-- (2) Normal RV wall thickness
+3. Atrium : Visually normal size
+            Prominent eustachian valve in RA
+4. Valve :
+-- (1) Repaired MV
+       mean PG = 2.2mmHg
+-- (2) Trivial TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 22.2mmHg (assumed RAP = 5mmHg)
+9. Visible PICC tip in RA
+10. Constrictive physiology (+)
+    Septal bouncing (+), flat diastolic motion of LV posterior wall,
+    ventricular interdependence (+)
+    Respiratory variation of MV,TV inflow는 E/A summation으로 관찰 어려움
+    Hepatic vein diastolic reversal flow with expiration (+)
+
+-----------------------------------------------------------------------------
+BP: 106 / 71             Ht: 178cm          Wt: 62kg             BSA: 1.78㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 8mm          E:                e`: 0.155m/s
+LVIDs: 33mm         LVPWd: 8mm          A:                a`: 0.083m/s
+                    LA: 28mm            E/A:              E/e`:
+                                                          LAVI: N/A
+LVEF: 55%           Ao: 30mm            DT:
+LVMI : 73.71g/㎡
+RWT : 0.33
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2012-10-31 【접수일】2012-10-31 08:17 【검사일】2012-10-31 10:24 【보고일】2012-11-01 13:10
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조은정 【판독의3】박성지 【확인의】장성아
+▣ 결론 및 진단
+
+C/W Infective endocarditis
+Large size vegetation on AMV & PMV with high mobility
+
+
+
+▣ 검사정보 및 소견
+
+* Fever ㅡ> R/O infective endocarditis
+* Baseline ECG : NSR
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size & systolic function
+4. Atrium size : Normal
+5. Valve: Minlmal MR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Normal (>40cm/s) LAA emptying velocity
+7. Mass & vegetation: ( + )
+-- AMV : oval shape mobile vegetation (1.6x0.5cm)
+-- PMV : oval shape mobile vegetation (0.9x0.5cm)
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( - )
+10. Atherosclerotic plaque ( - ) in aortic arch & thoracic descending aorta
+
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 178cm          Wt: 62kg             BSA: 1.78㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-02-14 【접수일】2016-11-25 14:46 【검사일】2016-11-25 14:59 【보고일】2016-11-25 16:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이다현 【판독의3】이가연 【청구시행의】이가연 【확인의】이가연
+▣ 결론 및 진단
+
+S/P Vegetation removal, MVP
+Well functioning repaired MV
+- No significant interval change compared with previous study (2014.02.07)
+
+
+▣ 검사정보 및 소견
+
+* S/P Vegetation removal, MVP with posteromedial commissure fusion x5 (2012.11.02.)
+* Very poor apical window
+
+1. LV
+-- (1) Normal LV cavity size and normal LV systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+-- (5) Septal bouncing (+) without constrictive physiology
+2. RV
+-- (1) Normal RV cavity size and normal RV systolic function (TV TDI S'= 0.091m/s)
+-- (2) Normal RV wall thickness
+3. Atrium : Visually normal size
+4. Valve :
+-- (1) MV : Repaired mitral valve
+              MV meanPG= 1.7mmHg
+-- (2) Minimal TR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, Thrombi, Vegetation : None
+8. RV systolic pressure by TR Vmax = N/A d/t poor Doppler signal (assumed RAP= 5mmHg)
+9. Strain(GL)= -19.2%
+
+-----------------------------------------------------------------------------
+ BP: 123 / 71      HR : 90     Ht: 179cm     Wt: 68kg      BSA: 1.86㎡
+ 과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 43mm         IVSd : 8mm         E:1.16m/s                e':0.073m/s
+LVIDs: 24mm         LVPWd: 8mm         A: 0.66m/s               a':0.063m/s
+                    LA: 31mm           E/A: 1.76                E/e':15.9
+LVEF: 69%           Ao: 29mm           DT:229.2msec             LAVI:N/A
+LVMI : 65.88 g/m2
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S       Inf       I-L       A-L
+Basal   1         1         1         1         1         1
+Mid     1         1         1         1         1         1
+Apical  1                   1         1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+

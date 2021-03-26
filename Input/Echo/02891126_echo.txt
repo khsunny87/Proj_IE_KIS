@@ -1,0 +1,106 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2002-04-16 【접수일】2002-05-21 11:57 【검사일】2002-05-21 13:31 【보고일】2002-05-22 13:37
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김병진 【확인의】이상철
+Video no:	AX882-10206	과거검사 여부:	Yes
+---------------------------------------------------------------------------
+LVIDd:	41	mm	IVSd:	12	mm	LA:	44	mm
+LVIDs:	29	mm	LVPWd:	12	mm	Ao:	30	mm
+  
+LVEF:		%
+---------------------------------------------------------------------------
+MV
+mPG:	4.6	mmHg	E:	1.2	m/sec	E/A:	0.6315
+DT:	460	msec	A:	1.9	m/sec	IVRT:	msec
+---------------------------------------------------------------------------
+AV
+Vmax:	1.4	m/sec	peakPG:	8.1	mmHg	LVOT VTI:	m
+VTI:	0.2	m	meanPG:	4.4	mmHg	LVOT diam:	cm
+---------------------------------------------------------------------------
+  
+Comment:
+  *S/P MVR
+
+1. Normal LV cavity size and systolic function
+   LAE
+2. Borderine increased  IVS & LVPW thickness
+3. Minimal TR, AR
+   Prosthetic MV(mean PG=about 4.6mmHg)
+4. No regional wall motion abnormality
+5. E/A < 1 at mitral inflow, increased IVRT & DT
+6. Prosthetic MV의 lat. margin이 많이 움직여서 후일 loosening가능성 있음
+  
+Conclusion:
+S/P MVR
+Borderline concentric LVH, LAE
+(96년 검사와 비교하여 no signification interval change except for abscence
+ of  pericardial effusion)
+Relaxation abnormality
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
+【처방일】2014-01-14 【접수일】2014-01-28 11:01 【검사일】2014-01-28 11:13 【보고일】2014-01-28 15:11
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】천광진 【판독의3】이상철 【청구시행의】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MVR
+Mild TR
+Borderline pulmonary hypertension
+LA enlargement
+Dilated pulmonary artery (34mm)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MVR
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement
+4. Valve
+-- (1) Thickened bioprosthetic mitral valve : meanPG= 4.0mmHg,
+       minimal to mild MR
+-- (2) Thickened AoV with minimal AR
+-- (3) Mild TR
+5. Great vessel :
+-- Dilated pulmonary artery (MPA = 34mm, RPA = 18mm, LPA = 21mm)
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 36mmHg (assumed RAP = 5mmHg)
+9. 3DEF=66.99%
+
+-----------------------------------------------------------------------------
+BP: 127 / 69             Ht: 153cm          Wt: 53kg             BSA: 1.49㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 49mm         IVSd : 11mm         E: 1.39m/s        e`: 0.045m/s
+LVIDs: 33mm         LVPWd: 9mm          A: 1.08m/s        a`: 0.049m/s
+                    LA: 50mm            E/A: 1.29         E/e`: 30.89
+LVEF: 55%           Ao: 32mm            DT: 436.0msec     LAVI: 48.5ml/m2
+                                        A-L ( 20.9 / 19.8 / 4.9 )
+LVMI : 118.14g/㎡
+RWT : 0.37
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,643 @@
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2007-06-01 【접수일】2007-06-01 13:41 【검사일】2007-06-01 13:53 【보고일】2007-06-02 11:33
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조성원 【판독의3】박승우 【확인의】최진오
+환자성명 : CHO SOON KEUM                        Patient No. : 17567256
+Height: : 150.0cm                               Weight : 47.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd: 35mm         IVSd : 15mm        E: 1.37m/s        e`: 0.03m/s
+LVIDs: 22mm         LVPWd: 15mm        A:                E/e`: 45.67
+                    LA: 39mm           E/A:              LAVI:
+LVEF: 60%           Ao: 23mm           DT: 361msec         30.5ml/m2
+-----------------------------------------------------------------------------
+[RWMA]
+             Ant       A-S       I-S       Inf        I-L       A-L
+Basal        1         1         1         1          1         1
+Mid          1         1         1         1          1         1
+Apical       1                   1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+  * Very poor echo window
+  * S/P AVR (C-E perimount 21mm), TAP (St. jude tailor ring 29mm)
+     modified Maze op with LAA obliteration (2006.01.04)
+  * S/P MVR (SJ Biocor 27mm) (2006.07.18)
+ 1. Small LV cavity size and normal LV systolic function
+ 2. Increased LV wall thickness
+ 3. Prosthetic MV : mean PG : 4.0mmHg
+      Oscillating mass on lat. mitral annulus (size 측정어려움.)
+    Prosthetic AoV : AoV Vmax = 4m/sec 이상, mean PG = 24mmHg
+      LVOT Vmax = 4m/sec 이상, LVOT가 좁아져 있으며, flow acceleration 관찰됨
+    R/O prosthetic AoV impairment
+    Repaired TV : mean PG : 1.2mmHg (RVSP = 55mmHg) 
+ 4. No regional wall motion abnormality
+ 5. Borderline LAE
+ 6. LVOT & mid LV cavity obstruction
+         at rest Vmax = 5.05m/sec, peak PG = 102mmHg
+ 7. IVC size : 0.83cm
+Conclusion:
+S/P AVR, TAP, MVR, modified Maze op with LAA obliteration, 
+Bovine pericardium patch
+Concentric LVH, LAE, moderate pul.HTN
+Small LV cavity size & IVC, R/O hypovolemia
+C/W IE on prosthetic MV
+LV intracavity obstruction, Flow acceleration at LVOT
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-07-18 【접수일】2006-07-21 11:16 【검사일】2006-07-21 11:36 【보고일】2006-07-22 11:47
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이왕수 【판독의3】박승우 【확인의】이상철
+Video no:	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	47	mm	IVSd:	16	mm	E:	1.29	m/sec	   	e':	m/sec
+LVIDs:	27	mm	LVPWd:	16	mm	A:	0.9	m/sec	   	E/e':
+  	  	  	LA:	51	mm	E/A:	1.4	   	   	LA volume index:
+LVEF:	67	%	Ao:	31	mm	DT:	444	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P AVR with C-E perimount 21mm 
+         TAP with St. Jude tailor ring 29mm 
+         modified Maze op (2006.1.4)
+     S/P MVR with St. Jude Biocor 27mm (2006.7.18)
+
+1. Normal LV cavity size and systolic function
+2. Increased LV wall thickness
+3. Prosthetic MV : mean PG = 4mmHg 
+   Prosthetic AoV : mean PG = 24mmHg (Vmax = 3.51m/sec)
+   Minimal TR with RVSP = 39mmHg 
+4. No regional wall motion abnormality
+5. LAE 
+6. LVOT & mid LV cavity obstruction 
+       resting 4.3m/sec, peak PG = 75mmHg
+7. Hypoechogenic pericardial space (1.8cm) on RA post. side at A4C 
+   R/O Hematoma
+  
+Conclusion:
+Concentric LVH with LAE
+R/O Hematoma at RA posterior side 
+Good post op status of prosthetic MV
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-06-29 【접수일】2006-06-29 14:11 【검사일】2006-06-29 14:48 【보고일】2006-06-30 14:01
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	51	mm	IVSd:	15	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	28	mm	LVPWd:	16	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	47	mm	E/A:	   	   	LA volume index:
+LVEF:	70	%	Ao:	33	mm	DT:	msec	   	   	56.8	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * Incomplete study d/t poor condition 
+1. Normal LV cavity size and systolic function
+2. Increased IVS & LVPW thickness 
+3. Prosthetic tissue AoV in situ : Vmax = 2.9m/sec, mean PG = 15mmHg 
+   Calcified echogenic mass (size 1.7*0.8cm) fixed to PMVL annulus protruding into LV 
+      with adhesion of PMVL 
+   To mass limitation of MV inflow d/t obstruction by annular mass (mean PG = 5mmHg)
+   Mild to moderate MR(doppler signal attenuation으로 정확한 grade 평가 어려움)
+   Mild TR with RVSP = 64mmHg 
+4. No regional wall motion abnormality
+5. LAE 
+6. Mid LV cavity obstruction 
+         rest : 3.1m/sec, peak PG = 40mmHg 
+         poor cooperation 으로 Valsalva maneuver 시행 못함
+Conclusion:
+S/P AVR, TAP, Maze op 
+Organized vegetation on PMVL& PMVL annulus 
+Mild to moderate MR, mitral inflow obstruction
+Mild TR with moderate pulm. HTN 
+Concentric LVH with mild LV cavity obstruction 
+(Aggravated state compared with last study 2006.6.22)
+LAE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221] ▶수정前◀ 【구분】입원
+【처방일】2006-06-29 【접수일】2006-06-29 14:11 【검사일】2006-06-29 14:48 【보고일】2006-06-30 13:08
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	51	mm	IVSd:	15	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	28	mm	LVPWd:	16	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	47	mm	E/A:	   	   	LA volume index:
+LVEF:	70	%	Ao:	33	mm	DT:	msec	   	   	56.8	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * Incomplete study d/t poor condition 
+1. Normal LV cavity size and systolic function
+2. Increased IVS & LVPW thickness 
+3. Prosthetic tissue AoV in situ : Vmax = 2.9m/sec, mean PG = 15mmHg 
+   Calcified echogenic mass (size 1.7*0.8cm) fixed to PMVL annulus prostruding into LV 
+      with adhesion of PMVL 
+   To mas limitation of MV inflow d/t obstruction by annular mass (mean PG = 5mmHg)
+   Mild to moderate MR(doppler signal attenuation으로 정확한 grade 평가 어려움)
+   Mild TR with RVSP = 64mmHg 
+4. No regional wall motion abnormality
+5. LAE 
+6. Mid LV cavity obstruction 
+         rest : 3.1m/sec, peak PG = 40mmHg 
+         poor cooperation 으로 Valsalva maneuver 시행 못함
+Conclusion:
+S/P AVR, TAP, Maze op 
+Organized vegetation on PMVL& PMVL annulus 
+Mild to moderate MR, mitral inflow obstruction
+Mild TR with moderate pulm. HTN 
+Concentric LVH with mild LV cavity obstruction 
+(Aggravated state compared with last study 2006.6.22)
+LAE
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2006-06-22 【접수일】2006-06-22 13:45 【검사일】2006-06-22 13:48 【보고일】2006-06-23 09:46
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	IA	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	51	mm	IVSd:	16	mm	E:	1.47	m/sec	   	e':	m/sec
+LVIDs:	35	mm	LVPWd:	16	mm	A:	0.54	m/sec	   	E/e':
+  	  	  	LA:	50	mm	E/A:	2.7	   	   	LA volume index:
+LVEF:	  	%	Ao:	34	mm	DT:	236	msec	   	   	60.4	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P AVR, TAP, Maze op 
+
+1. Normal LV cavity size and systolic function
+2. Increased LV wall thickness
+3. Prosthetic AoV : mean PG = 16mmHg 
+                    trivial AR 
+   Minimal to mild MR 
+   Calcified & thickened MV with mean PG = 2.7mmHg 
+       (redundant material (+) & internal cavitataion (+))
+   Minimal TR with RVSP = 46mmHg 
+4. No regional wall motion abnormality
+5. E/A = 2.72
+   LAE 
+6. Dilated ascending aorta (4.0cm)
+7. Mid LV obstruction 
+        rest : Vmax = 3.7m/sec, peak PG = 55.6mmHg 
+        poor coorperation으로 Valsalva maneuver 시행 못함
+  
+Conclusion:
+S/P AVR, TAP, Maze op 
+Organizing vegetation on PMVL 
+LAE, mild pulm. HTN 
+Concentric LVH with mid LV obstruction 
+(No significant interval change with last study 2006.6.15)
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2007-09-13 【접수일】2007-09-13 15:58 【검사일】2007-09-13 15:58 【보고일】2007-09-14 17:11
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김준형 【판독의3】박승우 【확인의】박승우
+환자성명 : CHO SOON KEUM                        Patient No. : 17567256
+Height: : 0.0cm                                 Weight : 47.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd:              IVSd :             E:                e`:
+LVIDs:              LVPWd:             A:                E/e`:
+                    LA:                E/A:              LAVI:
+LVEF:               Ao:                DT:
+-----------------------------------------------------------------------------
+
+Comment:
+    * Poor echo window
+    * S/P AVR (C-E perimount 21mm), MVR (SJ Biocor 27mm)
+          TAP (SJ tailor ring 29mm)
+          modified Maze op with LAA obliteration
+    * I.E W/U
+
+ 1. Visually normal LV cavity size & systolic function
+ 2. Visually normal LV wall thickness
+ 3. Prosthetic MV : no visible oscillating mass
+    Prosthetic AoV : thickened prosthetic mitral valve
+                     fixed motion of one leaflet (4시 방향)
+
+Conclusion:
+Malfunctioning prosthetic AoV
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2007-05-07 【접수일】2007-05-07 13:29 【검사일】2007-05-07 13:49 【보고일】2007-05-08 08:33
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】박승우 【확인의】박승우
+환자성명 : CHO SOON KEUM                        Patient No. : 17567256
+Height: : 0.0cm                                 Weight :
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd:              IVSd :             E:                e`:
+LVIDs:              LVPWd:             A:                E/e`:
+                    LA:                E/A:              LAVI:
+LVEF:               Ao:                DT:
+-----------------------------------------------------------------------------
+[RWMA]
+             Ant       A-S       I-S       Inf        I-L       A-L
+Basal        1         1         1         1          1         1
+Mid          1         1         1         1          1         1
+Apical       1                   1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+    * S/P AVR with CE perimount 21mm, TAP with St. Jude tailor ring 29mm
+          modified Maze op (2006.1.8)
+      S/P MVR with St. Jude Bicor 27mm (2006.7.18)
+      2007.4월 TEE상 IE on MV -> F/U 상 catheter related IE
+
+ 1. Visually normal LV cavity size and systolic function
+ 2. Normal LV wall thickness
+ 3. Prosthetic MV
+      floating thread like material on prosthetic MV
+        (slightly decreased in size(1.3cm) compared to last study)
+      round shaped mass like lesion at lat. annulus of MV (0.4 * 0.4cm)
+        ; no change or slightly decreased in size
+    Slightly rocking motion of MV, no significant interval change
+ 4. SEC in LAA
+      communication (+) between LA & obliterated LAA
+ 5. No evidence of RA SVC inflow side catheter associated vegetation
+
+Conclusion:
+Slightly improved status of IE on MV
+Improved status of catheter associated IE
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2007-04-23 【접수일】2007-04-23 09:37 【검사일】2007-04-23 09:44 【보고일】2007-04-24 09:10
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】박승우 【확인의】박승우
+환자성명 : CHO SOON KEUM                              Patient No. : 17567256
+Height: : 0.0cm                                Weight :
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                            MV Doppler
+LVIDd:              IVSd :             E:                e`:
+LVIDs:              LVPWd:             A:                E/e`:
+                    LA:                E/A:              LAVI:
+LVEF:               Ao:                DT:
+-----------------------------------------------------------------------------
+[RWMA]
+             Ant       A-S       I-S       Inf        I-L       A-L
+Basal        1         1         1         1          1         1
+Mid          1         1         1         1          1         1
+Apical       1                   1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+    * S/P AVR with C-E perimount 21mm, TAP with St. Jude tailor ring 29mm
+      modified Maze op (2006.1.8)
+      S/P MVR with St. Jude Bicor 27mm (2006.7.18)
+      2007.4.10 TEE 상 IE on prosthetic MV
+
+ 1. Visually normal LV cavity size and systolic function
+ 2. Normal LV wall thickness
+ 3. Prosthetic MV
+      floating thread like material on prosthetic MV attached to central portion
+        (14mm in length)
+      round shape mass like lesion at lat. annular portion of MV 
+        (Newly developed 0.6 * 0.6cm)
+ 4. SEC in LAA
+      (communication (+) b/w LA & obliterated LAA)
+ 5. Normal LV diastolic function
+ 6. SVC inflow side catheter tip 주위에 oscillating mass like lesion
+      R/O catheter tip associated vegetation
+ 7. LA anterior wall ~ aortic valve 부위에 swoller tissue density
+    R/O inflammatory change impending phlegmon formation
+
+Conclusion:
+Aggravated status of I.E on prosthetic MV
+R/O central catheter associated I.E 
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2007-04-10 【접수일】2007-04-10 10:09 【검사일】2007-04-10 10:16 【보고일】2007-04-11 10:47
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김준형 【판독의3】박승우 【확인의】박승우
+환자성명: CHO SOON KEUM         Patient No. : 17567256
+Video No: TEE319-13310             Previous exam: Yes
+-----------------------------------------------------------------------------
+M-Mode data                       MV Doppler
+LVIDd:           IVSd:            E:            e`:
+LVIDs:           LVPWd:           A:            E/e`:
+                 LA:              E/A:          LAVI:
+LVEF:            Ao:              DT:
+-----------------------------------------------------------------------------
+ [RWMA]
+         Ant     A-S      I-S      Inf      I-L      A-L
+Basal    1       1        1        1        1        1
+Mid      1       1        1        1        1        1
+Apical   1                1        1                 1
+Apex     1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+  * S/P AVR with C-E perimount 21mm, TAP with St. Jude tailor ring 29mm
+        modified Maze op (2006.1.8)
+    S/P MVR with St. Jude Bicor 27mm (2006.7.18)
+
+ 1. Visually normal LV cavity size and systolic function
+ 2. Normal LV wall thickness
+ 3. Prosthetic MV: mobile round mass & floating thread like material (13.8mm)
+    Prosthetic AV
+ 4. SEC in obliterated LAA
+ 5. Atherosclerotic plaque on descending aorta
+.
+Conclusion:
+S/P AVR, TAP, Maze op, MVR
+R/O vegetation on prosthetic MV
+
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-06-15 【접수일】2006-06-15 13:42 【검사일】2006-06-15 13:49 【보고일】2006-06-16 13:13
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】최진오 【판독의3】이상철 【확인의】이상철
+Video no:	TEE301-3428	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+1. Normal LV cavity size and systolic function
+2. Increased LV wall thickness
+3. Vegetation on PMV (on LA side of PMV)
+       slightly decreased in size (1.8 * 0.9cm)
+       organized with calcification, small internal cavitation 
+       Destructive lesion with nodular contour on whole PMVL 
+       small oscillating mass lesion was noted on vegetation 
+       mild MR
+4. Pacemaker leads in RA
+  
+Conclusion:
+Organizing vegetation on PMVL 
+  slightly decreased in size since last study 
+Mild MR
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-06-05 【접수일】2006-06-05 09:14 【검사일】2006-06-05 09:37 【보고일】2006-06-07 14:36
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상철 【판독의3】이상철 【확인의】이상철
+Video no:	TEE299-15206	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P AVR, TAP with Maze op 
+      & Antibiotics Tx for I.E, F/U
+
+1. Normal LV cavity size and systolic function
+2. Well functioning prosthetic AoV 
+3. Large (2.0 * 2.6cm) sized mass attached to 
+       LA side of PMVL (whole length) with internal cavitation
+       - most likely imminent abscess formation
+4. No definite vegetation visible on AMVL side 
+5. Mild MR
+  
+Conclusion:
+Infective endocarditis with suspicious mitral annular abscess 
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2006-05-04 【접수일】2006-05-04 13:54 【검사일】2006-05-04 14:22 【보고일】2006-05-08 08:25
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김학진 【판독의3】이상철 【확인의】이상철
+Video no:	TEE297-0000	   	   	   	과거검사 여부:	Yes
+-------------------------------------------------------------------------------
+M-mode data	   	   	   	  	MV Doppler
+LVIDd:	mm	IVSd:	mm	E:	m/sec	   	e':	m/sec
+LVIDs:	mm	LVPWd:	mm	A:	m/sec	   	E/e':
+  	  	  	LA:	mm	E/A:	   	   	LA volume index:
+LVEF:	%	Ao:	mm	DT:	msec	   	   	ml/m2
+-------------------------------------------------------------------------------
+RWMA
+	  	Ant	A-Sep	I-Sep	Inf	I-Lat	A-Lat
+Basal	  	1	1	1	1	1	1
+Mid	  	1	1	1	1	1	1
+Apical	  	1	  	1	1	  	1
+Apex:	  	1
+  
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-------------------------------------------------------------------------------
+  
+Comment:
+   * S/P AVR, TAP, Maze 
+
+1. Visually normal LV cavity size and normal LV systolic function
+2. Visually normal LV wall thickness
+3. Mild MR 
+   About 1.0 * 0.6cm sized oscillating echogenic mass on the anterior MV leaflet 
+   About 1.2 * 0.8cm sized oscillating echogenic mass on the post. MV leaflet 
+4. About 0.30cm sized opening at LAA obliteration site with minimal flow into LAA
+  
+Conclusion:
+C/W infective endocarditis 
+Mild MR
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2009-02-17 【접수일】2009-03-03 14:30 【검사일】2009-03-03 14:47 【보고일】2009-03-04 14:09
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조수진 【판독의3】이상철 【확인의】이상철
+환자성명 : CHO SOON KEUM                         Patient No. : 17567256
+Height: 154.0cm      BP: 97 / 72                      Weight : 47.0kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 40mm         IVSd : 13mm         E: 1.89m/s        e`: 0.03m/s
+LVIDs: 28mm         LVPWd: 15mm         A:                a`:
+                    LA: 54mm            E/A:              E/e`: 63.00
+LVEF: 51%           Ao: 33mm            DT: 384msec       LAVI: 80ml/m2
+LVMI : 147.15g/m2                          A-L (25/31/5.8)
+RWT : 0.75
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment:
+* S/P MVR (SJ Biocor 27mm) (2006.7.18)
+  AVR (C-E perimount 21mm), TAP (S-J tailor ring 29mm)
+  Maze op with LAA obliteration (2006.1.4)
+1. Small LV cavity size & lower normal LV systolic function
+   Dilated RV cavity (43mm on A4C)
+2. Increased IVS & LVPW thickness
+3. Prosthetic MV : mean PG = 5mmHg, minimal to mild MR
+   Prosthetic AV : mean PG = 33mmHg, AoV Vmax = 3.5m/sec, minimal AR
+   Repaired TV : mean PG = 2mmHg, mild TR with RVSP = 99mmHg
+      RAP = 10mmHg, normal IVC (2cm) with plethora
+4. D-shaped LV
+5. LAE, RAE (48mm on A4C)
+6. Dilated ascending aorta (41mm)
+7. Mid and apex dynamic LV cavity obstruction
+      (at resting : Vmax = 5.1m/sec, peak PG = 103mmHg)
+* abdominal aorta size (AP/T) = N/A d/t poor echo window
+
+Conclusion:
+S/P MVR, AVR, TAP, Maze op with LAA obliteration
+Concentric LVH with dynamic LV cavity obstruction
+Mild TR with severe pulm. HTN
+RVE, BAE
+Malfunctioning prosthetic AoV
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2008-09-09 【접수일】2008-10-10 08:18 【검사일】2008-10-10 08:27 【보고일】2008-10-13 08:49
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】이상엽 【판독의3】이상철 【확인의】이상철
+환자성명 : CHO SOON KEUM                         Patient No. : 17567256
+Height: : 154.0cm                                Weight : 47.00kg
+Previous exam : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 43mm         IVSd : 14mm         E: 1.72m/s        e`: 0.03m/s
+LVIDs: 28mm         LVPWd: 15mm         A:                a`:
+                    LA: 53mm            E/A:              E/e`: 57.33
+LVEF: 58%           Ao: 34mm            DT:               LAVI: 53.4ml/m2
+
+LVMI : 172.53g/m2
+RWT : 0.70
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+Comment: S/P MVR (SJ Biocor 27mm) 06.7.18
+         AVR (C - E perimount 21mm), TAP (S - J tailor ring 29mm)
+         Maze op with LAA obliteration (06.1.4)
+
+1. Normal LV cavity size & systolic function
+2. Increased LV wall thickness
+3. Prosthetic MV with minimal MR (mean PG = 4.5mmHg)
+   Prosthetic AV with minimal AR (Vmax = 5.2m/sec, mean PG = 47mmHg)
+   LVOT Vmax = 4m/sec이상
+   Repaired TV with mild TR (RVSP = 85mmHg, mean PG = 1.2mmHg)
+     (assumed RAP = 10mmHg)
+4. No regional wall motion abnormality
+5. LAE, RAE (40mm on A4C)
+6. LVOT & mid LV cavity obstruction (at rest Vmax = 6.1m/sec, peak PG = 150mmHg)
+7. IVC size = 1.5cm
+
+Conclusion:
+S/P MVR, AVR, TAP, Maze op with LAA obliteration
+Malfunctioning of prosthetic AV
+Concentric LVH
+LV intracavitary obstruction
+Mild TR with severe pulm. HTN
+BAE (2007.6월 검사에 비해 prosthetic AV 기능 악화 되었고, 
+pulm. HTN발생하였으며, severe로 판단됨)
+
+
