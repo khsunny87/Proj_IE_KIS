@@ -9,14 +9,15 @@
  - Replacement other than MV
    + R 이용하여 수술명, AVR, TVR, Bentall 제외
  - MV redo
-   + 수술명 MVR vs. MR repair (전에 작성했던 엑셀 파일 참고)
+## Design
+ - 수술명 MVR vs. MR repair (전에 작성했던 엑셀 파일 참고)
  
 # Method
 Acute IE
 Active IE
 
 ## 확보변수
-- lab Op. 입원일-30일 ~ 퇴원일+30잉
+- lab Op. 입원일-30일 ~ 퇴원일+30일
 - Echo data Op. 입원일-30일 ~ 현재까지
 - 사망정보
 
