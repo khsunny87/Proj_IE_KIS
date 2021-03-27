@@ -16,7 +16,7 @@ tmp_data<-as.data.frame(read_excel(fname,skip=1))
 names(tmp_data)<-var_name
 
 eff_var<-var_name[!is.na(tmp[[1]])]
-tmp_data$Info_입원일
+
 
 raw_data<-tmp_data%>%
   select(eff_var)%>%
@@ -27,7 +27,6 @@ inc_list<-read_excel('Input/CRF/inclusion_list.xlsx')%>%
 
 output<-raw_data%>%
   filter(Info_환자번호%in%inc_list)
-str(output)
 output%>%
   write.xlsx('Chart_review.xlsx')
 
