@@ -1,6 +1,9 @@
 library(readxl)
 library(dplyr)
 library(stringr)
+library(readr)
+library(xlsx)
+
 fname<-'Input/CRF/CRF_210326.xlsx'
 
 
@@ -13,6 +16,7 @@ tmp_data<-as.data.frame(read_excel(fname,skip=1))
 names(tmp_data)<-var_name
 
 eff_var<-var_name[!is.na(tmp[[1]])]
+tmp_data$Info_입원일
 
 raw_data<-tmp_data%>%
   select(eff_var)%>%
@@ -21,6 +25,14 @@ raw_data<-tmp_data%>%
 inc_list<-read_excel('Input/CRF/inclusion_list.xlsx')%>%
   filter(Exclusion==0)%>%.$환자번호%>%as.character()%>%str_pad(.,8,'left','0')%>%unique()
 
-raw_data%>%
+output<-raw_data%>%
   filter(Info_환자번호%in%inc_list)
+str(output)
+output%>%
+  write.xlsx('Chart_review.xlsx')
 
+?write_excel_csv('Chart_review.csv')
+
+
+
+read_csv('Chart_review.csv')%>%View()
