@@ -1,4 +1,366 @@
-   =================================================================================
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2010-08-31 【접수일】2010-12-28 09:06 【검사일】2010-12-28 09:34 【보고일】2010-12-28 13:39
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】한혜진 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+*S/P MAP, MVP
+Well functioning of reparied MV
+Mild to moderate TR
+Borderline pulmonary hypertension
+RV dilatation 
+Both atrial enlargement
+- No significant interval change compared to last study : 2009.12
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP (GA-fixed pericardial strip)
+      MVP(medial commissuroplasty)-09.7.24
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal motion(+)
+2. RV
+-- (1) Dilated RV cavity size and normal RV systolic function
+       (32.5mm on M-mode, 43mm on A4C)
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement, RA enlargement(54mm on A4C)
+4. Valve :
+-- (1) Repaired MV with minimal MR
+         mean PG= 2.7mmHg
+-- (2) Mild to moderate TR
+         VC width = 0.64cm
+         hepatic vein systolic reversal flow(-)
+-- (3)Minimal AR with AV thickening
+5. Great vessel :
+-- Ascending aorta (36mm)
+-- Abdominal aorta size(AP/T) = 22 * 23mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 36.6mmHg (assumed RAP = 5mmHg)
+9. Redundant IAS
+
+-----------------------------------------------------------------------------
+BP: 138 / 71             Ht: 160cm          Wt: 68kg             BSA: 1.71㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 47mm         IVSd : 9mm          E: 1.12m/s        e`: 0.061m/s
+LVIDs: 27mm         LVPWd: 8mm          A: 1.10m/s        a`: 0.061m/s
+                    LA: 50mm            E/A: 1.02         E/e`: 18.36
+LVEF: 67%           Ao: 32mm            DT: 490.0msec     LAVI: 56.7ml/m2
+                                        A-L ( 25.0 / 28.5 / 6.3 )
+LVMI : 77.38g/㎡
+RWT : 0.34
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】외래
+【처방일】2009-09-08 【접수일】2009-12-22 09:35 【검사일】2009-12-22 09:56 【보고일】2009-12-23 13:36
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】박정랑 【판독의3】이상철 【확인의】이상철
+▣ 결론 및 진단
+
+S/P MAP, MVP
+Mild to moderate TR
+BA enlargement
+Sliglty dilated ascending aorta (38mm)
+-Slightly increased TR grade compared to last study(09.08.03)
+
+
+
+▣ 검사정보 및 소견
+
+*S/P MAP (GA-fixed pericardial strip)
+      MVP(medial commissuroplasty)-09.7.24
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+       Paradoxical septal motion(+)
+2. RV
+-- (1) Normal RV cavity size and systolic function
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement, RA enlargement(47mm on A4C)
+4. Valve :
+-----(1) Repaired MV:  mean PG= 5.0mmHg
+-----(2) Mild to moderate TR, PISA radius=0.61cm
+          hepatic vein systolic reversal flow(-)
+-----(3) Minimal AR
+5. Great vessel : 
+-- Sliglty dilated ascending aorta (38mm)
+    MPA=2.1cm, RPA=1.77cm, LPA=1.65cm
+-- Abdominal aorta size(AP/T) = 16* 17mm
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None
+8. RV systolic pressure by TR Vmax = 34.7mmHg (assumed RAP =5 mmHg)
+9. Redundant IAS
+
+-----------------------------------------------------------------------------
+BP: 124 / 71             Ht: 160cm          Wt: 58kg             BSA: 1.60㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 47mm         IVSd : 9mm          E: 1.20m/s        e`: 0.086m/s
+LVIDs: 30mm         LVPWd: 9mm          A: 1.49m/s        a`: 0.066m/s
+                    LA: 49mm            E/A: 0.81         E/e`: 13.95
+LVEF: 59%           Ao: 31mm            DT: 274.0msec     LAVI: 52ml/m2
+                                        A-L ( 23.6 / 25.5 / 6.1 )
+LVMI : 89.19g/㎡
+RWT : 0.38
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】F/U EchoCG (<6Mo) [BS2221]  【구분】입원
+【처방일】2009-08-03 【접수일】2009-08-03 14:37 【검사일】2009-08-03 15:36 【보고일】2009-08-03 16:55
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】장성아 【판독의3】최진오 【확인의】최진오
+▣ 결론 및 진단
+
+
+S/P MAP, MVP
+LA enlargement
+Borderline RA enlargement
+
+
+
+
+▣ 검사정보 및 소견
+
+
+*S/P MAP(GA-fixed pericardial strip)
+     MVP(medial commissuroplasty)-09.7.24
+1. LV
+(1) Normal LV cavity size & systolic function
+(2) Normal LV wall thickness
+(3) No regional wall motion abnormality
+    Paradoxical septal wall motion
+2. RV
+(1) Normal RV cavity size and systolic function
+(2) Normal RV wall thickness
+3. Atrium: LA enlargement, Borderline RA enlargement (40mm on A4C)
+4. Valve :
+(1) Repaired MV
+     mean PG= 3.02mmHg, Physiologic MR(+)
+(2) Minimal to mild AR & TR
+5. Great vessel : Normal
+--- Abdominal aorta size(AP/T) =N/A d/t short term f/u
+6. Mass, thrombi or vegetation : None
+7. RV systolic pressure by TR Vmax = 29mmHg (assumed RAP = 5mmHg)
+8. Redundant IAS
+9. Visible catheter tip in RA
+
+-----------------------------------------------------------------------------
+Patient No : 23508111
+BP: 106/ 55     Height: 156cm          Weight: 57kg         BSA: 1.56㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd: 46mm         IVSd : 9mm          E: 1.00m/s        e`: 0.044m/s
+LVIDs: 29mm         LVPWd: 9mm          A: 1.34m/s        a`: 0.056m/s
+                    LA: 45mm            E/A: 0.75         E/e`: 22.73
+LVEF: 60%           Ao: 28mm            DT: 431msec       LAVI: 47ml/m2
+                                        A-L ( 20.1 / 22.3 / 5.2 )
+LVMI : 88.28g/㎡
+RWT : 0.39
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2009-07-21 【접수일】2009-07-21 14:33 【검사일】2009-07-21 17:47 【보고일】2009-07-23 11:44
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조수진 【판독의2】장성아 【판독의3】박승우 【확인의】박승우
+▣ 결론 및 진단
+
+C/W Infective endocarditis with severe eccentric MR d/t medial commissural chordae rupture
+
+
+
+▣ 검사정보 및 소견
+
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Severe eccentric MR to LAA d/t medial commissural chordae rupture
+   multiple small oscillating materials in LA side of AMVL
+4. Enlarged LAA without visible thrombus
+5. No atherosclerotic plaque in thoracic aorta
+-----------------------------------------------------------------------------
+Patient No : 23508111
+BP: 156/ 60     Height: 156cm          Weight: 60kg         BSA: 1.59㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/㎡
+RWT :
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241] ▶수정前◀ 【구분】입원
+【처방일】2009-07-21 【접수일】2009-07-21 14:33 【검사일】2009-07-21 17:47 【보고일】2009-07-22 13:12
+=================================================================================
+**** 【최종보고】 ▶수정前◀****
+【판독의1】조수진 【판독의2】장성아 【판독의3】이상철 【확인의】박승우
+▣ 결론 및 진단
+
+
+Severe eccentric MR to LAA d/t medial chordae rupture
+No definitive vegetation
+but, this patient is high risk for infective endocarditis, therefor
+clinical correlation is need
+
+
+
+▣ 검사정보 및 소견
+
+
+1. Visually normal LV cavity size & systolic function
+2. Visually normal LV wall thickness
+3. Severe eccentric MR to LAA d/t medial chordae rupture
+4. Enlarged LAA without visible thrombus
+5. No atherosclerotic plaque in thoracic aorta
+-----------------------------------------------------------------------------
+Patient No : 23508111
+BP: 156/ 60     Height: 156cm          Weight: 60kg         BSA: 1.59㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+M-Mode data                             MV Doppler
+LVIDd:              IVSd :              E:                e`:
+LVIDs:              LVPWd:              A:                a`:
+                    LA:                 E/A:              E/e`:
+LVEF:               Ao:                 DT:               LAVI:
+LVMI : g/㎡
+RWT :
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          1         1         1          1         1
+Mid          1          1         1         1          1         1
+Apical       1                    1         1                    1
+Apex         1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】응급
+【처방일】2015-06-04 【접수일】2015-06-04 14:30 【검사일】2015-06-04 15:56 【보고일】2015-06-04 16:20
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김은경 【판독의3】김은경 【청구시행의】김은경 【확인의】김은경
+▣ 결론 및 진단
+
+S/P MAP, MVP
+RV dilatation with decreased RV systolic function
+Moderate TR
+Mild pulmonary hypertension
+A.fib with both atrial enlargement
+
+- Incrased TR amount & RVSP compared to previous study (2013.11.15)
+
+
+
+▣ 검사정보 및 소견
+
+* S/P MAP (GA-fixed pericardial strip)
+      MVP(medial commissuroplasty)-09.7.24
+* A.fib with HR = 60-70 BPM
+
+1. LV
+-- (1) Normal LV cavity size & systolic function
+-- (2) Normal LV wall thickness
+-- (3) No regional wall motion abnormality
+-- (4) Indeterminate diastolic function
+2. RV
+-- (1) Dilated RV cavity size (base= 51.9mm, mid=41.2mm on A4C) and 
+       decreased RV systolic function (S` =0.09m/sec, TAPSE = 12.9mm)
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement, RA enlargement(48.4mm on A4C)
+4. Valve :
+-- (1) Repaired MV
+         mean PG= 2.92mmHg, minimal MR
+-- (2) Moderate TR
+       Hepatic vein systolic reversal flow(-)
+       VC width = 0.84cm, PISA radius = 0.77cm, TV annulus diameter = 40.7mm
+-- (3) Thickened AoV with minimal AR
+5. Great vessel : Normal
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation : None 
+-- 지난 검사 (2013.11.15 )에서 관찰되었던 r/o thrombus in LAA는 이번 검사에서는 관찰 되지 않습니다.
+8. RV systolic pressure by TR Vmax = 45mmHg (assumed RAP = 5mmHg)
+-- Normal IVC (size= 1.95cm), Plethora (-)
+9. Strain=-16.6% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 115 / 52             Ht: 159cm          Wt: 70kg             BSA: 1.72㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+M-Mode data                             MV Doppler
+LVIDd: 44mm         IVSd : 7mm          E: 1.41m/s        e`: 0.065m/s
+LVIDs: 28mm         LVPWd: 9mm          A:                a`:
+                    LA: 57mm            E/A:              E/e`: 21.69
+LVEF: 60%           Ao: 30mm            DT: 343.0msec     LAVI: 57.1ml/m2
+                                        A-L ( 26.8 / 27.7 / 6.4 )
+LVMI : 63.63g/㎡
+RWT : 0.41
+[RWMA]-----------------------------------------------------------------------
+        Ant       A-S       I-S        Inf       I-L       A-L
+Basal   1         1         1          1         1         1
+Mid     1         1         1          1         1         1
+Apical  1                   1          1                   1
+Apex    1
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
 【검사명】Advanced echo (정밀echo) [BS2230]  【구분】외래
 【처방일】2017-02-23 【접수일】2017-06-15 12:49 【검사일】2017-06-15 13:40 【보고일】2017-06-15 17:03
 =================================================================================

@@ -1,0 +1,127 @@
+=================================================================================
+【검사명】Advanced echo (정밀echo) [BS2230]  【구분】입원
+【처방일】2015-08-20 【접수일】2015-08-20 15:40 【검사일】2015-08-20 16:17 【보고일】2015-08-20 17:15
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】김형윤 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+S/P MVR, CABG
+R/O Ischemic heart disease with moderate to severe LV systolic dysfunction
+Probably well functioning prosthetic MV
+RV dilatation with RV systolic dysfunction
+Mild TR
+Moderate pulmonary hypertension
+Both atrial enlargement
+- Aggravated LV & RV systolic function
+  increased RVSP, RA & RV cavity size compared to last study : 2014.8.5
+
+
+
+▣ 검사정보 및 소견
+
+* 2014-08-05 MICU에서 ECHO 시행
+* S/P MVR with St. Jude medical valve 27mm &
+      conventional CABG d/t infective endocarditis (14.07.26)
+* HR = 90-100BPM
+
+1. LV
+-- (1) Normal LV cavity size & moderate to severe LV systolic dysfunction
+     (LVEF visually about 30%)
+-- (2) Normal LV wall thickness
+-- (3) Regional wall motion abnormality (+)
+       D-shaped LV
+-- (4) Indeterminated diastolic function
+2. RV
+-- (1) Dilated RV cavity size (TAPSE = 7.8mm, S` = 0.066m/s)
+       and decreased RV systolic function (mid = 45.6mm, base = 54.5mm)
+-- (2) Normal RV wall thickness
+3. Atrium: LA enlargement, RA enlargement (42mm)
+4. Valve
+-- (1) Well functioning prosthetic mitral valve, probably
+     Physiologic MR (+), echo상 prosthetic MV의 opening은 괜찮아보임
+-- (2) Mild TR
+5. Great vessel :
+-- Atheroma at LCC site (0.72 * 0.36cm)
+6. Pericardial effusion : None
+7. Mass, thrombi or vegetation :
+-- TTE로 LV thrombus여부는 정확히 평가어렵습니다
+8. RVSP by TR Vmax = 56mmHg (assumed RA P = 10mmHg)
+-- IVC plethora (+)
+9. Strain = -5.2% by APLAX
+
+-----------------------------------------------------------------------------
+BP: 107 / 60             Ht: 175cm          Wt: 69kg             BSA: 1.83㎡
+과거검사 : Yes
+----------------------------------------------------------------------------- 
+M-Mode data                             MV Doppler
+LVIDd: 53mm         IVSd : 9mm          E: 1.49m/s        e`: 0.052m/s
+LVIDs: 42mm         LVPWd: 10mm         A: 1.21m/s        a`: 0.034m/s
+                    LA: 53mm            E/A: 1.23         E/e`: 28.65
+LVEF:               Ao: 34mm            DT: 223.0msec     LAVI: 59.3ml/m2
+                                        A-L ( 26.5 / 29.0 / 6.0 )
+LVMI : 102.34g/㎡
+RWT : 0.38
+[RWMA]-----------------------------------------------------------------------
+             Ant        A-S       I-S       Inf        I-L       A-L
+Basal        1          2         2         1          1         1
+Mid          1          3         2.5       2          2.5       2
+Apical       3                    3         3                    3
+Apex         3
+1:Normal, 2:Hypokinesia, 3:Akinesia, 4:Dyskinesia, 5:Aneurysm, 99:Invisible
+-----------------------------------------------------------------------------
+
+
+=================================================================================
+【검사명】TEE (경식도심초음파) [BS2241]  【구분】입원
+【처방일】2014-07-15 【접수일】2014-07-15 11:25 【검사일】2014-07-15 11:46 【보고일】2014-07-15 13:13
+=================================================================================
+**** 【최종보고】 ****
+【판독의1】조은정 【판독의3】박성지 【청구시행의】박성지 【확인의】박성지
+▣ 결론 및 진단
+
+Infective endocarditis
+-- Highly mobile vegetation at mitral valve
+Moderate MS
+Mild to moderate MR
+Visually mild to moderate LV, RV systolic dysfunction
+
+
+
+▣ 검사정보 및 소견
+
+* R/O infective endocarditis
+* Baseline ECG : NSR
+
+1. Visually normal LV cavity size &
+   visually mild to moderate systolic dysfunction
+2. Visually normal LV wall thickness
+3. Visually normal RV cavity size &
+   visually mild to moderate systolic dysfunction
+4. Atrium size: Visually LA enlargement
+5. Valve:
+-- (1) Thickened & calcification MV with mid to moderate MR
+         PISA radius = 0.60cm
+         mean PG = 약 8mmHg
+       Moderate MS
+         Echo score = 7~8점 (Thickening : 2, Motion : 2, Calcification : 2, Subvalvular : 1~2)
+-- (2) Minimal TR, AR
+6. Thrombus ( - ), SEC ( - ) in LA & LA appendage
+   Borderline ( =40cm/s )LAA emptying velocity
+7. Mass & vegetation: ( + ) :
+   Irregular margin and highly mobile mass at anterior & posterior mitral valve 
+   ->vegetation
+     posterial MV : 1.37 * 0.68 cm
+     anterial MV : 0.65 * 0.38 cm
+8. Intracardiac shunt: ( - )
+9. Pericardial effusion: ( - )
+10. Atherosclerotic plaque ( - ) in aortic arch & thoracic descending aorta
+11. 3D was done
+
+
+-----------------------------------------------------------------------------
+BP: /                    Ht: 0cm            Wt: 0kg              BSA: 0.00㎡
+과거검사 : Yes
+-----------------------------------------------------------------------------
+
+
