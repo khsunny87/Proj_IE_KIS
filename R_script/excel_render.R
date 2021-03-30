@@ -26,12 +26,15 @@ inc_list<-read_excel('Input/CRF/inclusion_list.xlsx')%>%
   filter(Exclusion==0)%>%.$환자번호%>%as.character()%>%str_pad(.,8,'left','0')%>%unique()
 
 output<-raw_data%>%
-  filter(Info_환자번호%in%inc_list)
+  mutate(inclusion=Info_환자번호%in%inc_list)%>%
+  select(Info_No.,Info_환자번호,Info_이름,inclusion)
+  
+
+
 output%>%
-  write.xlsx('Chart_review.xlsx')
+#  write.xlsx('Chart_review.xlsx')
+write_excel_csv('Chart_review_inclusion.csv')
 
-?write_excel_csv('Chart_review.csv')
+nrow(output%>%filter(inclusion))
 
-
-
-read_csv('Chart_review.csv')%>%View()
+#read_csv('Chart_review.csv')%>%View()
