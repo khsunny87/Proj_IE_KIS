@@ -14,7 +14,8 @@ names(tmp_data)<-var_name
 eff_var<-var_name[!is.na(tmp[[1]])]
 
 raw_data<-tmp_data%>%
-  select(eff_var)
+  select(eff_var)%>%
+  mutate(Info_Inclusion_list=factor(Info_Inclusion_list))
 
 rm(tmp_data)
 

@@ -1,5 +1,5 @@
 ---
-title: "Skim_data"
+title: "RMD_Skim_data"
 author: "Sun Kim"
 date: '2021 6 6 '
 output: html_document
@@ -8,14 +8,16 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 source('R_script/01_Load_Excel.R')
-
+source('R_script/02_Inclusion.R')
 ```
 
+### Total N = `r nrow(raw_data)`
 
+### Inclusion N = `r nrow(inc_data)`
 ```{r}
 
 library(skimr)
-skim(raw_data)
+skim(inc_data)
 ```
 
 
