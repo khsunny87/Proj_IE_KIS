@@ -1,0 +1,21 @@
+---
+title: "Skim_data"
+author: "Sun Kim"
+date: '2021 6 6 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source('R_script/01_Load_Excel.R')
+
+```
+
+
+```{r}
+
+library(skimr)
+skim(raw_data)
+```
+
+
