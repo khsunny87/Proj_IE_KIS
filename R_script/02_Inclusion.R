@@ -11,7 +11,6 @@ f_cols<-c('PMH_HTN','Mitral_MVR')
 
 
 inc_data<-raw_data%>%
-  slice(1:321)%>%
   filter(Info_Inclusion_list=='TRUE')%>%
   mutate_at(vars(starts_with('Symptom_')),num_logical)%>%
   mutate_at(vars(starts_with('PMH_')),num_logical)%>%
