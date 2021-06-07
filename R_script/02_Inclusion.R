@@ -1,3 +1,23 @@
+num_logical<-function(vec_x){
+  
+  if(any(!(vec_x %in% c(0,1,NA)))) return(vec_x)
+  if(!is.numeric(vec_x)) vec_x<-as.numeric(vec_x)
+  
+  return(as.logical(vec_x))
+  
+}
+
+f_cols<-c('PMH_HTN','Mitral_MVR')
+
+
 inc_data<-raw_data%>%
   slice(1:321)%>%
-  filter(Info_Inclusion_list=='TRUE')
+  filter(Info_Inclusion_list=='TRUE')%>%
+  mutate_at(vars(starts_with('Symptom_')),num_logical)%>%
+  mutate_at(vars(starts_with('PMH_')),num_logical)%>%
+  mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
+  mutate_at(vars(starts_with('Concomitant_')),num_logical)
+  
+
+
+
