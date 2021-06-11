@@ -7,7 +7,6 @@ num_logical<-function(vec_x){
   
 }
 
-f_cols<-c('PMH_HTN','Mitral_MVR')
 
 
 inc_data<-raw_data%>%
@@ -17,7 +16,8 @@ inc_data<-raw_data%>%
   mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
   mutate_at(vars(starts_with('Concomitant_')),num_logical)%>%
   mutate(Info_Sex=factor(`Info_성별`,levels=c('M','F')))%>%
-  select(-Info_성별)
+  select(-Info_성별)%>%
+  rename(Info_Age=`Info_나이(yr)`)
 
   
 

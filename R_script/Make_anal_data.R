@@ -32,7 +32,7 @@ inc_preop_lab<-inc_preop_lab%>%
   select(c(1:14)) #뒤에 제거
 
 
-inc_data%>%str()
+
 anal_data<-inc_preop_lab%>%
   ungroup(`수술시작시간`)%>%
   select(-`수술시작시간`)%>%
