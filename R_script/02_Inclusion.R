@@ -15,8 +15,12 @@ inc_data<-raw_data%>%
   mutate_at(vars(starts_with('Symptom_')),num_logical)%>%
   mutate_at(vars(starts_with('PMH_')),num_logical)%>%
   mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
-  mutate_at(vars(starts_with('Concomitant_')),num_logical)
+  mutate_at(vars(starts_with('Concomitant_')),num_logical)%>%
+  mutate(Info_Sex=factor(`Info_성별`,levels=c('M','F')))%>%
+  select(-Info_성별)
+
   
+
 
 
 
