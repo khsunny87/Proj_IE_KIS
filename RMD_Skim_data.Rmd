@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 source('R_script/01_Load_Excel.R')
-source('R_script/02_Inclusion.R')
+source('R_script/02_Rendering_and_Inclusion.R')
 ```
 
 ### Total N = `r nrow(raw_data)`
