@@ -1,4 +1,5 @@
 library(tidyr)
+library(forcats)
 library(lubridate)
 
 num_logical<-function(vec_x){
@@ -15,18 +16,25 @@ grade<-c('no','minimal','minimal-to-mild','mild','mild-to-moderate','moderate','
 
 inc_data<-raw_data%>%
   filter(Info_Inclusion_list=='TRUE')%>%
+  
+  mutate(Info_Male=(`Info_성별`=='M'))%>%
+  select(-Info_성별)%>%
+  rename(Info_Age=`Info_나이(yr)`)%>%
+  
   mutate_at(vars(starts_with('Symptom_')),num_logical)%>%
     mutate(Symptom_dyspnea=(Symptom_dyspnea|Symptom_orthopnea))%>%
     select(-Symptom_orthopnea)%>%
     mutate(Symptom_myalgia=(Symptom_myalgia|Symptom_abdominal_pain))%>%
     select(-Symptom_abdominal_pain)%>%
+  
   mutate_at(vars(starts_with('PMH_')),num_logical)%>%
     select(-PMH_dyslipidemia,-PMH_prev_MI,-PMH_COPD,-`PMH_비고`)%>%
+  
   mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
+    mutate(Mitral_MVR=fct_relevel(if_else(Mitral_MVR,'Replacement','Repair'),'Repair'))%>%
+  
   mutate_at(vars(starts_with('Concomitant_')),num_logical)%>%
-  mutate(Info_Male=(`Info_성별`=='M'))%>%
-  select(-Info_성별)%>%
-  rename(Info_Age=`Info_나이(yr)`)%>%
+
   replace_na(list(Mitral_MR = 'no',Mitral_MS = 'no',Aortic_AR = 'no',Aortic_AS = 'no',Tricuspid_TR = 'no',Tricuspid_TS = 'no'))%>%
     mutate(Mitral_MR=factor(Mitral_MR,levels=grade))%>%
     mutate(Mitral_MS=factor(Mitral_MS,levels=grade))%>%

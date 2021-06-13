@@ -5,12 +5,13 @@ library(lubridate)
 anal_data$fum<-(anal_data$Outcomes_last_FU_date-anal_data$Info_수술일)/dmonths(1)
 anal_data$TS<-Surv(anal_data$fum,anal_data$O_Survival_Death)
 OS<-survfit(TS~Mitral_MVR,data=anal_data)
+ggsurvplot(OS,data=anal_data,risk.table=T,pval=T,break.time.by = 60,xlim = c(0, 240))
+
 print(OS)
 summary(OS,times=60)
 summary(OS,times=120)
 #skim(anal_data$fum)
 
-ggsurvplot(OS,data=anal_data,risk.table=T,pval=T,break.time.by = 60,xlim = c(0, 240))
 ggsurvplot(OS,data=anal_data,risk.table=F,pval=T)
 
 fit1<-survfit(TS~Cate_Gr,data=anal_data)
