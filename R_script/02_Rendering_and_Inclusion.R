@@ -24,7 +24,7 @@ inc_data<-raw_data%>%
     select(-PMH_dyslipidemia,-PMH_COPD,-`PMH_비고`)%>%
   mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
   mutate_at(vars(starts_with('Concomitant_')),num_logical)%>%
-  mutate(Info_Sex=factor(`Info_성별`,levels=c('M','F')))%>%
+  mutate(Info_Male=(`Info_성별`=='M'))%>%
   select(-Info_성별)%>%
   rename(Info_Age=`Info_나이(yr)`)%>%
   replace_na(list(Mitral_MR = 'no',Mitral_MS = 'no',Aortic_AR = 'no',Aortic_AS = 'no',Tricuspid_TR = 'no',Tricuspid_TS = 'no'))%>%

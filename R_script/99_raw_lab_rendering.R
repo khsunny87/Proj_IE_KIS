@@ -23,7 +23,9 @@ raw_preop_lab<-raw_lab%>%
 raw_preop_lab%>%
   write_excel_csv('Input/IE_KIS_preop_lab.csv')
 
-
+raw_lab%>%
+  group_by(`검사코드`,`검사명`)%>%
+  summarise()%>%View()
 
 
 raw_PFT<-read_csv('Input/raw_data/IE_KIS_PFT.txt',col_types=cols(`시행일시`=col_datetime(format="%Y/%m/%d %H:%M:%S")))
