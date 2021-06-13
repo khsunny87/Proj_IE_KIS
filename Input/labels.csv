@@ -13,7 +13,6 @@ Variables,Labels
 "Symptom_GW","General weakness"
 "PMH_HTN","Hypertension"
 "PMH_DM","Diabetes"
-"PMH_prev_MI","Previous MI"
 "PMH_CAD","CAD"
 "PMH_CVA","CVA"
 "PMH_CKD","CKD"
@@ -46,3 +45,4 @@ Variables,Labels
 "Concomitant_aorta","Aorta surgery"
 "Mitral_MS","MS"
 "Mitral_MR","MR"
+"Mitral_annular_recon","Annular reconstruction"

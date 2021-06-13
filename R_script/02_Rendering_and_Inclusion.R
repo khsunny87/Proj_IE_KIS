@@ -21,7 +21,7 @@ inc_data<-raw_data%>%
     mutate(Symptom_myalgia=(Symptom_myalgia|Symptom_abdominal_pain))%>%
     select(-Symptom_abdominal_pain)%>%
   mutate_at(vars(starts_with('PMH_')),num_logical)%>%
-    select(-PMH_dyslipidemia,-PMH_COPD,-`PMH_비고`)%>%
+    select(-PMH_dyslipidemia,-PMH_prev_MI,-PMH_COPD,-`PMH_비고`)%>%
   mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
   mutate_at(vars(starts_with('Concomitant_')),num_logical)%>%
   mutate(Info_Male=(`Info_성별`=='M'))%>%
