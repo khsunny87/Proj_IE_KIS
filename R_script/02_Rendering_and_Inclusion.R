@@ -42,7 +42,11 @@ inc_data<-raw_data%>%
     mutate(Aortic_AS=factor(Aortic_AS,levels=grade))%>%
     mutate(Tricuspid_TR=factor(Tricuspid_TR,levels=grade))%>%
     mutate(Tricuspid_TS=factor(Tricuspid_TS,levels=grade))%>%
-  mutate(Duration_Onset2Op=(`Info_수술일`-`Acute_Sx._onset`)/ddays(1),Duration_Anti2Op=(`Info_수술일`-`Anti_투여날짜`)/ddays(1))
+  mutate(Duration_Onset2Op=(`Info_수술일`-`Acute_Sx._onset`)/ddays(1),Duration_Anti2Op=(`Info_수술일`-`Anti_투여날짜`)/ddays(1))%>%
+  mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp))#%>%
+  #filter(Duration_Onset2Op<=14)
+  
+
 
 
   

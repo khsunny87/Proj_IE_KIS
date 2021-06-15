@@ -17,14 +17,26 @@ source('R_script/02_Rendering_and_Inclusion.R')
 source('R_script/03_Make_anal_data.R')
 ```
 
-# Tables
+# Prematch
+## Tables
 
 
 ```{r tables, results='asis'}
 source('R_script/04_Make_Tables.R')
 myt_output='HTML'
 table1%>%print_mytable()
+source('R_script/06_Analysis.R')
+fig1
+fig2
 
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Acute IE
+```{r acute, results='asis'}
+anal_data<-anal_data%>%
+  filter(Duration_Onset2Op<=14)
+source('R_script/04_Make_Tables.R')
+myt_output='HTML'
+table1%>%print_mytable()
+```
+
