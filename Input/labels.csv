@@ -1,5 +1,5 @@
 Variables,Labels
-"Mitral_MVR","MVR"
+"Mitral_Repair","Repair"
 "Info_Male","Male"
 "Info_Age","Age"
 "Baseline_Ht","Height"
@@ -46,3 +46,4 @@ Variables,Labels
 "Mitral_MS","MS"
 "Mitral_MR","MR"
 "Mitral_annular_recon","Annular reconstruction"
+"Mitral_gr_mod","MR >= moderate"

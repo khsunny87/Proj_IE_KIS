@@ -31,17 +31,19 @@ inc_data<-raw_data%>%
     select(-PMH_dyslipidemia,-PMH_prev_MI,-PMH_COPD,-`PMH_비고`)%>%
   
   mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
-    mutate(Mitral_MVR=fct_relevel(if_else(Mitral_MVR,'Replacement','Repair'),'Repair'))%>%
+    mutate(Mitral_Repair=(!Mitral_MVR))%>%
+    select(-Mitral_MVR)%>%
   
   mutate_at(vars(starts_with('Concomitant_')),num_logical)%>%
 
   replace_na(list(Mitral_MR = 'no',Mitral_MS = 'no',Aortic_AR = 'no',Aortic_AS = 'no',Tricuspid_TR = 'no',Tricuspid_TS = 'no'))%>%
-    mutate(Mitral_MR=factor(Mitral_MR,levels=grade))%>%
-    mutate(Mitral_MS=factor(Mitral_MS,levels=grade))%>%
-    mutate(Aortic_AR=factor(Aortic_AR,levels=grade))%>%
-    mutate(Aortic_AS=factor(Aortic_AS,levels=grade))%>%
-    mutate(Tricuspid_TR=factor(Tricuspid_TR,levels=grade))%>%
-    mutate(Tricuspid_TS=factor(Tricuspid_TS,levels=grade))%>%
+    mutate(Mitral_MR=factor(Mitral_MR,order=T,levels=grade))%>%
+      mutate(Mitral_gr_mod=(Mitral_MR>='moderate'))%>%
+    mutate(Mitral_MS=factor(Mitral_MS,order=T,levels=grade))%>%
+    mutate(Aortic_AR=factor(Aortic_AR,order=T,levels=grade))%>%
+    mutate(Aortic_AS=factor(Aortic_AS,order=T,levels=grade))%>%
+    mutate(Tricuspid_TR=factor(Tricuspid_TR,order=T,levels=grade))%>%
+    mutate(Tricuspid_TS=factor(Tricuspid_TS,order=T,levels=grade))%>%
   mutate(Duration_Onset2Op=(`Info_수술일`-`Acute_Sx._onset`)/ddays(1),Duration_Anti2Op=(`Info_수술일`-`Anti_투여날짜`)/ddays(1))%>%
   mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp))#%>%
   #filter(Duration_Onset2Op<=14)

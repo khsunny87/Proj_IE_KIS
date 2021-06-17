@@ -30,13 +30,18 @@ fig1
 fig2
 
 ```
+---
 
-## Acute IE
+
+# Acute IE
 ```{r acute, results='asis'}
 anal_data<-anal_data%>%
   filter(Duration_Onset2Op<=14)
 source('R_script/04_Make_Tables.R')
 myt_output='HTML'
 table1%>%print_mytable()
+source('R_script/06_Analysis.R')
+fig1
+fig2
 ```
 
