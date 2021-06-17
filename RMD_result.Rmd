@@ -21,17 +21,33 @@ source('R_script/03_Make_anal_data.R')
 ## Tables
 
 
-```{r tables, results='asis'}
+```{r pre_match, results='asis'}
 source('R_script/04_Make_Tables.R')
 myt_output='HTML'
 table1%>%print_mytable()
-source('R_script/06_Analysis.R')
+surv_data<-anal_data
+source('R_script/05_Analysis.R')
+fig1<-surv_fig1
+fig2<-surv_fig2
 fig1
 fig2
 
 ```
----
 
+
+# PSM
+```{r post_match, results='asis'}
+source('R_script/06_PSM.R')
+surv_data<-mat_data
+source('R_script/05_Analysis.R')
+fig3<-surv_fig1
+fig4<-surv_fig2
+fig3
+fig4
+
+```
+
+--- 
 
 # Acute IE
 ```{r acute, results='asis'}
@@ -40,8 +56,11 @@ anal_data<-anal_data%>%
 source('R_script/04_Make_Tables.R')
 myt_output='HTML'
 table1%>%print_mytable()
-source('R_script/06_Analysis.R')
-fig1
-fig2
+surv_data<-anal_data
+source('R_script/05_Analysis.R')
+fig5<-surv_fig1
+fig6<-surv_fig2
+fig5
+fig6
 ```
 

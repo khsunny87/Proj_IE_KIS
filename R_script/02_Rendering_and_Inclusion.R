@@ -1,5 +1,6 @@
 library(tidyr)
 library(forcats)
+library(survival)
 library(lubridate)
 
 num_logical<-function(vec_x){
@@ -45,9 +46,20 @@ inc_data<-raw_data%>%
     mutate(Tricuspid_TR=factor(Tricuspid_TR,order=T,levels=grade))%>%
     mutate(Tricuspid_TS=factor(Tricuspid_TS,order=T,levels=grade))%>%
   mutate(Duration_Onset2Op=(`Info_수술일`-`Acute_Sx._onset`)/ddays(1),Duration_Anti2Op=(`Info_수술일`-`Anti_투여날짜`)/ddays(1))%>%
-  mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp))#%>%
-  #filter(Duration_Onset2Op<=14)
   
+  #Survival analysis 관련 변수
+  mutate(S_fum=(Outcomes_last_FU_date-Info_수술일)/dmonths(1))%>%
+    mutate(S_TS=Surv(S_fum,O_Survival_Death))%>%
+  mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp))%>%
+    mutate(C_date=pmin(Outcomes_last_FU_date,O_Survival_Death_date,O_Recurrence_Recur_Dx._date,O_Valve_ReOp_date,na.rm=T))%>%
+    mutate(C_fum=(C_date-Info_수술일)/dmonths(1))%>%
+    mutate(C_TS=Surv(C_fum,O_Composite))
+
+
+
+#%>%
+  #filter(Duration_Onset2Op<=14)
+  pmin
 
 
 

@@ -362,6 +362,11 @@ pre code {
 <h3>Inclusion N = 218</h3>
 <pre class="r"><code>library(skimr)
 skim(inc_data)</code></pre>
+<pre><code>## Warning: Couldn't find skimmers for class: Surv; No user-defined `sfl` provided.
+## Falling back to `character`.
+
+## Warning: Couldn't find skimmers for class: Surv; No user-defined `sfl` provided.
+## Falling back to `character`.</code></pre>
 <table>
 <caption>Data summary</caption>
 <tbody>
@@ -375,7 +380,7 @@ skim(inc_data)</code></pre>
 </tr>
 <tr class="odd">
 <td align="left">Number of columns</td>
-<td align="left">109</td>
+<td align="left">114</td>
 </tr>
 <tr class="even">
 <td align="left">_______________________</td>
@@ -387,7 +392,7 @@ skim(inc_data)</code></pre>
 </tr>
 <tr class="even">
 <td align="left">character</td>
-<td align="left">26</td>
+<td align="left">28</td>
 </tr>
 <tr class="odd">
 <td align="left">factor</td>
@@ -399,11 +404,11 @@ skim(inc_data)</code></pre>
 </tr>
 <tr class="odd">
 <td align="left">numeric</td>
-<td align="left">25</td>
+<td align="left">27</td>
 </tr>
 <tr class="even">
 <td align="left">POSIXct</td>
-<td align="left">12</td>
+<td align="left">13</td>
 </tr>
 <tr class="odd">
 <td align="left">________________________</td>
@@ -690,6 +695,26 @@ skim(inc_data)</code></pre>
 <td align="right">10</td>
 <td align="right">0</td>
 </tr>
+<tr class="odd">
+<td align="left">S_TS</td>
+<td align="right">0</td>
+<td align="right">1.00</td>
+<td align="right">1</td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">212</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">C_TS</td>
+<td align="right">0</td>
+<td align="right">1.00</td>
+<td align="right">1</td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">212</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Variable type: factor</strong></p>
@@ -875,10 +900,10 @@ skim(inc_data)</code></pre>
 </tr>
 <tr class="odd">
 <td align="left">PMH_Obesity</td>
-<td align="right">4</td>
-<td align="right">0.98</td>
+<td align="right">2</td>
+<td align="right">0.99</td>
 <td align="right">0.16</td>
-<td align="left">FAL: 180, TRU: 34</td>
+<td align="left">FAL: 182, TRU: 34</td>
 </tr>
 <tr class="even">
 <td align="left">PMH_prev.OHS</td>
@@ -993,46 +1018,46 @@ skim(inc_data)</code></pre>
 <td align="left">FAL: 198, TRU: 20</td>
 </tr>
 <tr class="even">
-<td align="left">Mitral_MVR</td>
-<td align="right">0</td>
-<td align="right">1.00</td>
-<td align="right">0.60</td>
-<td align="left">TRU: 131, FAL: 87</td>
-</tr>
-<tr class="odd">
 <td align="left">Concomitant_other_procedure</td>
 <td align="right">0</td>
 <td align="right">1.00</td>
 <td align="right">0.18</td>
 <td align="left">FAL: 178, TRU: 40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Concomitant_CABG</td>
 <td align="right">0</td>
 <td align="right">1.00</td>
 <td align="right">0.05</td>
 <td align="left">FAL: 208, TRU: 10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Concomitant_maze</td>
 <td align="right">0</td>
 <td align="right">1.00</td>
 <td align="right">0.02</td>
 <td align="left">FAL: 214, TRU: 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Concomitant_aorta</td>
 <td align="right">1</td>
 <td align="right">1.00</td>
 <td align="right">0.01</td>
 <td align="left">FAL: 215, TRU: 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Info_Male</td>
 <td align="right">0</td>
 <td align="right">1.00</td>
 <td align="right">0.58</td>
 <td align="left">TRU: 126, FAL: 92</td>
+</tr>
+<tr class="odd">
+<td align="left">Mitral_Repair</td>
+<td align="right">0</td>
+<td align="right">1.00</td>
+<td align="right">0.40</td>
+<td align="left">FAL: 131, TRU: 87</td>
 </tr>
 <tr class="even">
 <td align="left">Mitral_gr_mod</td>
@@ -1109,40 +1134,40 @@ skim(inc_data)</code></pre>
 </tr>
 <tr class="even">
 <td align="left">Baseline_Ht</td>
-<td align="right">4</td>
-<td align="right">0.98</td>
-<td align="right">165.73</td>
-<td align="right">8.84</td>
+<td align="right">2</td>
+<td align="right">0.99</td>
+<td align="right">165.71</td>
+<td align="right">8.80</td>
 <td align="right">135.00</td>
 <td align="right">160.00</td>
 <td align="right">166.00</td>
-<td align="right">172.07</td>
+<td align="right">172.02</td>
 <td align="right">183.00</td>
 <td align="left">▁▂▆▇▅</td>
 </tr>
 <tr class="odd">
 <td align="left">Baseline_Wt</td>
-<td align="right">4</td>
-<td align="right">0.98</td>
-<td align="right">59.49</td>
-<td align="right">11.24</td>
+<td align="right">2</td>
+<td align="right">0.99</td>
+<td align="right">59.43</td>
+<td align="right">11.21</td>
 <td align="right">39.10</td>
-<td align="right">51.02</td>
+<td align="right">50.98</td>
 <td align="right">57.28</td>
-<td align="right">67.77</td>
+<td align="right">67.73</td>
 <td align="right">93.90</td>
 <td align="left">▅▇▅▃▁</td>
 </tr>
 <tr class="even">
 <td align="left">Baseline_BMI</td>
-<td align="right">4</td>
-<td align="right">0.98</td>
-<td align="right">21.62</td>
+<td align="right">2</td>
+<td align="right">0.99</td>
+<td align="right">21.60</td>
 <td align="right">3.44</td>
 <td align="right">14.53</td>
-<td align="right">18.95</td>
+<td align="right">18.94</td>
 <td align="right">21.27</td>
-<td align="right">24.12</td>
+<td align="right">24.04</td>
 <td align="right">31.04</td>
 <td align="left">▃▇▇▅▂</td>
 </tr>
@@ -1200,27 +1225,27 @@ skim(inc_data)</code></pre>
 </tr>
 <tr class="odd">
 <td align="left">CPB_CPB_time</td>
-<td align="right">23</td>
-<td align="right">0.89</td>
-<td align="right">121.92</td>
-<td align="right">53.18</td>
+<td align="right">3</td>
+<td align="right">0.99</td>
+<td align="right">122.12</td>
+<td align="right">52.30</td>
 <td align="right">43.00</td>
 <td align="right">85.00</td>
-<td align="right">108.00</td>
-<td align="right">143.00</td>
+<td align="right">110.00</td>
+<td align="right">145.00</td>
 <td align="right">341.00</td>
-<td align="left">▇▇▂▁▁</td>
+<td align="left">▇▇▃▁▁</td>
 </tr>
 <tr class="even">
 <td align="left">CPB_ACC_time</td>
-<td align="right">23</td>
-<td align="right">0.89</td>
-<td align="right">94.35</td>
-<td align="right">45.16</td>
+<td align="right">3</td>
+<td align="right">0.99</td>
+<td align="right">94.87</td>
+<td align="right">44.56</td>
 <td align="right">33.00</td>
-<td align="right">61.50</td>
-<td align="right">85.00</td>
-<td align="right">115.50</td>
+<td align="right">62.00</td>
+<td align="right">86.00</td>
+<td align="right">117.50</td>
 <td align="right">279.00</td>
 <td align="left">▇▆▂▁▁</td>
 </tr>
@@ -1239,27 +1264,27 @@ skim(inc_data)</code></pre>
 </tr>
 <tr class="even">
 <td align="left">CPB_N_BT</td>
-<td align="right">22</td>
-<td align="right">0.90</td>
-<td align="right">29.46</td>
-<td align="right">2.30</td>
+<td align="right">2</td>
+<td align="right">0.99</td>
+<td align="right">29.36</td>
+<td align="right">2.27</td>
 <td align="right">13.80</td>
-<td align="right">28.70</td>
-<td align="right">29.70</td>
-<td align="right">30.72</td>
+<td align="right">28.58</td>
+<td align="right">29.60</td>
+<td align="right">30.70</td>
 <td align="right">36.20</td>
 <td align="left">▁▁▁▇▁</td>
 </tr>
 <tr class="odd">
 <td align="left">CPB_R_BT</td>
-<td align="right">24</td>
-<td align="right">0.89</td>
-<td align="right">30.89</td>
-<td align="right">1.94</td>
+<td align="right">5</td>
+<td align="right">0.98</td>
+<td align="right">30.78</td>
+<td align="right">1.95</td>
 <td align="right">19.00</td>
-<td align="right">30.02</td>
-<td align="right">31.20</td>
-<td align="right">32.10</td>
+<td align="right">29.80</td>
+<td align="right">31.10</td>
+<td align="right">32.00</td>
 <td align="right">34.80</td>
 <td align="left">▁▁▁▇▆</td>
 </tr>
@@ -1393,6 +1418,32 @@ skim(inc_data)</code></pre>
 <td align="right">59.00</td>
 <td align="left">▇▂▁▁▁</td>
 </tr>
+<tr class="even">
+<td align="left">S_fum</td>
+<td align="right">0</td>
+<td align="right">1.00</td>
+<td align="right">63.60</td>
+<td align="right">65.52</td>
+<td align="right">0.23</td>
+<td align="right">11.42</td>
+<td align="right">43.22</td>
+<td align="right">94.12</td>
+<td align="right">275.78</td>
+<td align="left">▇▃▁▁▁</td>
+</tr>
+<tr class="odd">
+<td align="left">C_fum</td>
+<td align="right">0</td>
+<td align="right">1.00</td>
+<td align="right">61.12</td>
+<td align="right">63.94</td>
+<td align="right">0.23</td>
+<td align="right">10.19</td>
+<td align="right">41.02</td>
+<td align="right">93.51</td>
+<td align="right">275.78</td>
+<td align="left">▇▃▁▁▁</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Variable type: POSIXct</strong></p>
@@ -1525,6 +1576,15 @@ skim(inc_data)</code></pre>
 <td align="left">2021-01-29 00:00:00</td>
 <td align="left">2014-07-31 00:00:00</td>
 <td align="right">5</td>
+</tr>
+<tr class="odd">
+<td align="left">C_date</td>
+<td align="right">0</td>
+<td align="right">1.00</td>
+<td align="left">1997-05-10 00:00:00</td>
+<td align="left">2021-06-03 00:00:00</td>
+<td align="left">2020-03-08 00:00:00</td>
+<td align="right">190</td>
 </tr>
 </tbody>
 </table>
