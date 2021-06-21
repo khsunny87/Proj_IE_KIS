@@ -19,8 +19,7 @@ print_mytable<-function(myt){
   
 }
 
-
-table1<-anal_data%>%
+baseline_tbl<-tbl_data%>%
   select(Mitral_Repair,Info_Male,Info_Age,starts_with('Baseline_'),starts_with('Symptom_'),starts_with('PMH_'),starts_with('Lab_'),starts_with('Duration_'),starts_with('CPB_'),Mitral_annular_recon,starts_with('Concomitant_'),Mitral_MS,Mitral_MR,Mitral_gr_mod)%>%
   select(-CPB_TCA_time)%>%
   mutate(Mitral_Repair=fct_relevel(if_else(Mitral_Repair==1,'Repair','Replacement'),'Repair'))%>%
