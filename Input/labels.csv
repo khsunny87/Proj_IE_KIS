@@ -50,3 +50,20 @@ Variables,Labels
 "Mitral_MR","MR"
 "Mitral_annular_recon","Annular reconstruction"
 "Mitral_gr_mod","MR >= moderate"
+"IE_embolism","Embolism"
+"IE_culture","Blood culture (+)"
+"Op_Ix_HF","Ix_CHF"
+"Op_Ix_uncontrolled_infection","Ix_infection"
+"Op_Ix_Embolism_vegetation","Ix_vegetation"
+"Aortic_IE_lesion","AV IE"
+"Tricuspid_IE_lesion","TV IE"
+"Aortic_AS","AS"
+"Aortic_AR","AR"
+"Tricuspid_TS","TS"
+"Tricuspid_TR","TR"
+"Mitral_prev_MV_Op","prev_MV_Op"
+"Tricuspid_Prev_TV_Op","prev_TV_Op"
+"Tricuspid_Concomittant_TV_Op","Concomitant TV Op"
+
+
+

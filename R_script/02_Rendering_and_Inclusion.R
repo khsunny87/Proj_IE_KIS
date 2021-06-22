@@ -15,6 +15,7 @@ num_logical<-function(vec_x){
 
 grade<-c('no','minimal','minimal-to-mild','mild','mild-to-moderate','moderate','moderate-to-severe','severe')
 
+
 inc_data<-raw_data%>%
   filter(Info_Inclusion_list=='TRUE')%>%
   
@@ -28,12 +29,31 @@ inc_data<-raw_data%>%
     mutate(Symptom_myalgia=(Symptom_myalgia|Symptom_abdominal_pain))%>%
     select(-Symptom_abdominal_pain)%>%
   
+  #IE_culture 생성
+  mutate(IE_culture=(!is.na(`IE_균주`))&(`IE_균주`!='(NG)'))%>%
+  mutate(IE_embolism=num_logical(IE_embolism))%>%
+  
+  
+
+  #PMH
   mutate_at(vars(starts_with('PMH_')),num_logical)%>%
     select(-PMH_dyslipidemia,-PMH_prev_MI,-PMH_COPD,-`PMH_비고`)%>%
+
+  mutate_at(vars(starts_with('Op_Ix_')),num_logical)%>%
   
   mutate_at(vars(starts_with('Mitral_')),num_logical)%>%
     mutate(Mitral_Repair=(!Mitral_MVR))%>%
     select(-Mitral_MVR)%>%
+  
+
+  mutate(Aortic_IE_lesion=num_logical(Aortic_IE_lesion))%>%
+  mutate(Aortic_Prev_AV_Op=num_logical(Aortic_Prev_AV_Op))%>%
+  mutate(Aortic_Concomittant_AV_Op=num_logical(Aortic_Concomittant_AV_Op))%>%
+  
+  mutate(Tricuspid_IE_lesion=num_logical(Tricuspid_IE_lesion))%>%
+  mutate(Tricuspid_Prev_TV_Op=num_logical(Tricuspid_Prev_TV_Op))%>%
+  mutate(Tricuspid_Concomittant_TV_Op=num_logical(Tricuspid_Concomittant_TV_Op))%>%
+  
   
   mutate_at(vars(starts_with('Concomitant_')),num_logical)%>%
 

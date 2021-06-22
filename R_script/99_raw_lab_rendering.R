@@ -36,8 +36,14 @@ raw_preop_lab2<-raw_lab2%>%
 
   
 
-raw_preop_lab%>%
-  left_join(.,raw_preop_lab2)%>%
+output<-raw_preop_lab%>%
+  left_join(.,raw_preop_lab2)
+
+output$BL3119[output$`Case No.`==487]<-9.6
+output$BL3120[output$`Case No.`==487]<-1.02
+
+
+output%>%
   write_excel_csv('Input/IE_KIS_preop_lab.csv')
 
 raw_lab%>%
