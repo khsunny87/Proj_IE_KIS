@@ -1,5 +1,5 @@
 ---
-title: "RMD_result"
+title: "Comparison of Repair and Replacement in patients with Active Infective Endocarditis in Native Mitral Valve"
 author: "Sun Kim"
 date: '2021 6 12 '
 output: html_document
@@ -16,11 +16,15 @@ source('R_script/01_Load_Excel.R')
 source('R_script/02_Rendering_and_Inclusion.R')
 source('R_script/03_Make_anal_data.R')
 ```
+# Study population
+```{r flowchart}
+source("R_script/00_Flowchart.R")
+grViz(flowchart)
+```
+
 
 # Prematch
-## Tables
-
-
+## Tables & Figures
 ```{r pre_match, results='asis'}
 
 tbl_data<-anal_data
@@ -40,9 +44,19 @@ fig2
 
 
 # PSM
-```{r post_match, results='asis'}
+```{r PSM}
 source('R_script/06_PSM.R')
+print(mat_bal)
+```
 
+```{r PSM_balance, results='asis'}
+mat_tbl1
+mat_tbl2
+mat_fig1
+mat_fig2
+```
+## Tables & Figures
+```{r post_match, results='asis'}
 tbl_data<-mat_data
 source('R_script/04_Make_Tables.R')
 table2<-baseline_tbl

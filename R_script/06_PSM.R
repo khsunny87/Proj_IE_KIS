@@ -2,7 +2,7 @@ library(MatchIt)
 library(cobalt)
 library(kableExtra)
 library(stringr)
-
+library(ggplot2)
 
 
 
@@ -31,18 +31,20 @@ matched<-pre_match%>%
   #matchit(Mitral_Repair~Info_Age+Baseline_Ht+Baseline_Wt+Baseline_BMI+Symptom_dyspnea+Symptom_fever+CPB_CPB_time+CPB_ACC_time,data=.,method="optimal",ratio=1)
 res<-summary(matched)
 
-res
-print(bal.tab(matched,continuous="std",s.d.denom = "pooled",m.threshold=0.2,v.threshold=2))
 
-print(res$nn%>%kable()%>% kable_styling())
-print(cbind(res$sum.all[,1:3],res$sum.matched[,1:3])%>%kable()%>%add_header_above(c(" " = 1, "Raw data" = 3, "Matched data" = 3)))
-#print(plot(matched))
-print(plot(matched,type='hist'))
+#print(bal.tab(matched,continuous="std",s.d.denom = "pooled",m.threshold=0.2,v.threshold=2))
 
-print(bal.plot(matched, var.name = "distance", which = "both",type = "histogram", mirror = T))
+mat_tbl1<-res$nn%>%kable()%>% 
+          kable_styling()
+mat_tbl2<-cbind(res$sum.all[,1:3],res$sum.matched[,1:3])%>%
+          kable()%>%
+          add_header_above(c(" " = 1, "Raw data" = 3, "Matched data" = 3))
 
-print(bal.tab(matched,continuous="std",s.d.denom = "pooled",m.threshold=0.2,v.threshold=2))
-print(love.plot(matched,s.d.denom = "pooled",stars="std",stat="mean.diffs",drop.distance=F,threshold=0.2,sample.names=c('Unmatched','Matched'))+coord_cartesian(xlim=c(-0.5,0.5)))
+
+mat_fig1<-bal.plot(matched, var.name = "distance", which = "both",type = "histogram", mirror = T)
+
+mat_bal<-bal.tab(matched,continuous="std",s.d.denom = "pooled",m.threshold=0.2,v.threshold=2)
+mat_fig2<-love.plot(matched,s.d.denom = "pooled",stars="std",stat="mean.diffs",drop.distance=F,threshold=0.2,sample.names=c('Unmatched','Matched'))+coord_cartesian(xlim=c(-0.5,0.5))
 
 mat_data<-match.data(matched)
 
