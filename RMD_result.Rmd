@@ -32,7 +32,7 @@ source('R_script/04_Make_Tables.R')
 table1<-baseline_tbl
 myt_output='HTML'
 table1%>%print_mytable()
-
+org_tbl
 surv_data<-anal_data
 source('R_script/05_Analysis.R')
 fig1<-surv_fig1
@@ -62,6 +62,7 @@ source('R_script/04_Make_Tables.R')
 table2<-baseline_tbl
 myt_output='HTML'
 table2%>%print_mytable()
+org_tbl
 
 surv_data<-mat_data
 source('R_script/05_Analysis.R')

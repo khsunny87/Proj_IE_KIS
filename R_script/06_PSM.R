@@ -6,17 +6,20 @@ library(ggplot2)
 
 
 
-mat_cov<-c('Info_Age','Info_Male','Baseline_Ht','Baseline_Wt','Baseline_BMI',
+mat_cov<-c('Info_Age','Info_Male','Baseline_Ht','Baseline_Wt',#'Baseline_BMI',
       #     'Symptom_dyspnea','Symptom_fever','Symptom_chills',
       #     'Symptom_myalgia','Symptom_fatigue','Symptom_GW',
            'PMH_HTN','PMH_DM','PMH_CAD','PMH_CVA','PMH_CKD','PMH_dialysis','PMH_Smoking','PMH_Malignancy','PMH_Obesity',
            'IE_embolism','IE_culture','Op_Ix_HF','Op_Ix_uncontrolled_infection','Op_Ix_Embolism_vegetation',
-           'Duration_Onset2Op','Duration_Anti2Op',
+      #     'Duration_Onset2Op',  #부정확
+      #     'Duration_Anti2Op',
       #    'Lab_BL2011','Lab_BL2013','Lab_BL2016','Lab_BL3119','Lab_BL3120','Lab_BL201806',
-      #     'Mitral_MS','Mitral_MR','Mitral_gr_mod',
-           'Aortic_IE_lesion','Aortic_Concomittant_AV_Op','Aortic_AR', #'Aortic_AS' 없어서 제거
-           'Tricuspid_IE_lesion','Tricuspid_Concomittant_TV_Op','Tricuspid_TR', #'Tricuspid_TS' 없어서 제거
-           'Concomitant_other_procedure','Concomitant_CABG','Concomitant_maze','Concomitant_aorta',
+      #     'Mitral_MS','Mitral_MR',
+           'MR_gr_mod',
+           'Aortic_IE_lesion','Aortic_Concomittant_AV_Op','AR_gr_mod',#'Aortic_AR', #'Aortic_AS' 없어서 제거
+           'Tricuspid_IE_lesion','Tricuspid_Concomittant_TV_Op','TR_gr_mod',#'Tricuspid_TR', #'Tricuspid_TS' 없어서 제거
+      #     'Concomitant_other_procedure',
+           'Concomitant_CABG','Concomitant_maze','Concomitant_aorta',
            'Mitral_annular_recon')
 
 
@@ -39,7 +42,6 @@ mat_tbl1<-res$nn%>%kable()%>%
 mat_tbl2<-cbind(res$sum.all[,1:3],res$sum.matched[,1:3])%>%
           kable()%>%
           add_header_above(c(" " = 1, "Raw data" = 3, "Matched data" = 3))
-
 
 mat_fig1<-bal.plot(matched, var.name = "distance", which = "both",type = "histogram", mirror = T)
 

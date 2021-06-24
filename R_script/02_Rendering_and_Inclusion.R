@@ -59,12 +59,17 @@ inc_data<-raw_data%>%
 
   replace_na(list(Mitral_MR = 'no',Mitral_MS = 'no',Aortic_AR = 'no',Aortic_AS = 'no',Tricuspid_TR = 'no',Tricuspid_TS = 'no'))%>%
     mutate(Mitral_MR=factor(Mitral_MR,order=T,levels=grade))%>%
-      mutate(Mitral_gr_mod=(Mitral_MR>='moderate'))%>%
+      mutate(MR_gr_mod=(Mitral_MR>='moderate'))%>%
     mutate(Mitral_MS=factor(Mitral_MS,order=T,levels=grade))%>%
+  
     mutate(Aortic_AR=factor(Aortic_AR,order=T,levels=grade))%>%
+      mutate(AR_gr_mod=(Aortic_AR>='moderate'))%>%
     mutate(Aortic_AS=factor(Aortic_AS,order=T,levels=grade))%>%
+  
     mutate(Tricuspid_TR=factor(Tricuspid_TR,order=T,levels=grade))%>%
+      mutate(TR_gr_mod=(Tricuspid_TR>='moderate'))%>%
     mutate(Tricuspid_TS=factor(Tricuspid_TS,order=T,levels=grade))%>%
+  
   mutate(Duration_Onset2Op=(`Info_수술일`-`Acute_Sx._onset`)/ddays(1),Duration_Anti2Op=(`Info_수술일`-`Anti_투여날짜`)/ddays(1))%>%
   
   #Survival analysis 관련 변수

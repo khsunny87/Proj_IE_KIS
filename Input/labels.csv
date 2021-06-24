@@ -49,7 +49,7 @@ Variables,Labels
 "Mitral_MS","MS"
 "Mitral_MR","MR"
 "Mitral_annular_recon","Annular reconstruction"
-"Mitral_gr_mod","MR >= moderate"
+"MR_gr_mod","MR >= moderate"
 "IE_embolism","Embolism"
 "IE_culture","Blood culture (+)"
 "Op_Ix_HF","Ix_CHF"
@@ -64,6 +64,7 @@ Variables,Labels
 "Mitral_prev_MV_Op","prev_MV_Op"
 "Tricuspid_Prev_TV_Op","prev_TV_Op"
 "Tricuspid_Concomittant_TV_Op","Concomitant TV Op"
-
+"AR_gr_mod","AR >= moderate"
+"TR_gr_mod","TR >= moderate"
 
 
