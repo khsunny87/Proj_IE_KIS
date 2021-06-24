@@ -35,7 +35,6 @@ matched<-pre_match%>%
 res<-summary(matched)
 
 
-#print(bal.tab(matched,continuous="std",s.d.denom = "pooled",m.threshold=0.2,v.threshold=2))
 
 mat_tbl1<-res$nn%>%kable()%>% 
           kable_styling()
@@ -45,7 +44,8 @@ mat_tbl2<-cbind(res$sum.all[,1:3],res$sum.matched[,1:3])%>%
 
 mat_fig1<-bal.plot(matched, var.name = "distance", which = "both",type = "histogram", mirror = T)
 
-mat_bal<-bal.tab(matched,continuous="std",s.d.denom = "pooled",m.threshold=0.2,v.threshold=2)
+#mat_bal<-bal.tab(matched,continuous="std",s.d.denom = "pooled",m.threshold=0.2,v.threshold=2)
+mat_bal<-bal.tab(matched,continuous="std",s.d.denom = "weighted",m.threshold=0.2,v.threshold=2)
 mat_fig2<-love.plot(matched,s.d.denom = "pooled",stars="std",stat="mean.diffs",drop.distance=F,threshold=0.2,sample.names=c('Unmatched','Matched'))+coord_cartesian(xlim=c(-0.5,0.5))
 
 mat_data<-match.data(matched)
