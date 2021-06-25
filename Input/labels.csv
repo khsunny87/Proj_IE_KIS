@@ -66,5 +66,11 @@ Variables,Labels
 "Tricuspid_Concomittant_TV_Op","Concomitant TV Op"
 "AR_gr_mod","AR >= moderate"
 "TR_gr_mod","TR >= moderate"
+"O_Survival_Death","Death"
+"O_Recurrence_Recur","Recurrence"
+"O_Recurrence_ReOp","Reoperation d/t recurrence"
+"O_Valve_ReOp","Valve-related Reopartion"
+"O_Survival_EM","Early mortality"
+"O_Survival_IHM","In-hospital mortality"
 
 
