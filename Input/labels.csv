@@ -72,5 +72,11 @@ Variables,Labels
 "O_Valve_ReOp","Valve-related Reopartion"
 "O_Survival_EM","Early mortality"
 "O_Survival_IHM","In-hospital mortality"
+"O_Valve_Bleeding","Bleeding"
+"O_Valve_B_major","Major bleeding"
+"O_Valve_B_minor","Minor bleeding"
+"O_Valve_Embolism","Thromboembolism"
+"O_Valve_E_major","Major thromboembolism"
+"O_Valve_E_minor","Minor thromboembolism"
 
 

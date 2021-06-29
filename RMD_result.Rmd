@@ -58,6 +58,8 @@ source('R_script/04_Make_Tables.R')
 table1<-baseline_tbl
 myt_output='HTML'
 table1%>%print_mytable()
+MVR_tbl%>%print_mytable()
+
 org_tbl
 surv_data<-anal_data
 source('R_script/05_Analysis.R')

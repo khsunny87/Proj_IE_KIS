@@ -28,16 +28,35 @@ baseline_tbl<-tbl_data%>%
          Aortic_Prev_AV_Op,Aortic_IE_lesion,Aortic_AS,Aortic_AR,AR_gr_mod,Aortic_Concomittant_AV_Op,
          Tricuspid_Prev_TV_Op,Tricuspid_IE_lesion,Tricuspid_TS,Tricuspid_TR,TR_gr_mod,Tricuspid_Concomittant_TV_Op,
          starts_with('Concomitant_'),starts_with('CPB_'),
-         O_Survival_Death,O_Survival_EM,O_Survival_IHM,O_Recurrence_Recur,O_Recurrence_ReOp,O_Valve_ReOp)%>%
+         O_Survival_Death,O_Survival_EM,O_Survival_IHM,O_Recurrence_Recur,O_Recurrence_ReOp,O_Valve_ReOp,
+         O_Valve_Bleeding,O_Valve_B_major,O_Valve_B_minor,O_Valve_Embolism,O_Valve_E_major,O_Valve_E_minor)%>%
   select(-CPB_TCA_time)%>%
   mutate(Mitral_Repair=fct_relevel(if_else(Mitral_Repair==1,'Repair','Replacement'),'Repair'))%>%
   mytable(Mitral_Repair~.,data=.,show.total=T,catMethod=0)%>%
   compress(add.label=F)
 
 
-
 raw_org_tbl<-table(tbl_data$IE_균주)%>%as.data.frame()%>%
   rename(Organisms=Var1)
+
+MVR_tbl<-tbl_data%>%
+  filter(!Mitral_Repair)%>%
+  select(Mitral_Prosthesis,Info_Male,Info_Age,
+         #starts_with('Baseline_'),starts_with('Symptom_'),IE_embolism,starts_with('PMH_'),
+         #IE_culture,starts_with('Lab_'),starts_with('Op_Ix_'),starts_with('Duration_'),
+         #Mitral_prev_MV_Op,Mitral_MS,Mitral_MR,MR_gr_mod,Mitral_annular_recon,
+         #Aortic_Prev_AV_Op,Aortic_IE_lesion,Aortic_AS,Aortic_AR,AR_gr_mod,Aortic_Concomittant_AV_Op,
+         #Tricuspid_Prev_TV_Op,Tricuspid_IE_lesion,Tricuspid_TS,Tricuspid_TR,TR_gr_mod,Tricuspid_Concomittant_TV_Op,
+         #starts_with('Concomitant_'),starts_with('CPB_'),
+         O_Survival_Death,O_Survival_EM,O_Survival_IHM,O_Recurrence_Recur,O_Recurrence_ReOp,O_Valve_ReOp,
+         O_Valve_Bleeding,O_Valve_B_major,O_Valve_B_minor,O_Valve_Embolism,O_Valve_E_major,O_Valve_E_minor)%>%
+  #select(-CPB_TCA_time)%>%
+  mutate(Mitral_Prosthesis=fct_relevel(if_else(Mitral_Prosthesis=="T",'Tissue','Mechanical'),'Tissue'))%>%
+  mytable(Mitral_Prosthesis~.,data=.,show.total=F,catMethod=0)%>%
+  compress(add.label=F)
+  
+  
+
 
 sum(raw_org_tbl$Freq)
 
