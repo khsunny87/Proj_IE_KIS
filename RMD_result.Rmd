@@ -2,7 +2,10 @@
 title: "Comparison of Repair and Replacement in patients with Active Infective Endocarditis in Native Mitral Valve"
 author: "Sun Kim"
 date: '2021 6 12 '
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -23,55 +26,93 @@ source('R_script/03_Make_anal_data.R')
 
 # Acute IE
 ```{r acute, results='asis'}
-acute_data<-anal_data%>%
-  filter(Duration_Onset2Op<=14)
+#acute_data<-anal_data%>%
+#  filter(Duration_Onset2Op<=14)
 
-tbl_data<-acute_data
-source('R_script/04_Make_Tables.R')
-acute_table1<-baseline_tbl
-myt_output='HTML'
-acute_table1%>%print_mytable()
+#tbl_data<-acute_data
+#source('R_script/04_Make_Tables.R')
+#acute_table1<-baseline_tbl
+#myt_output='HTML'
+#acute_table1%>%print_mytable()
 
-surv_data<-acute_data
-source('R_script/05_Analysis.R')
-fig5<-surv_fig1
-fig6<-surv_fig2
-fig5
-fig6
+#surv_data<-acute_data
+#source('R_script/05_Analysis.R')
+#fig5<-surv_fig1
+#fig6<-surv_fig2
+#fig5
+#fig6
 ```
 
 ---
 
 # Active IE
 ## Study population
+
 ```{r flowchart}
 source("R_script/00_Flowchart.R")
 grViz(flowchart)
 ```
 
-## Prematch
-### Tables & Figures
+# Prematch
+## Tables
+
 ```{r pre_match, results='asis'}
 
 tbl_data<-anal_data
 source('R_script/04_Make_Tables.R')
 table1<-baseline_tbl
-myt_output='HTML'
-table1%>%print_mytable()
-MVR_tbl%>%print_mytable()
 
-org_tbl
 surv_data<-anal_data
 source('R_script/05_Analysis.R')
 fig1<-surv_fig1
 fig2<-surv_fig2
-fig1
-fig2
+s_tbl1<-surv_tbl1
+s_tbl2<-surv_tbl2
+myt_output='HTML'
+```
 
+### Repair vs. Replacement
+
+```{r, results='asis'}
+table1%>%print_mytable()
+```
+
+### MVR - Tissue vs. Mechanical
+
+```{r, results='asis'}
+MVR_tbl%>%print_mytable()
+```
+
+### Microorganisms in Active IE
+
+```{r, results='asis'}
+org_tbl
+```
+
+## Figures
+### Survival - Repair vs. Replacment
+
+Median follow up duration : `r Get_median_fu(surv_data$S_TS)` months
+
+```{r, results='asis'}
+fig1
+s_tbl1%>%
+  knitr::kable(format = 'pipe')%>%print()
+```
+
+### Composite Endpoint - Repair vs. Replacment
+
+Median follow up duration : `r Get_median_fu(surv_data$C_TS)` months
+
+```{r, results='asis'}
+fig2
+s_tbl2%>%
+  knitr::kable(format = 'pipe')%>%print()
 ```
 
 
-## PSM
+# PSM
+
 ```{r PSM}
 source('R_script/06_PSM.R')
 print(mat_bal)
@@ -84,22 +125,49 @@ mat_tbl1
 #mat_fig2
 ```
 
-### Tables & Figures
+## Tables
+
 ```{r post_match, results='asis'}
 tbl_data<-mat_data
 source('R_script/04_Make_Tables.R')
 table2<-baseline_tbl
 myt_output='HTML'
-table2%>%print_mytable()
-#org_tbl
-
 surv_data<-mat_data
 source('R_script/05_Analysis.R')
 fig3<-surv_fig1
 fig4<-surv_fig2
-fig3
-fig4
-
+s_tbl3<-surv_tbl1
+s_tbl4<-surv_tbl2
 ```
+
+### Repair vs. Replacement
+
+```{r, results='asis'}
+table2%>%print_mytable()
+#org_tbl
+```
+
+## Figures
+### Survival - Repair vs. Replacment
+
+Median follow up duration : `r Get_median_fu(surv_data$S_TS)` months
+
+```{r, results='asis'}
+fig3
+s_tbl3%>%
+  knitr::kable(format = 'pipe')%>%print()
+```
+
+### Composite Endpoint - Repair vs. Replacment
+
+Median follow up duration : `r Get_median_fu(surv_data$C_TS)` months
+
+```{r, results='asis'}
+fig4
+s_tbl4%>%
+  knitr::kable(format = 'pipe')%>%print()
+```
+
+
 
 

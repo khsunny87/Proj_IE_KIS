@@ -82,9 +82,7 @@ inc_data<-raw_data%>%
 
 
 
-#%>%
-  #filter(Duration_Onset2Op<=14)
-  pmin
+
 
 
 
