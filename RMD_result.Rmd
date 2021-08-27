@@ -6,6 +6,7 @@ output:
   html_document:
     toc: true
     toc_float: true
+    toc_depth: 5
 ---
 
 ```{r setup, include=FALSE}
@@ -24,7 +25,7 @@ source('R_script/03_Make_anal_data.R')
 ```
 
 
-# Acute IE
+
 ```{r acute, results='asis'}
 #acute_data<-anal_data%>%
 #  filter(Duration_Onset2Op<=14)
@@ -61,7 +62,7 @@ grViz(flowchart)
 tbl_data<-anal_data
 source('R_script/04_Make_Tables.R')
 table1<-baseline_tbl
-
+SMD1<-smd_table
 surv_data<-anal_data
 source('R_script/05_Analysis.R')
 fig1<-surv_fig1
@@ -72,9 +73,17 @@ myt_output='HTML'
 ```
 
 ### Repair vs. Replacement
+#### Baseline Table
 
 ```{r, results='asis'}
 table1%>%print_mytable()
+```
+
+#### SMD Table
+
+```{r, results='asis'}
+SMD1%>%kable()%>%
+          kable_styling()
 ```
 
 ### MVR - Tissue vs. Mechanical
@@ -118,11 +127,13 @@ source('R_script/06_PSM.R')
 print(mat_bal)
 ```
 
+## Matching balance
+
 ```{r PSM_balance, results='asis'}
 mat_tbl1
-#mat_tbl2
-#mat_fig1
-#mat_fig2
+mat_tbl2
+mat_fig1
+mat_fig2
 ```
 
 ## Tables
@@ -131,6 +142,7 @@ mat_tbl1
 tbl_data<-mat_data
 source('R_script/04_Make_Tables.R')
 table2<-baseline_tbl
+SMD2<-smd_table
 myt_output='HTML'
 surv_data<-mat_data
 source('R_script/05_Analysis.R')
@@ -141,9 +153,19 @@ s_tbl4<-surv_tbl2
 ```
 
 ### Repair vs. Replacement
+#### Baseline Table
 
 ```{r, results='asis'}
 table2%>%print_mytable()
+```
+
+#### SMD Table
+
+```{r, results='asis'}
+
+
+SMD2%>%kable()%>%
+          kable_styling()
 #org_tbl
 ```
 

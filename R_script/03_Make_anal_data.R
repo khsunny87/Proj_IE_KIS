@@ -10,5 +10,6 @@ anal_data<-raw_preop_lab%>%
   left_join(x=inc_data,y=.,by=c('Info_Case_No.'='Case No.'))
 
 
-labels<-read_csv('Input/labels.csv')
-anal_data[labels$Variables]<-set_label(anal_data[labels$Variables],label=labels$Labels)
+#labels<-read_csv('Input/labels.csv')
+
+anal_data[Labels$변수]<-set_label(anal_data[Labels$변수],label=Labels$변수설명)

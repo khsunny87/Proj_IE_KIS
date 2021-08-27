@@ -19,3 +19,11 @@ raw_data<-tmp_data%>%
 
 rm(tmp_data)
 
+
+var_sheet<-read_excel(fname,sheet='변수정리')
+Labels<-var_sheet%>%
+  select(변수,변수설명)%>%
+  filter(!is.na(변수설명))
+
+raw_Cox_var<-var_sheet%>%
+  filter(UV_Cox=='Y')%>%.$변수

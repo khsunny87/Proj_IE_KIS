@@ -75,12 +75,15 @@ inc_data<-raw_data%>%
   #Survival analysis 관련 변수
   mutate(S_fum=(Outcomes_last_FU_date-Info_수술일)/dmonths(1))%>%
     mutate(S_TS=Surv(S_fum,O_Survival_Death))%>%
-  mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp))%>%
-    mutate(C_date=pmin(Outcomes_last_FU_date,O_Survival_Death_date,O_Recurrence_Recur_Dx._date,O_Valve_ReOp_date,na.rm=T))%>%
+  #mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp))%>%
+  #  mutate(C_date=pmin(Outcomes_last_FU_date,O_Survival_Death_date,O_Recurrence_Recur_Dx._date,O_Valve_ReOp_date,na.rm=T))%>%
+  mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp|O_Valve_B_major|O_Valve_E_major))%>%
+    mutate(C_date=pmin(Outcomes_last_FU_date,O_Survival_Death_date,O_Recurrence_Recur_Dx._date,O_Valve_ReOp_date,O_Valve_B_mj_date,O_Valve_E_mj_date,na.rm=T))%>%
+  #mutate(O_Composite=(O_Survival_Death|O_Recurrence_Recur|O_Valve_ReOp|O_Valve_B_major|O_Valve_E_major|O_Valve_B_minor|O_Valve_E_minor))%>%
+  #  mutate(C_date=pmin(Outcomes_last_FU_date,O_Survival_Death_date,O_Recurrence_Recur_Dx._date,O_Valve_ReOp_date,O_Valve_B_mj_date,O_Valve_E_mj_date,O_Valve_B_mn_date,O_Valve_E_mn_date,na.rm=T))%>%
+  
     mutate(C_fum=(C_date-Info_수술일)/dmonths(1))%>%
     mutate(C_TS=Surv(C_fum,O_Composite))
-
-
 
 
 
