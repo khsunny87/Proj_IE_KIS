@@ -34,7 +34,6 @@ Get_UV_Cox<-function(TS_name,var_name,data,Dx_data=T){
 
 
 
-
 #UV Cox Survival
 Cox_var<-c(raw_Cox_var,'PMH_prev.OHS')
 cox_data<-anal_data

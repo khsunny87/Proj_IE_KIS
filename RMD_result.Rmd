@@ -58,7 +58,6 @@ grViz(flowchart)
 ## Tables
 
 ```{r pre_match, results='asis'}
-
 tbl_data<-anal_data
 source('R_script/04_Make_Tables.R')
 table1<-baseline_tbl
