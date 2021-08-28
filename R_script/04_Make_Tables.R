@@ -46,21 +46,20 @@ Calc_each_SMD<-function(item,group,data,digits=4){
   return(data.frame(variable=item,smd=round(smd,digits=digits)))
 }
 
-print_mytable<-function(myt){
+print_mytable<-function(myt,my_option=myt_output){
   
-  if(myt_output=='viewer'){
+  if(my_option=='viewer'){
     options(ztable.type='viewer')
     myt%>%ztable()%>%print()
     
-  } else if(myt_output=='HTML'){
+  } else if(my_option=='HTML'){
     options(ztable.type='HTML')
     myt%>%ztable()%>%print()
-  } else if(myt_output=='PPT'){
+  } else if(my_option=='PPT'){
     myt%>%mytable2df()%>%knitr::kable(format='pipe',row.names=F)%>%print()
   }
   
 }
-
 
 baseline_tbl<-tbl_data%>%
   select(Mitral_Repair,Info_Male,Info_Age,starts_with('Baseline_'),starts_with('Symptom_'),IE_embolism,starts_with('PMH_'),
@@ -70,7 +69,7 @@ baseline_tbl<-tbl_data%>%
          Tricuspid_Prev_TV_Op,Tricuspid_IE_lesion,Tricuspid_TS,Tricuspid_TR,TR_gr_mod,Tricuspid_Concomittant_TV_Op,
          starts_with('Concomitant_'),starts_with('CPB_'),
          O_Survival_Death,O_Survival_EM,O_Survival_IHM,O_Recurrence_Recur,O_Recurrence_ReOp,O_Valve_ReOp,
-         O_Valve_Bleeding,O_Valve_B_major,O_Valve_B_minor,O_Valve_Embolism,O_Valve_E_major,O_Valve_E_minor)%>%
+         O_Valve_Bleeding,O_Valve_B_major,O_Valve_B_minor,O_Valve_Embolism,O_Valve_E_major,O_Valve_E_minor,O_Composite)%>%
   select(-CPB_TCA_time)%>%
   mutate(Mitral_Repair=fct_relevel(if_else(Mitral_Repair==1,'Repair','Replacement'),'Repair'))%>%
   mytable(Mitral_Repair~.,data=.,show.total=T,catMethod=0)%>%
@@ -84,7 +83,7 @@ smd_table<-tbl_data%>%
          Tricuspid_Prev_TV_Op,Tricuspid_IE_lesion,Tricuspid_TS,Tricuspid_TR,TR_gr_mod,Tricuspid_Concomittant_TV_Op,
          starts_with('Concomitant_'),starts_with('CPB_'),
          O_Survival_Death,O_Survival_EM,O_Survival_IHM,O_Recurrence_Recur,O_Recurrence_ReOp,O_Valve_ReOp,
-         O_Valve_Bleeding,O_Valve_B_major,O_Valve_B_minor,O_Valve_Embolism,O_Valve_E_major,O_Valve_E_minor)%>%
+         O_Valve_Bleeding,O_Valve_B_major,O_Valve_B_minor,O_Valve_Embolism,O_Valve_E_major,O_Valve_E_minor,O_Composite)%>%
   select(-CPB_TCA_time)%>%
   mutate(Mitral_Repair=fct_relevel(if_else(Mitral_Repair==1,'Repair','Replacement'),'Repair'))%>%
   Calc_SMD(Mitral_Repair~.,data=.)

@@ -1,7 +1,7 @@
 ---
 title: "Comparison of Repair and Replacement in patients with Active Infective Endocarditis in Native Mitral Valve"
 author: "Sun Kim"
-date: '2021 6 12 '
+date: "`r Sys.Date()`"
 output: 
   html_document:
     toc: true
@@ -18,13 +18,16 @@ knitr::opts_chunk$set(
 ```
 
 # Initialize
+
 ```{r initialize, warning=FALSE}
 source('R_script/01_Load_Excel.R')
 source('R_script/02_Rendering_and_Inclusion.R')
 source('R_script/03_Make_anal_data.R')
+MV_cut<-0.05
+MV_trace=F
+PSM_show=T
+
 ```
-
-
 
 ```{r acute, results='asis'}
 #acute_data<-anal_data%>%
@@ -44,9 +47,10 @@ source('R_script/03_Make_anal_data.R')
 #fig6
 ```
 
----
+------------------------------------------------------------------------
 
 # Active IE
+
 ## Study population
 
 ```{r flowchart}
@@ -55,6 +59,7 @@ grViz(flowchart)
 ```
 
 # Prematch
+
 ## Tables
 
 ```{r pre_match, results='asis'}
@@ -72,6 +77,7 @@ myt_output='HTML'
 ```
 
 ### Repair vs. Replacement
+
 #### Baseline Table
 
 ```{r, results='asis'}
@@ -98,6 +104,7 @@ org_tbl
 ```
 
 ## Figures
+
 ### Survival - Repair vs. Replacment
 
 Median follow up duration : `r Get_median_fu(surv_data$S_TS)` months
@@ -108,7 +115,7 @@ s_tbl1%>%
   knitr::kable(format = 'pipe')%>%print()
 ```
 
-### Composite Endpoint - Repair vs. Replacment
+### Composite Endpoint - Repair vs. Replacement
 
 Median follow up duration : `r Get_median_fu(surv_data$C_TS)` months
 
@@ -118,17 +125,142 @@ s_tbl2%>%
   knitr::kable(format = 'pipe')%>%print()
 ```
 
+# Cox Regression
+
+## Cox - Survival
+
+### Univaiable
+
+Univariable analysis:
+
+```{r Surv_UV_Cox, results='asis'}
+#cox_data<-anal_data
+
+source('R_script/06_Cox_functions.R')
+#Cox_var<-setdiff(raw_Cox_var,c('Duration_Onset2Op','Lab_BL211103'))
+#Cox_var<-c(raw_Cox_var,'Duration_Onset2Op')
+Cox_var<-raw_Cox_var
+
+Surv_UV<-anal_data%>%
+  select(S_TS,all_of(Cox_var))%>%
+  UV_Cox('S_TS')
+Surv_UV$result%>%knitr::kable(format = 'pipe')%>%print()
+
+
+```
+
+#### Significant (p<0.05) variables:
+
+```{r, results='asis'}
+Surv_UV$df%>%
+  filter(pval<0.05)%>%
+  mutate_if(is.numeric,~round(.x,digits=3))%>%
+  knitr::kable(format = 'pipe')%>%print()
+```
+
+### Multivariable
+
+#### MV candidate (p<`r MV_cut`) variables:
+
+```{r, results='asis'}
+MV_candi<-Surv_UV$df%>%
+  filter(pval<MV_cut)%>%.$Var
+Surv_UV$df%>%
+  filter(pval<MV_cut)%>%
+  mutate_if(is.numeric,~round(.x,digits=3))%>%
+  knitr::kable(format = 'pipe')%>%print()
+```
+
+#### Multivariable Cox analysis:
+
+```{r Surv_MV_Cox, results='asis'}
+Surv_MV<-anal_data%>%
+  select(S_TS,all_of(MV_candi))%>%
+  MV_Cox('S_TS',trace=MV_trace,rename=T,keep_variable = 'Mitral_Repair')
+```
+
+#### Output
+
+```{r, results='asis'}
+Surv_MV$MV_forest
+extractHR(Surv_MV$ren_MV_model)%>%knitr::kable(format = 'pipe')%>%print()
+Surv_MV$ren_MV_forest
+ggadjustedcurves(Surv_MV$MV_model,data=Surv_MV$MV_data,variable='Mitral_Repair',legend.title='',legend.labs = c('Replacement','Repair'),method='conditional')
+my_ggadjKM(Surv_MV$MV_model,data=Surv_MV$MV_data,variable='Mitral_Repair',
+           leg_lab=c('Replacement','Repair'),ylab='Survival probability')
+
+```
+
+## Cox - Composite end-point
+### Univaiable
+
+Univariable analysis:
+
+```{r Composite_UV_Cox, results='asis'}
+
+Composite_UV<-anal_data%>%
+  select(C_TS,all_of(Cox_var))%>%
+  UV_Cox('C_TS')
+Composite_UV$result%>%knitr::kable(format = 'pipe')%>%print()
+```
+
+#### Significant (p\<0.05) variables:
+
+```{r, results='asis'}
+Composite_UV$df%>%
+  filter(pval<0.05)%>%
+  mutate_if(is.numeric,~round(.x,digits=3))%>%
+  knitr::kable(format = 'pipe')%>%print()
+```
+
+### Multivariable
+
+#### MV candidate (p<`r MV_cut`) variables:
+
+```{r, results='asis'}
+MV_candi<-Composite_UV$df%>%
+  filter(pval<MV_cut)%>%.$Var
+Composite_UV$df%>%
+  filter(pval<MV_cut)%>%
+  mutate_if(is.numeric,~round(.x,digits=3))%>%
+  knitr::kable(format = 'pipe')%>%print()
+```
+
+#### Multivariable Cox analysis:
+
+```{r Composite_MV_Cox, results='asis'}
+
+Composite_MV<-anal_data%>%
+  select(C_TS,all_of(MV_candi))%>%
+  MV_Cox('C_TS',trace=MV_trace,rename=T,keep_variable = 'Mitral_Repair')
+```
+
+#### Output
+
+```{r, results='asis'}
+extractHR(Composite_MV$MV_model)%>%knitr::kable(format = 'pipe')%>%print()
+Composite_MV$MV_forest
+
+extractHR(Composite_MV$ren_MV_model)%>%knitr::kable(format = 'pipe')%>%print()
+Composite_MV$ren_MV_forest
+
+ggadjustedcurves(Composite_MV$MV_model,data=Composite_MV$MV_data,variable='Mitral_Repair',legend.title='',legend.labs = c('Replacement','Repair'),method='conditional')
+my_ggadjKM(Composite_MV$MV_model,data=Composite_MV$MV_data,variable='Mitral_Repair',
+           leg_lab=c('Replacement','Repair'),ylab='Freedom from Composite Endpoint')
+```
+
+------------------------------------------------------------------------
 
 # PSM
 
 ```{r PSM}
-source('R_script/06_PSM.R')
+source('R_script/08_PSM.R')
 print(mat_bal)
 ```
 
 ## Matching balance
 
-```{r PSM_balance, results='asis'}
+```{r PSM_balance, results='asis',eval=PSM_show}
 mat_tbl1
 mat_tbl2
 mat_fig1
@@ -152,6 +284,7 @@ s_tbl4<-surv_tbl2
 ```
 
 ### Repair vs. Replacement
+
 #### Baseline Table
 
 ```{r, results='asis'}
@@ -169,7 +302,8 @@ SMD2%>%kable()%>%
 ```
 
 ## Figures
-### Survival - Repair vs. Replacment
+
+### Survival - Repair vs. Replacement
 
 Median follow up duration : `r Get_median_fu(surv_data$S_TS)` months
 
@@ -188,7 +322,3 @@ fig4
 s_tbl4%>%
   knitr::kable(format = 'pipe')%>%print()
 ```
-
-
-
-
